@@ -1,115 +1,87 @@
 Question,pollname,Answer,Percentage of Electorate,Clinton,Sanders
-Gender,SEX,,,,
-,,Men,44,44,53
-,,Women,56,57,41
-Age,XAGE,,,,
-,,17-29,18,14,82
-,,30-44,19,35,62
-,,45-64,35,61,36
-,,65 and older,28,74,24
-Age,XAGE65,,,,
-,,17-24,13,12,83
-,,25-29,5,N/A,N/A
-,,30-39,13,29,67
-,,40-49,11,50,48
-,,50-64,30,62,35
-,,65 and older,28,74,24
-Age,XAGE45,,,,
-,,17-44 year olds,37,25,72
-,,45 and older,63,66,31
-Race,RACE,,,,
-,,White,59,47,49
-,,Black,13,76,22
-,,Latino,19,45,53
-,,Asian,4,N/A,N/A
-,,Other race,4,N/A,N/A
-Race,RACE2B,,,,
-,,White,59,47,49
-,,Non-white,41,56,42
-Education,EDUC12R,,,,
-,,High school or less,13,49,49
-,,Some college,40,48,49
-,,College graduate,24,46,51
-,,Postgraduate,22,62,35
-Are you a college graduate?,EDUCCOLL,,,,
-,,Yes,46,54,43
-,,No,54,48,49
-Education and race,EDUCWHITE,,,,
-,,White college graduates,30,50,46
-,,Whites no degree,29,44,52
-,,Non-whites college grads,16,60,38
-,,Non-whites no degree,24,52,45
-Income,INCOME16CAU,,,,
-,,Under $30K,23,51,46
-,,$30K-$50K,24,49,50
-,,$50K-$100K,36,50,46
-,,$100K or more,17,54,42
-Income,INC50K,,,,
-,,Under $50K,48,50,48
-,,$50K or More,52,51,45
-Income,INC100K,,,,
-,,Under $100K,83,50,47
-,,$100K or more,17,54,42
-Income,INCOME3,,,,
-,,Under $50K,48,50,48
-,,$50K-$100K,36,50,46
-,,$100K or more,17,54,42
-Party ID,PARTY,,,,
-,,Democrats,81,58,40
-,,Republicans,1,N/A,N/A
-,,Independents,18,23,71
-Ideology,PHIL4,,,,
-,,Very liberal,33,47,52
-,,Somewhat liberal,37,46,50
-,,Moderate,26,59,37
-,,Conservative,4,N/A,N/A
-Ideology,PHIL3X,,,,
-,,Liberal,70,46,51
-,,Moderate,26,59,37
-,,Conservative,4,N/A,N/A
-Ideology ,PHIL2D,,,,
-,,Liberal,70,46,51
-,,Moderate/Conservative,30,60,36
-Union household?,UNIONHH12,,,,
-,,Yes,28,54,43
-,,No,72,50,47
-Most important issue,ISSDEM16,,,,
-,,Health care,23,62,36
-,,Economy/Jobs,35,55,41
-,,Terrorism,7,N/A,N/A
-,,Income inequality,28,33,65
-Top candidate quality,QLT16DEMCAU,,,,
-,,Can win in November,18,80,15
-,,Cares about people,26,26,72
-,,Honest and trustworthy,25,12,82
-,,Right experience,27,92,8
-The next president should:,OBAMAPLCY,,,,
-,,Continue Obama's policies,50,75,22
-,,Be more liberal,41,21,77
-,,Be less liberal,6,N/A,N/A
-Better handle Supreme Court nominations?,SCOTUSDEM16,,,,
-,,Clinton,54,91,7
-,,Sanders,43,2,95
-Ever attended a Nevada presidential caucus?,PREVCAUCDEMNV,,,,
-,,Attended caucus before,36,62,35
-,,First-time caucusgoers,62,44,53
-When did you decide whom to vote for?,TIMEIA16,,,,
-,,Just today,6,N/A,N/A
-,,In the last few days,7,N/A,N/A
-,,Sometime last week,5,N/A,N/A
-,,In the last month,13,40,58
-,,Before that,68,54,45
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,,,,
-,,Last few days,13,51,37
-,,Earlier,86,51,48
-When did you decide whom to vote for?,TIMEPRIWK,,,,
-,,In the last week,18,48,43
-,,Earlier,81,52,47
-Area type,SIZEPLC3,,,,
-,,Urban area,81,50,48
-,,Suburban area,10,57,37
-,,Rural area,9,N/A,N/A
-Region of state,GEOCOD,,,,
-,,Washoe County,19,48,50
-,,Clark County,67,51,46
-,,Rest of the state,13,N/A,N/A
+Gender,SEX,Men,44,44,53
+Gender,SEX,Women,56,57,41
+Age,XAGE,17-29,18,14,82
+Age,XAGE,30-44,19,35,62
+Age,XAGE,45-64,35,61,36
+Age,XAGE,65 and older,28,74,24
+Age,XAGE65,17-24,13,12,83
+Age,XAGE65,25-29,5,N/A,N/A
+Age,XAGE65,30-39,13,29,67
+Age,XAGE65,40-49,11,50,48
+Age,XAGE65,50-64,30,62,35
+Age,XAGE65,65 and older,28,74,24
+Age,XAGE45,17-44 year olds,37,25,72
+Age,XAGE45,45 and older,63,66,31
+Race,RACE,White,59,47,49
+Race,RACE,Black,13,76,22
+Race,RACE,Latino,19,45,53
+Race,RACE,Asian,4,N/A,N/A
+Race,RACE,Other race,4,N/A,N/A
+Race,RACE2B,White,59,47,49
+Race,RACE2B,Non-white,41,56,42
+Education,EDUC12R,High school or less,13,49,49
+Education,EDUC12R,Some college,40,48,49
+Education,EDUC12R,College graduate,24,46,51
+Education,EDUC12R,Postgraduate,22,62,35
+Are you a college graduate?,EDUCCOLL,Yes,46,54,43
+Are you a college graduate?,EDUCCOLL,No,54,48,49
+Education and race,EDUCWHITE,White college graduates,30,50,46
+Education and race,EDUCWHITE,Whites no degree,29,44,52
+Education and race,EDUCWHITE,Non-whites college grads,16,60,38
+Education and race,EDUCWHITE,Non-whites no degree,24,52,45
+Income,INCOME16CAU,Under $30K,23,51,46
+Income,INCOME16CAU,$30K-$50K,24,49,50
+Income,INCOME16CAU,$50K-$100K,36,50,46
+Income,INCOME16CAU,$100K or more,17,54,42
+Income,INC50K,Under $50K,48,50,48
+Income,INC50K,$50K or More,52,51,45
+Income,INC100K,Under $100K,83,50,47
+Income,INC100K,$100K or more,17,54,42
+Income,INCOME3,Under $50K,48,50,48
+Income,INCOME3,$50K-$100K,36,50,46
+Income,INCOME3,$100K or more,17,54,42
+Party ID,PARTY,Democrats,81,58,40
+Party ID,PARTY,Republicans,1,N/A,N/A
+Party ID,PARTY,Independents,18,23,71
+Ideology,PHIL4,Very liberal,33,47,52
+Ideology,PHIL4,Somewhat liberal,37,46,50
+Ideology,PHIL4,Moderate,26,59,37
+Ideology,PHIL4,Conservative,4,N/A,N/A
+Ideology,PHIL3X,Liberal,70,46,51
+Ideology,PHIL3X,Moderate,26,59,37
+Ideology,PHIL3X,Conservative,4,N/A,N/A
+Ideology ,PHIL2D,Liberal,70,46,51
+Ideology ,PHIL2D,Moderate/Conservative,30,60,36
+Union household?,UNIONHH12,Yes,28,54,43
+Union household?,UNIONHH12,No,72,50,47
+Most important issue,ISSDEM16,Health care,23,62,36
+Most important issue,ISSDEM16,Economy/Jobs,35,55,41
+Most important issue,ISSDEM16,Terrorism,7,N/A,N/A
+Most important issue,ISSDEM16,Income inequality,28,33,65
+Top candidate quality,QLT16DEMCAU,Can win in November,18,80,15
+Top candidate quality,QLT16DEMCAU,Cares about people,26,26,72
+Top candidate quality,QLT16DEMCAU,Honest and trustworthy,25,12,82
+Top candidate quality,QLT16DEMCAU,Right experience,27,92,8
+The next president should:,OBAMAPLCY,Continue Obama's policies,50,75,22
+The next president should:,OBAMAPLCY,Be more liberal,41,21,77
+The next president should:,OBAMAPLCY,Be less liberal,6,N/A,N/A
+Better handle Supreme Court nominations?,SCOTUSDEM16,Clinton,54,91,7
+Better handle Supreme Court nominations?,SCOTUSDEM16,Sanders,43,2,95
+Ever attended a Nevada presidential caucus?,PREVCAUCDEMNV,Attended caucus before,36,62,35
+Ever attended a Nevada presidential caucus?,PREVCAUCDEMNV,First-time caucusgoers,62,44,53
+When did you decide whom to vote for?,TIMEIA16,Just today,6,N/A,N/A
+When did you decide whom to vote for?,TIMEIA16,In the last few days,7,N/A,N/A
+When did you decide whom to vote for?,TIMEIA16,Sometime last week,5,N/A,N/A
+When did you decide whom to vote for?,TIMEIA16,In the last month,13,40,58
+When did you decide whom to vote for?,TIMEIA16,Before that,68,54,45
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,Last few days,13,51,37
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,Earlier,86,51,48
+When did you decide whom to vote for?,TIMEPRIWK,In the last week,18,48,43
+When did you decide whom to vote for?,TIMEPRIWK,Earlier,81,52,47
+Area type,SIZEPLC3,Urban area,81,50,48
+Area type,SIZEPLC3,Suburban area,10,57,37
+Area type,SIZEPLC3,Rural area,9,N/A,N/A
+Region of state,GEOCOD,Washoe County,19,48,50
+Region of state,GEOCOD,Clark County,67,51,46
+Region of state,GEOCOD,Rest of the state,13,N/A,N/A

@@ -1,206 +1,155 @@
 Question,pollname,Answer,Percentage of Electorate,Clinton,Sanders
-Gender,SEX,,,,
-,,Men,45,44,55
-,,Women,55,51,45
-Age,AGE,,,,
-,,18-29,19,19,81
-,,30-44,26,42,53
-,,45-64,35,57,41
-,,65 and older,20,69,30
-Age,AGE65,,,,
-,,18-24,11,15,85
-,,25-29,8,24,75
-,,30-39,17,36,59
-,,40-49,17,55,41
-,,50-64,27,57,41
-,,65 and older,20,69,30
-Age,AGE45,,,,
-,,18-44,45,32,65
-,,45 and older,55,62,37
-Race,RACE,,,,
-,,White,70,42,56
-,,Black,21,68,28
-,,Latino,3,N/A,N/A
-,,Asian,2,N/A,N/A
-,,Other race,4,N/A,N/A
-Race,RACE2B,,,,
-,,White,70,42,56
-,,Non-white,30,63,34
-Race by gender,SEXBYRACE,,,,
-,,White men,33,37,62
-,,White women,37,47,51
-,,Black men,7,N/A,N/A
-,,Black women,14,66,28
-,,Latino men,1,N/A,N/A
-,,Latino women,1,N/A,N/A
-,,Others,6,N/A,N/A
-Education,EDUC12R,,,,
-,,High school or less,17,61,37
-,,Some college,37,43,55
-,,College graduate,26,41,54
-,,Postgraduate,20,57,42
-Are you a college graduate?,EDUCCOLL,,,,
-,,Yes,46,48,49
-,,No,54,49,50
-Education and race,EDUCWHITE,,,,
-,,White college graduates,33,43,54
-,,Whites no degree,36,42,57
-,,Non-whites college grads,13,61,35
-,,Non-whites no degree,18,63,34
-Income,INCOME16,,,,
-,,Less than $30K,23,51,48
-,,$30K-50K,22,44,54
-,,$50K-100K,31,47,50
-,,$100K-200K,20,48,48
-,,$200K or more,4,N/A,N/A
-Income,INC50K,,,,
-,,Under $50K,45,48,51
-,,$50K or More,55,48,49
-Income,INC100K,,,,
-,,Under $100K,76,48,51
-,,$100K or more,24,50,47
-Income,INCOME3,,,,
-,,Under $50K,45,48,51
-,,$50K-$100K,31,47,50
-,,$100K or more,24,50,47
-Party ID,PARTY,,,,
-,,Democrats,69,58,40
-,,Republicans,4,N/A,N/A
-,,Independents,27,28,71
-Ideology,PHIL4,,,,
-,,Very liberal,22,41,59
-,,Somewhat liberal,35,49,51
-,,Moderate,33,55,44
-,,Conservative,9,N/A,N/A
-Ideology,PHIL3X,,,,
-,,Liberal,57,46,54
-,,Moderate,33,55,44
-,,Conservative,9,N/A,N/A
-Ideology ,PHIL2D,,,,
-,,Liberal,57,46,54
-,,Moderate/Conservative,43,52,43
-Marital status,MARRIED,,,,
-,,Married,54,49,50
-,,Unmarried,46,44,53
-Marital status and gender,SEXWED,,,,
-,,Married men,27,46,53
-,,Married women,26,53,47
-,,Unmarried men,20,44,56
-,,Unmarried women,26,43,50
-Union household?,UNIONHH12,,,,
-,,Yes,33,46,49
-,,No,67,46,53
-Most important issue,ISSDEM16,,,,
-,,Health care,19,48,49
-,,Economy/Jobs,43,52,46
-,,Terrorism,8,69,30
-,,Income inequality,27,38,60
-Top candidate quality,QLT16DEMPRI,,,,
-,,Electability,11,73,27
-,,Cares,33,40,56
-,,Honest,28,20,78
-,,Experience,26,81,18
-Trade with other countries:,TRADE16,,,,
-,,Creates U.S. jobs,30,54,44
-,,Takes away U.S. jobs,57,41,56
-,,Does not affect jobs,8,N/A,N/A
-Who do you trust to handle race relations?,RACERELDEM16,,,,
-,,Only Clinton,17,92,8
-,,Only Sanders,26,2,97
-,,Both,52,55,42
-,,Neither,3,N/A,N/A
-Trust Clinton to handle race relations?,RACERELCLIN,,,,
-,,Yes,69,64,34
-,,No,29,6,93
-Trust Sanders to handle race relations?,RACERELSANDERS,,,,
-,,Yes,78,37,61
-,,No,20,84,15
-Race relations in this country have:,RACEREL14,,,,
-,,Gotten better,16,53,47
-,,Stayed the same,35,53,46
-,,Gotten worse,48,38,58
-The next president should:,OBAMAPLCY,,,,
-,,Continue Obama's policies,50,68,32
-,,Be more liberal,31,24,72
-,,Be less liberal,13,47,53
-U.S. economic system generally:,ECONFAIR,,,,
-,,Favors the wealthy,86,48,50
-,,Is fair to most Americans,13,N/A,N/A
-Worried about U.S. economy?,ECONWORR,,,,
-,,Very worried,37,40,58
-,,Somewhat worried,43,60,40
-,,Not too worried,15,47,44
-,,Not at all worried,4,N/A,N/A
-Worried about U.S. economy?,ECOWORR2,,,,
-,,Yes,80,51,48
-,,No,19,47,45
-Feelings about the federal government,GOVTANGR16,,,,
-,,Enthusiastic,5,N/A,N/A
-,,Satisfied,24,57,36
-,,Dissatisfied,51,48,52
-,,Angry,17,40,60
-Feelings about the federal government,GOVTANGR16B,,,,
-,,Enthusiastic/Satisfied,29,58,34
-,,Dissatisfied/Angry,69,46,54
-Next president should be:,OUTSIDER16,,,,
-,,Experienced in politics,82,56,41
-,,Outside the establishment,13,16,84
-For a safe public water supply:,WATERREG,,,,
-,,Strengthen regulations,85,44,53
-,,Already regulated enough,10,N/A,N/A
-Satisfied if Clinton wins the nomination?,SATHCLIN,,,,
-,,Yes,63,70,27
-,,No,34,2,98
-Satisfied if Sanders wins the nomination?,SATSANDERS,,,,
-,,Yes,74,31,67
-,,No,23,92,6
-Clinton's positions on the issues are:,CLINTONLIB,,,,
-,,Too liberal,11,N/A,N/A
-,,Not liberal enough,26,13,87
-,,About right,58,70,27
-Sanders' positions on the issues are:,SANDERSLIB,,,,
-,,Too liberal,19,81,18
-,,Not liberal enough,8,N/A,N/A
-,,About right,67,30,68
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,,,,
-,,Yes,56,79,20
-,,No,40,8,88
-Is Bernie Sanders honest and trustworthy?,SANDHONEST,,,,
-,,Yes,81,42,55
-,,No,11,N/A,N/A
-Hillary Clinton's views on business are:,CLINBUSINESS,,,,
-,,Too pro-business,34,16,79
-,,Too anti-business,4,N/A,N/A
-,,About right,56,75,23
-Bernie Sanders' views on business are:,SANDBUSINESS,,,,
-,,Too pro-business,9,N/A,N/A
-,,Too anti-business,20,89,11
-,,About right,63,31,65
-Hillary Clinton's policies are:,CLINREALISTIC,,,,
-,,Realistic,71,61,36
-,,Not realistic,25,8,92
-Bernie Sanders' policies are:,SANDREALISTIC,,,,
-,,Realistic,64,25,72
-,,Not realistic,29,87,13
-When did you decide whom to vote for?,TIMENH16,,,,
-,,Just today,7,N/A,N/A
-,,In the last few days,9,N/A,N/A
-,,Sometime last week,5,N/A,N/A
-,,In the last month,21,45,49
-,,Before that,57,53,47
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,,,,
-,,Last few days,16,53,47
-,,Earlier,83,50,48
-When did you decide whom to vote for?,TIMEPRIWK,,,,
-,,In the last week,21,49,49
-,,Earlier,78,51,48
-Area type,SIZEPLC3,,,,
-,,Urban area,15,61,36
-,,Suburban area,69,47,50
-,,Rural area,16,42,57
-Region,GEOCOD,,,,
-,,Wayne,22,59,39
-,,Oakland/Macomb,23,50,47
-,,Southeast,22,48,51
-,,Southwest,16,40,55
-,,N. Central/U.P.,16,40,60
+Gender,SEX,Men,45,44,55
+Gender,SEX,Women,55,51,45
+Age,AGE,18-29,19,19,81
+Age,AGE,30-44,26,42,53
+Age,AGE,45-64,35,57,41
+Age,AGE,65 and older,20,69,30
+Age,AGE65,18-24,11,15,85
+Age,AGE65,25-29,8,24,75
+Age,AGE65,30-39,17,36,59
+Age,AGE65,40-49,17,55,41
+Age,AGE65,50-64,27,57,41
+Age,AGE65,65 and older,20,69,30
+Age,AGE45,18-44,45,32,65
+Age,AGE45,45 and older,55,62,37
+Race,RACE,White,70,42,56
+Race,RACE,Black,21,68,28
+Race,RACE,Latino,3,N/A,N/A
+Race,RACE,Asian,2,N/A,N/A
+Race,RACE,Other race,4,N/A,N/A
+Race,RACE2B,White,70,42,56
+Race,RACE2B,Non-white,30,63,34
+Race by gender,SEXBYRACE,White men,33,37,62
+Race by gender,SEXBYRACE,White women,37,47,51
+Race by gender,SEXBYRACE,Black men,7,N/A,N/A
+Race by gender,SEXBYRACE,Black women,14,66,28
+Race by gender,SEXBYRACE,Latino men,1,N/A,N/A
+Race by gender,SEXBYRACE,Latino women,1,N/A,N/A
+Race by gender,SEXBYRACE,Others,6,N/A,N/A
+Education,EDUC12R,High school or less,17,61,37
+Education,EDUC12R,Some college,37,43,55
+Education,EDUC12R,College graduate,26,41,54
+Education,EDUC12R,Postgraduate,20,57,42
+Are you a college graduate?,EDUCCOLL,Yes,46,48,49
+Are you a college graduate?,EDUCCOLL,No,54,49,50
+Education and race,EDUCWHITE,White college graduates,33,43,54
+Education and race,EDUCWHITE,Whites no degree,36,42,57
+Education and race,EDUCWHITE,Non-whites college grads,13,61,35
+Education and race,EDUCWHITE,Non-whites no degree,18,63,34
+Income,INCOME16,Less than $30K,23,51,48
+Income,INCOME16,$30K-50K,22,44,54
+Income,INCOME16,$50K-100K,31,47,50
+Income,INCOME16,$100K-200K,20,48,48
+Income,INCOME16,$200K or more,4,N/A,N/A
+Income,INC50K,Under $50K,45,48,51
+Income,INC50K,$50K or More,55,48,49
+Income,INC100K,Under $100K,76,48,51
+Income,INC100K,$100K or more,24,50,47
+Income,INCOME3,Under $50K,45,48,51
+Income,INCOME3,$50K-$100K,31,47,50
+Income,INCOME3,$100K or more,24,50,47
+Party ID,PARTY,Democrats,69,58,40
+Party ID,PARTY,Republicans,4,N/A,N/A
+Party ID,PARTY,Independents,27,28,71
+Ideology,PHIL4,Very liberal,22,41,59
+Ideology,PHIL4,Somewhat liberal,35,49,51
+Ideology,PHIL4,Moderate,33,55,44
+Ideology,PHIL4,Conservative,9,N/A,N/A
+Ideology,PHIL3X,Liberal,57,46,54
+Ideology,PHIL3X,Moderate,33,55,44
+Ideology,PHIL3X,Conservative,9,N/A,N/A
+Ideology ,PHIL2D,Liberal,57,46,54
+Ideology ,PHIL2D,Moderate/Conservative,43,52,43
+Marital status,MARRIED,Married,54,49,50
+Marital status,MARRIED,Unmarried,46,44,53
+Marital status and gender,SEXWED,Married men,27,46,53
+Marital status and gender,SEXWED,Married women,26,53,47
+Marital status and gender,SEXWED,Unmarried men,20,44,56
+Marital status and gender,SEXWED,Unmarried women,26,43,50
+Union household?,UNIONHH12,Yes,33,46,49
+Union household?,UNIONHH12,No,67,46,53
+Most important issue,ISSDEM16,Health care,19,48,49
+Most important issue,ISSDEM16,Economy/Jobs,43,52,46
+Most important issue,ISSDEM16,Terrorism,8,69,30
+Most important issue,ISSDEM16,Income inequality,27,38,60
+Top candidate quality,QLT16DEMPRI,Electability,11,73,27
+Top candidate quality,QLT16DEMPRI,Cares,33,40,56
+Top candidate quality,QLT16DEMPRI,Honest,28,20,78
+Top candidate quality,QLT16DEMPRI,Experience,26,81,18
+Trade with other countries:,TRADE16,Creates U.S. jobs,30,54,44
+Trade with other countries:,TRADE16,Takes away U.S. jobs,57,41,56
+Trade with other countries:,TRADE16,Does not affect jobs,8,N/A,N/A
+Who do you trust to handle race relations?,RACERELDEM16,Only Clinton,17,92,8
+Who do you trust to handle race relations?,RACERELDEM16,Only Sanders,26,2,97
+Who do you trust to handle race relations?,RACERELDEM16,Both,52,55,42
+Who do you trust to handle race relations?,RACERELDEM16,Neither,3,N/A,N/A
+Trust Clinton to handle race relations?,RACERELCLIN,Yes,69,64,34
+Trust Clinton to handle race relations?,RACERELCLIN,No,29,6,93
+Trust Sanders to handle race relations?,RACERELSANDERS,Yes,78,37,61
+Trust Sanders to handle race relations?,RACERELSANDERS,No,20,84,15
+Race relations in this country have:,RACEREL14,Gotten better,16,53,47
+Race relations in this country have:,RACEREL14,Stayed the same,35,53,46
+Race relations in this country have:,RACEREL14,Gotten worse,48,38,58
+The next president should:,OBAMAPLCY,Continue Obama's policies,50,68,32
+The next president should:,OBAMAPLCY,Be more liberal,31,24,72
+The next president should:,OBAMAPLCY,Be less liberal,13,47,53
+U.S. economic system generally:,ECONFAIR,Favors the wealthy,86,48,50
+U.S. economic system generally:,ECONFAIR,Is fair to most Americans,13,N/A,N/A
+Worried about U.S. economy?,ECONWORR,Very worried,37,40,58
+Worried about U.S. economy?,ECONWORR,Somewhat worried,43,60,40
+Worried about U.S. economy?,ECONWORR,Not too worried,15,47,44
+Worried about U.S. economy?,ECONWORR,Not at all worried,4,N/A,N/A
+Worried about U.S. economy?,ECOWORR2,Yes,80,51,48
+Worried about U.S. economy?,ECOWORR2,No,19,47,45
+Feelings about the federal government,GOVTANGR16,Enthusiastic,5,N/A,N/A
+Feelings about the federal government,GOVTANGR16,Satisfied,24,57,36
+Feelings about the federal government,GOVTANGR16,Dissatisfied,51,48,52
+Feelings about the federal government,GOVTANGR16,Angry,17,40,60
+Feelings about the federal government,GOVTANGR16B,Enthusiastic/Satisfied,29,58,34
+Feelings about the federal government,GOVTANGR16B,Dissatisfied/Angry,69,46,54
+Next president should be:,OUTSIDER16,Experienced in politics,82,56,41
+Next president should be:,OUTSIDER16,Outside the establishment,13,16,84
+For a safe public water supply:,WATERREG,Strengthen regulations,85,44,53
+For a safe public water supply:,WATERREG,Already regulated enough,10,N/A,N/A
+Satisfied if Clinton wins the nomination?,SATHCLIN,Yes,63,70,27
+Satisfied if Clinton wins the nomination?,SATHCLIN,No,34,2,98
+Satisfied if Sanders wins the nomination?,SATSANDERS,Yes,74,31,67
+Satisfied if Sanders wins the nomination?,SATSANDERS,No,23,92,6
+Clinton's positions on the issues are:,CLINTONLIB,Too liberal,11,N/A,N/A
+Clinton's positions on the issues are:,CLINTONLIB,Not liberal enough,26,13,87
+Clinton's positions on the issues are:,CLINTONLIB,About right,58,70,27
+Sanders' positions on the issues are:,SANDERSLIB,Too liberal,19,81,18
+Sanders' positions on the issues are:,SANDERSLIB,Not liberal enough,8,N/A,N/A
+Sanders' positions on the issues are:,SANDERSLIB,About right,67,30,68
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,Yes,56,79,20
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,No,40,8,88
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,Yes,81,42,55
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,No,11,N/A,N/A
+Hillary Clinton's views on business are:,CLINBUSINESS,Too pro-business,34,16,79
+Hillary Clinton's views on business are:,CLINBUSINESS,Too anti-business,4,N/A,N/A
+Hillary Clinton's views on business are:,CLINBUSINESS,About right,56,75,23
+Bernie Sanders' views on business are:,SANDBUSINESS,Too pro-business,9,N/A,N/A
+Bernie Sanders' views on business are:,SANDBUSINESS,Too anti-business,20,89,11
+Bernie Sanders' views on business are:,SANDBUSINESS,About right,63,31,65
+Hillary Clinton's policies are:,CLINREALISTIC,Realistic,71,61,36
+Hillary Clinton's policies are:,CLINREALISTIC,Not realistic,25,8,92
+Bernie Sanders' policies are:,SANDREALISTIC,Realistic,64,25,72
+Bernie Sanders' policies are:,SANDREALISTIC,Not realistic,29,87,13
+When did you decide whom to vote for?,TIMENH16,Just today,7,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,In the last few days,9,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,Sometime last week,5,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,In the last month,21,45,49
+When did you decide whom to vote for?,TIMENH16,Before that,57,53,47
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,Last few days,16,53,47
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,Earlier,83,50,48
+When did you decide whom to vote for?,TIMEPRIWK,In the last week,21,49,49
+When did you decide whom to vote for?,TIMEPRIWK,Earlier,78,51,48
+Area type,SIZEPLC3,Urban area,15,61,36
+Area type,SIZEPLC3,Suburban area,69,47,50
+Area type,SIZEPLC3,Rural area,16,42,57
+Region,GEOCOD,Wayne,22,59,39
+Region,GEOCOD,Oakland/Macomb,23,50,47
+Region,GEOCOD,Southeast,22,48,51
+Region,GEOCOD,Southwest,16,40,55
+Region,GEOCOD,N. Central/U.P.,16,40,60

@@ -1,158 +1,119 @@
 Question,pollname,Answer,Percentage of Electorate,Clinton,Sanders
-Gender,SEX,,,,
-,,Men,43,9,91
-,,Women,57,17,83
-Age,XAGE,,,,
-,,17-29,15,5,95
-,,30-44,22,9,91
-,,45-64,41,13,86
-,,65 and older,22,23,77
-Age,XAGE65,,,,
-,,17-24,6,N/A,N/A
-,,25-29,9,5,95
-,,30-39,14,8,92
-,,40-49,18,12,88
-,,50-64,31,14,86
-,,65 and older,22,23,77
-Age,XAGE45,,,,
-,,17-44 year olds,37,7,92
-,,45 and older,63,17,83
-Race,RACE,,,,
-,,White,95,13,86
-,,Black,1,N/A,N/A
-,,Latino,0,N/A,N/A
-,,Asian,1,N/A,N/A
-,,Other race,2,N/A,N/A
-Race,RACE2B,,,,
-,,White,95,13,86
-,,Non-white,5,N/A,N/A
-Education,EDUC12R,,,,
-,,High school or less,10,9,91
-,,Some college,19,11,88
-,,College graduate,34,12,88
-,,Postgraduate,37,18,82
-Are you a college graduate?,EDUCCOLL,,,,
-,,Yes,71,15,85
-,,No,29,10,89
-Education and race,EDUCWHITE,,,,
-,,White college graduates,68,15,85
-,,Whites no degree,28,10,89
-,,Non-whites college grads,3,N/A,N/A
-,,Non-whites no degree,1,N/A,N/A
-Income,INCOME16,,,,
-,,Less than $30K,17,10,90
-,,$30K-50K,22,11,89
-,,$50K-100K,36,12,88
-,,$100K-200K,20,20,80
-,,$200K or more,5,N/A,N/A
-Income,INC50K,,,,
-,,Under $50K,39,10,90
-,,$50K or More,61,16,84
-Income,INC100K,,,,
-,,Under $100K,75,11,89
-,,$100K or more,25,22,78
-Income,INCOME3,,,,
-,,Under $50K,39,10,90
-,,$50K-$100K,36,12,88
-,,$100K or more,25,22,78
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,,,,
-,,Voted before,82,15,85
-,,First-time voter,16,8,92
-Party ID,PARTY,,,,
-,,Democrats,56,18,82
-,,Republicans,3,N/A,N/A
-,,Independents,41,8,92
-Ideology,PHIL4,,,,
-,,Very liberal,33,9,91
-,,Somewhat liberal,42,14,85
-,,Moderate,21,20,79
-,,Conservative,5,N/A,N/A
-Ideology,PHIL3X,,,,
-,,Liberal,74,12,88
-,,Moderate,21,20,79
-,,Conservative,5,N/A,N/A
-Ideology ,PHIL2D,,,,
-,,Liberal,74,12,88
-,,Moderate/Conservative,26,19,81
-Marital status,MARRIED,,,,
-,,Married,59,15,85
-,,Unmarried,41,11,89
-Marital status and gender,SEXWED,,,,
-,,Married men,27,10,89
-,,Married women,32,18,81
-,,Unmarried men,16,6,94
-,,Unmarried women,25,15,85
-Most important issue,ISSDEM16,,,,
-,,Health care,20,15,84
-,,Economy/Jobs,36,16,84
-,,Terrorism,5,N/A,N/A
-,,Income inequality,36,9,91
-Top candidate quality,QLT16DEMPRI,,,,
-,,Electability,8,50,50
-,,Cares,29,4,96
-,,Honest,49,2,98
-,,Experience,12,58,42
-Who is honest and trustworthy?,HONESTDEM16,,,,
-,,Only Clinton,2,N/A,N/A
-,,Only Sanders,67,3,97
-,,Both,28,35,65
-,,Neither,1,N/A,N/A
-Is Clinton honest and trustworthy?,HONESTDEM16CLIN,,,,
-,,Yes,30,38,62
-,,No,69,3,97
-Is Sanders honest and trustworthy?,HONESTDEM16SAND,,,,
-,,Yes,95,12,88
-,,No,3,N/A,N/A
-Who do you trust in an international crisis?,INTCRISISDEM16,,,,
-,,Only Clinton,12,78,22
-,,Only Sanders,31,0,100
-,,Both,52,7,92
-,,Neither,3,N/A,N/A
-Trust Clinton in an international crisis?,INTCRISISDEMCLIN,,,,
-,,Yes,64,20,79
-,,No,34,1,99
-Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,,,,
-,,Yes,84,5,95
-,,No,15,63,36
-Better handle Supreme Court nominations?,SCOTUSDEM16,,,,
-,,Clinton,19,62,37
-,,Sanders,76,1,99
-The next president should:,OBAMAPLCY,,,,
-,,Continue Obama's policies,35,29,71
-,,Be more liberal,49,3,97
-,,Be less liberal,10,11,87
-U.S. economic system generally:,ECONFAIR,,,,
-,,Favors the wealthy,94,12,88
-,,Is fair to most Americans,5,N/A,N/A
-Next president should be:,OUTSIDER16,,,,
-,,Experienced in politics,72,17,83
-,,Outside the establishment,22,3,97
-Clinton's positions on the issues are:,CLINTONLIB,,,,
-,,Too liberal,7,2,97
-,,Not liberal enough,51,3,97
-,,About right,34,34,65
-Sanders' positions on the issues are:,SANDERSLIB,,,,
-,,Too liberal,13,59,40
-,,Not liberal enough,2,N/A,N/A
-,,About right,82,6,94
-When did you decide whom to vote for?,TIMENH16,,,,
-,,Just today,6,N/A,N/A
-,,In the last few days,4,N/A,N/A
-,,Sometime last week,2,N/A,N/A
-,,In the last month,8,22,78
-,,Before that,80,10,90
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,,,,
-,,Last few days,10,22,76
-,,Earlier,89,12,87
-When did you decide whom to vote for?,TIMEPRIWK,,,,
-,,In the last week,12,28,70
-,,Earlier,88,11,88
-Area type,SIZEPLC3,,,,
-,,Urban area,N/A,N/A,N/A
-,,Suburban area,16,13,86
-,,Rural area,84,13,86
-Region,GEOCOD,,,,
-,,North,17,9,91
-,,Burlington,31,14,85
-,,Central/Upper Val.,29,13,87
-,,Rutland/Green Mtn.,23,16,84
+Gender,SEX,Men,43,9,91
+Gender,SEX,Women,57,17,83
+Age,XAGE,17-29,15,5,95
+Age,XAGE,30-44,22,9,91
+Age,XAGE,45-64,41,13,86
+Age,XAGE,65 and older,22,23,77
+Age,XAGE65,17-24,6,N/A,N/A
+Age,XAGE65,25-29,9,5,95
+Age,XAGE65,30-39,14,8,92
+Age,XAGE65,40-49,18,12,88
+Age,XAGE65,50-64,31,14,86
+Age,XAGE65,65 and older,22,23,77
+Age,XAGE45,17-44 year olds,37,7,92
+Age,XAGE45,45 and older,63,17,83
+Race,RACE,White,95,13,86
+Race,RACE,Black,1,N/A,N/A
+Race,RACE,Latino,0,N/A,N/A
+Race,RACE,Asian,1,N/A,N/A
+Race,RACE,Other race,2,N/A,N/A
+Race,RACE2B,White,95,13,86
+Race,RACE2B,Non-white,5,N/A,N/A
+Education,EDUC12R,High school or less,10,9,91
+Education,EDUC12R,Some college,19,11,88
+Education,EDUC12R,College graduate,34,12,88
+Education,EDUC12R,Postgraduate,37,18,82
+Are you a college graduate?,EDUCCOLL,Yes,71,15,85
+Are you a college graduate?,EDUCCOLL,No,29,10,89
+Education and race,EDUCWHITE,White college graduates,68,15,85
+Education and race,EDUCWHITE,Whites no degree,28,10,89
+Education and race,EDUCWHITE,Non-whites college grads,3,N/A,N/A
+Education and race,EDUCWHITE,Non-whites no degree,1,N/A,N/A
+Income,INCOME16,Less than $30K,17,10,90
+Income,INCOME16,$30K-50K,22,11,89
+Income,INCOME16,$50K-100K,36,12,88
+Income,INCOME16,$100K-200K,20,20,80
+Income,INCOME16,$200K or more,5,N/A,N/A
+Income,INC50K,Under $50K,39,10,90
+Income,INC50K,$50K or More,61,16,84
+Income,INC100K,Under $100K,75,11,89
+Income,INC100K,$100K or more,25,22,78
+Income,INCOME3,Under $50K,39,10,90
+Income,INCOME3,$50K-$100K,36,12,88
+Income,INCOME3,$100K or more,25,22,78
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,Voted before,82,15,85
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,First-time voter,16,8,92
+Party ID,PARTY,Democrats,56,18,82
+Party ID,PARTY,Republicans,3,N/A,N/A
+Party ID,PARTY,Independents,41,8,92
+Ideology,PHIL4,Very liberal,33,9,91
+Ideology,PHIL4,Somewhat liberal,42,14,85
+Ideology,PHIL4,Moderate,21,20,79
+Ideology,PHIL4,Conservative,5,N/A,N/A
+Ideology,PHIL3X,Liberal,74,12,88
+Ideology,PHIL3X,Moderate,21,20,79
+Ideology,PHIL3X,Conservative,5,N/A,N/A
+Ideology ,PHIL2D,Liberal,74,12,88
+Ideology ,PHIL2D,Moderate/Conservative,26,19,81
+Marital status,MARRIED,Married,59,15,85
+Marital status,MARRIED,Unmarried,41,11,89
+Marital status and gender,SEXWED,Married men,27,10,89
+Marital status and gender,SEXWED,Married women,32,18,81
+Marital status and gender,SEXWED,Unmarried men,16,6,94
+Marital status and gender,SEXWED,Unmarried women,25,15,85
+Most important issue,ISSDEM16,Health care,20,15,84
+Most important issue,ISSDEM16,Economy/Jobs,36,16,84
+Most important issue,ISSDEM16,Terrorism,5,N/A,N/A
+Most important issue,ISSDEM16,Income inequality,36,9,91
+Top candidate quality,QLT16DEMPRI,Electability,8,50,50
+Top candidate quality,QLT16DEMPRI,Cares,29,4,96
+Top candidate quality,QLT16DEMPRI,Honest,49,2,98
+Top candidate quality,QLT16DEMPRI,Experience,12,58,42
+Who is honest and trustworthy?,HONESTDEM16,Only Clinton,2,N/A,N/A
+Who is honest and trustworthy?,HONESTDEM16,Only Sanders,67,3,97
+Who is honest and trustworthy?,HONESTDEM16,Both,28,35,65
+Who is honest and trustworthy?,HONESTDEM16,Neither,1,N/A,N/A
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,Yes,30,38,62
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,No,69,3,97
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,Yes,95,12,88
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,No,3,N/A,N/A
+Who do you trust in an international crisis?,INTCRISISDEM16,Only Clinton,12,78,22
+Who do you trust in an international crisis?,INTCRISISDEM16,Only Sanders,31,0,100
+Who do you trust in an international crisis?,INTCRISISDEM16,Both,52,7,92
+Who do you trust in an international crisis?,INTCRISISDEM16,Neither,3,N/A,N/A
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,Yes,64,20,79
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,No,34,1,99
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,Yes,84,5,95
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,No,15,63,36
+Better handle Supreme Court nominations?,SCOTUSDEM16,Clinton,19,62,37
+Better handle Supreme Court nominations?,SCOTUSDEM16,Sanders,76,1,99
+The next president should:,OBAMAPLCY,Continue Obama's policies,35,29,71
+The next president should:,OBAMAPLCY,Be more liberal,49,3,97
+The next president should:,OBAMAPLCY,Be less liberal,10,11,87
+U.S. economic system generally:,ECONFAIR,Favors the wealthy,94,12,88
+U.S. economic system generally:,ECONFAIR,Is fair to most Americans,5,N/A,N/A
+Next president should be:,OUTSIDER16,Experienced in politics,72,17,83
+Next president should be:,OUTSIDER16,Outside the establishment,22,3,97
+Clinton's positions on the issues are:,CLINTONLIB,Too liberal,7,2,97
+Clinton's positions on the issues are:,CLINTONLIB,Not liberal enough,51,3,97
+Clinton's positions on the issues are:,CLINTONLIB,About right,34,34,65
+Sanders' positions on the issues are:,SANDERSLIB,Too liberal,13,59,40
+Sanders' positions on the issues are:,SANDERSLIB,Not liberal enough,2,N/A,N/A
+Sanders' positions on the issues are:,SANDERSLIB,About right,82,6,94
+When did you decide whom to vote for?,TIMENH16,Just today,6,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,In the last few days,4,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,Sometime last week,2,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,In the last month,8,22,78
+When did you decide whom to vote for?,TIMENH16,Before that,80,10,90
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,Last few days,10,22,76
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,Earlier,89,12,87
+When did you decide whom to vote for?,TIMEPRIWK,In the last week,12,28,70
+When did you decide whom to vote for?,TIMEPRIWK,Earlier,88,11,88
+Area type,SIZEPLC3,Urban area,N/A,N/A,N/A
+Area type,SIZEPLC3,Suburban area,16,13,86
+Area type,SIZEPLC3,Rural area,84,13,86
+Region,GEOCOD,North,17,9,91
+Region,GEOCOD,Burlington,31,14,85
+Region,GEOCOD,Central/Upper Val.,29,13,87
+Region,GEOCOD,Rutland/Green Mtn.,23,16,84

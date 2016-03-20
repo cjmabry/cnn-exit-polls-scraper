@@ -1,228 +1,172 @@
 Question,pollname,Answer,Percentage of Electorate,Clinton,Sanders
-Gender,SEX,,,,
-,,Men,38,66,33
-,,Women,62,76,23
-Age,AGE,,,,
-,,18-29,14,46,54
-,,30-44,22,65,35
-,,45-64,48,80,19
-,,65 and older,16,80,19
-Age,AGE65,,,,
-,,18-24,7,38,61
-,,25-29,6,N/A,N/A
-,,30-39,14,61,38
-,,40-49,19,77,23
-,,50-64,37,80,19
-,,65 and older,16,80,19
-Age,AGE45,,,,
-,,18-44,36,58,42
-,,45 and older,64,80,19
-Race,RACE,,,,
-,,White,38,58,41
-,,Black,51,85,14
-,,Latino,7,N/A,N/A
-,,Asian,1,N/A,N/A
-,,Other race,2,N/A,N/A
-Race,RACE2B,,,,
-,,White,38,58,41
-,,Non-white,62,81,19
-Race by gender,SEXBYRACE,,,,
-,,White men,16,48,51
-,,White women,22,65,34
-,,Black men,19,84,16
-,,Black women,33,86,14
-,,Latino men,2,N/A,N/A
-,,Latino women,5,N/A,N/A
-,,Others,3,N/A,N/A
-Education,EDUC12R,,,,
-,,High school or less,15,80,20
-,,Some college,31,69,30
-,,College graduate,33,71,28
-,,Postgraduate,22,70,30
-Are you a college graduate?,EDUCCOLL,,,,
-,,Yes,54,71,29
-,,No,46,73,27
-Education and race,EDUCWHITE,,,,
-,,White college graduates,25,59,40
-,,Whites no degree,13,55,44
-,,Non-whites college grads,29,81,18
-,,Non-whites no degree,33,80,20
-Income,INCOME16,,,,
-,,Less than $30K,21,73,26
-,,$30K-50K,22,67,32
-,,$50K-100K,31,69,30
-,,$100K-200K,21,76,24
-,,$200K or more,5,N/A,N/A
-Income,INC50K,,,,
-,,Under $50K,43,70,29
-,,$50K or More,57,72,28
-Income,INC100K,,,,
-,,Under $100K,74,70,30
-,,$100K or more,26,75,24
-Income,INCOME3,,,,
-,,Under $50K,43,70,29
-,,$50K-$100K,31,69,30
-,,$100K or more,26,75,24
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,,,,
-,,Voted before,85,76,24
-,,First-time voter,13,N/A,N/A
-Party ID,PARTY,,,,
-,,Democrats,76,77,22
-,,Republicans,4,N/A,N/A
-,,Independents,20,51,48
-Ideology,PHIL4,,,,
-,,Very liberal,23,65,35
-,,Somewhat liberal,33,68,32
-,,Moderate,36,79,21
-,,Conservative,9,73,26
-Ideology,PHIL3X,,,,
-,,Liberal,56,66,33
-,,Moderate,36,79,21
-,,Conservative,9,73,26
-Ideology ,PHIL2D,,,,
-,,Liberal,56,66,33
-,,Moderate/Conservative,44,78,22
-Attend religious services:,ATTEND,,,,
-,,More than once a week,20,83,16
-,,Once a week,22,82,18
-,,A few times a month,19,78,22
-,,A few times a year,18,70,30
-,,Never,19,47,53
-Attend religious services:,ATTEND2,,,,
-,,Weekly,43,82,17
-,,Occasionally,38,74,26
-,,Never,19,47,53
-Most important issue,ISSDEM16,,,,
-,,Health care,20,78,22
-,,Economy/Jobs,40,75,25
-,,Terrorism,10,75,22
-,,Income inequality,26,59,40
-Top candidate quality,QLT16DEMPRI,,,,
-,,Electability,12,85,15
-,,Cares,28,59,40
-,,Honest,21,46,54
-,,Experience,37,91,8
-Who shares your values?,VALUESDEM16,,,,
-,,Only Clinton,27,99,1
-,,Only Sanders,14,11,88
-,,Both,55,74,26
-,,Neither,4,N/A,N/A
-Does Clinton share your values?,VALUESCLIN,,,,
-,,Yes,81,82,18
-,,No,17,21,77
-Does Sanders share your values?,VALUESSANDERS,,,,
-,,Yes,68,61,38
-,,No,30,94,5
-Who is honest and trustworthy?,HONESTDEM16,,,,
-,,Only Clinton,24,99,1
-,,Only Sanders,22,17,83
-,,Both,43,83,17
-,,Neither,9,N/A,N/A
-Is Clinton honest and trustworthy?,HONESTDEM16CLIN,,,,
-,,Yes,67,89,11
-,,No,31,33,65
-Is Sanders honest and trustworthy?,HONESTDEM16SAND,,,,
-,,Yes,65,61,39
-,,No,33,91,7
-Who do you trust in an international crisis?,INTCRISISDEM16,,,,
-,,Only Clinton,50,97,3
-,,Only Sanders,9,N/A,N/A
-,,Both,37,56,43
-,,Neither,3,N/A,N/A
-Trust Clinton in an international crisis?,INTCRISISDEMCLIN,,,,
-,,Yes,87,79,20
-,,No,12,N/A,N/A
-Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,,,,
-,,Yes,46,47,52
-,,No,53,94,5
-Who do you trust to handle race relations?,RACERELDEM16,,,,
-,,Only Clinton,34,98,1
-,,Only Sanders,14,11,89
-,,Both,48,71,29
-,,Neither,3,N/A,N/A
-Race relations in this country have:,RACEREL14,,,,
-,,Gotten better,16,80,20
-,,Stayed the same,34,73,27
-,,Gotten worse,49,69,30
-Trust Clinton to handle race relations?,RACERELCLIN,,,,
-,,Yes,81,82,18
-,,No,17,21,78
-Trust Sanders to handle race relations?,RACERELSANDERS,,,,
-,,Yes,62,57,43
-,,No,36,96,3
-Did either candidate attack the other unfairly?,UNFAIRDEM16,,,,
-,,Only Clinton did,9,N/A,N/A
-,,Only Sanders did,7,N/A,N/A
-,,Both did,18,71,28
-,,Neither did,61,73,26
-Did Clinton attack Sanders unfairly?,UNFAIRDEM16CLIN,,,,
-,,Yes,27,60,39
-,,No,68,75,24
-Did Sanders attack Clinton unfairly?,UNFAIRDEM16SAND,,,,
-,,Yes,25,78,21
-,,No,70,69,31
-Better handle Supreme Court nominations?,SCOTUSDEM16,,,,
-,,Clinton,73,93,6
-,,Sanders,25,12,87
-The next president should:,OBAMAPLCY,,,,
-,,Continue Obama's policies,65,82,17
-,,Be more liberal,21,44,56
-,,Be less liberal,10,N/A,N/A
-U.S. economic system generally:,ECONFAIR,,,,
-,,Favors the wealthy,79,72,28
-,,Is fair to most Americans,18,75,25
-Worried about U.S. economy?,ECONWORR,,,,
-,,Very worried,43,68,32
-,,Somewhat worried,39,71,28
-,,Not too worried,13,81,19
-,,Not at all worried,5,N/A,N/A
-Worried about U.S. economy?,ECOWORR2,,,,
-,,Yes,82,69,30
-,,No,18,81,19
-Feelings about the federal government,GOVTANGR16,,,,
-,,Enthusiastic,6,N/A,N/A
-,,Satisfied,34,80,20
-,,Dissatisfied,42,68,31
-,,Angry,16,56,43
-Feelings about the federal government,GOVTANGR16B,,,,
-,,Enthusiastic/Satisfied,39,81,18
-,,Dissatisfied/Angry,58,65,34
-Next president should be:,OUTSIDER16,,,,
-,,Experienced in politics,86,76,24
-,,Outside the establishment,10,N/A,N/A
-Satisfied if Clinton wins the nomination?,SATHCLIN,,,,
-,,Yes,84,84,16
-,,No,15,10,89
-Satisfied if Sanders wins the nomination?,SATSANDERS,,,,
-,,Yes,62,58,41
-,,No,34,95,4
-Clinton's positions on the issues are:,CLINTONLIB,,,,
-,,Too liberal,6,N/A,N/A
-,,Not liberal enough,17,22,78
-,,About right,75,86,14
-Sanders' positions on the issues are:,SANDERSLIB,,,,
-,,Too liberal,26,90,9
-,,Not liberal enough,17,96,4
-,,About right,50,52,48
-When did you decide whom to vote for?,TIMENH16,,,,
-,,Just today,10,N/A,N/A
-,,In the last few days,7,N/A,N/A
-,,Sometime last week,5,N/A,N/A
-,,In the last month,16,66,32
-,,Before that,61,74,26
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,,,,
-,,Last few days,16,73,26
-,,Earlier,82,72,27
-When did you decide whom to vote for?,TIMEPRIWK,,,,
-,,In the last week,21,72,27
-,,Earlier,77,72,27
-Area type,SIZEPLC3,,,,
-,,Urban area,16,71,28
-,,Suburban area,64,71,28
-,,Rural area,20,77,23
-Region,GEOCOD,,,,
-,,North,11,64,36
-,,Atlanta Suburbs,22,66,34
-,,Atlanta Metro,34,74,25
-,,Central,19,79,19
-,,Coast/South,13,75,25
+Gender,SEX,Men,38,66,33
+Gender,SEX,Women,62,76,23
+Age,AGE,18-29,14,46,54
+Age,AGE,30-44,22,65,35
+Age,AGE,45-64,48,80,19
+Age,AGE,65 and older,16,80,19
+Age,AGE65,18-24,7,38,61
+Age,AGE65,25-29,6,N/A,N/A
+Age,AGE65,30-39,14,61,38
+Age,AGE65,40-49,19,77,23
+Age,AGE65,50-64,37,80,19
+Age,AGE65,65 and older,16,80,19
+Age,AGE45,18-44,36,58,42
+Age,AGE45,45 and older,64,80,19
+Race,RACE,White,38,58,41
+Race,RACE,Black,51,85,14
+Race,RACE,Latino,7,N/A,N/A
+Race,RACE,Asian,1,N/A,N/A
+Race,RACE,Other race,2,N/A,N/A
+Race,RACE2B,White,38,58,41
+Race,RACE2B,Non-white,62,81,19
+Race by gender,SEXBYRACE,White men,16,48,51
+Race by gender,SEXBYRACE,White women,22,65,34
+Race by gender,SEXBYRACE,Black men,19,84,16
+Race by gender,SEXBYRACE,Black women,33,86,14
+Race by gender,SEXBYRACE,Latino men,2,N/A,N/A
+Race by gender,SEXBYRACE,Latino women,5,N/A,N/A
+Race by gender,SEXBYRACE,Others,3,N/A,N/A
+Education,EDUC12R,High school or less,15,80,20
+Education,EDUC12R,Some college,31,69,30
+Education,EDUC12R,College graduate,33,71,28
+Education,EDUC12R,Postgraduate,22,70,30
+Are you a college graduate?,EDUCCOLL,Yes,54,71,29
+Are you a college graduate?,EDUCCOLL,No,46,73,27
+Education and race,EDUCWHITE,White college graduates,25,59,40
+Education and race,EDUCWHITE,Whites no degree,13,55,44
+Education and race,EDUCWHITE,Non-whites college grads,29,81,18
+Education and race,EDUCWHITE,Non-whites no degree,33,80,20
+Income,INCOME16,Less than $30K,21,73,26
+Income,INCOME16,$30K-50K,22,67,32
+Income,INCOME16,$50K-100K,31,69,30
+Income,INCOME16,$100K-200K,21,76,24
+Income,INCOME16,$200K or more,5,N/A,N/A
+Income,INC50K,Under $50K,43,70,29
+Income,INC50K,$50K or More,57,72,28
+Income,INC100K,Under $100K,74,70,30
+Income,INC100K,$100K or more,26,75,24
+Income,INCOME3,Under $50K,43,70,29
+Income,INCOME3,$50K-$100K,31,69,30
+Income,INCOME3,$100K or more,26,75,24
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,Voted before,85,76,24
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,First-time voter,13,N/A,N/A
+Party ID,PARTY,Democrats,76,77,22
+Party ID,PARTY,Republicans,4,N/A,N/A
+Party ID,PARTY,Independents,20,51,48
+Ideology,PHIL4,Very liberal,23,65,35
+Ideology,PHIL4,Somewhat liberal,33,68,32
+Ideology,PHIL4,Moderate,36,79,21
+Ideology,PHIL4,Conservative,9,73,26
+Ideology,PHIL3X,Liberal,56,66,33
+Ideology,PHIL3X,Moderate,36,79,21
+Ideology,PHIL3X,Conservative,9,73,26
+Ideology ,PHIL2D,Liberal,56,66,33
+Ideology ,PHIL2D,Moderate/Conservative,44,78,22
+Attend religious services:,ATTEND,More than once a week,20,83,16
+Attend religious services:,ATTEND,Once a week,22,82,18
+Attend religious services:,ATTEND,A few times a month,19,78,22
+Attend religious services:,ATTEND,A few times a year,18,70,30
+Attend religious services:,ATTEND,Never,19,47,53
+Attend religious services:,ATTEND2,Weekly,43,82,17
+Attend religious services:,ATTEND2,Occasionally,38,74,26
+Attend religious services:,ATTEND2,Never,19,47,53
+Most important issue,ISSDEM16,Health care,20,78,22
+Most important issue,ISSDEM16,Economy/Jobs,40,75,25
+Most important issue,ISSDEM16,Terrorism,10,75,22
+Most important issue,ISSDEM16,Income inequality,26,59,40
+Top candidate quality,QLT16DEMPRI,Electability,12,85,15
+Top candidate quality,QLT16DEMPRI,Cares,28,59,40
+Top candidate quality,QLT16DEMPRI,Honest,21,46,54
+Top candidate quality,QLT16DEMPRI,Experience,37,91,8
+Who shares your values?,VALUESDEM16,Only Clinton,27,99,1
+Who shares your values?,VALUESDEM16,Only Sanders,14,11,88
+Who shares your values?,VALUESDEM16,Both,55,74,26
+Who shares your values?,VALUESDEM16,Neither,4,N/A,N/A
+Does Clinton share your values?,VALUESCLIN,Yes,81,82,18
+Does Clinton share your values?,VALUESCLIN,No,17,21,77
+Does Sanders share your values?,VALUESSANDERS,Yes,68,61,38
+Does Sanders share your values?,VALUESSANDERS,No,30,94,5
+Who is honest and trustworthy?,HONESTDEM16,Only Clinton,24,99,1
+Who is honest and trustworthy?,HONESTDEM16,Only Sanders,22,17,83
+Who is honest and trustworthy?,HONESTDEM16,Both,43,83,17
+Who is honest and trustworthy?,HONESTDEM16,Neither,9,N/A,N/A
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,Yes,67,89,11
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,No,31,33,65
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,Yes,65,61,39
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,No,33,91,7
+Who do you trust in an international crisis?,INTCRISISDEM16,Only Clinton,50,97,3
+Who do you trust in an international crisis?,INTCRISISDEM16,Only Sanders,9,N/A,N/A
+Who do you trust in an international crisis?,INTCRISISDEM16,Both,37,56,43
+Who do you trust in an international crisis?,INTCRISISDEM16,Neither,3,N/A,N/A
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,Yes,87,79,20
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,No,12,N/A,N/A
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,Yes,46,47,52
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,No,53,94,5
+Who do you trust to handle race relations?,RACERELDEM16,Only Clinton,34,98,1
+Who do you trust to handle race relations?,RACERELDEM16,Only Sanders,14,11,89
+Who do you trust to handle race relations?,RACERELDEM16,Both,48,71,29
+Who do you trust to handle race relations?,RACERELDEM16,Neither,3,N/A,N/A
+Race relations in this country have:,RACEREL14,Gotten better,16,80,20
+Race relations in this country have:,RACEREL14,Stayed the same,34,73,27
+Race relations in this country have:,RACEREL14,Gotten worse,49,69,30
+Trust Clinton to handle race relations?,RACERELCLIN,Yes,81,82,18
+Trust Clinton to handle race relations?,RACERELCLIN,No,17,21,78
+Trust Sanders to handle race relations?,RACERELSANDERS,Yes,62,57,43
+Trust Sanders to handle race relations?,RACERELSANDERS,No,36,96,3
+Did either candidate attack the other unfairly?,UNFAIRDEM16,Only Clinton did,9,N/A,N/A
+Did either candidate attack the other unfairly?,UNFAIRDEM16,Only Sanders did,7,N/A,N/A
+Did either candidate attack the other unfairly?,UNFAIRDEM16,Both did,18,71,28
+Did either candidate attack the other unfairly?,UNFAIRDEM16,Neither did,61,73,26
+Did Clinton attack Sanders unfairly?,UNFAIRDEM16CLIN,Yes,27,60,39
+Did Clinton attack Sanders unfairly?,UNFAIRDEM16CLIN,No,68,75,24
+Did Sanders attack Clinton unfairly?,UNFAIRDEM16SAND,Yes,25,78,21
+Did Sanders attack Clinton unfairly?,UNFAIRDEM16SAND,No,70,69,31
+Better handle Supreme Court nominations?,SCOTUSDEM16,Clinton,73,93,6
+Better handle Supreme Court nominations?,SCOTUSDEM16,Sanders,25,12,87
+The next president should:,OBAMAPLCY,Continue Obama's policies,65,82,17
+The next president should:,OBAMAPLCY,Be more liberal,21,44,56
+The next president should:,OBAMAPLCY,Be less liberal,10,N/A,N/A
+U.S. economic system generally:,ECONFAIR,Favors the wealthy,79,72,28
+U.S. economic system generally:,ECONFAIR,Is fair to most Americans,18,75,25
+Worried about U.S. economy?,ECONWORR,Very worried,43,68,32
+Worried about U.S. economy?,ECONWORR,Somewhat worried,39,71,28
+Worried about U.S. economy?,ECONWORR,Not too worried,13,81,19
+Worried about U.S. economy?,ECONWORR,Not at all worried,5,N/A,N/A
+Worried about U.S. economy?,ECOWORR2,Yes,82,69,30
+Worried about U.S. economy?,ECOWORR2,No,18,81,19
+Feelings about the federal government,GOVTANGR16,Enthusiastic,6,N/A,N/A
+Feelings about the federal government,GOVTANGR16,Satisfied,34,80,20
+Feelings about the federal government,GOVTANGR16,Dissatisfied,42,68,31
+Feelings about the federal government,GOVTANGR16,Angry,16,56,43
+Feelings about the federal government,GOVTANGR16B,Enthusiastic/Satisfied,39,81,18
+Feelings about the federal government,GOVTANGR16B,Dissatisfied/Angry,58,65,34
+Next president should be:,OUTSIDER16,Experienced in politics,86,76,24
+Next president should be:,OUTSIDER16,Outside the establishment,10,N/A,N/A
+Satisfied if Clinton wins the nomination?,SATHCLIN,Yes,84,84,16
+Satisfied if Clinton wins the nomination?,SATHCLIN,No,15,10,89
+Satisfied if Sanders wins the nomination?,SATSANDERS,Yes,62,58,41
+Satisfied if Sanders wins the nomination?,SATSANDERS,No,34,95,4
+Clinton's positions on the issues are:,CLINTONLIB,Too liberal,6,N/A,N/A
+Clinton's positions on the issues are:,CLINTONLIB,Not liberal enough,17,22,78
+Clinton's positions on the issues are:,CLINTONLIB,About right,75,86,14
+Sanders' positions on the issues are:,SANDERSLIB,Too liberal,26,90,9
+Sanders' positions on the issues are:,SANDERSLIB,Not liberal enough,17,96,4
+Sanders' positions on the issues are:,SANDERSLIB,About right,50,52,48
+When did you decide whom to vote for?,TIMENH16,Just today,10,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,In the last few days,7,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,Sometime last week,5,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,In the last month,16,66,32
+When did you decide whom to vote for?,TIMENH16,Before that,61,74,26
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,Last few days,16,73,26
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,Earlier,82,72,27
+When did you decide whom to vote for?,TIMEPRIWK,In the last week,21,72,27
+When did you decide whom to vote for?,TIMEPRIWK,Earlier,77,72,27
+Area type,SIZEPLC3,Urban area,16,71,28
+Area type,SIZEPLC3,Suburban area,64,71,28
+Area type,SIZEPLC3,Rural area,20,77,23
+Region,GEOCOD,North,11,64,36
+Region,GEOCOD,Atlanta Suburbs,22,66,34
+Region,GEOCOD,Atlanta Metro,34,74,25
+Region,GEOCOD,Central,19,79,19
+Region,GEOCOD,Coast/South,13,75,25
