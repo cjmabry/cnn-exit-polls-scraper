@@ -1,4 +1,4 @@
-question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
 Gender,SEX,MS,South,East South Central,Men,36,79,19
 Gender,SEX,MS,South,East South Central,Women,64,85,15
 Age,XAGE,MS,South,East South Central,17-29,15,62,37

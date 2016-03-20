@@ -1,4 +1,4 @@
-question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
 Gender,SEX,GA,South,South Atlantic,Men,38,66,33
 Gender,SEX,GA,South,South Atlantic,Women,62,76,23
 Age,AGE,GA,South,South Atlantic,18-29,14,46,54

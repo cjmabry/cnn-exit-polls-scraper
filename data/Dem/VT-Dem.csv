@@ -1,4 +1,4 @@
-question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
 Gender,SEX,VT,Northeast,New England,Men,43,9,91
 Gender,SEX,VT,Northeast,New England,Women,57,17,83
 Age,XAGE,VT,Northeast,New England,17-29,15,5,95

@@ -1,4 +1,4 @@
-question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
 Gender,SEX,NV,West,Mountain,Men,44,44,53
 Gender,SEX,NV,West,Mountain,Women,56,57,41
 Age,XAGE,NV,West,Mountain,17-29,18,14,82

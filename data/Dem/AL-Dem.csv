@@ -1,4 +1,4 @@
-question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
 Gender,SEX,AL,South,East South Central,Men,40,73,24
 Gender,SEX,AL,South,East South Central,Women,60,80,17
 Age,AGE,AL,South,East South Central,18-29,14,52,40

@@ -1,4 +1,4 @@
-question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
 Gender,SEX,MO,Midwest,West North Central,Men,45,44,56
 Gender,SEX,MO,Midwest,West North Central,Women,55,54,44
 Age,AGE,MO,Midwest,West North Central,18-29,16,21,78

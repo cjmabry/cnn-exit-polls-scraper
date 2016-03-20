@@ -1,4 +1,4 @@
-question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
 Gender,SEX,OH,Midwest,East North Central,Men,44,48,51
 Gender,SEX,OH,Midwest,East North Central,Women,56,63,36
 Age,AGE,OH,Midwest,East North Central,18-29,15,19,81

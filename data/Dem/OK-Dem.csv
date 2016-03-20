@@ -1,4 +1,4 @@
-question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
 Gender,SEX,OK,South,West South Central,Men,46,33,60
 Gender,SEX,OK,South,West South Central,Women,54,48,46
 Age,AGE,OK,South,West South Central,18-29,12,17,82

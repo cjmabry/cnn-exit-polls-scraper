@@ -1,4 +1,4 @@
-question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
 Gender,SEX,NH,Northeast,New England,Men,45,32,67
 Gender,SEX,NH,Northeast,New England,Women,55,44,55
 Race,RACE,NH,Northeast,New England,White,93,37,61

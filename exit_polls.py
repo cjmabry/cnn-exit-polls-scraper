@@ -117,7 +117,7 @@ for poll in exitpollhub:
 
                 with open(filename, 'wb') as f:
                     csv_file = csv.writer(f)
-                    csv_file.writerow(['question','pollname','state','region','subregion','answer','percentage of electorate','clinton','sanders'])
+                    csv_file.writerow(['question','pollname','state','region','subregion','answer','percent','clinton','sanders'])
 
                     for item in data['polls']:
 

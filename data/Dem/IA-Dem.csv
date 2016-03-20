@@ -1,4 +1,4 @@
-question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
 Gender,SEX,IA,Midwest,West North Central,Men,43,44,50
 Gender,SEX,IA,Midwest,West North Central,Women,57,53,42
 Age,XAGE,IA,Midwest,West North Central,17-29,18,14,84

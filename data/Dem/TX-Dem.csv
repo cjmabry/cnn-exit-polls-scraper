@@ -1,4 +1,4 @@
-question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
 Gender,SEX,TX,South,West South Central,Men,42,61,38
 Gender,SEX,TX,South,West South Central,Women,58,70,28
 Age,AGE,TX,South,West South Central,18-29,20,40,59
