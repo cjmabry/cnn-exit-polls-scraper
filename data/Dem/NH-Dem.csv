@@ -1,287 +1,287 @@
 Question,Answer,Percentage of Electorate,Clinton,Sanders
-Gender
+Gender,,,,
 ,Men,45,32,67
 ,Women,55,44,55
-Race
+Race,,,,
 ,White,93,37,61
 ,Black,2,N/A,N/A
 ,Latino,1,N/A,N/A
 ,Asian,2,N/A,N/A
 ,Other race,2,N/A,N/A
-Race
+Race,,,,
 ,White,93,37,61
 ,Non-white,7,49,50
-Age
+Age,,,,
 ,18-29,19,16,83
 ,30-44,22,32,66
 ,45-64,42,45,54
 ,65 and older,18,54,45
-Age
+Age,,,,
 ,18-24,12,17,82
 ,25-29,7,14,85
 ,30-39,14,27,72
 ,40-49,17,38,60
 ,50-64,33,48,51
 ,65 and older,18,54,45
-Age
+Age,,,,
 ,18-44,41,25,74
 ,45 and older,59,48,51
-Education
+Education,,,,
 ,High school or less,12,34,64
 ,Some college,28,30,69
 ,College graduate,32,38,60
 ,Postgraduate,28,48,51
-Did you attend college?
+Did you attend college?,,,,
 ,Yes,88,39,60
 ,No,12,34,64
-Are you a college graduate?
+Are you a college graduate?,,,,
 ,Yes,60,43,56
 ,No,40,31,67
-Education and race
+Education and race,,,,
 ,White college graduates,57,42,57
 ,Whites no degree,37,30,68
 ,Non-whites college grads,4,N/A,N/A
 ,Non-whites no degree,3,N/A,N/A
-Income
+Income,,,,
 ,Less than $30K,14,24,72
 ,$30K-50K,18,39,60
 ,$50K-100K,33,35,64
 ,$100K-200K,27,44,55
 ,$200K or more,8,53,46
-Income
+Income,,,,
 ,Under $50K,31,32,65
 ,$50K or More,69,41,58
-Income
+Income,,,,
 ,Under $100K,65,34,65
 ,$100K or more,35,46,53
-Income
+Income,,,,
 ,Under $50K,31,32,65
 ,$50K-$100K,33,35,64
 ,$100K or more,35,46,53
-Ever voted in a Democratic presidential primary?
+Ever voted in a Democratic presidential primary?,,,,
 ,Voted before,83,41,57
 ,First-time voter,16,21,78
-Party ID
+Party ID,,,,
 ,Democrats,58,48,52
 ,Republicans,2,N/A,N/A
 ,Independents,40,25,73
-Ideology
+Ideology,,,,
 ,Very liberal,26,33,67
 ,Somewhat liberal,42,43,57
 ,Moderate,27,39,59
 ,Conservative,4,N/A,N/A
-Ideology
+Ideology,,,,
 ,Liberal,68,39,61
 ,Moderate,27,39,59
 ,Conservative,4,N/A,N/A
-Ideology 
+Ideology ,,,,
 ,Liberal,68,39,61
 ,Moderate/Conservative,32,37,60
-Marital status
+Marital status,,,,
 ,Married,58,44,56
 ,Unmarried,42,31,67
-Marital status and gender
+Marital status and gender,,,,
 ,Married men,26,43,56
 ,Married women,31,44,56
 ,Unmarried men,19,25,74
 ,Unmarried women,24,35,62
-Does anyone in your household own a gun?
+Does anyone in your household own a gun?,,,,
 ,Yes,30,29,69
 ,No,70,43,57
-Most important issue
+Most important issue,,,,
 ,Health care,23,45,54
 ,Economy/Jobs,33,39,59
 ,Terrorism,9,46,50
 ,Income inequality,32,29,71
-Top candidate quality
+Top candidate quality,,,,
 ,Electability,12,79,20
 ,Cares,27,17,82
 ,Honest,34,6,92
 ,Experience,26,84,15
-More important in your vote for president today
+More important in your vote for president today,,,,
 ,Positions on issues,71,32,67
 ,Leadership/Qualities,26,54,45
-Who shares your values?
+Who shares your values?,,,,
 ,Only Clinton,11,N/A,N/A
 ,Only Sanders,33,2,98
 ,Both,50,52,48
 ,Neither,4,N/A,N/A
-Does Clinton share your values?
+Does Clinton share your values?,,,,
 ,Yes,62,60,40
 ,No,37,2,94
-Does Sanders share your values?
+Does Sanders share your values?,,,,
 ,Yes,84,32,68
 ,No,15,N/A,N/A
-Who is honest and trustworthy?
+Who is honest and trustworthy?,,,,
 ,Only Clinton,7,N/A,N/A
 ,Only Sanders,50,3,96
 ,Both,39,72,27
 ,Neither,3,N/A,N/A
-Is Clinton honest and trustworthy?
+Is Clinton honest and trustworthy?,,,,
 ,Yes,45,76,24
 ,No,53,6,92
-Is Sanders honest and trustworthy?
+Is Sanders honest and trustworthy?,,,,
 ,Yes,89,33,66
 ,No,9,N/A,N/A
-Who would you trust to handle health care?
+Who would you trust to handle health care?,,,,
 ,Only Clinton,16,98,1
 ,Only Sanders,29,0,99
 ,Both,49,42,57
 ,Neither,5,N/A,N/A
-Trust Clinton to handle health care?
+Trust Clinton to handle health care?,,,,
 ,Yes,65,56,43
 ,No,34,2,95
-Trust Sanders to handle health care?
+Trust Sanders to handle health care?,,,,
 ,Yes,78,27,72
 ,No,21,79,17
-Who would you trust to handle the economy?
+Who would you trust to handle the economy?,,,,
 ,Only Clinton,22,96,3
 ,Only Sanders,37,1,98
 ,Both,37,41,58
 ,Neither,3,N/A,N/A
-Trust Clinton to handle economy?
+Trust Clinton to handle economy?,,,,
 ,Yes,59,62,38
 ,No,40,2,95
-Trust Sanders to handle economy?
+Trust Sanders to handle economy?,,,,
 ,Yes,74,21,78
 ,No,25,88,9
-Who do you trust in an international crisis?
+Who do you trust in an international crisis?,,,,
 ,Only Clinton,28,92,7
 ,Only Sanders,19,0,100
 ,Both,48,24,74
 ,Neither,4,N/A,N/A
-Trust Clinton in an international crisis?
+Trust Clinton in an international crisis?,,,,
 ,Yes,76,49,50
 ,No,23,3,94
-Trust Sanders in an international crisis?
+Trust Sanders in an international crisis?,,,,
 ,Yes,67,18,81
 ,No,32,82,16
-Who do you trust to deal with income inequality?
+Who do you trust to deal with income inequality?,,,,
 ,Only Clinton,12,N/A,N/A
 ,Only Sanders,47,5,95
 ,Both,37,62,36
 ,Neither,3,N/A,N/A
-Trust Clinton to deal with income inequality?
+Trust Clinton to deal with income inequality?,,,,
 ,Yes,49,70,29
 ,No,50,7,92
-Trust Sanders to deal with income inequality?
+Trust Sanders to deal with income inequality?,,,,
 ,Yes,84,30,69
 ,No,15,N/A,N/A
-Who would you trust to handle gun policy?
+Who would you trust to handle gun policy?,,,,
 ,Only Clinton,18,91,9
 ,Only Sanders,23,5,95
 ,Both,47,39,61
 ,Neither,10,N/A,N/A
-Trust Clinton to handle gun policy?
+Trust Clinton to handle gun policy?,,,,
 ,Yes,65,53,46
 ,No,33,8,88
-Trust Sanders to handle gun policy?
+Trust Sanders to handle gun policy?,,,,
 ,Yes,69,28,72
 ,No,28,65,32
-The next president should:
+The next president should:,,,,
 ,Continue Obama's policies,40,63,37
 ,Be more liberal,42,17,82
 ,Be less liberal,13,N/A,N/A
-Family's financial situation
+Family's financial situation,,,,
 ,Getting ahead,15,47,53
 ,Holding steady ,66,39,60
 ,Falling behind ,18,28,70
-U.S. economic system generally:
+U.S. economic system generally:,,,,
 ,Favors the wealthy,90,36,63
 ,Is fair to most Americans,9,N/A,N/A
-Life for the next generation of Americans will be:
+Life for the next generation of Americans will be:,,,,
 ,Better than today,25,37,61
 ,Worse than today,39,29,70
 ,About the same,35,49,49
-Worried about U.S. economy?
+Worried about U.S. economy?,,,,
 ,Very worried,29,24,74
 ,Somewhat worried,50,39,59
 ,Not too worried,18,59,41
 ,Not at all worried,3,N/A,N/A
-Worried about U.S. economy?
+Worried about U.S. economy?,,,,
 ,Yes,79,34,65
 ,No,20,56,44
-Worried about terrorist attack in U.S.?
+Worried about terrorist attack in U.S.?,,,,
 ,Very worried,22,39,61
 ,Somewhat worried,47,45,54
 ,Not too worried,26,30,69
 ,Not at all worried,4,N/A,N/A
-Worried about terrorist attack in U.S.?
+Worried about terrorist attack in U.S.?,,,,
 ,Yes,69,43,56
 ,No,30,28,71
-Views on a single-payer health care plan?
+Views on a single-payer health care plan?,,,,
 ,Support,63,29,71
 ,Oppose,32,58,40
-Should income tax rates:
+Should income tax rates:,,,,
 ,Increase for all,10,N/A,N/A
 ,Increase on $250K+,78,41,59
 ,Not increase,10,N/A,N/A
-Feelings about the federal government
+Feelings about the federal government,,,,
 ,Enthusiastic,8,N/A,N/A
 ,Satisfied,31,56,44
 ,Dissatisfied,49,32,67
 ,Angry,12,N/A,N/A
-Feelings about the federal government
+Feelings about the federal government,,,,
 ,Enthusiastic/Satisfied,38,55,45
 ,Dissatisfied/Angry,61,28,70
-Do you feel betrayed by Democratic politicians?
+Do you feel betrayed by Democratic politicians?,,,,
 ,Yes,15,11,84
 ,No,83,44,56
-Next president should be:
+Next president should be:,,,,
 ,Experienced in politics,70,50,50
 ,Outside the establishment,26,8,88
-Satisfied if Clinton wins the nomination?
+Satisfied if Clinton wins the nomination?,,,,
 ,Yes,62,61,39
 ,No,37,N/A,97
-Satisfied if Sanders wins the nomination?
+Satisfied if Sanders wins the nomination?,,,,
 ,Yes,79,24,75
 ,No,20,95,2
-Clinton's positions on the issues are:
+Clinton's positions on the issues are:,,,,
 ,Too liberal,9,N/A,N/A
 ,Not liberal enough,32,10,89
 ,About right,54,61,38
-Sanders' positions on the issues are:
+Sanders' positions on the issues are:,,,,
 ,Too liberal,27,85,12
 ,Not liberal enough,4,N/A,N/A
 ,About right,67,18,81
-Importance of race relations in deciding vote
+Importance of race relations in deciding vote,,,,
 ,Most important factor,8,N/A,N/A
 ,An important factor,42,38,61
 ,A minor factor,33,38,61
 ,Not a factor,14,43,54
-Were recent debates a factor in deciding vote?
+Were recent debates a factor in deciding vote?,,,,
 ,Yes,83,37,61
 ,No,14,43,54
-Were race relations important in deciding vote?
+Were race relations important in deciding vote?,,,,
 ,Yes,50,37,62
 ,No,48,40,59
-Party registration
+Party registration,,,,
 ,Undeclared,40,27,72
 ,Democrat,54,49,50
 ,Not registered,6,N/A,N/A
-Did anyone contact you about your candidate?
+Did anyone contact you about your candidate?,,,,
 ,Yes,55,44,55
 ,No,44,31,67
-When did you decide whom to vote for?
+When did you decide whom to vote for?,,,,
 ,Just today,13,49,44
 ,In the last few days,12,N/A,N/A
 ,Sometime last week,6,N/A,N/A
 ,In the last month,16,29,71
 ,Before that,53,38,62
-When did you decide whom to vote for?
+When did you decide whom to vote for?,,,,
 ,Last few days,25,43,52
 ,Earlier,74,36,63
-When did you decide whom to vote for?
+When did you decide whom to vote for?,,,,
 ,In the last week,31,43,53
 ,Earlier,68,36,64
-When did you decide whom to vote for?
+When did you decide whom to vote for?,,,,
 ,In the last month,47,38,59
 ,Earlier,53,38,62
-Area type
+Area type,,,,
 ,Urban area,12,40,57
 ,Suburban area,46,41,57
 ,Rural area,42,34,65
-Region
+Region,,,,
 ,Seacoast,18,41,59
 ,Manchester/Nashua Area,18,44,54
 ,Concord/Ct. Valley,26,35,64

@@ -1,32 +1,32 @@
 Question,Answer,Percentage of Electorate,Clinton,Sanders
-Gender
+Gender,,,,
 ,Men,43,57,42
 ,Women,57,70,30
-Age
+Age,,,,
 ,17-29,16,30,69
 ,30-44,25,57,43
 ,45-64,37,72,28
 ,65 and older,22,85,15
-Age
+Age,,,,
 ,17-24,10,26,72
 ,25-29,6,N/A,N/A
 ,30-39,15,52,48
 ,40-49,18,67,33
 ,50-64,28,73,27
 ,65 and older,22,85,15
-Age
+Age,,,,
 ,17-44 year olds,41,46,53
 ,45 and older,59,77,23
-Race
+Race,,,,
 ,White,63,57,42
 ,Black,26,84,16
 ,Latino,7,N/A,N/A
 ,Asian,2,N/A,N/A
 ,Other race,3,N/A,N/A
-Race
+Race,,,,
 ,White,63,57,42
 ,Non-white,37,76,24
-Race by gender
+Race by gender,,,,
 ,White men,28,48,50
 ,White women,35,64,36
 ,Black men,10,81,19
@@ -34,193 +34,193 @@ Race by gender
 ,Latino men,3,N/A,N/A
 ,Latino women,4,N/A,N/A
 ,Others,4,N/A,N/A
-Education
+Education,,,,
 ,High school or less,11,67,33
 ,Some college,25,61,37
 ,College graduate,29,57,43
 ,Postgraduate,35,69,30
-Are you a college graduate?
+Are you a college graduate?,,,,
 ,Yes,64,64,36
 ,No,36,63,36
-Education and race
+Education and race,,,,
 ,White college graduates,46,59,41
 ,Whites no degree,18,51,46
 ,Non-whites college grads,18,76,24
 ,Non-whites no degree,17,75,25
-Income
+Income,,,,
 ,Less than $30K,12,57,43
 ,$30K-50K,16,62,38
 ,$50K-100K,30,61,38
 ,$100K-200K,28,69,31
 ,$200K or more,13,67,33
-Income
+Income,,,,
 ,Under $50K,29,60,40
 ,$50K or More,71,65,35
-Income
+Income,,,,
 ,Under $100K,59,60,39
 ,$100K or more,41,68,32
-Income
+Income,,,,
 ,Under $50K,29,60,40
 ,$50K-$100K,30,61,38
 ,$100K or more,41,68,32
-Ever voted in a Democratic presidential primary?
+Ever voted in a Democratic presidential primary?,,,,
 ,Voted before,77,70,30
 ,First-time voter,23,45,53
-Party ID
+Party ID,,,,
 ,Democrats,76,71,29
 ,Republicans,3,N/A,N/A
 ,Independents,22,42,58
-Ideology
+Ideology,,,,
 ,Very liberal,29,58,42
 ,Somewhat liberal,39,61,39
 ,Moderate,29,69,30
 ,Conservative,3,N/A,N/A
-Ideology
+Ideology,,,,
 ,Liberal,68,60,40
 ,Moderate,29,69,30
 ,Conservative,3,N/A,N/A
-Ideology 
+Ideology ,,,,
 ,Liberal,68,60,40
 ,Moderate/Conservative,32,70,29
-Attend religious services:
+Attend religious services:,,,,
 ,More than once a week,12,N/A,N/A
 ,Once a week,21,69,31
 ,A few times a month,12,N/A,N/A
 ,A few times a year,26,62,38
 ,Never,28,54,46
-Attend religious services:
+Attend religious services:,,,,
 ,Weekly,33,74,26
 ,Occasionally,38,63,36
 ,Never,28,54,46
-Most important issue
+Most important issue,,,,
 ,Health care,18,73,27
 ,Economy/Jobs,40,67,32
 ,Terrorism,9,80,20
 ,Income inequality,31,48,51
-Top candidate quality
+Top candidate quality,,,,
 ,Electability,16,86,14
 ,Cares,23,44,56
 ,Honest,24,21,78
 ,Experience,36,95,5
-Who shares your values?
+Who shares your values?,,,,
 ,Only Clinton,19,100,0
 ,Only Sanders,18,2,98
 ,Both,57,70,29
 ,Neither,4,N/A,N/A
-Does Clinton share your values?
+Does Clinton share your values?,,,,
 ,Yes,76,78,22
 ,No,22,13,86
-Does Sanders share your values?
+Does Sanders share your values?,,,,
 ,Yes,75,54,46
 ,No,23,93,6
-Who is honest and trustworthy?
+Who is honest and trustworthy?,,,,
 ,Only Clinton,13,N/A,N/A
 ,Only Sanders,31,10,90
 ,Both,47,86,13
 ,Neither,6,N/A,N/A
-Is Clinton honest and trustworthy?
+Is Clinton honest and trustworthy?,,,,
 ,Yes,59,89,10
 ,No,37,21,79
-Is Sanders honest and trustworthy?
+Is Sanders honest and trustworthy?,,,,
 ,Yes,77,56,43
 ,No,19,91,9
-Who do you trust in an international crisis?
+Who do you trust in an international crisis?,,,,
 ,Only Clinton,45,98,2
 ,Only Sanders,10,N/A,N/A
 ,Both,41,42,58
 ,Neither,3,N/A,N/A
-Trust Clinton in an international crisis?
+Trust Clinton in an international crisis?,,,,
 ,Yes,86,71,29
 ,No,13,14,82
-Trust Sanders in an international crisis?
+Trust Sanders in an international crisis?,,,,
 ,Yes,50,35,64
 ,No,48,95,5
-Who do you trust to handle race relations?
+Who do you trust to handle race relations?,,,,
 ,Only Clinton,25,98,2
 ,Only Sanders,16,9,91
 ,Both,55,65,35
 ,Neither,3,N/A,N/A
-Trust Clinton to handle race relations?
+Trust Clinton to handle race relations?,,,,
 ,Yes,80,75,25
 ,No,19,12,85
-Trust Sanders to handle race relations?
+Trust Sanders to handle race relations?,,,,
 ,Yes,71,52,48
 ,No,28,92,6
-Race relations in this country have:
+Race relations in this country have:,,,,
 ,Gotten better,13,N/A,N/A
 ,Stayed the same,37,64,36
 ,Gotten worse,48,65,34
-Better handle Supreme Court nominations?
+Better handle Supreme Court nominations?,,,,
 ,Clinton,67,91,8
 ,Sanders,29,5,95
-Did either candidate attack the other unfairly?
+Did either candidate attack the other unfairly?,,,,
 ,Only Clinton did,14,17,83
 ,Only Sanders did,4,N/A,N/A
 ,Both did,15,70,30
 ,Neither did,62,70,29
-Did Clinton attack Sanders unfairly?
+Did Clinton attack Sanders unfairly?,,,,
 ,Yes,29,45,55
 ,No,66,71,28
-Did Sanders attack Clinton unfairly?
+Did Sanders attack Clinton unfairly?,,,,
 ,Yes,19,73,27
 ,No,76,61,39
-The next president should:
+The next president should:,,,,
 ,Continue Obama's policies,60,81,18
 ,Be more liberal,30,36,64
 ,Be less liberal,7,N/A,N/A
-U.S. economic system generally:
+U.S. economic system generally:,,,,
 ,Favors the wealthy,85,62,37
 ,Is fair to most Americans,13,N/A,N/A
-Worried about U.S. economy?
+Worried about U.S. economy?,,,,
 ,Very worried,37,57,43
 ,Somewhat worried,42,63,36
 ,Not too worried,17,78,21
 ,Not at all worried,3,N/A,N/A
-Worried about U.S. economy?
+Worried about U.S. economy?,,,,
 ,Yes,79,60,39
 ,No,20,77,22
-Feelings about the federal government
+Feelings about the federal government,,,,
 ,Enthusiastic,7,N/A,N/A
 ,Satisfied,31,65,35
 ,Dissatisfied,47,65,34
 ,Angry,14,41,59
-Feelings about the federal government
+Feelings about the federal government,,,,
 ,Enthusiastic/Satisfied,38,69,31
 ,Dissatisfied/Angry,61,59,40
-Next president should be:
+Next president should be:,,,,
 ,Experienced in politics,84,71,29
 ,Outside the establishment,13,N/A,N/A
-Satisfied if Clinton wins the nomination?
+Satisfied if Clinton wins the nomination?,,,,
 ,Yes,80,78,22
 ,No,19,6,92
-Satisfied if Sanders wins the nomination?
+Satisfied if Sanders wins the nomination?,,,,
 ,Yes,65,46,53
 ,No,31,98,2
-Clinton's positions on the issues are:
+Clinton's positions on the issues are:,,,,
 ,Too liberal,5,N/A,N/A
 ,Not liberal enough,26,25,75
 ,About right,66,82,18
-Sanders' positions on the issues are:
+Sanders' positions on the issues are:,,,,
 ,Too liberal,32,91,9
 ,Not liberal enough,10,N/A,N/A
 ,About right,54,41,58
-When did you decide whom to vote for?
+When did you decide whom to vote for?,,,,
 ,Just today,8,N/A,N/A
 ,In the last few days,7,N/A,N/A
 ,Sometime last week,5,N/A,N/A
 ,In the last month,17,62,38
 ,Before that,63,67,33
-When did you decide whom to vote for?
+When did you decide whom to vote for?,,,,
 ,Last few days,16,62,35
 ,Earlier,84,64,35
-When did you decide whom to vote for?
+When did you decide whom to vote for?,,,,
 ,In the last week,20,58,40
 ,Earlier,79,66,34
-Area type
+Area type,,,,
 ,Urban area,22,68,32
 ,Suburban area,53,62,38
 ,Rural area,25,67,32
-Region
+Region,,,,
 ,DC Suburbs,26,65,35
 ,N. Virginia Exurbs,16,60,40
 ,Central/West,13,54,43
