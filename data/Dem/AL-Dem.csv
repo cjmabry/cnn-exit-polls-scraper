@@ -1,173 +1,173 @@
 question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
-Gender,SEX,AL,South,South Atlantic,Men,40,73,24
-Gender,SEX,AL,South,South Atlantic,Women,60,80,17
-Age,AGE,AL,South,South Atlantic,18-29,14,52,40
-Age,AGE,AL,South,South Atlantic,30-44,25,77,21
-Age,AGE,AL,South,South Atlantic,45-64,39,82,15
-Age,AGE,AL,South,South Atlantic,65 and older,22,85,13
-Age,AGE65,AL,South,South Atlantic,18-24,7,N/A,N/A
-Age,AGE65,AL,South,South Atlantic,25-29,7,N/A,N/A
-Age,AGE65,AL,South,South Atlantic,30-39,17,76,23
-Age,AGE65,AL,South,South Atlantic,40-49,19,78,18
-Age,AGE65,AL,South,South Atlantic,50-64,29,83,14
-Age,AGE65,AL,South,South Atlantic,65 and older,22,85,13
-Age,AGE45,AL,South,South Atlantic,18-44,39,68,28
-Age,AGE45,AL,South,South Atlantic,45 and older,61,83,14
-Race,RACE,AL,South,South Atlantic,White,40,59,38
-Race,RACE,AL,South,South Atlantic,Black,54,91,6
-Race,RACE,AL,South,South Atlantic,Latino,1,N/A,N/A
-Race,RACE,AL,South,South Atlantic,Asian,1,N/A,N/A
-Race,RACE,AL,South,South Atlantic,Other race,4,N/A,N/A
-Race,RACE2B,AL,South,South Atlantic,White,40,59,38
-Race,RACE2B,AL,South,South Atlantic,Non-white,60,89,7
-Race by gender,SEXBYRACE,AL,South,South Atlantic,White men,20,60,37
-Race by gender,SEXBYRACE,AL,South,South Atlantic,White women,20,58,39
-Race by gender,SEXBYRACE,AL,South,South Atlantic,Black men,17,85,10
-Race by gender,SEXBYRACE,AL,South,South Atlantic,Black women,37,93,5
-Race by gender,SEXBYRACE,AL,South,South Atlantic,Latino men,0,N/A,N/A
-Race by gender,SEXBYRACE,AL,South,South Atlantic,Latino women,1,N/A,N/A
-Race by gender,SEXBYRACE,AL,South,South Atlantic,Others,5,N/A,N/A
-Education,EDUC12R,AL,South,South Atlantic,High school or less,21,85,11
-Education,EDUC12R,AL,South,South Atlantic,Some college,28,75,22
-Education,EDUC12R,AL,South,South Atlantic,College graduate,27,75,24
-Education,EDUC12R,AL,South,South Atlantic,Postgraduate,24,78,20
-Are you a college graduate?,EDUCCOLL,AL,South,South Atlantic,Yes,51,76,22
-Are you a college graduate?,EDUCCOLL,AL,South,South Atlantic,No,49,79,17
-Education and race,EDUCWHITE,AL,South,South Atlantic,White college graduates,26,64,35
-Education and race,EDUCWHITE,AL,South,South Atlantic,Whites no degree,14,N/A,N/A
-Education and race,EDUCWHITE,AL,South,South Atlantic,Non-whites college grads,26,89,10
-Education and race,EDUCWHITE,AL,South,South Atlantic,Non-whites no degree,35,91,6
-Income,INCOME16,AL,South,South Atlantic,Less than $30K,31,84,12
-Income,INCOME16,AL,South,South Atlantic,$30K-50K,23,74,22
-Income,INCOME16,AL,South,South Atlantic,$50K-100K,25,71,27
-Income,INCOME16,AL,South,South Atlantic,$100K-200K,14,80,19
-Income,INCOME16,AL,South,South Atlantic,$200K or more,5,N/A,N/A
-Income,INC50K,AL,South,South Atlantic,Under $50K,55,80,17
-Income,INC50K,AL,South,South Atlantic,$50K or More,45,76,23
-Income,INC100K,AL,South,South Atlantic,Under $100K,80,77,20
-Income,INC100K,AL,South,South Atlantic,$100K or more,20,82,18
-Income,INCOME3,AL,South,South Atlantic,Under $50K,55,80,17
-Income,INCOME3,AL,South,South Atlantic,$50K-$100K,25,71,27
-Income,INCOME3,AL,South,South Atlantic,$100K or more,20,82,18
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,AL,South,South Atlantic,Voted before,87,84,14
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,AL,South,South Atlantic,First-time voter,12,N/A,N/A
-Party ID,PARTY,AL,South,South Atlantic,Democrats,77,85,12
-Party ID,PARTY,AL,South,South Atlantic,Republicans,3,N/A,N/A
-Party ID,PARTY,AL,South,South Atlantic,Independents,20,52,44
-Ideology,PHIL4,AL,South,South Atlantic,Very liberal,27,76,20
-Ideology,PHIL4,AL,South,South Atlantic,Somewhat liberal,29,76,23
-Ideology,PHIL4,AL,South,South Atlantic,Moderate,32,82,17
-Ideology,PHIL4,AL,South,South Atlantic,Conservative,11,N/A,N/A
-Ideology,PHIL3X,AL,South,South Atlantic,Liberal,57,76,22
-Ideology,PHIL3X,AL,South,South Atlantic,Moderate,32,82,17
-Ideology,PHIL3X,AL,South,South Atlantic,Conservative,11,N/A,N/A
-Ideology ,PHIL2D,AL,South,South Atlantic,Liberal,57,76,22
-Ideology ,PHIL2D,AL,South,South Atlantic,Moderate/Conservative,43,81,16
-Union household?,UNIONHH12,AL,South,South Atlantic,Yes,16,N/A,N/A
-Union household?,UNIONHH12,AL,South,South Atlantic,No,84,78,20
-Attend religious services:,ATTEND,AL,South,South Atlantic,More than once a week,30,91,7
-Attend religious services:,ATTEND,AL,South,South Atlantic,Once a week,28,82,13
-Attend religious services:,ATTEND,AL,South,South Atlantic,A few times a month,14,N/A,N/A
-Attend religious services:,ATTEND,AL,South,South Atlantic,A few times a year,14,N/A,N/A
-Attend religious services:,ATTEND,AL,South,South Atlantic,Never,13,N/A,N/A
-Attend religious services:,ATTEND2,AL,South,South Atlantic,Weekly,58,86,10
-Attend religious services:,ATTEND2,AL,South,South Atlantic,Occasionally,28,74,24
-Attend religious services:,ATTEND2,AL,South,South Atlantic,Never,13,N/A,N/A
-Most important issue,ISSDEM16,AL,South,South Atlantic,Health care,23,80,17
-Most important issue,ISSDEM16,AL,South,South Atlantic,Economy/Jobs,40,80,18
-Most important issue,ISSDEM16,AL,South,South Atlantic,Terrorism,10,N/A,N/A
-Most important issue,ISSDEM16,AL,South,South Atlantic,Income inequality,22,70,29
-Top candidate quality,QLT16DEMPRI,AL,South,South Atlantic,Electability,14,92,3
-Top candidate quality,QLT16DEMPRI,AL,South,South Atlantic,Cares,25,70,28
-Top candidate quality,QLT16DEMPRI,AL,South,South Atlantic,Honest,24,59,37
-Top candidate quality,QLT16DEMPRI,AL,South,South Atlantic,Experience,35,91,7
-Who shares your values?,VALUESDEM16,AL,South,South Atlantic,Only Clinton,43,96,2
-Who shares your values?,VALUESDEM16,AL,South,South Atlantic,Only Sanders,10,N/A,N/A
-Who shares your values?,VALUESDEM16,AL,South,South Atlantic,Both,40,76,21
-Who shares your values?,VALUESDEM16,AL,South,South Atlantic,Neither,5,N/A,N/A
-Does Clinton share your values?,VALUESCLIN,AL,South,South Atlantic,Yes,83,87,11
-Does Clinton share your values?,VALUESCLIN,AL,South,South Atlantic,No,15,N/A,N/A
-Does Sanders share your values?,VALUESSANDERS,AL,South,South Atlantic,Yes,50,63,33
-Does Sanders share your values?,VALUESSANDERS,AL,South,South Atlantic,No,48,91,7
-Who is honest and trustworthy?,HONESTDEM16,AL,South,South Atlantic,Only Clinton,37,96,2
-Who is honest and trustworthy?,HONESTDEM16,AL,South,South Atlantic,Only Sanders,15,N/A,N/A
-Who is honest and trustworthy?,HONESTDEM16,AL,South,South Atlantic,Both,39,86,12
-Who is honest and trustworthy?,HONESTDEM16,AL,South,South Atlantic,Neither,8,N/A,N/A
-Is Clinton honest and trustworthy?,HONESTDEM16CLIN,AL,South,South Atlantic,Yes,76,91,7
-Is Clinton honest and trustworthy?,HONESTDEM16CLIN,AL,South,South Atlantic,No,23,N/A,N/A
-Is Sanders honest and trustworthy?,HONESTDEM16SAND,AL,South,South Atlantic,Yes,54,67,30
-Is Sanders honest and trustworthy?,HONESTDEM16SAND,AL,South,South Atlantic,No,45,89,8
-Who do you trust in an international crisis?,INTCRISISDEM16,AL,South,South Atlantic,Only Clinton,58,99,N/A
-Who do you trust in an international crisis?,INTCRISISDEM16,AL,South,South Atlantic,Only Sanders,11,N/A,N/A
-Who do you trust in an international crisis?,INTCRISISDEM16,AL,South,South Atlantic,Both,26,63,34
-Who do you trust in an international crisis?,INTCRISISDEM16,AL,South,South Atlantic,Neither,4,N/A,N/A
-Trust Clinton in an international crisis?,INTCRISISDEMCLIN,AL,South,South Atlantic,Yes,84,88,10
-Trust Clinton in an international crisis?,INTCRISISDEMCLIN,AL,South,South Atlantic,No,15,N/A,N/A
-Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,AL,South,South Atlantic,Yes,36,48,50
-Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,AL,South,South Atlantic,No,63,96,1
-Who do you trust to handle race relations?,RACERELDEM16,AL,South,South Atlantic,Only Clinton,47,99,1
-Who do you trust to handle race relations?,RACERELDEM16,AL,South,South Atlantic,Only Sanders,10,N/A,N/A
-Who do you trust to handle race relations?,RACERELDEM16,AL,South,South Atlantic,Both,37,73,24
-Who do you trust to handle race relations?,RACERELDEM16,AL,South,South Atlantic,Neither,4,N/A,N/A
-Trust Clinton to handle race relations?,RACERELCLIN,AL,South,South Atlantic,Yes,84,88,11
-Trust Clinton to handle race relations?,RACERELCLIN,AL,South,South Atlantic,No,14,N/A,N/A
-Trust Sanders to handle race relations?,RACERELSANDERS,AL,South,South Atlantic,Yes,48,59,37
-Trust Sanders to handle race relations?,RACERELSANDERS,AL,South,South Atlantic,No,51,97,2
-Race relations in this country have:,RACEREL14,AL,South,South Atlantic,Gotten better,15,N/A,N/A
-Race relations in this country have:,RACEREL14,AL,South,South Atlantic,Stayed the same,38,80,17
-Race relations in this country have:,RACEREL14,AL,South,South Atlantic,Gotten worse,45,73,23
-Did either candidate attack the other unfairly?,UNFAIRDEM16,AL,South,South Atlantic,Only Clinton did,15,N/A,N/A
-Did either candidate attack the other unfairly?,UNFAIRDEM16,AL,South,South Atlantic,Only Sanders did,8,N/A,N/A
-Did either candidate attack the other unfairly?,UNFAIRDEM16,AL,South,South Atlantic,Both did,17,N/A,N/A
-Did either candidate attack the other unfairly?,UNFAIRDEM16,AL,South,South Atlantic,Neither did,58,75,23
-Did Clinton attack Sanders unfairly?,UNFAIRDEM16CLIN,AL,South,South Atlantic,Yes,31,78,19
-Did Clinton attack Sanders unfairly?,UNFAIRDEM16CLIN,AL,South,South Atlantic,No,65,77,21
-Did Sanders attack Clinton unfairly?,UNFAIRDEM16SAND,AL,South,South Atlantic,Yes,25,86,9
-Did Sanders attack Clinton unfairly?,UNFAIRDEM16SAND,AL,South,South Atlantic,No,72,74,24
-Better handle Supreme Court nominations?,SCOTUSDEM16,AL,South,South Atlantic,Clinton,79,95,3
-Better handle Supreme Court nominations?,SCOTUSDEM16,AL,South,South Atlantic,Sanders,19,N/A,N/A
-The next president should:,OBAMAPLCY,AL,South,South Atlantic,Continue Obama's policies,70,87,11
-The next president should:,OBAMAPLCY,AL,South,South Atlantic,Be more liberal,17,N/A,N/A
-The next president should:,OBAMAPLCY,AL,South,South Atlantic,Be less liberal,11,N/A,N/A
-U.S. economic system generally:,ECONFAIR,AL,South,South Atlantic,Favors the wealthy,80,76,21
-U.S. economic system generally:,ECONFAIR,AL,South,South Atlantic,Is fair to most Americans,18,N/A,N/A
-Worried about U.S. economy?,ECONWORR,AL,South,South Atlantic,Very worried,46,78,20
-Worried about U.S. economy?,ECONWORR,AL,South,South Atlantic,Somewhat worried,34,72,23
-Worried about U.S. economy?,ECONWORR,AL,South,South Atlantic,Not too worried,13,N/A,N/A
-Worried about U.S. economy?,ECONWORR,AL,South,South Atlantic,Not at all worried,5,N/A,N/A
-Worried about U.S. economy?,ECOWORR2,AL,South,South Atlantic,Yes,80,76,22
-Worried about U.S. economy?,ECOWORR2,AL,South,South Atlantic,No,19,N/A,N/A
-Feelings about the federal government,GOVTANGR16,AL,South,South Atlantic,Enthusiastic,14,N/A,N/A
-Feelings about the federal government,GOVTANGR16,AL,South,South Atlantic,Satisfied,31,84,12
-Feelings about the federal government,GOVTANGR16,AL,South,South Atlantic,Dissatisfied,43,73,24
-Feelings about the federal government,GOVTANGR16,AL,South,South Atlantic,Angry,10,N/A,N/A
-Feelings about the federal government,GOVTANGR16B,AL,South,South Atlantic,Enthusiastic/Satisfied,44,88,10
-Feelings about the federal government,GOVTANGR16B,AL,South,South Atlantic,Dissatisfied/Angry,53,71,27
-Next president should be:,OUTSIDER16,AL,South,South Atlantic,Experienced in politics,85,82,16
-Next president should be:,OUTSIDER16,AL,South,South Atlantic,Outside the establishment,13,N/A,N/A
-Satisfied if Clinton wins the nomination?,SATHCLIN,AL,South,South Atlantic,Yes,84,90,7
-Satisfied if Clinton wins the nomination?,SATHCLIN,AL,South,South Atlantic,No,13,N/A,N/A
-Satisfied if Sanders wins the nomination?,SATSANDERS,AL,South,South Atlantic,Yes,50,60,36
-Satisfied if Sanders wins the nomination?,SATSANDERS,AL,South,South Atlantic,No,45,97,1
-Clinton's positions on the issues are:,CLINTONLIB,AL,South,South Atlantic,Too liberal,7,N/A,N/A
-Clinton's positions on the issues are:,CLINTONLIB,AL,South,South Atlantic,Not liberal enough,16,N/A,N/A
-Clinton's positions on the issues are:,CLINTONLIB,AL,South,South Atlantic,About right,74,92,7
-Sanders' positions on the issues are:,SANDERSLIB,AL,South,South Atlantic,Too liberal,29,93,3
-Sanders' positions on the issues are:,SANDERSLIB,AL,South,South Atlantic,Not liberal enough,23,N/A,N/A
-Sanders' positions on the issues are:,SANDERSLIB,AL,South,South Atlantic,About right,42,60,39
-When did you decide whom to vote for?,TIMENH16,AL,South,South Atlantic,Just today,13,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,AL,South,South Atlantic,In the last few days,8,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,AL,South,South Atlantic,Sometime last week,5,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,AL,South,South Atlantic,In the last month,12,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,AL,South,South Atlantic,Before that,62,77,20
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,AL,South,South Atlantic,Last few days,21,N/A,N/A
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,AL,South,South Atlantic,Earlier,78,78,18
-When did you decide whom to vote for?,TIMEPRIWK,AL,South,South Atlantic,In the last week,26,72,22
-When did you decide whom to vote for?,TIMEPRIWK,AL,South,South Atlantic,Earlier,74,78,20
-Area type,SIZEPLC3,AL,South,South Atlantic,Urban area,58,76,21
-Area type,SIZEPLC3,AL,South,South Atlantic,Suburban area,20,73,24
-Area type,SIZEPLC3,AL,South,South Atlantic,Rural area,23,84,11
-Region,GEOCOD,AL,South,South Atlantic,North,18,69,28
-Region,GEOCOD,AL,South,South Atlantic,North Central,18,73,22
-Region,GEOCOD,AL,South,South Atlantic,Birmingham/S. Central,47,81,16
-Region,GEOCOD,AL,South,South Atlantic,South,18,80,17
+Gender,SEX,AL,South,East South Central,Men,40,73,24
+Gender,SEX,AL,South,East South Central,Women,60,80,17
+Age,AGE,AL,South,East South Central,18-29,14,52,40
+Age,AGE,AL,South,East South Central,30-44,25,77,21
+Age,AGE,AL,South,East South Central,45-64,39,82,15
+Age,AGE,AL,South,East South Central,65 and older,22,85,13
+Age,AGE65,AL,South,East South Central,18-24,7,N/A,N/A
+Age,AGE65,AL,South,East South Central,25-29,7,N/A,N/A
+Age,AGE65,AL,South,East South Central,30-39,17,76,23
+Age,AGE65,AL,South,East South Central,40-49,19,78,18
+Age,AGE65,AL,South,East South Central,50-64,29,83,14
+Age,AGE65,AL,South,East South Central,65 and older,22,85,13
+Age,AGE45,AL,South,East South Central,18-44,39,68,28
+Age,AGE45,AL,South,East South Central,45 and older,61,83,14
+Race,RACE,AL,South,East South Central,White,40,59,38
+Race,RACE,AL,South,East South Central,Black,54,91,6
+Race,RACE,AL,South,East South Central,Latino,1,N/A,N/A
+Race,RACE,AL,South,East South Central,Asian,1,N/A,N/A
+Race,RACE,AL,South,East South Central,Other race,4,N/A,N/A
+Race,RACE2B,AL,South,East South Central,White,40,59,38
+Race,RACE2B,AL,South,East South Central,Non-white,60,89,7
+Race by gender,SEXBYRACE,AL,South,East South Central,White men,20,60,37
+Race by gender,SEXBYRACE,AL,South,East South Central,White women,20,58,39
+Race by gender,SEXBYRACE,AL,South,East South Central,Black men,17,85,10
+Race by gender,SEXBYRACE,AL,South,East South Central,Black women,37,93,5
+Race by gender,SEXBYRACE,AL,South,East South Central,Latino men,0,N/A,N/A
+Race by gender,SEXBYRACE,AL,South,East South Central,Latino women,1,N/A,N/A
+Race by gender,SEXBYRACE,AL,South,East South Central,Others,5,N/A,N/A
+Education,EDUC12R,AL,South,East South Central,High school or less,21,85,11
+Education,EDUC12R,AL,South,East South Central,Some college,28,75,22
+Education,EDUC12R,AL,South,East South Central,College graduate,27,75,24
+Education,EDUC12R,AL,South,East South Central,Postgraduate,24,78,20
+Are you a college graduate?,EDUCCOLL,AL,South,East South Central,Yes,51,76,22
+Are you a college graduate?,EDUCCOLL,AL,South,East South Central,No,49,79,17
+Education and race,EDUCWHITE,AL,South,East South Central,White college graduates,26,64,35
+Education and race,EDUCWHITE,AL,South,East South Central,Whites no degree,14,N/A,N/A
+Education and race,EDUCWHITE,AL,South,East South Central,Non-whites college grads,26,89,10
+Education and race,EDUCWHITE,AL,South,East South Central,Non-whites no degree,35,91,6
+Income,INCOME16,AL,South,East South Central,Less than $30K,31,84,12
+Income,INCOME16,AL,South,East South Central,$30K-50K,23,74,22
+Income,INCOME16,AL,South,East South Central,$50K-100K,25,71,27
+Income,INCOME16,AL,South,East South Central,$100K-200K,14,80,19
+Income,INCOME16,AL,South,East South Central,$200K or more,5,N/A,N/A
+Income,INC50K,AL,South,East South Central,Under $50K,55,80,17
+Income,INC50K,AL,South,East South Central,$50K or More,45,76,23
+Income,INC100K,AL,South,East South Central,Under $100K,80,77,20
+Income,INC100K,AL,South,East South Central,$100K or more,20,82,18
+Income,INCOME3,AL,South,East South Central,Under $50K,55,80,17
+Income,INCOME3,AL,South,East South Central,$50K-$100K,25,71,27
+Income,INCOME3,AL,South,East South Central,$100K or more,20,82,18
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,AL,South,East South Central,Voted before,87,84,14
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,AL,South,East South Central,First-time voter,12,N/A,N/A
+Party ID,PARTY,AL,South,East South Central,Democrats,77,85,12
+Party ID,PARTY,AL,South,East South Central,Republicans,3,N/A,N/A
+Party ID,PARTY,AL,South,East South Central,Independents,20,52,44
+Ideology,PHIL4,AL,South,East South Central,Very liberal,27,76,20
+Ideology,PHIL4,AL,South,East South Central,Somewhat liberal,29,76,23
+Ideology,PHIL4,AL,South,East South Central,Moderate,32,82,17
+Ideology,PHIL4,AL,South,East South Central,Conservative,11,N/A,N/A
+Ideology,PHIL3X,AL,South,East South Central,Liberal,57,76,22
+Ideology,PHIL3X,AL,South,East South Central,Moderate,32,82,17
+Ideology,PHIL3X,AL,South,East South Central,Conservative,11,N/A,N/A
+Ideology ,PHIL2D,AL,South,East South Central,Liberal,57,76,22
+Ideology ,PHIL2D,AL,South,East South Central,Moderate/Conservative,43,81,16
+Union household?,UNIONHH12,AL,South,East South Central,Yes,16,N/A,N/A
+Union household?,UNIONHH12,AL,South,East South Central,No,84,78,20
+Attend religious services:,ATTEND,AL,South,East South Central,More than once a week,30,91,7
+Attend religious services:,ATTEND,AL,South,East South Central,Once a week,28,82,13
+Attend religious services:,ATTEND,AL,South,East South Central,A few times a month,14,N/A,N/A
+Attend religious services:,ATTEND,AL,South,East South Central,A few times a year,14,N/A,N/A
+Attend religious services:,ATTEND,AL,South,East South Central,Never,13,N/A,N/A
+Attend religious services:,ATTEND2,AL,South,East South Central,Weekly,58,86,10
+Attend religious services:,ATTEND2,AL,South,East South Central,Occasionally,28,74,24
+Attend religious services:,ATTEND2,AL,South,East South Central,Never,13,N/A,N/A
+Most important issue,ISSDEM16,AL,South,East South Central,Health care,23,80,17
+Most important issue,ISSDEM16,AL,South,East South Central,Economy/Jobs,40,80,18
+Most important issue,ISSDEM16,AL,South,East South Central,Terrorism,10,N/A,N/A
+Most important issue,ISSDEM16,AL,South,East South Central,Income inequality,22,70,29
+Top candidate quality,QLT16DEMPRI,AL,South,East South Central,Electability,14,92,3
+Top candidate quality,QLT16DEMPRI,AL,South,East South Central,Cares,25,70,28
+Top candidate quality,QLT16DEMPRI,AL,South,East South Central,Honest,24,59,37
+Top candidate quality,QLT16DEMPRI,AL,South,East South Central,Experience,35,91,7
+Who shares your values?,VALUESDEM16,AL,South,East South Central,Only Clinton,43,96,2
+Who shares your values?,VALUESDEM16,AL,South,East South Central,Only Sanders,10,N/A,N/A
+Who shares your values?,VALUESDEM16,AL,South,East South Central,Both,40,76,21
+Who shares your values?,VALUESDEM16,AL,South,East South Central,Neither,5,N/A,N/A
+Does Clinton share your values?,VALUESCLIN,AL,South,East South Central,Yes,83,87,11
+Does Clinton share your values?,VALUESCLIN,AL,South,East South Central,No,15,N/A,N/A
+Does Sanders share your values?,VALUESSANDERS,AL,South,East South Central,Yes,50,63,33
+Does Sanders share your values?,VALUESSANDERS,AL,South,East South Central,No,48,91,7
+Who is honest and trustworthy?,HONESTDEM16,AL,South,East South Central,Only Clinton,37,96,2
+Who is honest and trustworthy?,HONESTDEM16,AL,South,East South Central,Only Sanders,15,N/A,N/A
+Who is honest and trustworthy?,HONESTDEM16,AL,South,East South Central,Both,39,86,12
+Who is honest and trustworthy?,HONESTDEM16,AL,South,East South Central,Neither,8,N/A,N/A
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,AL,South,East South Central,Yes,76,91,7
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,AL,South,East South Central,No,23,N/A,N/A
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,AL,South,East South Central,Yes,54,67,30
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,AL,South,East South Central,No,45,89,8
+Who do you trust in an international crisis?,INTCRISISDEM16,AL,South,East South Central,Only Clinton,58,99,N/A
+Who do you trust in an international crisis?,INTCRISISDEM16,AL,South,East South Central,Only Sanders,11,N/A,N/A
+Who do you trust in an international crisis?,INTCRISISDEM16,AL,South,East South Central,Both,26,63,34
+Who do you trust in an international crisis?,INTCRISISDEM16,AL,South,East South Central,Neither,4,N/A,N/A
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,AL,South,East South Central,Yes,84,88,10
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,AL,South,East South Central,No,15,N/A,N/A
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,AL,South,East South Central,Yes,36,48,50
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,AL,South,East South Central,No,63,96,1
+Who do you trust to handle race relations?,RACERELDEM16,AL,South,East South Central,Only Clinton,47,99,1
+Who do you trust to handle race relations?,RACERELDEM16,AL,South,East South Central,Only Sanders,10,N/A,N/A
+Who do you trust to handle race relations?,RACERELDEM16,AL,South,East South Central,Both,37,73,24
+Who do you trust to handle race relations?,RACERELDEM16,AL,South,East South Central,Neither,4,N/A,N/A
+Trust Clinton to handle race relations?,RACERELCLIN,AL,South,East South Central,Yes,84,88,11
+Trust Clinton to handle race relations?,RACERELCLIN,AL,South,East South Central,No,14,N/A,N/A
+Trust Sanders to handle race relations?,RACERELSANDERS,AL,South,East South Central,Yes,48,59,37
+Trust Sanders to handle race relations?,RACERELSANDERS,AL,South,East South Central,No,51,97,2
+Race relations in this country have:,RACEREL14,AL,South,East South Central,Gotten better,15,N/A,N/A
+Race relations in this country have:,RACEREL14,AL,South,East South Central,Stayed the same,38,80,17
+Race relations in this country have:,RACEREL14,AL,South,East South Central,Gotten worse,45,73,23
+Did either candidate attack the other unfairly?,UNFAIRDEM16,AL,South,East South Central,Only Clinton did,15,N/A,N/A
+Did either candidate attack the other unfairly?,UNFAIRDEM16,AL,South,East South Central,Only Sanders did,8,N/A,N/A
+Did either candidate attack the other unfairly?,UNFAIRDEM16,AL,South,East South Central,Both did,17,N/A,N/A
+Did either candidate attack the other unfairly?,UNFAIRDEM16,AL,South,East South Central,Neither did,58,75,23
+Did Clinton attack Sanders unfairly?,UNFAIRDEM16CLIN,AL,South,East South Central,Yes,31,78,19
+Did Clinton attack Sanders unfairly?,UNFAIRDEM16CLIN,AL,South,East South Central,No,65,77,21
+Did Sanders attack Clinton unfairly?,UNFAIRDEM16SAND,AL,South,East South Central,Yes,25,86,9
+Did Sanders attack Clinton unfairly?,UNFAIRDEM16SAND,AL,South,East South Central,No,72,74,24
+Better handle Supreme Court nominations?,SCOTUSDEM16,AL,South,East South Central,Clinton,79,95,3
+Better handle Supreme Court nominations?,SCOTUSDEM16,AL,South,East South Central,Sanders,19,N/A,N/A
+The next president should:,OBAMAPLCY,AL,South,East South Central,Continue Obama's policies,70,87,11
+The next president should:,OBAMAPLCY,AL,South,East South Central,Be more liberal,17,N/A,N/A
+The next president should:,OBAMAPLCY,AL,South,East South Central,Be less liberal,11,N/A,N/A
+U.S. economic system generally:,ECONFAIR,AL,South,East South Central,Favors the wealthy,80,76,21
+U.S. economic system generally:,ECONFAIR,AL,South,East South Central,Is fair to most Americans,18,N/A,N/A
+Worried about U.S. economy?,ECONWORR,AL,South,East South Central,Very worried,46,78,20
+Worried about U.S. economy?,ECONWORR,AL,South,East South Central,Somewhat worried,34,72,23
+Worried about U.S. economy?,ECONWORR,AL,South,East South Central,Not too worried,13,N/A,N/A
+Worried about U.S. economy?,ECONWORR,AL,South,East South Central,Not at all worried,5,N/A,N/A
+Worried about U.S. economy?,ECOWORR2,AL,South,East South Central,Yes,80,76,22
+Worried about U.S. economy?,ECOWORR2,AL,South,East South Central,No,19,N/A,N/A
+Feelings about the federal government,GOVTANGR16,AL,South,East South Central,Enthusiastic,14,N/A,N/A
+Feelings about the federal government,GOVTANGR16,AL,South,East South Central,Satisfied,31,84,12
+Feelings about the federal government,GOVTANGR16,AL,South,East South Central,Dissatisfied,43,73,24
+Feelings about the federal government,GOVTANGR16,AL,South,East South Central,Angry,10,N/A,N/A
+Feelings about the federal government,GOVTANGR16B,AL,South,East South Central,Enthusiastic/Satisfied,44,88,10
+Feelings about the federal government,GOVTANGR16B,AL,South,East South Central,Dissatisfied/Angry,53,71,27
+Next president should be:,OUTSIDER16,AL,South,East South Central,Experienced in politics,85,82,16
+Next president should be:,OUTSIDER16,AL,South,East South Central,Outside the establishment,13,N/A,N/A
+Satisfied if Clinton wins the nomination?,SATHCLIN,AL,South,East South Central,Yes,84,90,7
+Satisfied if Clinton wins the nomination?,SATHCLIN,AL,South,East South Central,No,13,N/A,N/A
+Satisfied if Sanders wins the nomination?,SATSANDERS,AL,South,East South Central,Yes,50,60,36
+Satisfied if Sanders wins the nomination?,SATSANDERS,AL,South,East South Central,No,45,97,1
+Clinton's positions on the issues are:,CLINTONLIB,AL,South,East South Central,Too liberal,7,N/A,N/A
+Clinton's positions on the issues are:,CLINTONLIB,AL,South,East South Central,Not liberal enough,16,N/A,N/A
+Clinton's positions on the issues are:,CLINTONLIB,AL,South,East South Central,About right,74,92,7
+Sanders' positions on the issues are:,SANDERSLIB,AL,South,East South Central,Too liberal,29,93,3
+Sanders' positions on the issues are:,SANDERSLIB,AL,South,East South Central,Not liberal enough,23,N/A,N/A
+Sanders' positions on the issues are:,SANDERSLIB,AL,South,East South Central,About right,42,60,39
+When did you decide whom to vote for?,TIMENH16,AL,South,East South Central,Just today,13,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,AL,South,East South Central,In the last few days,8,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,AL,South,East South Central,Sometime last week,5,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,AL,South,East South Central,In the last month,12,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,AL,South,East South Central,Before that,62,77,20
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,AL,South,East South Central,Last few days,21,N/A,N/A
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,AL,South,East South Central,Earlier,78,78,18
+When did you decide whom to vote for?,TIMEPRIWK,AL,South,East South Central,In the last week,26,72,22
+When did you decide whom to vote for?,TIMEPRIWK,AL,South,East South Central,Earlier,74,78,20
+Area type,SIZEPLC3,AL,South,East South Central,Urban area,58,76,21
+Area type,SIZEPLC3,AL,South,East South Central,Suburban area,20,73,24
+Area type,SIZEPLC3,AL,South,East South Central,Rural area,23,84,11
+Region,GEOCOD,AL,South,East South Central,North,18,69,28
+Region,GEOCOD,AL,South,East South Central,North Central,18,73,22
+Region,GEOCOD,AL,South,East South Central,Birmingham/S. Central,47,81,16
+Region,GEOCOD,AL,South,East South Central,South,18,80,17

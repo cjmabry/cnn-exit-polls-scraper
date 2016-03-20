@@ -1,119 +1,119 @@
 question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
-Gender,SEX,OK,South,South Atlantic,Men,46,33,60
-Gender,SEX,OK,South,South Atlantic,Women,54,48,46
-Age,AGE,OK,South,South Atlantic,18-29,12,17,82
-Age,AGE,OK,South,South Atlantic,30-44,21,26,73
-Age,AGE,OK,South,South Atlantic,45-64,39,48,44
-Age,AGE,OK,South,South Atlantic,65 and older,28,53,36
-Age,AGE65,OK,South,South Atlantic,18-24,7,N/A,N/A
-Age,AGE65,OK,South,South Atlantic,25-29,6,N/A,N/A
-Age,AGE65,OK,South,South Atlantic,30-39,15,22,76
-Age,AGE65,OK,South,South Atlantic,40-49,13,44,49
-Age,AGE65,OK,South,South Atlantic,50-64,32,48,45
-Age,AGE65,OK,South,South Atlantic,65 and older,28,53,36
-Age,AGE45,OK,South,South Atlantic,18-44,33,23,76
-Age,AGE45,OK,South,South Atlantic,45 and older,67,50,41
-Race,RACE,OK,South,South Atlantic,White,74,36,56
-Race,RACE,OK,South,South Atlantic,Black,14,71,27
-Race,RACE,OK,South,South Atlantic,Latino,4,N/A,N/A
-Race,RACE,OK,South,South Atlantic,Asian,1,N/A,N/A
-Race,RACE,OK,South,South Atlantic,Other race,8,N/A,N/A
-Race,RACE2B,OK,South,South Atlantic,White,74,36,56
-Race,RACE2B,OK,South,South Atlantic,Non-white,26,56,40
-Education,EDUC12R,OK,South,South Atlantic,High school or less,18,39,54
-Education,EDUC12R,OK,South,South Atlantic,Some college,33,35,56
-Education,EDUC12R,OK,South,South Atlantic,College graduate,26,40,52
-Education,EDUC12R,OK,South,South Atlantic,Postgraduate,23,52,47
-Are you a college graduate?,EDUCCOLL,OK,South,South Atlantic,Yes,49,45,50
-Are you a college graduate?,EDUCCOLL,OK,South,South Atlantic,No,51,36,55
-Education and race,EDUCWHITE,OK,South,South Atlantic,White college graduates,39,43,51
-Education and race,EDUCWHITE,OK,South,South Atlantic,Whites no degree,35,28,63
-Education and race,EDUCWHITE,OK,South,South Atlantic,Non-whites college grads,10,N/A,N/A
-Education and race,EDUCWHITE,OK,South,South Atlantic,Non-whites no degree,15,55,37
-Income,INCOME16,OK,South,South Atlantic,Less than $30K,20,44,54
-Income,INCOME16,OK,South,South Atlantic,$30K-50K,24,38,54
-Income,INCOME16,OK,South,South Atlantic,$50K-100K,34,36,54
-Income,INCOME16,OK,South,South Atlantic,$100K-200K,18,46,49
-Income,INCOME16,OK,South,South Atlantic,$200K or more,4,N/A,N/A
-Income,INC50K,OK,South,South Atlantic,Under $50K,44,41,54
-Income,INC50K,OK,South,South Atlantic,$50K or More,56,41,51
-Income,INC100K,OK,South,South Atlantic,Under $100K,79,39,54
-Income,INC100K,OK,South,South Atlantic,$100K or more,21,48,46
-Income,INCOME3,OK,South,South Atlantic,Under $50K,44,41,54
-Income,INCOME3,OK,South,South Atlantic,$50K-$100K,34,36,54
-Income,INCOME3,OK,South,South Atlantic,$100K or more,21,48,46
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,OK,South,South Atlantic,Voted before,84,46,48
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,OK,South,South Atlantic,First-time voter,15,16,73
-Party ID,PARTY,OK,South,South Atlantic,Democrats,66,52,43
-Party ID,PARTY,OK,South,South Atlantic,Republicans,7,N/A,N/A
-Party ID,PARTY,OK,South,South Atlantic,Independents,27,21,69
-Ideology,PHIL4,OK,South,South Atlantic,Very liberal,18,42,58
-Ideology,PHIL4,OK,South,South Atlantic,Somewhat liberal,27,42,55
-Ideology,PHIL4,OK,South,South Atlantic,Moderate,36,48,47
-Ideology,PHIL4,OK,South,South Atlantic,Conservative,19,22,54
-Ideology,PHIL3X,OK,South,South Atlantic,Liberal,45,42,56
-Ideology,PHIL3X,OK,South,South Atlantic,Moderate,36,48,47
-Ideology,PHIL3X,OK,South,South Atlantic,Conservative,19,22,54
-Ideology ,PHIL2D,OK,South,South Atlantic,Liberal,45,42,56
-Ideology ,PHIL2D,OK,South,South Atlantic,Moderate/Conservative,55,39,50
-Marital status,MARRIED,OK,South,South Atlantic,Married,61,42,51
-Marital status,MARRIED,OK,South,South Atlantic,Unmarried,39,39,55
-Marital status and gender,SEXWED,OK,South,South Atlantic,Married men,28,34,58
-Marital status and gender,SEXWED,OK,South,South Atlantic,Married women,32,48,44
-Marital status and gender,SEXWED,OK,South,South Atlantic,Unmarried men,18,30,61
-Marital status and gender,SEXWED,OK,South,South Atlantic,Unmarried women,22,47,50
-Most important issue,ISSDEM16,OK,South,South Atlantic,Health care,21,48,50
-Most important issue,ISSDEM16,OK,South,South Atlantic,Economy/Jobs,42,41,50
-Most important issue,ISSDEM16,OK,South,South Atlantic,Terrorism,14,N/A,N/A
-Most important issue,ISSDEM16,OK,South,South Atlantic,Income inequality,20,34,65
-Top candidate quality,QLT16DEMPRI,OK,South,South Atlantic,Electability,13,75,25
-Top candidate quality,QLT16DEMPRI,OK,South,South Atlantic,Cares,29,28,69
-Top candidate quality,QLT16DEMPRI,OK,South,South Atlantic,Honest,32,17,68
-Top candidate quality,QLT16DEMPRI,OK,South,South Atlantic,Experience,22,78,20
-Who is honest and trustworthy?,HONESTDEM16,OK,South,South Atlantic,Only Clinton,12,N/A,N/A
-Who is honest and trustworthy?,HONESTDEM16,OK,South,South Atlantic,Only Sanders,33,4,95
-Who is honest and trustworthy?,HONESTDEM16,OK,South,South Atlantic,Both,35,67,32
-Who is honest and trustworthy?,HONESTDEM16,OK,South,South Atlantic,Neither,18,N/A,N/A
-Is Clinton honest and trustworthy?,HONESTDEM16CLIN,OK,South,South Atlantic,Yes,47,75,25
-Is Clinton honest and trustworthy?,HONESTDEM16CLIN,OK,South,South Atlantic,No,51,9,78
-Is Sanders honest and trustworthy?,HONESTDEM16SAND,OK,South,South Atlantic,Yes,68,37,63
-Is Sanders honest and trustworthy?,HONESTDEM16SAND,OK,South,South Atlantic,No,30,50,30
-Who do you trust in an international crisis?,INTCRISISDEM16,OK,South,South Atlantic,Only Clinton,27,94,5
-Who do you trust in an international crisis?,INTCRISISDEM16,OK,South,South Atlantic,Only Sanders,17,0,100
-Who do you trust in an international crisis?,INTCRISISDEM16,OK,South,South Atlantic,Both,37,36,63
-Who do you trust in an international crisis?,INTCRISISDEM16,OK,South,South Atlantic,Neither,17,N/A,N/A
-Trust Clinton in an international crisis?,INTCRISISDEMCLIN,OK,South,South Atlantic,Yes,64,60,38
-Trust Clinton in an international crisis?,INTCRISISDEMCLIN,OK,South,South Atlantic,No,35,6,78
-Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,OK,South,South Atlantic,Yes,54,25,74
-Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,OK,South,South Atlantic,No,45,61,25
-Better handle Supreme Court nominations?,SCOTUSDEM16,OK,South,South Atlantic,Clinton,45,89,10
-Better handle Supreme Court nominations?,SCOTUSDEM16,OK,South,South Atlantic,Sanders,50,2,93
-The next president should:,OBAMAPLCY,OK,South,South Atlantic,Continue Obama's policies,38,64,34
-The next president should:,OBAMAPLCY,OK,South,South Atlantic,Be more liberal,31,26,70
-The next president should:,OBAMAPLCY,OK,South,South Atlantic,Be less liberal,28,24,59
-U.S. economic system generally:,ECONFAIR,OK,South,South Atlantic,Favors the wealthy,89,41,54
-U.S. economic system generally:,ECONFAIR,OK,South,South Atlantic,Is fair to most Americans,11,N/A,N/A
-Next president should be:,OUTSIDER16,OK,South,South Atlantic,Experienced in politics,74,50,47
-Next president should be:,OUTSIDER16,OK,South,South Atlantic,Outside the establishment,23,16,69
-Clinton's positions on the issues are:,CLINTONLIB,OK,South,South Atlantic,Too liberal,22,11,69
-Clinton's positions on the issues are:,CLINTONLIB,OK,South,South Atlantic,Not liberal enough,23,14,83
-Clinton's positions on the issues are:,CLINTONLIB,OK,South,South Atlantic,About right,51,68,31
-Sanders' positions on the issues are:,SANDERSLIB,OK,South,South Atlantic,Too liberal,28,57,28
-Sanders' positions on the issues are:,SANDERSLIB,OK,South,South Atlantic,Not liberal enough,10,N/A,N/A
-Sanders' positions on the issues are:,SANDERSLIB,OK,South,South Atlantic,About right,57,28,72
-When did you decide whom to vote for?,TIMENH16,OK,South,South Atlantic,Just today,13,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,OK,South,South Atlantic,In the last few days,9,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,OK,South,South Atlantic,Sometime last week,4,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,OK,South,South Atlantic,In the last month,18,31,67
-When did you decide whom to vote for?,TIMENH16,OK,South,South Atlantic,Before that,56,49,46
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,OK,South,South Atlantic,Last few days,22,32,52
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,OK,South,South Atlantic,Earlier,78,44,52
-When did you decide whom to vote for?,TIMEPRIWK,OK,South,South Atlantic,In the last week,25,31,55
-When did you decide whom to vote for?,TIMEPRIWK,OK,South,South Atlantic,Earlier,74,44,51
-Area type,SIZEPLC3,OK,South,South Atlantic,Urban area,39,52,45
-Area type,SIZEPLC3,OK,South,South Atlantic,Suburban area,35,34,57
-Area type,SIZEPLC3,OK,South,South Atlantic,Rural area,26,36,57
-Region,GEOCOD,OK,South,South Atlantic,Tulsa/East,41,42,50
-Region,GEOCOD,OK,South,South Atlantic,Oklahoma City,20,50,48
-Region,GEOCOD,OK,South,South Atlantic,Okla. City Suburbs,15,35,57
-Region,GEOCOD,OK,South,South Atlantic,Central/West,24,N/A,N/A
+Gender,SEX,OK,South,West South Central,Men,46,33,60
+Gender,SEX,OK,South,West South Central,Women,54,48,46
+Age,AGE,OK,South,West South Central,18-29,12,17,82
+Age,AGE,OK,South,West South Central,30-44,21,26,73
+Age,AGE,OK,South,West South Central,45-64,39,48,44
+Age,AGE,OK,South,West South Central,65 and older,28,53,36
+Age,AGE65,OK,South,West South Central,18-24,7,N/A,N/A
+Age,AGE65,OK,South,West South Central,25-29,6,N/A,N/A
+Age,AGE65,OK,South,West South Central,30-39,15,22,76
+Age,AGE65,OK,South,West South Central,40-49,13,44,49
+Age,AGE65,OK,South,West South Central,50-64,32,48,45
+Age,AGE65,OK,South,West South Central,65 and older,28,53,36
+Age,AGE45,OK,South,West South Central,18-44,33,23,76
+Age,AGE45,OK,South,West South Central,45 and older,67,50,41
+Race,RACE,OK,South,West South Central,White,74,36,56
+Race,RACE,OK,South,West South Central,Black,14,71,27
+Race,RACE,OK,South,West South Central,Latino,4,N/A,N/A
+Race,RACE,OK,South,West South Central,Asian,1,N/A,N/A
+Race,RACE,OK,South,West South Central,Other race,8,N/A,N/A
+Race,RACE2B,OK,South,West South Central,White,74,36,56
+Race,RACE2B,OK,South,West South Central,Non-white,26,56,40
+Education,EDUC12R,OK,South,West South Central,High school or less,18,39,54
+Education,EDUC12R,OK,South,West South Central,Some college,33,35,56
+Education,EDUC12R,OK,South,West South Central,College graduate,26,40,52
+Education,EDUC12R,OK,South,West South Central,Postgraduate,23,52,47
+Are you a college graduate?,EDUCCOLL,OK,South,West South Central,Yes,49,45,50
+Are you a college graduate?,EDUCCOLL,OK,South,West South Central,No,51,36,55
+Education and race,EDUCWHITE,OK,South,West South Central,White college graduates,39,43,51
+Education and race,EDUCWHITE,OK,South,West South Central,Whites no degree,35,28,63
+Education and race,EDUCWHITE,OK,South,West South Central,Non-whites college grads,10,N/A,N/A
+Education and race,EDUCWHITE,OK,South,West South Central,Non-whites no degree,15,55,37
+Income,INCOME16,OK,South,West South Central,Less than $30K,20,44,54
+Income,INCOME16,OK,South,West South Central,$30K-50K,24,38,54
+Income,INCOME16,OK,South,West South Central,$50K-100K,34,36,54
+Income,INCOME16,OK,South,West South Central,$100K-200K,18,46,49
+Income,INCOME16,OK,South,West South Central,$200K or more,4,N/A,N/A
+Income,INC50K,OK,South,West South Central,Under $50K,44,41,54
+Income,INC50K,OK,South,West South Central,$50K or More,56,41,51
+Income,INC100K,OK,South,West South Central,Under $100K,79,39,54
+Income,INC100K,OK,South,West South Central,$100K or more,21,48,46
+Income,INCOME3,OK,South,West South Central,Under $50K,44,41,54
+Income,INCOME3,OK,South,West South Central,$50K-$100K,34,36,54
+Income,INCOME3,OK,South,West South Central,$100K or more,21,48,46
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,OK,South,West South Central,Voted before,84,46,48
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,OK,South,West South Central,First-time voter,15,16,73
+Party ID,PARTY,OK,South,West South Central,Democrats,66,52,43
+Party ID,PARTY,OK,South,West South Central,Republicans,7,N/A,N/A
+Party ID,PARTY,OK,South,West South Central,Independents,27,21,69
+Ideology,PHIL4,OK,South,West South Central,Very liberal,18,42,58
+Ideology,PHIL4,OK,South,West South Central,Somewhat liberal,27,42,55
+Ideology,PHIL4,OK,South,West South Central,Moderate,36,48,47
+Ideology,PHIL4,OK,South,West South Central,Conservative,19,22,54
+Ideology,PHIL3X,OK,South,West South Central,Liberal,45,42,56
+Ideology,PHIL3X,OK,South,West South Central,Moderate,36,48,47
+Ideology,PHIL3X,OK,South,West South Central,Conservative,19,22,54
+Ideology ,PHIL2D,OK,South,West South Central,Liberal,45,42,56
+Ideology ,PHIL2D,OK,South,West South Central,Moderate/Conservative,55,39,50
+Marital status,MARRIED,OK,South,West South Central,Married,61,42,51
+Marital status,MARRIED,OK,South,West South Central,Unmarried,39,39,55
+Marital status and gender,SEXWED,OK,South,West South Central,Married men,28,34,58
+Marital status and gender,SEXWED,OK,South,West South Central,Married women,32,48,44
+Marital status and gender,SEXWED,OK,South,West South Central,Unmarried men,18,30,61
+Marital status and gender,SEXWED,OK,South,West South Central,Unmarried women,22,47,50
+Most important issue,ISSDEM16,OK,South,West South Central,Health care,21,48,50
+Most important issue,ISSDEM16,OK,South,West South Central,Economy/Jobs,42,41,50
+Most important issue,ISSDEM16,OK,South,West South Central,Terrorism,14,N/A,N/A
+Most important issue,ISSDEM16,OK,South,West South Central,Income inequality,20,34,65
+Top candidate quality,QLT16DEMPRI,OK,South,West South Central,Electability,13,75,25
+Top candidate quality,QLT16DEMPRI,OK,South,West South Central,Cares,29,28,69
+Top candidate quality,QLT16DEMPRI,OK,South,West South Central,Honest,32,17,68
+Top candidate quality,QLT16DEMPRI,OK,South,West South Central,Experience,22,78,20
+Who is honest and trustworthy?,HONESTDEM16,OK,South,West South Central,Only Clinton,12,N/A,N/A
+Who is honest and trustworthy?,HONESTDEM16,OK,South,West South Central,Only Sanders,33,4,95
+Who is honest and trustworthy?,HONESTDEM16,OK,South,West South Central,Both,35,67,32
+Who is honest and trustworthy?,HONESTDEM16,OK,South,West South Central,Neither,18,N/A,N/A
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,OK,South,West South Central,Yes,47,75,25
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,OK,South,West South Central,No,51,9,78
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,OK,South,West South Central,Yes,68,37,63
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,OK,South,West South Central,No,30,50,30
+Who do you trust in an international crisis?,INTCRISISDEM16,OK,South,West South Central,Only Clinton,27,94,5
+Who do you trust in an international crisis?,INTCRISISDEM16,OK,South,West South Central,Only Sanders,17,0,100
+Who do you trust in an international crisis?,INTCRISISDEM16,OK,South,West South Central,Both,37,36,63
+Who do you trust in an international crisis?,INTCRISISDEM16,OK,South,West South Central,Neither,17,N/A,N/A
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,OK,South,West South Central,Yes,64,60,38
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,OK,South,West South Central,No,35,6,78
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,OK,South,West South Central,Yes,54,25,74
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,OK,South,West South Central,No,45,61,25
+Better handle Supreme Court nominations?,SCOTUSDEM16,OK,South,West South Central,Clinton,45,89,10
+Better handle Supreme Court nominations?,SCOTUSDEM16,OK,South,West South Central,Sanders,50,2,93
+The next president should:,OBAMAPLCY,OK,South,West South Central,Continue Obama's policies,38,64,34
+The next president should:,OBAMAPLCY,OK,South,West South Central,Be more liberal,31,26,70
+The next president should:,OBAMAPLCY,OK,South,West South Central,Be less liberal,28,24,59
+U.S. economic system generally:,ECONFAIR,OK,South,West South Central,Favors the wealthy,89,41,54
+U.S. economic system generally:,ECONFAIR,OK,South,West South Central,Is fair to most Americans,11,N/A,N/A
+Next president should be:,OUTSIDER16,OK,South,West South Central,Experienced in politics,74,50,47
+Next president should be:,OUTSIDER16,OK,South,West South Central,Outside the establishment,23,16,69
+Clinton's positions on the issues are:,CLINTONLIB,OK,South,West South Central,Too liberal,22,11,69
+Clinton's positions on the issues are:,CLINTONLIB,OK,South,West South Central,Not liberal enough,23,14,83
+Clinton's positions on the issues are:,CLINTONLIB,OK,South,West South Central,About right,51,68,31
+Sanders' positions on the issues are:,SANDERSLIB,OK,South,West South Central,Too liberal,28,57,28
+Sanders' positions on the issues are:,SANDERSLIB,OK,South,West South Central,Not liberal enough,10,N/A,N/A
+Sanders' positions on the issues are:,SANDERSLIB,OK,South,West South Central,About right,57,28,72
+When did you decide whom to vote for?,TIMENH16,OK,South,West South Central,Just today,13,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,OK,South,West South Central,In the last few days,9,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,OK,South,West South Central,Sometime last week,4,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,OK,South,West South Central,In the last month,18,31,67
+When did you decide whom to vote for?,TIMENH16,OK,South,West South Central,Before that,56,49,46
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,OK,South,West South Central,Last few days,22,32,52
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,OK,South,West South Central,Earlier,78,44,52
+When did you decide whom to vote for?,TIMEPRIWK,OK,South,West South Central,In the last week,25,31,55
+When did you decide whom to vote for?,TIMEPRIWK,OK,South,West South Central,Earlier,74,44,51
+Area type,SIZEPLC3,OK,South,West South Central,Urban area,39,52,45
+Area type,SIZEPLC3,OK,South,West South Central,Suburban area,35,34,57
+Area type,SIZEPLC3,OK,South,West South Central,Rural area,26,36,57
+Region,GEOCOD,OK,South,West South Central,Tulsa/East,41,42,50
+Region,GEOCOD,OK,South,West South Central,Oklahoma City,20,50,48
+Region,GEOCOD,OK,South,West South Central,Okla. City Suburbs,15,35,57
+Region,GEOCOD,OK,South,West South Central,Central/West,24,N/A,N/A

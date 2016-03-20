@@ -1,157 +1,157 @@
 question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
-Gender,SEX,OH,South,South Atlantic,Men,44,48,51
-Gender,SEX,OH,South,South Atlantic,Women,56,63,36
-Age,AGE,OH,South,South Atlantic,18-29,15,19,81
-Age,AGE,OH,South,South Atlantic,30-44,22,45,54
-Age,AGE,OH,South,South Atlantic,45-64,41,66,32
-Age,AGE,OH,South,South Atlantic,65 and older,21,77,23
-Age,AGE65,OH,South,South Atlantic,18-24,8,15,85
-Age,AGE65,OH,South,South Atlantic,25-29,7,23,77
-Age,AGE65,OH,South,South Atlantic,30-39,15,41,57
-Age,AGE65,OH,South,South Atlantic,40-49,15,54,46
-Age,AGE65,OH,South,South Atlantic,50-64,33,69,30
-Age,AGE65,OH,South,South Atlantic,65 and older,21,77,23
-Age,AGE45,OH,South,South Atlantic,18-44,38,34,65
-Age,AGE45,OH,South,South Atlantic,45 and older,62,70,29
-Race,RACE,OH,South,South Atlantic,White,74,53,47
-Race,RACE,OH,South,South Atlantic,Black,20,71,28
-Race,RACE,OH,South,South Atlantic,Latino,2,N/A,N/A
-Race,RACE,OH,South,South Atlantic,Asian,1,N/A,N/A
-Race,RACE,OH,South,South Atlantic,Other race,2,N/A,N/A
-Race,RACE2B,OH,South,South Atlantic,White,74,53,47
-Race,RACE2B,OH,South,South Atlantic,Non-white,26,67,32
-Race by gender,SEXBYRACE,OH,South,South Atlantic,White men,33,42,57
-Race by gender,SEXBYRACE,OH,South,South Atlantic,White women,41,61,38
-Race by gender,SEXBYRACE,OH,South,South Atlantic,Black men,8,73,26
-Race by gender,SEXBYRACE,OH,South,South Atlantic,Black women,12,69,29
-Race by gender,SEXBYRACE,OH,South,South Atlantic,Latino men,1,N/A,N/A
-Race by gender,SEXBYRACE,OH,South,South Atlantic,Latino women,1,N/A,N/A
-Race by gender,SEXBYRACE,OH,South,South Atlantic,Others,4,N/A,N/A
-Education,EDUC12R,OH,South,South Atlantic,High school or less,17,62,37
-Education,EDUC12R,OH,South,South Atlantic,Some college,34,50,49
-Education,EDUC12R,OH,South,South Atlantic,College graduate,28,54,46
-Education,EDUC12R,OH,South,South Atlantic,Postgraduate,21,63,37
-Are you a college graduate?,EDUCCOLL,OH,South,South Atlantic,Yes,49,57,42
-Are you a college graduate?,EDUCCOLL,OH,South,South Atlantic,No,51,54,45
-Education and race,EDUCWHITE,OH,South,South Atlantic,White college graduates,39,54,45
-Education and race,EDUCWHITE,OH,South,South Atlantic,Whites no degree,36,50,49
-Education and race,EDUCWHITE,OH,South,South Atlantic,Non-whites college grads,10,70,30
-Education and race,EDUCWHITE,OH,South,South Atlantic,Non-whites no degree,15,64,34
-Income,INCOME16,OH,South,South Atlantic,Less than $30K,21,59,38
-Income,INCOME16,OH,South,South Atlantic,$30K-50K,21,51,48
-Income,INCOME16,OH,South,South Atlantic,$50K-100K,32,56,44
-Income,INCOME16,OH,South,South Atlantic,$100K-200K,23,51,49
-Income,INCOME16,OH,South,South Atlantic,$200K or more,4,N/A,N/A
-Income,INC50K,OH,South,South Atlantic,Under $50K,42,55,43
-Income,INC50K,OH,South,South Atlantic,$50K or More,58,54,46
-Income,INC100K,OH,South,South Atlantic,Under $100K,74,55,43
-Income,INC100K,OH,South,South Atlantic,$100K or more,26,51,49
-Income,INCOME3,OH,South,South Atlantic,Under $50K,42,55,43
-Income,INCOME3,OH,South,South Atlantic,$50K-$100K,32,56,44
-Income,INCOME3,OH,South,South Atlantic,$100K or more,26,51,49
-Party ID,PARTY,OH,South,South Atlantic,Democrats,74,64,35
-Party ID,PARTY,OH,South,South Atlantic,Republicans,2,N/A,N/A
-Party ID,PARTY,OH,South,South Atlantic,Independents,24,33,66
-Ideology,PHIL4,OH,South,South Atlantic,Very liberal,23,48,52
-Ideology,PHIL4,OH,South,South Atlantic,Somewhat liberal,36,53,46
-Ideology,PHIL4,OH,South,South Atlantic,Moderate,34,63,36
-Ideology,PHIL4,OH,South,South Atlantic,Conservative,7,58,38
-Ideology,PHIL3X,OH,South,South Atlantic,Liberal,59,51,48
-Ideology,PHIL3X,OH,South,South Atlantic,Moderate,34,63,36
-Ideology,PHIL3X,OH,South,South Atlantic,Conservative,7,58,38
-Ideology ,PHIL2D,OH,South,South Atlantic,Liberal,59,51,48
-Ideology ,PHIL2D,OH,South,South Atlantic,Moderate/Conservative,41,62,36
-Marital status,MARRIED,OH,South,South Atlantic,Married,56,58,41
-Marital status,MARRIED,OH,South,South Atlantic,Unmarried,44,54,46
-Marital status and gender,SEXWED,OH,South,South Atlantic,Married men,26,50,48
-Marital status and gender,SEXWED,OH,South,South Atlantic,Married women,30,65,34
-Marital status and gender,SEXWED,OH,South,South Atlantic,Unmarried men,18,45,55
-Marital status and gender,SEXWED,OH,South,South Atlantic,Unmarried women,25,61,39
-Union household?,UNIONHH12,OH,South,South Atlantic,Yes,24,55,45
-Union household?,UNIONHH12,OH,South,South Atlantic,No,76,54,44
-Most important issue,ISSDEM16,OH,South,South Atlantic,Health care,23,59,41
-Most important issue,ISSDEM16,OH,South,South Atlantic,Economy/Jobs,40,59,39
-Most important issue,ISSDEM16,OH,South,South Atlantic,Terrorism,10,79,21
-Most important issue,ISSDEM16,OH,South,South Atlantic,Income inequality,25,39,61
-Top candidate quality,QLT16DEMPRI,OH,South,South Atlantic,Electability,13,83,17
-Top candidate quality,QLT16DEMPRI,OH,South,South Atlantic,Cares,28,42,58
-Top candidate quality,QLT16DEMPRI,OH,South,South Atlantic,Honest,26,26,73
-Top candidate quality,QLT16DEMPRI,OH,South,South Atlantic,Experience,31,84,15
-The next president should:,OBAMAPLCY,OH,South,South Atlantic,Continue Obama's policies,51,74,26
-The next president should:,OBAMAPLCY,OH,South,South Atlantic,Be more liberal,32,28,71
-The next president should:,OBAMAPLCY,OH,South,South Atlantic,Be less liberal,12,48,47
-Race relations in this country have:,RACEREL14,OH,South,South Atlantic,Gotten better,12,N/A,N/A
-Race relations in this country have:,RACEREL14,OH,South,South Atlantic,Stayed the same,30,57,42
-Race relations in this country have:,RACEREL14,OH,South,South Atlantic,Gotten worse,56,57,43
-Who do you trust to handle race relations?,RACERELDEM16,OH,South,South Atlantic,Only Clinton,20,100,N/A
-Who do you trust to handle race relations?,RACERELDEM16,OH,South,South Atlantic,Only Sanders,16,2,98
-Who do you trust to handle race relations?,RACERELDEM16,OH,South,South Atlantic,Both,59,57,42
-Who do you trust to handle race relations?,RACERELDEM16,OH,South,South Atlantic,Neither,4,N/A,N/A
-Trust Clinton to handle race relations?,RACERELCLIN,OH,South,South Atlantic,Yes,79,68,31
-Trust Clinton to handle race relations?,RACERELCLIN,OH,South,South Atlantic,No,19,9,90
-Trust Sanders to handle race relations?,RACERELSANDERS,OH,South,South Atlantic,Yes,75,45,54
-Trust Sanders to handle race relations?,RACERELSANDERS,OH,South,South Atlantic,No,24,91,8
-Trade with other countries:,TRADE16,OH,South,South Atlantic,Creates U.S. jobs,29,65,35
-Trade with other countries:,TRADE16,OH,South,South Atlantic,Takes away U.S. jobs,53,54,45
-Trade with other countries:,TRADE16,OH,South,South Atlantic,Does not affect jobs,13,N/A,N/A
-Worried about U.S. economy?,ECONWORR,OH,South,South Atlantic,Very worried,34,52,46
-Worried about U.S. economy?,ECONWORR,OH,South,South Atlantic,Somewhat worried,41,50,49
-Worried about U.S. economy?,ECONWORR,OH,South,South Atlantic,Not too worried,20,67,33
-Worried about U.S. economy?,ECONWORR,OH,South,South Atlantic,Not at all worried,4,N/A,N/A
-Worried about U.S. economy?,ECOWORR2,OH,South,South Atlantic,Yes,75,51,48
-Worried about U.S. economy?,ECOWORR2,OH,South,South Atlantic,No,24,69,31
-Family's financial situation,GETAHEAD,OH,South,South Atlantic,Getting ahead,20,57,43
-Family's financial situation,GETAHEAD,OH,South,South Atlantic,Holding steady ,62,57,42
-Family's financial situation,GETAHEAD,OH,South,South Atlantic,Falling behind ,19,57,43
-Next president should be:,OUTSIDER16,OH,South,South Atlantic,Experienced in politics,81,61,38
-Next president should be:,OUTSIDER16,OH,South,South Atlantic,Outside the establishment,15,26,71
-Satisfied if Clinton wins the nomination?,SATHCLIN,OH,South,South Atlantic,Yes,76,73,26
-Satisfied if Clinton wins the nomination?,SATHCLIN,OH,South,South Atlantic,No,23,3,96
-Satisfied if Sanders wins the nomination?,SATSANDERS,OH,South,South Atlantic,Yes,66,38,62
-Satisfied if Sanders wins the nomination?,SATSANDERS,OH,South,South Atlantic,No,32,96,4
-Clinton's positions on the issues are:,CLINTONLIB,OH,South,South Atlantic,Too liberal,8,N/A,N/A
-Clinton's positions on the issues are:,CLINTONLIB,OH,South,South Atlantic,Not liberal enough,24,22,78
-Clinton's positions on the issues are:,CLINTONLIB,OH,South,South Atlantic,About right,65,75,24
-Sanders' positions on the issues are:,SANDERSLIB,OH,South,South Atlantic,Too liberal,27,85,14
-Sanders' positions on the issues are:,SANDERSLIB,OH,South,South Atlantic,Not liberal enough,11,N/A,N/A
-Sanders' positions on the issues are:,SANDERSLIB,OH,South,South Atlantic,About right,57,37,63
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,OH,South,South Atlantic,Yes,61,80,18
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,OH,South,South Atlantic,No,36,12,88
-Is Bernie Sanders honest and trustworthy?,SANDHONEST,OH,South,South Atlantic,Yes,79,47,52
-Is Bernie Sanders honest and trustworthy?,SANDHONEST,OH,South,South Atlantic,No,15,82,14
-Hillary Clinton's views on business are:,CLINBUSINESS,OH,South,South Atlantic,Too pro-business,29,17,82
-Hillary Clinton's views on business are:,CLINBUSINESS,OH,South,South Atlantic,Too anti-business,6,N/A,N/A
-Hillary Clinton's views on business are:,CLINBUSINESS,OH,South,South Atlantic,About right,61,79,20
-Bernie Sanders' views on business are:,SANDBUSINESS,OH,South,South Atlantic,Too pro-business,7,N/A,N/A
-Bernie Sanders' views on business are:,SANDBUSINESS,OH,South,South Atlantic,Too anti-business,28,87,11
-Bernie Sanders' views on business are:,SANDBUSINESS,OH,South,South Atlantic,About right,57,32,68
-Hillary Clinton's policies are:,CLINREALISTIC,OH,South,South Atlantic,Realistic,78,71,29
-Hillary Clinton's policies are:,CLINREALISTIC,OH,South,South Atlantic,Not realistic,19,8,91
-Bernie Sanders' policies are:,SANDREALISTIC,OH,South,South Atlantic,Realistic,57,35,65
-Bernie Sanders' policies are:,SANDREALISTIC,OH,South,South Atlantic,Not realistic,40,88,12
-The candidate's gender was:,GENDISS,OH,South,South Atlantic,Most important factor,4,N/A,N/A
-The candidate's gender was:,GENDISS,OH,South,South Atlantic,An important factor,13,83,17
-The candidate's gender was:,GENDISS,OH,South,South Atlantic,Not a factor,82,53,47
-Was the candidate's gender an important factor?,GENDISS2,OH,South,South Atlantic,Yes,17,83,17
-Was the candidate's gender an important factor?,GENDISS2,OH,South,South Atlantic,No,82,53,47
-Better chance to defeat Trump in November?,BEATTRUMP16,OH,South,South Atlantic,Clinton,66,83,17
-Better chance to defeat Trump in November?,BEATTRUMP16,OH,South,South Atlantic,Sanders,31,4,96
-Who would make the best commander in chief?,CICDEM16,OH,South,South Atlantic,Clinton,57,92,6
-Who would make the best commander in chief?,CICDEM16,OH,South,South Atlantic,Sanders,40,3,97
-When did you decide whom to vote for?,TIMENH16,OH,South,South Atlantic,Just today,11,58,40
-When did you decide whom to vote for?,TIMENH16,OH,South,South Atlantic,In the last few days,8,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,OH,South,South Atlantic,Sometime last week,6,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,OH,South,South Atlantic,In the last month,15,52,47
-When did you decide whom to vote for?,TIMENH16,OH,South,South Atlantic,Before that,59,61,38
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,OH,South,South Atlantic,Last few days,19,48,51
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,OH,South,South Atlantic,Earlier,80,57,42
-When did you decide whom to vote for?,TIMEPRIWK,OH,South,South Atlantic,In the last week,25,44,55
-When did you decide whom to vote for?,TIMEPRIWK,OH,South,South Atlantic,Earlier,74,60,40
-Area type,SIZEPLC3,OH,South,South Atlantic,Urban area,44,61,38
-Area type,SIZEPLC3,OH,South,South Atlantic,Suburban area,47,53,46
-Area type,SIZEPLC3,OH,South,South Atlantic,Rural area,9,51,48
-Region,GEOCOD,OH,South,South Atlantic,Cleveland Area,22,63,35
-Region,GEOCOD,OH,South,South Atlantic,North,29,57,43
-Region,GEOCOD,OH,South,South Atlantic,Ohio Valley/West,15,52,47
-Region,GEOCOD,OH,South,South Atlantic,Columbus Area,18,52,47
-Region,GEOCOD,OH,South,South Atlantic,Cincinnati/Dayton,16,55,45
+Gender,SEX,OH,Midwest,East North Central,Men,44,48,51
+Gender,SEX,OH,Midwest,East North Central,Women,56,63,36
+Age,AGE,OH,Midwest,East North Central,18-29,15,19,81
+Age,AGE,OH,Midwest,East North Central,30-44,22,45,54
+Age,AGE,OH,Midwest,East North Central,45-64,41,66,32
+Age,AGE,OH,Midwest,East North Central,65 and older,21,77,23
+Age,AGE65,OH,Midwest,East North Central,18-24,8,15,85
+Age,AGE65,OH,Midwest,East North Central,25-29,7,23,77
+Age,AGE65,OH,Midwest,East North Central,30-39,15,41,57
+Age,AGE65,OH,Midwest,East North Central,40-49,15,54,46
+Age,AGE65,OH,Midwest,East North Central,50-64,33,69,30
+Age,AGE65,OH,Midwest,East North Central,65 and older,21,77,23
+Age,AGE45,OH,Midwest,East North Central,18-44,38,34,65
+Age,AGE45,OH,Midwest,East North Central,45 and older,62,70,29
+Race,RACE,OH,Midwest,East North Central,White,74,53,47
+Race,RACE,OH,Midwest,East North Central,Black,20,71,28
+Race,RACE,OH,Midwest,East North Central,Latino,2,N/A,N/A
+Race,RACE,OH,Midwest,East North Central,Asian,1,N/A,N/A
+Race,RACE,OH,Midwest,East North Central,Other race,2,N/A,N/A
+Race,RACE2B,OH,Midwest,East North Central,White,74,53,47
+Race,RACE2B,OH,Midwest,East North Central,Non-white,26,67,32
+Race by gender,SEXBYRACE,OH,Midwest,East North Central,White men,33,42,57
+Race by gender,SEXBYRACE,OH,Midwest,East North Central,White women,41,61,38
+Race by gender,SEXBYRACE,OH,Midwest,East North Central,Black men,8,73,26
+Race by gender,SEXBYRACE,OH,Midwest,East North Central,Black women,12,69,29
+Race by gender,SEXBYRACE,OH,Midwest,East North Central,Latino men,1,N/A,N/A
+Race by gender,SEXBYRACE,OH,Midwest,East North Central,Latino women,1,N/A,N/A
+Race by gender,SEXBYRACE,OH,Midwest,East North Central,Others,4,N/A,N/A
+Education,EDUC12R,OH,Midwest,East North Central,High school or less,17,62,37
+Education,EDUC12R,OH,Midwest,East North Central,Some college,34,50,49
+Education,EDUC12R,OH,Midwest,East North Central,College graduate,28,54,46
+Education,EDUC12R,OH,Midwest,East North Central,Postgraduate,21,63,37
+Are you a college graduate?,EDUCCOLL,OH,Midwest,East North Central,Yes,49,57,42
+Are you a college graduate?,EDUCCOLL,OH,Midwest,East North Central,No,51,54,45
+Education and race,EDUCWHITE,OH,Midwest,East North Central,White college graduates,39,54,45
+Education and race,EDUCWHITE,OH,Midwest,East North Central,Whites no degree,36,50,49
+Education and race,EDUCWHITE,OH,Midwest,East North Central,Non-whites college grads,10,70,30
+Education and race,EDUCWHITE,OH,Midwest,East North Central,Non-whites no degree,15,64,34
+Income,INCOME16,OH,Midwest,East North Central,Less than $30K,21,59,38
+Income,INCOME16,OH,Midwest,East North Central,$30K-50K,21,51,48
+Income,INCOME16,OH,Midwest,East North Central,$50K-100K,32,56,44
+Income,INCOME16,OH,Midwest,East North Central,$100K-200K,23,51,49
+Income,INCOME16,OH,Midwest,East North Central,$200K or more,4,N/A,N/A
+Income,INC50K,OH,Midwest,East North Central,Under $50K,42,55,43
+Income,INC50K,OH,Midwest,East North Central,$50K or More,58,54,46
+Income,INC100K,OH,Midwest,East North Central,Under $100K,74,55,43
+Income,INC100K,OH,Midwest,East North Central,$100K or more,26,51,49
+Income,INCOME3,OH,Midwest,East North Central,Under $50K,42,55,43
+Income,INCOME3,OH,Midwest,East North Central,$50K-$100K,32,56,44
+Income,INCOME3,OH,Midwest,East North Central,$100K or more,26,51,49
+Party ID,PARTY,OH,Midwest,East North Central,Democrats,74,64,35
+Party ID,PARTY,OH,Midwest,East North Central,Republicans,2,N/A,N/A
+Party ID,PARTY,OH,Midwest,East North Central,Independents,24,33,66
+Ideology,PHIL4,OH,Midwest,East North Central,Very liberal,23,48,52
+Ideology,PHIL4,OH,Midwest,East North Central,Somewhat liberal,36,53,46
+Ideology,PHIL4,OH,Midwest,East North Central,Moderate,34,63,36
+Ideology,PHIL4,OH,Midwest,East North Central,Conservative,7,58,38
+Ideology,PHIL3X,OH,Midwest,East North Central,Liberal,59,51,48
+Ideology,PHIL3X,OH,Midwest,East North Central,Moderate,34,63,36
+Ideology,PHIL3X,OH,Midwest,East North Central,Conservative,7,58,38
+Ideology ,PHIL2D,OH,Midwest,East North Central,Liberal,59,51,48
+Ideology ,PHIL2D,OH,Midwest,East North Central,Moderate/Conservative,41,62,36
+Marital status,MARRIED,OH,Midwest,East North Central,Married,56,58,41
+Marital status,MARRIED,OH,Midwest,East North Central,Unmarried,44,54,46
+Marital status and gender,SEXWED,OH,Midwest,East North Central,Married men,26,50,48
+Marital status and gender,SEXWED,OH,Midwest,East North Central,Married women,30,65,34
+Marital status and gender,SEXWED,OH,Midwest,East North Central,Unmarried men,18,45,55
+Marital status and gender,SEXWED,OH,Midwest,East North Central,Unmarried women,25,61,39
+Union household?,UNIONHH12,OH,Midwest,East North Central,Yes,24,55,45
+Union household?,UNIONHH12,OH,Midwest,East North Central,No,76,54,44
+Most important issue,ISSDEM16,OH,Midwest,East North Central,Health care,23,59,41
+Most important issue,ISSDEM16,OH,Midwest,East North Central,Economy/Jobs,40,59,39
+Most important issue,ISSDEM16,OH,Midwest,East North Central,Terrorism,10,79,21
+Most important issue,ISSDEM16,OH,Midwest,East North Central,Income inequality,25,39,61
+Top candidate quality,QLT16DEMPRI,OH,Midwest,East North Central,Electability,13,83,17
+Top candidate quality,QLT16DEMPRI,OH,Midwest,East North Central,Cares,28,42,58
+Top candidate quality,QLT16DEMPRI,OH,Midwest,East North Central,Honest,26,26,73
+Top candidate quality,QLT16DEMPRI,OH,Midwest,East North Central,Experience,31,84,15
+The next president should:,OBAMAPLCY,OH,Midwest,East North Central,Continue Obama's policies,51,74,26
+The next president should:,OBAMAPLCY,OH,Midwest,East North Central,Be more liberal,32,28,71
+The next president should:,OBAMAPLCY,OH,Midwest,East North Central,Be less liberal,12,48,47
+Race relations in this country have:,RACEREL14,OH,Midwest,East North Central,Gotten better,12,N/A,N/A
+Race relations in this country have:,RACEREL14,OH,Midwest,East North Central,Stayed the same,30,57,42
+Race relations in this country have:,RACEREL14,OH,Midwest,East North Central,Gotten worse,56,57,43
+Who do you trust to handle race relations?,RACERELDEM16,OH,Midwest,East North Central,Only Clinton,20,100,N/A
+Who do you trust to handle race relations?,RACERELDEM16,OH,Midwest,East North Central,Only Sanders,16,2,98
+Who do you trust to handle race relations?,RACERELDEM16,OH,Midwest,East North Central,Both,59,57,42
+Who do you trust to handle race relations?,RACERELDEM16,OH,Midwest,East North Central,Neither,4,N/A,N/A
+Trust Clinton to handle race relations?,RACERELCLIN,OH,Midwest,East North Central,Yes,79,68,31
+Trust Clinton to handle race relations?,RACERELCLIN,OH,Midwest,East North Central,No,19,9,90
+Trust Sanders to handle race relations?,RACERELSANDERS,OH,Midwest,East North Central,Yes,75,45,54
+Trust Sanders to handle race relations?,RACERELSANDERS,OH,Midwest,East North Central,No,24,91,8
+Trade with other countries:,TRADE16,OH,Midwest,East North Central,Creates U.S. jobs,29,65,35
+Trade with other countries:,TRADE16,OH,Midwest,East North Central,Takes away U.S. jobs,53,54,45
+Trade with other countries:,TRADE16,OH,Midwest,East North Central,Does not affect jobs,13,N/A,N/A
+Worried about U.S. economy?,ECONWORR,OH,Midwest,East North Central,Very worried,34,52,46
+Worried about U.S. economy?,ECONWORR,OH,Midwest,East North Central,Somewhat worried,41,50,49
+Worried about U.S. economy?,ECONWORR,OH,Midwest,East North Central,Not too worried,20,67,33
+Worried about U.S. economy?,ECONWORR,OH,Midwest,East North Central,Not at all worried,4,N/A,N/A
+Worried about U.S. economy?,ECOWORR2,OH,Midwest,East North Central,Yes,75,51,48
+Worried about U.S. economy?,ECOWORR2,OH,Midwest,East North Central,No,24,69,31
+Family's financial situation,GETAHEAD,OH,Midwest,East North Central,Getting ahead,20,57,43
+Family's financial situation,GETAHEAD,OH,Midwest,East North Central,Holding steady ,62,57,42
+Family's financial situation,GETAHEAD,OH,Midwest,East North Central,Falling behind ,19,57,43
+Next president should be:,OUTSIDER16,OH,Midwest,East North Central,Experienced in politics,81,61,38
+Next president should be:,OUTSIDER16,OH,Midwest,East North Central,Outside the establishment,15,26,71
+Satisfied if Clinton wins the nomination?,SATHCLIN,OH,Midwest,East North Central,Yes,76,73,26
+Satisfied if Clinton wins the nomination?,SATHCLIN,OH,Midwest,East North Central,No,23,3,96
+Satisfied if Sanders wins the nomination?,SATSANDERS,OH,Midwest,East North Central,Yes,66,38,62
+Satisfied if Sanders wins the nomination?,SATSANDERS,OH,Midwest,East North Central,No,32,96,4
+Clinton's positions on the issues are:,CLINTONLIB,OH,Midwest,East North Central,Too liberal,8,N/A,N/A
+Clinton's positions on the issues are:,CLINTONLIB,OH,Midwest,East North Central,Not liberal enough,24,22,78
+Clinton's positions on the issues are:,CLINTONLIB,OH,Midwest,East North Central,About right,65,75,24
+Sanders' positions on the issues are:,SANDERSLIB,OH,Midwest,East North Central,Too liberal,27,85,14
+Sanders' positions on the issues are:,SANDERSLIB,OH,Midwest,East North Central,Not liberal enough,11,N/A,N/A
+Sanders' positions on the issues are:,SANDERSLIB,OH,Midwest,East North Central,About right,57,37,63
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,OH,Midwest,East North Central,Yes,61,80,18
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,OH,Midwest,East North Central,No,36,12,88
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,OH,Midwest,East North Central,Yes,79,47,52
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,OH,Midwest,East North Central,No,15,82,14
+Hillary Clinton's views on business are:,CLINBUSINESS,OH,Midwest,East North Central,Too pro-business,29,17,82
+Hillary Clinton's views on business are:,CLINBUSINESS,OH,Midwest,East North Central,Too anti-business,6,N/A,N/A
+Hillary Clinton's views on business are:,CLINBUSINESS,OH,Midwest,East North Central,About right,61,79,20
+Bernie Sanders' views on business are:,SANDBUSINESS,OH,Midwest,East North Central,Too pro-business,7,N/A,N/A
+Bernie Sanders' views on business are:,SANDBUSINESS,OH,Midwest,East North Central,Too anti-business,28,87,11
+Bernie Sanders' views on business are:,SANDBUSINESS,OH,Midwest,East North Central,About right,57,32,68
+Hillary Clinton's policies are:,CLINREALISTIC,OH,Midwest,East North Central,Realistic,78,71,29
+Hillary Clinton's policies are:,CLINREALISTIC,OH,Midwest,East North Central,Not realistic,19,8,91
+Bernie Sanders' policies are:,SANDREALISTIC,OH,Midwest,East North Central,Realistic,57,35,65
+Bernie Sanders' policies are:,SANDREALISTIC,OH,Midwest,East North Central,Not realistic,40,88,12
+The candidate's gender was:,GENDISS,OH,Midwest,East North Central,Most important factor,4,N/A,N/A
+The candidate's gender was:,GENDISS,OH,Midwest,East North Central,An important factor,13,83,17
+The candidate's gender was:,GENDISS,OH,Midwest,East North Central,Not a factor,82,53,47
+Was the candidate's gender an important factor?,GENDISS2,OH,Midwest,East North Central,Yes,17,83,17
+Was the candidate's gender an important factor?,GENDISS2,OH,Midwest,East North Central,No,82,53,47
+Better chance to defeat Trump in November?,BEATTRUMP16,OH,Midwest,East North Central,Clinton,66,83,17
+Better chance to defeat Trump in November?,BEATTRUMP16,OH,Midwest,East North Central,Sanders,31,4,96
+Who would make the best commander in chief?,CICDEM16,OH,Midwest,East North Central,Clinton,57,92,6
+Who would make the best commander in chief?,CICDEM16,OH,Midwest,East North Central,Sanders,40,3,97
+When did you decide whom to vote for?,TIMENH16,OH,Midwest,East North Central,Just today,11,58,40
+When did you decide whom to vote for?,TIMENH16,OH,Midwest,East North Central,In the last few days,8,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,OH,Midwest,East North Central,Sometime last week,6,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,OH,Midwest,East North Central,In the last month,15,52,47
+When did you decide whom to vote for?,TIMENH16,OH,Midwest,East North Central,Before that,59,61,38
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,OH,Midwest,East North Central,Last few days,19,48,51
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,OH,Midwest,East North Central,Earlier,80,57,42
+When did you decide whom to vote for?,TIMEPRIWK,OH,Midwest,East North Central,In the last week,25,44,55
+When did you decide whom to vote for?,TIMEPRIWK,OH,Midwest,East North Central,Earlier,74,60,40
+Area type,SIZEPLC3,OH,Midwest,East North Central,Urban area,44,61,38
+Area type,SIZEPLC3,OH,Midwest,East North Central,Suburban area,47,53,46
+Area type,SIZEPLC3,OH,Midwest,East North Central,Rural area,9,51,48
+Region,GEOCOD,OH,Midwest,East North Central,Cleveland Area,22,63,35
+Region,GEOCOD,OH,Midwest,East North Central,North,29,57,43
+Region,GEOCOD,OH,Midwest,East North Central,Ohio Valley/West,15,52,47
+Region,GEOCOD,OH,Midwest,East North Central,Columbus Area,18,52,47
+Region,GEOCOD,OH,Midwest,East North Central,Cincinnati/Dayton,16,55,45

@@ -1,119 +1,119 @@
 question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
-Gender,SEX,VT,South,South Atlantic,Men,43,9,91
-Gender,SEX,VT,South,South Atlantic,Women,57,17,83
-Age,XAGE,VT,South,South Atlantic,17-29,15,5,95
-Age,XAGE,VT,South,South Atlantic,30-44,22,9,91
-Age,XAGE,VT,South,South Atlantic,45-64,41,13,86
-Age,XAGE,VT,South,South Atlantic,65 and older,22,23,77
-Age,XAGE65,VT,South,South Atlantic,17-24,6,N/A,N/A
-Age,XAGE65,VT,South,South Atlantic,25-29,9,5,95
-Age,XAGE65,VT,South,South Atlantic,30-39,14,8,92
-Age,XAGE65,VT,South,South Atlantic,40-49,18,12,88
-Age,XAGE65,VT,South,South Atlantic,50-64,31,14,86
-Age,XAGE65,VT,South,South Atlantic,65 and older,22,23,77
-Age,XAGE45,VT,South,South Atlantic,17-44 year olds,37,7,92
-Age,XAGE45,VT,South,South Atlantic,45 and older,63,17,83
-Race,RACE,VT,South,South Atlantic,White,95,13,86
-Race,RACE,VT,South,South Atlantic,Black,1,N/A,N/A
-Race,RACE,VT,South,South Atlantic,Latino,0,N/A,N/A
-Race,RACE,VT,South,South Atlantic,Asian,1,N/A,N/A
-Race,RACE,VT,South,South Atlantic,Other race,2,N/A,N/A
-Race,RACE2B,VT,South,South Atlantic,White,95,13,86
-Race,RACE2B,VT,South,South Atlantic,Non-white,5,N/A,N/A
-Education,EDUC12R,VT,South,South Atlantic,High school or less,10,9,91
-Education,EDUC12R,VT,South,South Atlantic,Some college,19,11,88
-Education,EDUC12R,VT,South,South Atlantic,College graduate,34,12,88
-Education,EDUC12R,VT,South,South Atlantic,Postgraduate,37,18,82
-Are you a college graduate?,EDUCCOLL,VT,South,South Atlantic,Yes,71,15,85
-Are you a college graduate?,EDUCCOLL,VT,South,South Atlantic,No,29,10,89
-Education and race,EDUCWHITE,VT,South,South Atlantic,White college graduates,68,15,85
-Education and race,EDUCWHITE,VT,South,South Atlantic,Whites no degree,28,10,89
-Education and race,EDUCWHITE,VT,South,South Atlantic,Non-whites college grads,3,N/A,N/A
-Education and race,EDUCWHITE,VT,South,South Atlantic,Non-whites no degree,1,N/A,N/A
-Income,INCOME16,VT,South,South Atlantic,Less than $30K,17,10,90
-Income,INCOME16,VT,South,South Atlantic,$30K-50K,22,11,89
-Income,INCOME16,VT,South,South Atlantic,$50K-100K,36,12,88
-Income,INCOME16,VT,South,South Atlantic,$100K-200K,20,20,80
-Income,INCOME16,VT,South,South Atlantic,$200K or more,5,N/A,N/A
-Income,INC50K,VT,South,South Atlantic,Under $50K,39,10,90
-Income,INC50K,VT,South,South Atlantic,$50K or More,61,16,84
-Income,INC100K,VT,South,South Atlantic,Under $100K,75,11,89
-Income,INC100K,VT,South,South Atlantic,$100K or more,25,22,78
-Income,INCOME3,VT,South,South Atlantic,Under $50K,39,10,90
-Income,INCOME3,VT,South,South Atlantic,$50K-$100K,36,12,88
-Income,INCOME3,VT,South,South Atlantic,$100K or more,25,22,78
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,VT,South,South Atlantic,Voted before,82,15,85
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,VT,South,South Atlantic,First-time voter,16,8,92
-Party ID,PARTY,VT,South,South Atlantic,Democrats,56,18,82
-Party ID,PARTY,VT,South,South Atlantic,Republicans,3,N/A,N/A
-Party ID,PARTY,VT,South,South Atlantic,Independents,41,8,92
-Ideology,PHIL4,VT,South,South Atlantic,Very liberal,33,9,91
-Ideology,PHIL4,VT,South,South Atlantic,Somewhat liberal,42,14,85
-Ideology,PHIL4,VT,South,South Atlantic,Moderate,21,20,79
-Ideology,PHIL4,VT,South,South Atlantic,Conservative,5,N/A,N/A
-Ideology,PHIL3X,VT,South,South Atlantic,Liberal,74,12,88
-Ideology,PHIL3X,VT,South,South Atlantic,Moderate,21,20,79
-Ideology,PHIL3X,VT,South,South Atlantic,Conservative,5,N/A,N/A
-Ideology ,PHIL2D,VT,South,South Atlantic,Liberal,74,12,88
-Ideology ,PHIL2D,VT,South,South Atlantic,Moderate/Conservative,26,19,81
-Marital status,MARRIED,VT,South,South Atlantic,Married,59,15,85
-Marital status,MARRIED,VT,South,South Atlantic,Unmarried,41,11,89
-Marital status and gender,SEXWED,VT,South,South Atlantic,Married men,27,10,89
-Marital status and gender,SEXWED,VT,South,South Atlantic,Married women,32,18,81
-Marital status and gender,SEXWED,VT,South,South Atlantic,Unmarried men,16,6,94
-Marital status and gender,SEXWED,VT,South,South Atlantic,Unmarried women,25,15,85
-Most important issue,ISSDEM16,VT,South,South Atlantic,Health care,20,15,84
-Most important issue,ISSDEM16,VT,South,South Atlantic,Economy/Jobs,36,16,84
-Most important issue,ISSDEM16,VT,South,South Atlantic,Terrorism,5,N/A,N/A
-Most important issue,ISSDEM16,VT,South,South Atlantic,Income inequality,36,9,91
-Top candidate quality,QLT16DEMPRI,VT,South,South Atlantic,Electability,8,50,50
-Top candidate quality,QLT16DEMPRI,VT,South,South Atlantic,Cares,29,4,96
-Top candidate quality,QLT16DEMPRI,VT,South,South Atlantic,Honest,49,2,98
-Top candidate quality,QLT16DEMPRI,VT,South,South Atlantic,Experience,12,58,42
-Who is honest and trustworthy?,HONESTDEM16,VT,South,South Atlantic,Only Clinton,2,N/A,N/A
-Who is honest and trustworthy?,HONESTDEM16,VT,South,South Atlantic,Only Sanders,67,3,97
-Who is honest and trustworthy?,HONESTDEM16,VT,South,South Atlantic,Both,28,35,65
-Who is honest and trustworthy?,HONESTDEM16,VT,South,South Atlantic,Neither,1,N/A,N/A
-Is Clinton honest and trustworthy?,HONESTDEM16CLIN,VT,South,South Atlantic,Yes,30,38,62
-Is Clinton honest and trustworthy?,HONESTDEM16CLIN,VT,South,South Atlantic,No,69,3,97
-Is Sanders honest and trustworthy?,HONESTDEM16SAND,VT,South,South Atlantic,Yes,95,12,88
-Is Sanders honest and trustworthy?,HONESTDEM16SAND,VT,South,South Atlantic,No,3,N/A,N/A
-Who do you trust in an international crisis?,INTCRISISDEM16,VT,South,South Atlantic,Only Clinton,12,78,22
-Who do you trust in an international crisis?,INTCRISISDEM16,VT,South,South Atlantic,Only Sanders,31,0,100
-Who do you trust in an international crisis?,INTCRISISDEM16,VT,South,South Atlantic,Both,52,7,92
-Who do you trust in an international crisis?,INTCRISISDEM16,VT,South,South Atlantic,Neither,3,N/A,N/A
-Trust Clinton in an international crisis?,INTCRISISDEMCLIN,VT,South,South Atlantic,Yes,64,20,79
-Trust Clinton in an international crisis?,INTCRISISDEMCLIN,VT,South,South Atlantic,No,34,1,99
-Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,VT,South,South Atlantic,Yes,84,5,95
-Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,VT,South,South Atlantic,No,15,63,36
-Better handle Supreme Court nominations?,SCOTUSDEM16,VT,South,South Atlantic,Clinton,19,62,37
-Better handle Supreme Court nominations?,SCOTUSDEM16,VT,South,South Atlantic,Sanders,76,1,99
-The next president should:,OBAMAPLCY,VT,South,South Atlantic,Continue Obama's policies,35,29,71
-The next president should:,OBAMAPLCY,VT,South,South Atlantic,Be more liberal,49,3,97
-The next president should:,OBAMAPLCY,VT,South,South Atlantic,Be less liberal,10,11,87
-U.S. economic system generally:,ECONFAIR,VT,South,South Atlantic,Favors the wealthy,94,12,88
-U.S. economic system generally:,ECONFAIR,VT,South,South Atlantic,Is fair to most Americans,5,N/A,N/A
-Next president should be:,OUTSIDER16,VT,South,South Atlantic,Experienced in politics,72,17,83
-Next president should be:,OUTSIDER16,VT,South,South Atlantic,Outside the establishment,22,3,97
-Clinton's positions on the issues are:,CLINTONLIB,VT,South,South Atlantic,Too liberal,7,2,97
-Clinton's positions on the issues are:,CLINTONLIB,VT,South,South Atlantic,Not liberal enough,51,3,97
-Clinton's positions on the issues are:,CLINTONLIB,VT,South,South Atlantic,About right,34,34,65
-Sanders' positions on the issues are:,SANDERSLIB,VT,South,South Atlantic,Too liberal,13,59,40
-Sanders' positions on the issues are:,SANDERSLIB,VT,South,South Atlantic,Not liberal enough,2,N/A,N/A
-Sanders' positions on the issues are:,SANDERSLIB,VT,South,South Atlantic,About right,82,6,94
-When did you decide whom to vote for?,TIMENH16,VT,South,South Atlantic,Just today,6,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,VT,South,South Atlantic,In the last few days,4,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,VT,South,South Atlantic,Sometime last week,2,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,VT,South,South Atlantic,In the last month,8,22,78
-When did you decide whom to vote for?,TIMENH16,VT,South,South Atlantic,Before that,80,10,90
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,VT,South,South Atlantic,Last few days,10,22,76
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,VT,South,South Atlantic,Earlier,89,12,87
-When did you decide whom to vote for?,TIMEPRIWK,VT,South,South Atlantic,In the last week,12,28,70
-When did you decide whom to vote for?,TIMEPRIWK,VT,South,South Atlantic,Earlier,88,11,88
-Area type,SIZEPLC3,VT,South,South Atlantic,Urban area,N/A,N/A,N/A
-Area type,SIZEPLC3,VT,South,South Atlantic,Suburban area,16,13,86
-Area type,SIZEPLC3,VT,South,South Atlantic,Rural area,84,13,86
-Region,GEOCOD,VT,South,South Atlantic,North,17,9,91
-Region,GEOCOD,VT,South,South Atlantic,Burlington,31,14,85
-Region,GEOCOD,VT,South,South Atlantic,Central/Upper Val.,29,13,87
-Region,GEOCOD,VT,South,South Atlantic,Rutland/Green Mtn.,23,16,84
+Gender,SEX,VT,Northeast,New England,Men,43,9,91
+Gender,SEX,VT,Northeast,New England,Women,57,17,83
+Age,XAGE,VT,Northeast,New England,17-29,15,5,95
+Age,XAGE,VT,Northeast,New England,30-44,22,9,91
+Age,XAGE,VT,Northeast,New England,45-64,41,13,86
+Age,XAGE,VT,Northeast,New England,65 and older,22,23,77
+Age,XAGE65,VT,Northeast,New England,17-24,6,N/A,N/A
+Age,XAGE65,VT,Northeast,New England,25-29,9,5,95
+Age,XAGE65,VT,Northeast,New England,30-39,14,8,92
+Age,XAGE65,VT,Northeast,New England,40-49,18,12,88
+Age,XAGE65,VT,Northeast,New England,50-64,31,14,86
+Age,XAGE65,VT,Northeast,New England,65 and older,22,23,77
+Age,XAGE45,VT,Northeast,New England,17-44 year olds,37,7,92
+Age,XAGE45,VT,Northeast,New England,45 and older,63,17,83
+Race,RACE,VT,Northeast,New England,White,95,13,86
+Race,RACE,VT,Northeast,New England,Black,1,N/A,N/A
+Race,RACE,VT,Northeast,New England,Latino,0,N/A,N/A
+Race,RACE,VT,Northeast,New England,Asian,1,N/A,N/A
+Race,RACE,VT,Northeast,New England,Other race,2,N/A,N/A
+Race,RACE2B,VT,Northeast,New England,White,95,13,86
+Race,RACE2B,VT,Northeast,New England,Non-white,5,N/A,N/A
+Education,EDUC12R,VT,Northeast,New England,High school or less,10,9,91
+Education,EDUC12R,VT,Northeast,New England,Some college,19,11,88
+Education,EDUC12R,VT,Northeast,New England,College graduate,34,12,88
+Education,EDUC12R,VT,Northeast,New England,Postgraduate,37,18,82
+Are you a college graduate?,EDUCCOLL,VT,Northeast,New England,Yes,71,15,85
+Are you a college graduate?,EDUCCOLL,VT,Northeast,New England,No,29,10,89
+Education and race,EDUCWHITE,VT,Northeast,New England,White college graduates,68,15,85
+Education and race,EDUCWHITE,VT,Northeast,New England,Whites no degree,28,10,89
+Education and race,EDUCWHITE,VT,Northeast,New England,Non-whites college grads,3,N/A,N/A
+Education and race,EDUCWHITE,VT,Northeast,New England,Non-whites no degree,1,N/A,N/A
+Income,INCOME16,VT,Northeast,New England,Less than $30K,17,10,90
+Income,INCOME16,VT,Northeast,New England,$30K-50K,22,11,89
+Income,INCOME16,VT,Northeast,New England,$50K-100K,36,12,88
+Income,INCOME16,VT,Northeast,New England,$100K-200K,20,20,80
+Income,INCOME16,VT,Northeast,New England,$200K or more,5,N/A,N/A
+Income,INC50K,VT,Northeast,New England,Under $50K,39,10,90
+Income,INC50K,VT,Northeast,New England,$50K or More,61,16,84
+Income,INC100K,VT,Northeast,New England,Under $100K,75,11,89
+Income,INC100K,VT,Northeast,New England,$100K or more,25,22,78
+Income,INCOME3,VT,Northeast,New England,Under $50K,39,10,90
+Income,INCOME3,VT,Northeast,New England,$50K-$100K,36,12,88
+Income,INCOME3,VT,Northeast,New England,$100K or more,25,22,78
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,VT,Northeast,New England,Voted before,82,15,85
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,VT,Northeast,New England,First-time voter,16,8,92
+Party ID,PARTY,VT,Northeast,New England,Democrats,56,18,82
+Party ID,PARTY,VT,Northeast,New England,Republicans,3,N/A,N/A
+Party ID,PARTY,VT,Northeast,New England,Independents,41,8,92
+Ideology,PHIL4,VT,Northeast,New England,Very liberal,33,9,91
+Ideology,PHIL4,VT,Northeast,New England,Somewhat liberal,42,14,85
+Ideology,PHIL4,VT,Northeast,New England,Moderate,21,20,79
+Ideology,PHIL4,VT,Northeast,New England,Conservative,5,N/A,N/A
+Ideology,PHIL3X,VT,Northeast,New England,Liberal,74,12,88
+Ideology,PHIL3X,VT,Northeast,New England,Moderate,21,20,79
+Ideology,PHIL3X,VT,Northeast,New England,Conservative,5,N/A,N/A
+Ideology ,PHIL2D,VT,Northeast,New England,Liberal,74,12,88
+Ideology ,PHIL2D,VT,Northeast,New England,Moderate/Conservative,26,19,81
+Marital status,MARRIED,VT,Northeast,New England,Married,59,15,85
+Marital status,MARRIED,VT,Northeast,New England,Unmarried,41,11,89
+Marital status and gender,SEXWED,VT,Northeast,New England,Married men,27,10,89
+Marital status and gender,SEXWED,VT,Northeast,New England,Married women,32,18,81
+Marital status and gender,SEXWED,VT,Northeast,New England,Unmarried men,16,6,94
+Marital status and gender,SEXWED,VT,Northeast,New England,Unmarried women,25,15,85
+Most important issue,ISSDEM16,VT,Northeast,New England,Health care,20,15,84
+Most important issue,ISSDEM16,VT,Northeast,New England,Economy/Jobs,36,16,84
+Most important issue,ISSDEM16,VT,Northeast,New England,Terrorism,5,N/A,N/A
+Most important issue,ISSDEM16,VT,Northeast,New England,Income inequality,36,9,91
+Top candidate quality,QLT16DEMPRI,VT,Northeast,New England,Electability,8,50,50
+Top candidate quality,QLT16DEMPRI,VT,Northeast,New England,Cares,29,4,96
+Top candidate quality,QLT16DEMPRI,VT,Northeast,New England,Honest,49,2,98
+Top candidate quality,QLT16DEMPRI,VT,Northeast,New England,Experience,12,58,42
+Who is honest and trustworthy?,HONESTDEM16,VT,Northeast,New England,Only Clinton,2,N/A,N/A
+Who is honest and trustworthy?,HONESTDEM16,VT,Northeast,New England,Only Sanders,67,3,97
+Who is honest and trustworthy?,HONESTDEM16,VT,Northeast,New England,Both,28,35,65
+Who is honest and trustworthy?,HONESTDEM16,VT,Northeast,New England,Neither,1,N/A,N/A
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,VT,Northeast,New England,Yes,30,38,62
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,VT,Northeast,New England,No,69,3,97
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,VT,Northeast,New England,Yes,95,12,88
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,VT,Northeast,New England,No,3,N/A,N/A
+Who do you trust in an international crisis?,INTCRISISDEM16,VT,Northeast,New England,Only Clinton,12,78,22
+Who do you trust in an international crisis?,INTCRISISDEM16,VT,Northeast,New England,Only Sanders,31,0,100
+Who do you trust in an international crisis?,INTCRISISDEM16,VT,Northeast,New England,Both,52,7,92
+Who do you trust in an international crisis?,INTCRISISDEM16,VT,Northeast,New England,Neither,3,N/A,N/A
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,VT,Northeast,New England,Yes,64,20,79
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,VT,Northeast,New England,No,34,1,99
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,VT,Northeast,New England,Yes,84,5,95
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,VT,Northeast,New England,No,15,63,36
+Better handle Supreme Court nominations?,SCOTUSDEM16,VT,Northeast,New England,Clinton,19,62,37
+Better handle Supreme Court nominations?,SCOTUSDEM16,VT,Northeast,New England,Sanders,76,1,99
+The next president should:,OBAMAPLCY,VT,Northeast,New England,Continue Obama's policies,35,29,71
+The next president should:,OBAMAPLCY,VT,Northeast,New England,Be more liberal,49,3,97
+The next president should:,OBAMAPLCY,VT,Northeast,New England,Be less liberal,10,11,87
+U.S. economic system generally:,ECONFAIR,VT,Northeast,New England,Favors the wealthy,94,12,88
+U.S. economic system generally:,ECONFAIR,VT,Northeast,New England,Is fair to most Americans,5,N/A,N/A
+Next president should be:,OUTSIDER16,VT,Northeast,New England,Experienced in politics,72,17,83
+Next president should be:,OUTSIDER16,VT,Northeast,New England,Outside the establishment,22,3,97
+Clinton's positions on the issues are:,CLINTONLIB,VT,Northeast,New England,Too liberal,7,2,97
+Clinton's positions on the issues are:,CLINTONLIB,VT,Northeast,New England,Not liberal enough,51,3,97
+Clinton's positions on the issues are:,CLINTONLIB,VT,Northeast,New England,About right,34,34,65
+Sanders' positions on the issues are:,SANDERSLIB,VT,Northeast,New England,Too liberal,13,59,40
+Sanders' positions on the issues are:,SANDERSLIB,VT,Northeast,New England,Not liberal enough,2,N/A,N/A
+Sanders' positions on the issues are:,SANDERSLIB,VT,Northeast,New England,About right,82,6,94
+When did you decide whom to vote for?,TIMENH16,VT,Northeast,New England,Just today,6,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,VT,Northeast,New England,In the last few days,4,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,VT,Northeast,New England,Sometime last week,2,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,VT,Northeast,New England,In the last month,8,22,78
+When did you decide whom to vote for?,TIMENH16,VT,Northeast,New England,Before that,80,10,90
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,VT,Northeast,New England,Last few days,10,22,76
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,VT,Northeast,New England,Earlier,89,12,87
+When did you decide whom to vote for?,TIMEPRIWK,VT,Northeast,New England,In the last week,12,28,70
+When did you decide whom to vote for?,TIMEPRIWK,VT,Northeast,New England,Earlier,88,11,88
+Area type,SIZEPLC3,VT,Northeast,New England,Urban area,N/A,N/A,N/A
+Area type,SIZEPLC3,VT,Northeast,New England,Suburban area,16,13,86
+Area type,SIZEPLC3,VT,Northeast,New England,Rural area,84,13,86
+Region,GEOCOD,VT,Northeast,New England,North,17,9,91
+Region,GEOCOD,VT,Northeast,New England,Burlington,31,14,85
+Region,GEOCOD,VT,Northeast,New England,Central/Upper Val.,29,13,87
+Region,GEOCOD,VT,Northeast,New England,Rutland/Green Mtn.,23,16,84

@@ -1,155 +1,155 @@
 question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
-Gender,SEX,MI,South,South Atlantic,Men,45,44,55
-Gender,SEX,MI,South,South Atlantic,Women,55,51,45
-Age,AGE,MI,South,South Atlantic,18-29,19,19,81
-Age,AGE,MI,South,South Atlantic,30-44,26,42,53
-Age,AGE,MI,South,South Atlantic,45-64,35,57,41
-Age,AGE,MI,South,South Atlantic,65 and older,20,69,30
-Age,AGE65,MI,South,South Atlantic,18-24,11,15,85
-Age,AGE65,MI,South,South Atlantic,25-29,8,24,75
-Age,AGE65,MI,South,South Atlantic,30-39,17,36,59
-Age,AGE65,MI,South,South Atlantic,40-49,17,55,41
-Age,AGE65,MI,South,South Atlantic,50-64,27,57,41
-Age,AGE65,MI,South,South Atlantic,65 and older,20,69,30
-Age,AGE45,MI,South,South Atlantic,18-44,45,32,65
-Age,AGE45,MI,South,South Atlantic,45 and older,55,62,37
-Race,RACE,MI,South,South Atlantic,White,70,42,56
-Race,RACE,MI,South,South Atlantic,Black,21,68,28
-Race,RACE,MI,South,South Atlantic,Latino,3,N/A,N/A
-Race,RACE,MI,South,South Atlantic,Asian,2,N/A,N/A
-Race,RACE,MI,South,South Atlantic,Other race,4,N/A,N/A
-Race,RACE2B,MI,South,South Atlantic,White,70,42,56
-Race,RACE2B,MI,South,South Atlantic,Non-white,30,63,34
-Race by gender,SEXBYRACE,MI,South,South Atlantic,White men,33,37,62
-Race by gender,SEXBYRACE,MI,South,South Atlantic,White women,37,47,51
-Race by gender,SEXBYRACE,MI,South,South Atlantic,Black men,7,N/A,N/A
-Race by gender,SEXBYRACE,MI,South,South Atlantic,Black women,14,66,28
-Race by gender,SEXBYRACE,MI,South,South Atlantic,Latino men,1,N/A,N/A
-Race by gender,SEXBYRACE,MI,South,South Atlantic,Latino women,1,N/A,N/A
-Race by gender,SEXBYRACE,MI,South,South Atlantic,Others,6,N/A,N/A
-Education,EDUC12R,MI,South,South Atlantic,High school or less,17,61,37
-Education,EDUC12R,MI,South,South Atlantic,Some college,37,43,55
-Education,EDUC12R,MI,South,South Atlantic,College graduate,26,41,54
-Education,EDUC12R,MI,South,South Atlantic,Postgraduate,20,57,42
-Are you a college graduate?,EDUCCOLL,MI,South,South Atlantic,Yes,46,48,49
-Are you a college graduate?,EDUCCOLL,MI,South,South Atlantic,No,54,49,50
-Education and race,EDUCWHITE,MI,South,South Atlantic,White college graduates,33,43,54
-Education and race,EDUCWHITE,MI,South,South Atlantic,Whites no degree,36,42,57
-Education and race,EDUCWHITE,MI,South,South Atlantic,Non-whites college grads,13,61,35
-Education and race,EDUCWHITE,MI,South,South Atlantic,Non-whites no degree,18,63,34
-Income,INCOME16,MI,South,South Atlantic,Less than $30K,23,51,48
-Income,INCOME16,MI,South,South Atlantic,$30K-50K,22,44,54
-Income,INCOME16,MI,South,South Atlantic,$50K-100K,31,47,50
-Income,INCOME16,MI,South,South Atlantic,$100K-200K,20,48,48
-Income,INCOME16,MI,South,South Atlantic,$200K or more,4,N/A,N/A
-Income,INC50K,MI,South,South Atlantic,Under $50K,45,48,51
-Income,INC50K,MI,South,South Atlantic,$50K or More,55,48,49
-Income,INC100K,MI,South,South Atlantic,Under $100K,76,48,51
-Income,INC100K,MI,South,South Atlantic,$100K or more,24,50,47
-Income,INCOME3,MI,South,South Atlantic,Under $50K,45,48,51
-Income,INCOME3,MI,South,South Atlantic,$50K-$100K,31,47,50
-Income,INCOME3,MI,South,South Atlantic,$100K or more,24,50,47
-Party ID,PARTY,MI,South,South Atlantic,Democrats,69,58,40
-Party ID,PARTY,MI,South,South Atlantic,Republicans,4,N/A,N/A
-Party ID,PARTY,MI,South,South Atlantic,Independents,27,28,71
-Ideology,PHIL4,MI,South,South Atlantic,Very liberal,22,41,59
-Ideology,PHIL4,MI,South,South Atlantic,Somewhat liberal,35,49,51
-Ideology,PHIL4,MI,South,South Atlantic,Moderate,33,55,44
-Ideology,PHIL4,MI,South,South Atlantic,Conservative,9,N/A,N/A
-Ideology,PHIL3X,MI,South,South Atlantic,Liberal,57,46,54
-Ideology,PHIL3X,MI,South,South Atlantic,Moderate,33,55,44
-Ideology,PHIL3X,MI,South,South Atlantic,Conservative,9,N/A,N/A
-Ideology ,PHIL2D,MI,South,South Atlantic,Liberal,57,46,54
-Ideology ,PHIL2D,MI,South,South Atlantic,Moderate/Conservative,43,52,43
-Marital status,MARRIED,MI,South,South Atlantic,Married,54,49,50
-Marital status,MARRIED,MI,South,South Atlantic,Unmarried,46,44,53
-Marital status and gender,SEXWED,MI,South,South Atlantic,Married men,27,46,53
-Marital status and gender,SEXWED,MI,South,South Atlantic,Married women,26,53,47
-Marital status and gender,SEXWED,MI,South,South Atlantic,Unmarried men,20,44,56
-Marital status and gender,SEXWED,MI,South,South Atlantic,Unmarried women,26,43,50
-Union household?,UNIONHH12,MI,South,South Atlantic,Yes,33,46,49
-Union household?,UNIONHH12,MI,South,South Atlantic,No,67,46,53
-Most important issue,ISSDEM16,MI,South,South Atlantic,Health care,19,48,49
-Most important issue,ISSDEM16,MI,South,South Atlantic,Economy/Jobs,43,52,46
-Most important issue,ISSDEM16,MI,South,South Atlantic,Terrorism,8,69,30
-Most important issue,ISSDEM16,MI,South,South Atlantic,Income inequality,27,38,60
-Top candidate quality,QLT16DEMPRI,MI,South,South Atlantic,Electability,11,73,27
-Top candidate quality,QLT16DEMPRI,MI,South,South Atlantic,Cares,33,40,56
-Top candidate quality,QLT16DEMPRI,MI,South,South Atlantic,Honest,28,20,78
-Top candidate quality,QLT16DEMPRI,MI,South,South Atlantic,Experience,26,81,18
-Trade with other countries:,TRADE16,MI,South,South Atlantic,Creates U.S. jobs,30,54,44
-Trade with other countries:,TRADE16,MI,South,South Atlantic,Takes away U.S. jobs,57,41,56
-Trade with other countries:,TRADE16,MI,South,South Atlantic,Does not affect jobs,8,N/A,N/A
-Who do you trust to handle race relations?,RACERELDEM16,MI,South,South Atlantic,Only Clinton,17,92,8
-Who do you trust to handle race relations?,RACERELDEM16,MI,South,South Atlantic,Only Sanders,26,2,97
-Who do you trust to handle race relations?,RACERELDEM16,MI,South,South Atlantic,Both,52,55,42
-Who do you trust to handle race relations?,RACERELDEM16,MI,South,South Atlantic,Neither,3,N/A,N/A
-Trust Clinton to handle race relations?,RACERELCLIN,MI,South,South Atlantic,Yes,69,64,34
-Trust Clinton to handle race relations?,RACERELCLIN,MI,South,South Atlantic,No,29,6,93
-Trust Sanders to handle race relations?,RACERELSANDERS,MI,South,South Atlantic,Yes,78,37,61
-Trust Sanders to handle race relations?,RACERELSANDERS,MI,South,South Atlantic,No,20,84,15
-Race relations in this country have:,RACEREL14,MI,South,South Atlantic,Gotten better,16,53,47
-Race relations in this country have:,RACEREL14,MI,South,South Atlantic,Stayed the same,35,53,46
-Race relations in this country have:,RACEREL14,MI,South,South Atlantic,Gotten worse,48,38,58
-The next president should:,OBAMAPLCY,MI,South,South Atlantic,Continue Obama's policies,50,68,32
-The next president should:,OBAMAPLCY,MI,South,South Atlantic,Be more liberal,31,24,72
-The next president should:,OBAMAPLCY,MI,South,South Atlantic,Be less liberal,13,47,53
-U.S. economic system generally:,ECONFAIR,MI,South,South Atlantic,Favors the wealthy,86,48,50
-U.S. economic system generally:,ECONFAIR,MI,South,South Atlantic,Is fair to most Americans,13,N/A,N/A
-Worried about U.S. economy?,ECONWORR,MI,South,South Atlantic,Very worried,37,40,58
-Worried about U.S. economy?,ECONWORR,MI,South,South Atlantic,Somewhat worried,43,60,40
-Worried about U.S. economy?,ECONWORR,MI,South,South Atlantic,Not too worried,15,47,44
-Worried about U.S. economy?,ECONWORR,MI,South,South Atlantic,Not at all worried,4,N/A,N/A
-Worried about U.S. economy?,ECOWORR2,MI,South,South Atlantic,Yes,80,51,48
-Worried about U.S. economy?,ECOWORR2,MI,South,South Atlantic,No,19,47,45
-Feelings about the federal government,GOVTANGR16,MI,South,South Atlantic,Enthusiastic,5,N/A,N/A
-Feelings about the federal government,GOVTANGR16,MI,South,South Atlantic,Satisfied,24,57,36
-Feelings about the federal government,GOVTANGR16,MI,South,South Atlantic,Dissatisfied,51,48,52
-Feelings about the federal government,GOVTANGR16,MI,South,South Atlantic,Angry,17,40,60
-Feelings about the federal government,GOVTANGR16B,MI,South,South Atlantic,Enthusiastic/Satisfied,29,58,34
-Feelings about the federal government,GOVTANGR16B,MI,South,South Atlantic,Dissatisfied/Angry,69,46,54
-Next president should be:,OUTSIDER16,MI,South,South Atlantic,Experienced in politics,82,56,41
-Next president should be:,OUTSIDER16,MI,South,South Atlantic,Outside the establishment,13,16,84
-For a safe public water supply:,WATERREG,MI,South,South Atlantic,Strengthen regulations,85,44,53
-For a safe public water supply:,WATERREG,MI,South,South Atlantic,Already regulated enough,10,N/A,N/A
-Satisfied if Clinton wins the nomination?,SATHCLIN,MI,South,South Atlantic,Yes,63,70,27
-Satisfied if Clinton wins the nomination?,SATHCLIN,MI,South,South Atlantic,No,34,2,98
-Satisfied if Sanders wins the nomination?,SATSANDERS,MI,South,South Atlantic,Yes,74,31,67
-Satisfied if Sanders wins the nomination?,SATSANDERS,MI,South,South Atlantic,No,23,92,6
-Clinton's positions on the issues are:,CLINTONLIB,MI,South,South Atlantic,Too liberal,11,N/A,N/A
-Clinton's positions on the issues are:,CLINTONLIB,MI,South,South Atlantic,Not liberal enough,26,13,87
-Clinton's positions on the issues are:,CLINTONLIB,MI,South,South Atlantic,About right,58,70,27
-Sanders' positions on the issues are:,SANDERSLIB,MI,South,South Atlantic,Too liberal,19,81,18
-Sanders' positions on the issues are:,SANDERSLIB,MI,South,South Atlantic,Not liberal enough,8,N/A,N/A
-Sanders' positions on the issues are:,SANDERSLIB,MI,South,South Atlantic,About right,67,30,68
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,MI,South,South Atlantic,Yes,56,79,20
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,MI,South,South Atlantic,No,40,8,88
-Is Bernie Sanders honest and trustworthy?,SANDHONEST,MI,South,South Atlantic,Yes,81,42,55
-Is Bernie Sanders honest and trustworthy?,SANDHONEST,MI,South,South Atlantic,No,11,N/A,N/A
-Hillary Clinton's views on business are:,CLINBUSINESS,MI,South,South Atlantic,Too pro-business,34,16,79
-Hillary Clinton's views on business are:,CLINBUSINESS,MI,South,South Atlantic,Too anti-business,4,N/A,N/A
-Hillary Clinton's views on business are:,CLINBUSINESS,MI,South,South Atlantic,About right,56,75,23
-Bernie Sanders' views on business are:,SANDBUSINESS,MI,South,South Atlantic,Too pro-business,9,N/A,N/A
-Bernie Sanders' views on business are:,SANDBUSINESS,MI,South,South Atlantic,Too anti-business,20,89,11
-Bernie Sanders' views on business are:,SANDBUSINESS,MI,South,South Atlantic,About right,63,31,65
-Hillary Clinton's policies are:,CLINREALISTIC,MI,South,South Atlantic,Realistic,71,61,36
-Hillary Clinton's policies are:,CLINREALISTIC,MI,South,South Atlantic,Not realistic,25,8,92
-Bernie Sanders' policies are:,SANDREALISTIC,MI,South,South Atlantic,Realistic,64,25,72
-Bernie Sanders' policies are:,SANDREALISTIC,MI,South,South Atlantic,Not realistic,29,87,13
-When did you decide whom to vote for?,TIMENH16,MI,South,South Atlantic,Just today,7,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,MI,South,South Atlantic,In the last few days,9,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,MI,South,South Atlantic,Sometime last week,5,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,MI,South,South Atlantic,In the last month,21,45,49
-When did you decide whom to vote for?,TIMENH16,MI,South,South Atlantic,Before that,57,53,47
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,MI,South,South Atlantic,Last few days,16,53,47
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,MI,South,South Atlantic,Earlier,83,50,48
-When did you decide whom to vote for?,TIMEPRIWK,MI,South,South Atlantic,In the last week,21,49,49
-When did you decide whom to vote for?,TIMEPRIWK,MI,South,South Atlantic,Earlier,78,51,48
-Area type,SIZEPLC3,MI,South,South Atlantic,Urban area,15,61,36
-Area type,SIZEPLC3,MI,South,South Atlantic,Suburban area,69,47,50
-Area type,SIZEPLC3,MI,South,South Atlantic,Rural area,16,42,57
-Region,GEOCOD,MI,South,South Atlantic,Wayne,22,59,39
-Region,GEOCOD,MI,South,South Atlantic,Oakland/Macomb,23,50,47
-Region,GEOCOD,MI,South,South Atlantic,Southeast,22,48,51
-Region,GEOCOD,MI,South,South Atlantic,Southwest,16,40,55
-Region,GEOCOD,MI,South,South Atlantic,N. Central/U.P.,16,40,60
+Gender,SEX,MI,Midwest,East North Central,Men,45,44,55
+Gender,SEX,MI,Midwest,East North Central,Women,55,51,45
+Age,AGE,MI,Midwest,East North Central,18-29,19,19,81
+Age,AGE,MI,Midwest,East North Central,30-44,26,42,53
+Age,AGE,MI,Midwest,East North Central,45-64,35,57,41
+Age,AGE,MI,Midwest,East North Central,65 and older,20,69,30
+Age,AGE65,MI,Midwest,East North Central,18-24,11,15,85
+Age,AGE65,MI,Midwest,East North Central,25-29,8,24,75
+Age,AGE65,MI,Midwest,East North Central,30-39,17,36,59
+Age,AGE65,MI,Midwest,East North Central,40-49,17,55,41
+Age,AGE65,MI,Midwest,East North Central,50-64,27,57,41
+Age,AGE65,MI,Midwest,East North Central,65 and older,20,69,30
+Age,AGE45,MI,Midwest,East North Central,18-44,45,32,65
+Age,AGE45,MI,Midwest,East North Central,45 and older,55,62,37
+Race,RACE,MI,Midwest,East North Central,White,70,42,56
+Race,RACE,MI,Midwest,East North Central,Black,21,68,28
+Race,RACE,MI,Midwest,East North Central,Latino,3,N/A,N/A
+Race,RACE,MI,Midwest,East North Central,Asian,2,N/A,N/A
+Race,RACE,MI,Midwest,East North Central,Other race,4,N/A,N/A
+Race,RACE2B,MI,Midwest,East North Central,White,70,42,56
+Race,RACE2B,MI,Midwest,East North Central,Non-white,30,63,34
+Race by gender,SEXBYRACE,MI,Midwest,East North Central,White men,33,37,62
+Race by gender,SEXBYRACE,MI,Midwest,East North Central,White women,37,47,51
+Race by gender,SEXBYRACE,MI,Midwest,East North Central,Black men,7,N/A,N/A
+Race by gender,SEXBYRACE,MI,Midwest,East North Central,Black women,14,66,28
+Race by gender,SEXBYRACE,MI,Midwest,East North Central,Latino men,1,N/A,N/A
+Race by gender,SEXBYRACE,MI,Midwest,East North Central,Latino women,1,N/A,N/A
+Race by gender,SEXBYRACE,MI,Midwest,East North Central,Others,6,N/A,N/A
+Education,EDUC12R,MI,Midwest,East North Central,High school or less,17,61,37
+Education,EDUC12R,MI,Midwest,East North Central,Some college,37,43,55
+Education,EDUC12R,MI,Midwest,East North Central,College graduate,26,41,54
+Education,EDUC12R,MI,Midwest,East North Central,Postgraduate,20,57,42
+Are you a college graduate?,EDUCCOLL,MI,Midwest,East North Central,Yes,46,48,49
+Are you a college graduate?,EDUCCOLL,MI,Midwest,East North Central,No,54,49,50
+Education and race,EDUCWHITE,MI,Midwest,East North Central,White college graduates,33,43,54
+Education and race,EDUCWHITE,MI,Midwest,East North Central,Whites no degree,36,42,57
+Education and race,EDUCWHITE,MI,Midwest,East North Central,Non-whites college grads,13,61,35
+Education and race,EDUCWHITE,MI,Midwest,East North Central,Non-whites no degree,18,63,34
+Income,INCOME16,MI,Midwest,East North Central,Less than $30K,23,51,48
+Income,INCOME16,MI,Midwest,East North Central,$30K-50K,22,44,54
+Income,INCOME16,MI,Midwest,East North Central,$50K-100K,31,47,50
+Income,INCOME16,MI,Midwest,East North Central,$100K-200K,20,48,48
+Income,INCOME16,MI,Midwest,East North Central,$200K or more,4,N/A,N/A
+Income,INC50K,MI,Midwest,East North Central,Under $50K,45,48,51
+Income,INC50K,MI,Midwest,East North Central,$50K or More,55,48,49
+Income,INC100K,MI,Midwest,East North Central,Under $100K,76,48,51
+Income,INC100K,MI,Midwest,East North Central,$100K or more,24,50,47
+Income,INCOME3,MI,Midwest,East North Central,Under $50K,45,48,51
+Income,INCOME3,MI,Midwest,East North Central,$50K-$100K,31,47,50
+Income,INCOME3,MI,Midwest,East North Central,$100K or more,24,50,47
+Party ID,PARTY,MI,Midwest,East North Central,Democrats,69,58,40
+Party ID,PARTY,MI,Midwest,East North Central,Republicans,4,N/A,N/A
+Party ID,PARTY,MI,Midwest,East North Central,Independents,27,28,71
+Ideology,PHIL4,MI,Midwest,East North Central,Very liberal,22,41,59
+Ideology,PHIL4,MI,Midwest,East North Central,Somewhat liberal,35,49,51
+Ideology,PHIL4,MI,Midwest,East North Central,Moderate,33,55,44
+Ideology,PHIL4,MI,Midwest,East North Central,Conservative,9,N/A,N/A
+Ideology,PHIL3X,MI,Midwest,East North Central,Liberal,57,46,54
+Ideology,PHIL3X,MI,Midwest,East North Central,Moderate,33,55,44
+Ideology,PHIL3X,MI,Midwest,East North Central,Conservative,9,N/A,N/A
+Ideology ,PHIL2D,MI,Midwest,East North Central,Liberal,57,46,54
+Ideology ,PHIL2D,MI,Midwest,East North Central,Moderate/Conservative,43,52,43
+Marital status,MARRIED,MI,Midwest,East North Central,Married,54,49,50
+Marital status,MARRIED,MI,Midwest,East North Central,Unmarried,46,44,53
+Marital status and gender,SEXWED,MI,Midwest,East North Central,Married men,27,46,53
+Marital status and gender,SEXWED,MI,Midwest,East North Central,Married women,26,53,47
+Marital status and gender,SEXWED,MI,Midwest,East North Central,Unmarried men,20,44,56
+Marital status and gender,SEXWED,MI,Midwest,East North Central,Unmarried women,26,43,50
+Union household?,UNIONHH12,MI,Midwest,East North Central,Yes,33,46,49
+Union household?,UNIONHH12,MI,Midwest,East North Central,No,67,46,53
+Most important issue,ISSDEM16,MI,Midwest,East North Central,Health care,19,48,49
+Most important issue,ISSDEM16,MI,Midwest,East North Central,Economy/Jobs,43,52,46
+Most important issue,ISSDEM16,MI,Midwest,East North Central,Terrorism,8,69,30
+Most important issue,ISSDEM16,MI,Midwest,East North Central,Income inequality,27,38,60
+Top candidate quality,QLT16DEMPRI,MI,Midwest,East North Central,Electability,11,73,27
+Top candidate quality,QLT16DEMPRI,MI,Midwest,East North Central,Cares,33,40,56
+Top candidate quality,QLT16DEMPRI,MI,Midwest,East North Central,Honest,28,20,78
+Top candidate quality,QLT16DEMPRI,MI,Midwest,East North Central,Experience,26,81,18
+Trade with other countries:,TRADE16,MI,Midwest,East North Central,Creates U.S. jobs,30,54,44
+Trade with other countries:,TRADE16,MI,Midwest,East North Central,Takes away U.S. jobs,57,41,56
+Trade with other countries:,TRADE16,MI,Midwest,East North Central,Does not affect jobs,8,N/A,N/A
+Who do you trust to handle race relations?,RACERELDEM16,MI,Midwest,East North Central,Only Clinton,17,92,8
+Who do you trust to handle race relations?,RACERELDEM16,MI,Midwest,East North Central,Only Sanders,26,2,97
+Who do you trust to handle race relations?,RACERELDEM16,MI,Midwest,East North Central,Both,52,55,42
+Who do you trust to handle race relations?,RACERELDEM16,MI,Midwest,East North Central,Neither,3,N/A,N/A
+Trust Clinton to handle race relations?,RACERELCLIN,MI,Midwest,East North Central,Yes,69,64,34
+Trust Clinton to handle race relations?,RACERELCLIN,MI,Midwest,East North Central,No,29,6,93
+Trust Sanders to handle race relations?,RACERELSANDERS,MI,Midwest,East North Central,Yes,78,37,61
+Trust Sanders to handle race relations?,RACERELSANDERS,MI,Midwest,East North Central,No,20,84,15
+Race relations in this country have:,RACEREL14,MI,Midwest,East North Central,Gotten better,16,53,47
+Race relations in this country have:,RACEREL14,MI,Midwest,East North Central,Stayed the same,35,53,46
+Race relations in this country have:,RACEREL14,MI,Midwest,East North Central,Gotten worse,48,38,58
+The next president should:,OBAMAPLCY,MI,Midwest,East North Central,Continue Obama's policies,50,68,32
+The next president should:,OBAMAPLCY,MI,Midwest,East North Central,Be more liberal,31,24,72
+The next president should:,OBAMAPLCY,MI,Midwest,East North Central,Be less liberal,13,47,53
+U.S. economic system generally:,ECONFAIR,MI,Midwest,East North Central,Favors the wealthy,86,48,50
+U.S. economic system generally:,ECONFAIR,MI,Midwest,East North Central,Is fair to most Americans,13,N/A,N/A
+Worried about U.S. economy?,ECONWORR,MI,Midwest,East North Central,Very worried,37,40,58
+Worried about U.S. economy?,ECONWORR,MI,Midwest,East North Central,Somewhat worried,43,60,40
+Worried about U.S. economy?,ECONWORR,MI,Midwest,East North Central,Not too worried,15,47,44
+Worried about U.S. economy?,ECONWORR,MI,Midwest,East North Central,Not at all worried,4,N/A,N/A
+Worried about U.S. economy?,ECOWORR2,MI,Midwest,East North Central,Yes,80,51,48
+Worried about U.S. economy?,ECOWORR2,MI,Midwest,East North Central,No,19,47,45
+Feelings about the federal government,GOVTANGR16,MI,Midwest,East North Central,Enthusiastic,5,N/A,N/A
+Feelings about the federal government,GOVTANGR16,MI,Midwest,East North Central,Satisfied,24,57,36
+Feelings about the federal government,GOVTANGR16,MI,Midwest,East North Central,Dissatisfied,51,48,52
+Feelings about the federal government,GOVTANGR16,MI,Midwest,East North Central,Angry,17,40,60
+Feelings about the federal government,GOVTANGR16B,MI,Midwest,East North Central,Enthusiastic/Satisfied,29,58,34
+Feelings about the federal government,GOVTANGR16B,MI,Midwest,East North Central,Dissatisfied/Angry,69,46,54
+Next president should be:,OUTSIDER16,MI,Midwest,East North Central,Experienced in politics,82,56,41
+Next president should be:,OUTSIDER16,MI,Midwest,East North Central,Outside the establishment,13,16,84
+For a safe public water supply:,WATERREG,MI,Midwest,East North Central,Strengthen regulations,85,44,53
+For a safe public water supply:,WATERREG,MI,Midwest,East North Central,Already regulated enough,10,N/A,N/A
+Satisfied if Clinton wins the nomination?,SATHCLIN,MI,Midwest,East North Central,Yes,63,70,27
+Satisfied if Clinton wins the nomination?,SATHCLIN,MI,Midwest,East North Central,No,34,2,98
+Satisfied if Sanders wins the nomination?,SATSANDERS,MI,Midwest,East North Central,Yes,74,31,67
+Satisfied if Sanders wins the nomination?,SATSANDERS,MI,Midwest,East North Central,No,23,92,6
+Clinton's positions on the issues are:,CLINTONLIB,MI,Midwest,East North Central,Too liberal,11,N/A,N/A
+Clinton's positions on the issues are:,CLINTONLIB,MI,Midwest,East North Central,Not liberal enough,26,13,87
+Clinton's positions on the issues are:,CLINTONLIB,MI,Midwest,East North Central,About right,58,70,27
+Sanders' positions on the issues are:,SANDERSLIB,MI,Midwest,East North Central,Too liberal,19,81,18
+Sanders' positions on the issues are:,SANDERSLIB,MI,Midwest,East North Central,Not liberal enough,8,N/A,N/A
+Sanders' positions on the issues are:,SANDERSLIB,MI,Midwest,East North Central,About right,67,30,68
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,MI,Midwest,East North Central,Yes,56,79,20
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,MI,Midwest,East North Central,No,40,8,88
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,MI,Midwest,East North Central,Yes,81,42,55
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,MI,Midwest,East North Central,No,11,N/A,N/A
+Hillary Clinton's views on business are:,CLINBUSINESS,MI,Midwest,East North Central,Too pro-business,34,16,79
+Hillary Clinton's views on business are:,CLINBUSINESS,MI,Midwest,East North Central,Too anti-business,4,N/A,N/A
+Hillary Clinton's views on business are:,CLINBUSINESS,MI,Midwest,East North Central,About right,56,75,23
+Bernie Sanders' views on business are:,SANDBUSINESS,MI,Midwest,East North Central,Too pro-business,9,N/A,N/A
+Bernie Sanders' views on business are:,SANDBUSINESS,MI,Midwest,East North Central,Too anti-business,20,89,11
+Bernie Sanders' views on business are:,SANDBUSINESS,MI,Midwest,East North Central,About right,63,31,65
+Hillary Clinton's policies are:,CLINREALISTIC,MI,Midwest,East North Central,Realistic,71,61,36
+Hillary Clinton's policies are:,CLINREALISTIC,MI,Midwest,East North Central,Not realistic,25,8,92
+Bernie Sanders' policies are:,SANDREALISTIC,MI,Midwest,East North Central,Realistic,64,25,72
+Bernie Sanders' policies are:,SANDREALISTIC,MI,Midwest,East North Central,Not realistic,29,87,13
+When did you decide whom to vote for?,TIMENH16,MI,Midwest,East North Central,Just today,7,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,MI,Midwest,East North Central,In the last few days,9,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,MI,Midwest,East North Central,Sometime last week,5,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,MI,Midwest,East North Central,In the last month,21,45,49
+When did you decide whom to vote for?,TIMENH16,MI,Midwest,East North Central,Before that,57,53,47
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,MI,Midwest,East North Central,Last few days,16,53,47
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,MI,Midwest,East North Central,Earlier,83,50,48
+When did you decide whom to vote for?,TIMEPRIWK,MI,Midwest,East North Central,In the last week,21,49,49
+When did you decide whom to vote for?,TIMEPRIWK,MI,Midwest,East North Central,Earlier,78,51,48
+Area type,SIZEPLC3,MI,Midwest,East North Central,Urban area,15,61,36
+Area type,SIZEPLC3,MI,Midwest,East North Central,Suburban area,69,47,50
+Area type,SIZEPLC3,MI,Midwest,East North Central,Rural area,16,42,57
+Region,GEOCOD,MI,Midwest,East North Central,Wayne,22,59,39
+Region,GEOCOD,MI,Midwest,East North Central,Oakland/Macomb,23,50,47
+Region,GEOCOD,MI,Midwest,East North Central,Southeast,22,48,51
+Region,GEOCOD,MI,Midwest,East North Central,Southwest,16,40,55
+Region,GEOCOD,MI,Midwest,East North Central,N. Central/U.P.,16,40,60

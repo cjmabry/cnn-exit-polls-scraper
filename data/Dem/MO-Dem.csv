@@ -1,157 +1,157 @@
 question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
-Gender,SEX,MO,South,South Atlantic,Men,45,44,56
-Gender,SEX,MO,South,South Atlantic,Women,55,54,44
-Age,AGE,MO,South,South Atlantic,18-29,16,21,78
-Age,AGE,MO,South,South Atlantic,30-44,25,39,61
-Age,AGE,MO,South,South Atlantic,45-64,37,58,41
-Age,AGE,MO,South,South Atlantic,65 and older,22,69,30
-Age,AGE65,MO,South,South Atlantic,18-24,8,21,78
-Age,AGE65,MO,South,South Atlantic,25-29,8,21,78
-Age,AGE65,MO,South,South Atlantic,30-39,17,30,70
-Age,AGE65,MO,South,South Atlantic,40-49,18,55,43
-Age,AGE65,MO,South,South Atlantic,50-64,28,60,40
-Age,AGE65,MO,South,South Atlantic,65 and older,22,69,30
-Age,AGE45,MO,South,South Atlantic,18-44,41,32,67
-Age,AGE45,MO,South,South Atlantic,45 and older,59,62,37
-Race,RACE,MO,South,South Atlantic,White,72,45,54
-Race,RACE,MO,South,South Atlantic,Black,21,67,32
-Race,RACE,MO,South,South Atlantic,Latino,3,N/A,N/A
-Race,RACE,MO,South,South Atlantic,Asian,2,N/A,N/A
-Race,RACE,MO,South,South Atlantic,Other race,2,N/A,N/A
-Race,RACE2B,MO,South,South Atlantic,White,72,45,54
-Race,RACE2B,MO,South,South Atlantic,Non-white,28,61,38
-Race by gender,SEXBYRACE,MO,South,South Atlantic,White men,33,38,61
-Race by gender,SEXBYRACE,MO,South,South Atlantic,White women,40,51,48
-Race by gender,SEXBYRACE,MO,South,South Atlantic,Black men,9,N/A,N/A
-Race by gender,SEXBYRACE,MO,South,South Atlantic,Black women,12,70,30
-Race by gender,SEXBYRACE,MO,South,South Atlantic,Latino men,1,N/A,N/A
-Race by gender,SEXBYRACE,MO,South,South Atlantic,Latino women,2,N/A,N/A
-Race by gender,SEXBYRACE,MO,South,South Atlantic,Others,4,N/A,N/A
-Education,EDUC12R,MO,South,South Atlantic,High school or less,15,62,37
-Education,EDUC12R,MO,South,South Atlantic,Some college,33,46,53
-Education,EDUC12R,MO,South,South Atlantic,College graduate,29,45,55
-Education,EDUC12R,MO,South,South Atlantic,Postgraduate,23,51,49
-Are you a college graduate?,EDUCCOLL,MO,South,South Atlantic,Yes,52,48,52
-Are you a college graduate?,EDUCCOLL,MO,South,South Atlantic,No,48,51,48
-Education and race,EDUCWHITE,MO,South,South Atlantic,White college graduates,39,43,57
-Education and race,EDUCWHITE,MO,South,South Atlantic,Whites no degree,33,47,52
-Education and race,EDUCWHITE,MO,South,South Atlantic,Non-whites college grads,13,62,38
-Education and race,EDUCWHITE,MO,South,South Atlantic,Non-whites no degree,15,59,39
-Income,INCOME16,MO,South,South Atlantic,Less than $30K,23,46,53
-Income,INCOME16,MO,South,South Atlantic,$30K-50K,23,49,51
-Income,INCOME16,MO,South,South Atlantic,$50K-100K,29,50,50
-Income,INCOME16,MO,South,South Atlantic,$100K-200K,21,50,50
-Income,INCOME16,MO,South,South Atlantic,$200K or more,5,N/A,N/A
-Income,INC50K,MO,South,South Atlantic,Under $50K,46,47,52
-Income,INC50K,MO,South,South Atlantic,$50K or More,54,52,48
-Income,INC100K,MO,South,South Atlantic,Under $100K,75,48,51
-Income,INC100K,MO,South,South Atlantic,$100K or more,25,54,46
-Income,INCOME3,MO,South,South Atlantic,Under $50K,46,47,52
-Income,INCOME3,MO,South,South Atlantic,$50K-$100K,29,50,50
-Income,INCOME3,MO,South,South Atlantic,$100K or more,25,54,46
-Party ID,PARTY,MO,South,South Atlantic,Democrats,74,55,44
-Party ID,PARTY,MO,South,South Atlantic,Republicans,2,N/A,N/A
-Party ID,PARTY,MO,South,South Atlantic,Independents,24,33,67
-Ideology,PHIL4,MO,South,South Atlantic,Very liberal,28,39,61
-Ideology,PHIL4,MO,South,South Atlantic,Somewhat liberal,39,52,48
-Ideology,PHIL4,MO,South,South Atlantic,Moderate,29,58,41
-Ideology,PHIL4,MO,South,South Atlantic,Conservative,4,N/A,N/A
-Ideology,PHIL3X,MO,South,South Atlantic,Liberal,66,46,53
-Ideology,PHIL3X,MO,South,South Atlantic,Moderate,29,58,41
-Ideology,PHIL3X,MO,South,South Atlantic,Conservative,4,N/A,N/A
-Ideology ,PHIL2D,MO,South,South Atlantic,Liberal,66,46,53
-Ideology ,PHIL2D,MO,South,South Atlantic,Moderate/Conservative,34,55,44
-Marital status,MARRIED,MO,South,South Atlantic,Married,59,55,44
-Marital status,MARRIED,MO,South,South Atlantic,Unmarried,41,40,60
-Marital status and gender,SEXWED,MO,South,South Atlantic,Married men,28,51,48
-Marital status and gender,SEXWED,MO,South,South Atlantic,Married women,31,59,41
-Marital status and gender,SEXWED,MO,South,South Atlantic,Unmarried men,16,N/A,N/A
-Marital status and gender,SEXWED,MO,South,South Atlantic,Unmarried women,25,47,53
-Union household?,UNIONHH12,MO,South,South Atlantic,Yes,21,45,54
-Union household?,UNIONHH12,MO,South,South Atlantic,No,79,50,49
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,MO,South,South Atlantic,Voted before,82,55,45
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,MO,South,South Atlantic,First-time voter,17,27,73
-Most important issue,ISSDEM16,MO,South,South Atlantic,Health care,24,48,52
-Most important issue,ISSDEM16,MO,South,South Atlantic,Economy/Jobs,41,57,42
-Most important issue,ISSDEM16,MO,South,South Atlantic,Terrorism,7,N/A,N/A
-Most important issue,ISSDEM16,MO,South,South Atlantic,Income inequality,26,35,65
-Top candidate quality,QLT16DEMPRI,MO,South,South Atlantic,Electability,12,77,21
-Top candidate quality,QLT16DEMPRI,MO,South,South Atlantic,Cares,30,31,68
-Top candidate quality,QLT16DEMPRI,MO,South,South Atlantic,Honest,29,18,82
-Top candidate quality,QLT16DEMPRI,MO,South,South Atlantic,Experience,27,89,10
-The next president should:,OBAMAPLCY,MO,South,South Atlantic,Continue Obama's policies,55,66,32
-The next president should:,OBAMAPLCY,MO,South,South Atlantic,Be more liberal,32,23,77
-The next president should:,OBAMAPLCY,MO,South,South Atlantic,Be less liberal,10,N/A,N/A
-Race relations in this country have:,RACEREL14,MO,South,South Atlantic,Gotten better,10,N/A,N/A
-Race relations in this country have:,RACEREL14,MO,South,South Atlantic,Stayed the same,28,54,46
-Race relations in this country have:,RACEREL14,MO,South,South Atlantic,Gotten worse,61,46,54
-Who do you trust to handle race relations?,RACERELDEM16,MO,South,South Atlantic,Only Clinton,19,N/A,N/A
-Who do you trust to handle race relations?,RACERELDEM16,MO,South,South Atlantic,Only Sanders,22,4,95
-Who do you trust to handle race relations?,RACERELDEM16,MO,South,South Atlantic,Both,54,51,49
-Who do you trust to handle race relations?,RACERELDEM16,MO,South,South Atlantic,Neither,3,N/A,N/A
-Trust Clinton to handle race relations?,RACERELCLIN,MO,South,South Atlantic,Yes,73,63,37
-Trust Clinton to handle race relations?,RACERELCLIN,MO,South,South Atlantic,No,25,8,90
-Trust Sanders to handle race relations?,RACERELSANDERS,MO,South,South Atlantic,Yes,76,37,62
-Trust Sanders to handle race relations?,RACERELSANDERS,MO,South,South Atlantic,No,22,89,10
-U.S. economic system generally:,ECONFAIR,MO,South,South Atlantic,Favors the wealthy,90,47,52
-U.S. economic system generally:,ECONFAIR,MO,South,South Atlantic,Is fair to most Americans,9,N/A,N/A
-Trade with other countries:,TRADE16,MO,South,South Atlantic,Creates U.S. jobs,42,58,41
-Trade with other countries:,TRADE16,MO,South,South Atlantic,Takes away U.S. jobs,43,46,53
-Trade with other countries:,TRADE16,MO,South,South Atlantic,Does not affect jobs,11,N/A,N/A
-Worried about U.S. economy?,ECONWORR,MO,South,South Atlantic,Very worried,36,44,55
-Worried about U.S. economy?,ECONWORR,MO,South,South Atlantic,Somewhat worried,45,50,48
-Worried about U.S. economy?,ECONWORR,MO,South,South Atlantic,Not too worried,15,N/A,N/A
-Worried about U.S. economy?,ECONWORR,MO,South,South Atlantic,Not at all worried,4,N/A,N/A
-Worried about U.S. economy?,ECOWORR2,MO,South,South Atlantic,Yes,80,47,51
-Worried about U.S. economy?,ECOWORR2,MO,South,South Atlantic,No,19,57,43
-Family's financial situation,GETAHEAD,MO,South,South Atlantic,Getting ahead,23,57,42
-Family's financial situation,GETAHEAD,MO,South,South Atlantic,Holding steady ,59,51,49
-Family's financial situation,GETAHEAD,MO,South,South Atlantic,Falling behind ,17,37,62
-Next president should be:,OUTSIDER16,MO,South,South Atlantic,Experienced in politics,80,58,42
-Next president should be:,OUTSIDER16,MO,South,South Atlantic,Outside the establishment,17,14,84
-Satisfied if Clinton wins the nomination?,SATHCLIN,MO,South,South Atlantic,Yes,72,65,34
-Satisfied if Clinton wins the nomination?,SATHCLIN,MO,South,South Atlantic,No,27,4,95
-Satisfied if Sanders wins the nomination?,SATSANDERS,MO,South,South Atlantic,Yes,76,35,65
-Satisfied if Sanders wins the nomination?,SATSANDERS,MO,South,South Atlantic,No,22,93,5
-Clinton's positions on the issues are:,CLINTONLIB,MO,South,South Atlantic,Too liberal,10,N/A,N/A
-Clinton's positions on the issues are:,CLINTONLIB,MO,South,South Atlantic,Not liberal enough,31,18,82
-Clinton's positions on the issues are:,CLINTONLIB,MO,South,South Atlantic,About right,57,72,27
-Sanders' positions on the issues are:,SANDERSLIB,MO,South,South Atlantic,Too liberal,23,86,14
-Sanders' positions on the issues are:,SANDERSLIB,MO,South,South Atlantic,Not liberal enough,10,N/A,N/A
-Sanders' positions on the issues are:,SANDERSLIB,MO,South,South Atlantic,About right,65,30,69
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,MO,South,South Atlantic,Yes,58,77,23
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,MO,South,South Atlantic,No,39,10,90
-Is Bernie Sanders honest and trustworthy?,SANDHONEST,MO,South,South Atlantic,Yes,86,44,56
-Is Bernie Sanders honest and trustworthy?,SANDHONEST,MO,South,South Atlantic,No,10,N/A,N/A
-Hillary Clinton's policies are:,CLINREALISTIC,MO,South,South Atlantic,Realistic,76,62,37
-Hillary Clinton's policies are:,CLINREALISTIC,MO,South,South Atlantic,Not realistic,21,7,92
-Bernie Sanders' policies are:,SANDREALISTIC,MO,South,South Atlantic,Realistic,66,31,69
-Bernie Sanders' policies are:,SANDREALISTIC,MO,South,South Atlantic,Not realistic,31,88,11
-Who is more inspiring about the country's future?,INSPIRES16D,MO,South,South Atlantic,Clinton,44,97,3
-Who is more inspiring about the country's future?,INSPIRES16D,MO,South,South Atlantic,Sanders,54,11,89
-The candidate's gender was:,GENDISS,MO,South,South Atlantic,Most important factor,4,N/A,N/A
-The candidate's gender was:,GENDISS,MO,South,South Atlantic,An important factor,16,N/A,N/A
-The candidate's gender was:,GENDISS,MO,South,South Atlantic,Not a factor,80,42,57
-Was the candidate's gender an important factor?,GENDISS2,MO,South,South Atlantic,Yes,20,N/A,N/A
-Was the candidate's gender an important factor?,GENDISS2,MO,South,South Atlantic,No,80,42,57
-Better chance to defeat Trump in November?,BEATTRUMP16,MO,South,South Atlantic,Clinton,58,77,22
-Better chance to defeat Trump in November?,BEATTRUMP16,MO,South,South Atlantic,Sanders,39,7,93
-Who would make the best commander in chief?,CICDEM16,MO,South,South Atlantic,Clinton,52,88,12
-Who would make the best commander in chief?,CICDEM16,MO,South,South Atlantic,Sanders,45,4,95
-When did you decide whom to vote for?,TIMENH16,MO,South,South Atlantic,Just today,9,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,MO,South,South Atlantic,In the last few days,10,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,MO,South,South Atlantic,Sometime last week,4,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,MO,South,South Atlantic,In the last month,16,34,65
-When did you decide whom to vote for?,TIMENH16,MO,South,South Atlantic,Before that,60,53,47
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,MO,South,South Atlantic,Last few days,19,50,47
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,MO,South,South Atlantic,Earlier,80,49,50
-When did you decide whom to vote for?,TIMEPRIWK,MO,South,South Atlantic,In the last week,23,50,46
-When did you decide whom to vote for?,TIMEPRIWK,MO,South,South Atlantic,Earlier,76,49,51
-Area type,SIZEPLC3,MO,South,South Atlantic,Urban area,41,50,49
-Area type,SIZEPLC3,MO,South,South Atlantic,Suburban area,47,50,49
-Area type,SIZEPLC3,MO,South,South Atlantic,Rural area,12,46,53
-Region,GEOCOD,MO,South,South Atlantic,St. Louis Area,36,55,44
-Region,GEOCOD,MO,South,South Atlantic,E. Central,13,45,54
-Region,GEOCOD,MO,South,South Atlantic,Kansas City Area,21,51,48
-Region,GEOCOD,MO,South,South Atlantic,North,13,43,54
-Region,GEOCOD,MO,South,South Atlantic,South,17,45,55
+Gender,SEX,MO,Midwest,West North Central,Men,45,44,56
+Gender,SEX,MO,Midwest,West North Central,Women,55,54,44
+Age,AGE,MO,Midwest,West North Central,18-29,16,21,78
+Age,AGE,MO,Midwest,West North Central,30-44,25,39,61
+Age,AGE,MO,Midwest,West North Central,45-64,37,58,41
+Age,AGE,MO,Midwest,West North Central,65 and older,22,69,30
+Age,AGE65,MO,Midwest,West North Central,18-24,8,21,78
+Age,AGE65,MO,Midwest,West North Central,25-29,8,21,78
+Age,AGE65,MO,Midwest,West North Central,30-39,17,30,70
+Age,AGE65,MO,Midwest,West North Central,40-49,18,55,43
+Age,AGE65,MO,Midwest,West North Central,50-64,28,60,40
+Age,AGE65,MO,Midwest,West North Central,65 and older,22,69,30
+Age,AGE45,MO,Midwest,West North Central,18-44,41,32,67
+Age,AGE45,MO,Midwest,West North Central,45 and older,59,62,37
+Race,RACE,MO,Midwest,West North Central,White,72,45,54
+Race,RACE,MO,Midwest,West North Central,Black,21,67,32
+Race,RACE,MO,Midwest,West North Central,Latino,3,N/A,N/A
+Race,RACE,MO,Midwest,West North Central,Asian,2,N/A,N/A
+Race,RACE,MO,Midwest,West North Central,Other race,2,N/A,N/A
+Race,RACE2B,MO,Midwest,West North Central,White,72,45,54
+Race,RACE2B,MO,Midwest,West North Central,Non-white,28,61,38
+Race by gender,SEXBYRACE,MO,Midwest,West North Central,White men,33,38,61
+Race by gender,SEXBYRACE,MO,Midwest,West North Central,White women,40,51,48
+Race by gender,SEXBYRACE,MO,Midwest,West North Central,Black men,9,N/A,N/A
+Race by gender,SEXBYRACE,MO,Midwest,West North Central,Black women,12,70,30
+Race by gender,SEXBYRACE,MO,Midwest,West North Central,Latino men,1,N/A,N/A
+Race by gender,SEXBYRACE,MO,Midwest,West North Central,Latino women,2,N/A,N/A
+Race by gender,SEXBYRACE,MO,Midwest,West North Central,Others,4,N/A,N/A
+Education,EDUC12R,MO,Midwest,West North Central,High school or less,15,62,37
+Education,EDUC12R,MO,Midwest,West North Central,Some college,33,46,53
+Education,EDUC12R,MO,Midwest,West North Central,College graduate,29,45,55
+Education,EDUC12R,MO,Midwest,West North Central,Postgraduate,23,51,49
+Are you a college graduate?,EDUCCOLL,MO,Midwest,West North Central,Yes,52,48,52
+Are you a college graduate?,EDUCCOLL,MO,Midwest,West North Central,No,48,51,48
+Education and race,EDUCWHITE,MO,Midwest,West North Central,White college graduates,39,43,57
+Education and race,EDUCWHITE,MO,Midwest,West North Central,Whites no degree,33,47,52
+Education and race,EDUCWHITE,MO,Midwest,West North Central,Non-whites college grads,13,62,38
+Education and race,EDUCWHITE,MO,Midwest,West North Central,Non-whites no degree,15,59,39
+Income,INCOME16,MO,Midwest,West North Central,Less than $30K,23,46,53
+Income,INCOME16,MO,Midwest,West North Central,$30K-50K,23,49,51
+Income,INCOME16,MO,Midwest,West North Central,$50K-100K,29,50,50
+Income,INCOME16,MO,Midwest,West North Central,$100K-200K,21,50,50
+Income,INCOME16,MO,Midwest,West North Central,$200K or more,5,N/A,N/A
+Income,INC50K,MO,Midwest,West North Central,Under $50K,46,47,52
+Income,INC50K,MO,Midwest,West North Central,$50K or More,54,52,48
+Income,INC100K,MO,Midwest,West North Central,Under $100K,75,48,51
+Income,INC100K,MO,Midwest,West North Central,$100K or more,25,54,46
+Income,INCOME3,MO,Midwest,West North Central,Under $50K,46,47,52
+Income,INCOME3,MO,Midwest,West North Central,$50K-$100K,29,50,50
+Income,INCOME3,MO,Midwest,West North Central,$100K or more,25,54,46
+Party ID,PARTY,MO,Midwest,West North Central,Democrats,74,55,44
+Party ID,PARTY,MO,Midwest,West North Central,Republicans,2,N/A,N/A
+Party ID,PARTY,MO,Midwest,West North Central,Independents,24,33,67
+Ideology,PHIL4,MO,Midwest,West North Central,Very liberal,28,39,61
+Ideology,PHIL4,MO,Midwest,West North Central,Somewhat liberal,39,52,48
+Ideology,PHIL4,MO,Midwest,West North Central,Moderate,29,58,41
+Ideology,PHIL4,MO,Midwest,West North Central,Conservative,4,N/A,N/A
+Ideology,PHIL3X,MO,Midwest,West North Central,Liberal,66,46,53
+Ideology,PHIL3X,MO,Midwest,West North Central,Moderate,29,58,41
+Ideology,PHIL3X,MO,Midwest,West North Central,Conservative,4,N/A,N/A
+Ideology ,PHIL2D,MO,Midwest,West North Central,Liberal,66,46,53
+Ideology ,PHIL2D,MO,Midwest,West North Central,Moderate/Conservative,34,55,44
+Marital status,MARRIED,MO,Midwest,West North Central,Married,59,55,44
+Marital status,MARRIED,MO,Midwest,West North Central,Unmarried,41,40,60
+Marital status and gender,SEXWED,MO,Midwest,West North Central,Married men,28,51,48
+Marital status and gender,SEXWED,MO,Midwest,West North Central,Married women,31,59,41
+Marital status and gender,SEXWED,MO,Midwest,West North Central,Unmarried men,16,N/A,N/A
+Marital status and gender,SEXWED,MO,Midwest,West North Central,Unmarried women,25,47,53
+Union household?,UNIONHH12,MO,Midwest,West North Central,Yes,21,45,54
+Union household?,UNIONHH12,MO,Midwest,West North Central,No,79,50,49
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,MO,Midwest,West North Central,Voted before,82,55,45
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,MO,Midwest,West North Central,First-time voter,17,27,73
+Most important issue,ISSDEM16,MO,Midwest,West North Central,Health care,24,48,52
+Most important issue,ISSDEM16,MO,Midwest,West North Central,Economy/Jobs,41,57,42
+Most important issue,ISSDEM16,MO,Midwest,West North Central,Terrorism,7,N/A,N/A
+Most important issue,ISSDEM16,MO,Midwest,West North Central,Income inequality,26,35,65
+Top candidate quality,QLT16DEMPRI,MO,Midwest,West North Central,Electability,12,77,21
+Top candidate quality,QLT16DEMPRI,MO,Midwest,West North Central,Cares,30,31,68
+Top candidate quality,QLT16DEMPRI,MO,Midwest,West North Central,Honest,29,18,82
+Top candidate quality,QLT16DEMPRI,MO,Midwest,West North Central,Experience,27,89,10
+The next president should:,OBAMAPLCY,MO,Midwest,West North Central,Continue Obama's policies,55,66,32
+The next president should:,OBAMAPLCY,MO,Midwest,West North Central,Be more liberal,32,23,77
+The next president should:,OBAMAPLCY,MO,Midwest,West North Central,Be less liberal,10,N/A,N/A
+Race relations in this country have:,RACEREL14,MO,Midwest,West North Central,Gotten better,10,N/A,N/A
+Race relations in this country have:,RACEREL14,MO,Midwest,West North Central,Stayed the same,28,54,46
+Race relations in this country have:,RACEREL14,MO,Midwest,West North Central,Gotten worse,61,46,54
+Who do you trust to handle race relations?,RACERELDEM16,MO,Midwest,West North Central,Only Clinton,19,N/A,N/A
+Who do you trust to handle race relations?,RACERELDEM16,MO,Midwest,West North Central,Only Sanders,22,4,95
+Who do you trust to handle race relations?,RACERELDEM16,MO,Midwest,West North Central,Both,54,51,49
+Who do you trust to handle race relations?,RACERELDEM16,MO,Midwest,West North Central,Neither,3,N/A,N/A
+Trust Clinton to handle race relations?,RACERELCLIN,MO,Midwest,West North Central,Yes,73,63,37
+Trust Clinton to handle race relations?,RACERELCLIN,MO,Midwest,West North Central,No,25,8,90
+Trust Sanders to handle race relations?,RACERELSANDERS,MO,Midwest,West North Central,Yes,76,37,62
+Trust Sanders to handle race relations?,RACERELSANDERS,MO,Midwest,West North Central,No,22,89,10
+U.S. economic system generally:,ECONFAIR,MO,Midwest,West North Central,Favors the wealthy,90,47,52
+U.S. economic system generally:,ECONFAIR,MO,Midwest,West North Central,Is fair to most Americans,9,N/A,N/A
+Trade with other countries:,TRADE16,MO,Midwest,West North Central,Creates U.S. jobs,42,58,41
+Trade with other countries:,TRADE16,MO,Midwest,West North Central,Takes away U.S. jobs,43,46,53
+Trade with other countries:,TRADE16,MO,Midwest,West North Central,Does not affect jobs,11,N/A,N/A
+Worried about U.S. economy?,ECONWORR,MO,Midwest,West North Central,Very worried,36,44,55
+Worried about U.S. economy?,ECONWORR,MO,Midwest,West North Central,Somewhat worried,45,50,48
+Worried about U.S. economy?,ECONWORR,MO,Midwest,West North Central,Not too worried,15,N/A,N/A
+Worried about U.S. economy?,ECONWORR,MO,Midwest,West North Central,Not at all worried,4,N/A,N/A
+Worried about U.S. economy?,ECOWORR2,MO,Midwest,West North Central,Yes,80,47,51
+Worried about U.S. economy?,ECOWORR2,MO,Midwest,West North Central,No,19,57,43
+Family's financial situation,GETAHEAD,MO,Midwest,West North Central,Getting ahead,23,57,42
+Family's financial situation,GETAHEAD,MO,Midwest,West North Central,Holding steady ,59,51,49
+Family's financial situation,GETAHEAD,MO,Midwest,West North Central,Falling behind ,17,37,62
+Next president should be:,OUTSIDER16,MO,Midwest,West North Central,Experienced in politics,80,58,42
+Next president should be:,OUTSIDER16,MO,Midwest,West North Central,Outside the establishment,17,14,84
+Satisfied if Clinton wins the nomination?,SATHCLIN,MO,Midwest,West North Central,Yes,72,65,34
+Satisfied if Clinton wins the nomination?,SATHCLIN,MO,Midwest,West North Central,No,27,4,95
+Satisfied if Sanders wins the nomination?,SATSANDERS,MO,Midwest,West North Central,Yes,76,35,65
+Satisfied if Sanders wins the nomination?,SATSANDERS,MO,Midwest,West North Central,No,22,93,5
+Clinton's positions on the issues are:,CLINTONLIB,MO,Midwest,West North Central,Too liberal,10,N/A,N/A
+Clinton's positions on the issues are:,CLINTONLIB,MO,Midwest,West North Central,Not liberal enough,31,18,82
+Clinton's positions on the issues are:,CLINTONLIB,MO,Midwest,West North Central,About right,57,72,27
+Sanders' positions on the issues are:,SANDERSLIB,MO,Midwest,West North Central,Too liberal,23,86,14
+Sanders' positions on the issues are:,SANDERSLIB,MO,Midwest,West North Central,Not liberal enough,10,N/A,N/A
+Sanders' positions on the issues are:,SANDERSLIB,MO,Midwest,West North Central,About right,65,30,69
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,MO,Midwest,West North Central,Yes,58,77,23
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,MO,Midwest,West North Central,No,39,10,90
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,MO,Midwest,West North Central,Yes,86,44,56
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,MO,Midwest,West North Central,No,10,N/A,N/A
+Hillary Clinton's policies are:,CLINREALISTIC,MO,Midwest,West North Central,Realistic,76,62,37
+Hillary Clinton's policies are:,CLINREALISTIC,MO,Midwest,West North Central,Not realistic,21,7,92
+Bernie Sanders' policies are:,SANDREALISTIC,MO,Midwest,West North Central,Realistic,66,31,69
+Bernie Sanders' policies are:,SANDREALISTIC,MO,Midwest,West North Central,Not realistic,31,88,11
+Who is more inspiring about the country's future?,INSPIRES16D,MO,Midwest,West North Central,Clinton,44,97,3
+Who is more inspiring about the country's future?,INSPIRES16D,MO,Midwest,West North Central,Sanders,54,11,89
+The candidate's gender was:,GENDISS,MO,Midwest,West North Central,Most important factor,4,N/A,N/A
+The candidate's gender was:,GENDISS,MO,Midwest,West North Central,An important factor,16,N/A,N/A
+The candidate's gender was:,GENDISS,MO,Midwest,West North Central,Not a factor,80,42,57
+Was the candidate's gender an important factor?,GENDISS2,MO,Midwest,West North Central,Yes,20,N/A,N/A
+Was the candidate's gender an important factor?,GENDISS2,MO,Midwest,West North Central,No,80,42,57
+Better chance to defeat Trump in November?,BEATTRUMP16,MO,Midwest,West North Central,Clinton,58,77,22
+Better chance to defeat Trump in November?,BEATTRUMP16,MO,Midwest,West North Central,Sanders,39,7,93
+Who would make the best commander in chief?,CICDEM16,MO,Midwest,West North Central,Clinton,52,88,12
+Who would make the best commander in chief?,CICDEM16,MO,Midwest,West North Central,Sanders,45,4,95
+When did you decide whom to vote for?,TIMENH16,MO,Midwest,West North Central,Just today,9,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,MO,Midwest,West North Central,In the last few days,10,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,MO,Midwest,West North Central,Sometime last week,4,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,MO,Midwest,West North Central,In the last month,16,34,65
+When did you decide whom to vote for?,TIMENH16,MO,Midwest,West North Central,Before that,60,53,47
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,MO,Midwest,West North Central,Last few days,19,50,47
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,MO,Midwest,West North Central,Earlier,80,49,50
+When did you decide whom to vote for?,TIMEPRIWK,MO,Midwest,West North Central,In the last week,23,50,46
+When did you decide whom to vote for?,TIMEPRIWK,MO,Midwest,West North Central,Earlier,76,49,51
+Area type,SIZEPLC3,MO,Midwest,West North Central,Urban area,41,50,49
+Area type,SIZEPLC3,MO,Midwest,West North Central,Suburban area,47,50,49
+Area type,SIZEPLC3,MO,Midwest,West North Central,Rural area,12,46,53
+Region,GEOCOD,MO,Midwest,West North Central,St. Louis Area,36,55,44
+Region,GEOCOD,MO,Midwest,West North Central,E. Central,13,45,54
+Region,GEOCOD,MO,Midwest,West North Central,Kansas City Area,21,51,48
+Region,GEOCOD,MO,Midwest,West North Central,North,13,43,54
+Region,GEOCOD,MO,Midwest,West North Central,South,17,45,55

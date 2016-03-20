@@ -1,87 +1,87 @@
 question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
-Gender,SEX,NV,South,South Atlantic,Men,44,44,53
-Gender,SEX,NV,South,South Atlantic,Women,56,57,41
-Age,XAGE,NV,South,South Atlantic,17-29,18,14,82
-Age,XAGE,NV,South,South Atlantic,30-44,19,35,62
-Age,XAGE,NV,South,South Atlantic,45-64,35,61,36
-Age,XAGE,NV,South,South Atlantic,65 and older,28,74,24
-Age,XAGE65,NV,South,South Atlantic,17-24,13,12,83
-Age,XAGE65,NV,South,South Atlantic,25-29,5,N/A,N/A
-Age,XAGE65,NV,South,South Atlantic,30-39,13,29,67
-Age,XAGE65,NV,South,South Atlantic,40-49,11,50,48
-Age,XAGE65,NV,South,South Atlantic,50-64,30,62,35
-Age,XAGE65,NV,South,South Atlantic,65 and older,28,74,24
-Age,XAGE45,NV,South,South Atlantic,17-44 year olds,37,25,72
-Age,XAGE45,NV,South,South Atlantic,45 and older,63,66,31
-Race,RACE,NV,South,South Atlantic,White,59,47,49
-Race,RACE,NV,South,South Atlantic,Black,13,76,22
-Race,RACE,NV,South,South Atlantic,Latino,19,45,53
-Race,RACE,NV,South,South Atlantic,Asian,4,N/A,N/A
-Race,RACE,NV,South,South Atlantic,Other race,4,N/A,N/A
-Race,RACE2B,NV,South,South Atlantic,White,59,47,49
-Race,RACE2B,NV,South,South Atlantic,Non-white,41,56,42
-Education,EDUC12R,NV,South,South Atlantic,High school or less,13,49,49
-Education,EDUC12R,NV,South,South Atlantic,Some college,40,48,49
-Education,EDUC12R,NV,South,South Atlantic,College graduate,24,46,51
-Education,EDUC12R,NV,South,South Atlantic,Postgraduate,22,62,35
-Are you a college graduate?,EDUCCOLL,NV,South,South Atlantic,Yes,46,54,43
-Are you a college graduate?,EDUCCOLL,NV,South,South Atlantic,No,54,48,49
-Education and race,EDUCWHITE,NV,South,South Atlantic,White college graduates,30,50,46
-Education and race,EDUCWHITE,NV,South,South Atlantic,Whites no degree,29,44,52
-Education and race,EDUCWHITE,NV,South,South Atlantic,Non-whites college grads,16,60,38
-Education and race,EDUCWHITE,NV,South,South Atlantic,Non-whites no degree,24,52,45
-Income,INCOME16CAU,NV,South,South Atlantic,Under $30K,23,51,46
-Income,INCOME16CAU,NV,South,South Atlantic,$30K-$50K,24,49,50
-Income,INCOME16CAU,NV,South,South Atlantic,$50K-$100K,36,50,46
-Income,INCOME16CAU,NV,South,South Atlantic,$100K or more,17,54,42
-Income,INC50K,NV,South,South Atlantic,Under $50K,48,50,48
-Income,INC50K,NV,South,South Atlantic,$50K or More,52,51,45
-Income,INC100K,NV,South,South Atlantic,Under $100K,83,50,47
-Income,INC100K,NV,South,South Atlantic,$100K or more,17,54,42
-Income,INCOME3,NV,South,South Atlantic,Under $50K,48,50,48
-Income,INCOME3,NV,South,South Atlantic,$50K-$100K,36,50,46
-Income,INCOME3,NV,South,South Atlantic,$100K or more,17,54,42
-Party ID,PARTY,NV,South,South Atlantic,Democrats,81,58,40
-Party ID,PARTY,NV,South,South Atlantic,Republicans,1,N/A,N/A
-Party ID,PARTY,NV,South,South Atlantic,Independents,18,23,71
-Ideology,PHIL4,NV,South,South Atlantic,Very liberal,33,47,52
-Ideology,PHIL4,NV,South,South Atlantic,Somewhat liberal,37,46,50
-Ideology,PHIL4,NV,South,South Atlantic,Moderate,26,59,37
-Ideology,PHIL4,NV,South,South Atlantic,Conservative,4,N/A,N/A
-Ideology,PHIL3X,NV,South,South Atlantic,Liberal,70,46,51
-Ideology,PHIL3X,NV,South,South Atlantic,Moderate,26,59,37
-Ideology,PHIL3X,NV,South,South Atlantic,Conservative,4,N/A,N/A
-Ideology ,PHIL2D,NV,South,South Atlantic,Liberal,70,46,51
-Ideology ,PHIL2D,NV,South,South Atlantic,Moderate/Conservative,30,60,36
-Union household?,UNIONHH12,NV,South,South Atlantic,Yes,28,54,43
-Union household?,UNIONHH12,NV,South,South Atlantic,No,72,50,47
-Most important issue,ISSDEM16,NV,South,South Atlantic,Health care,23,62,36
-Most important issue,ISSDEM16,NV,South,South Atlantic,Economy/Jobs,35,55,41
-Most important issue,ISSDEM16,NV,South,South Atlantic,Terrorism,7,N/A,N/A
-Most important issue,ISSDEM16,NV,South,South Atlantic,Income inequality,28,33,65
-Top candidate quality,QLT16DEMCAU,NV,South,South Atlantic,Can win in November,18,80,15
-Top candidate quality,QLT16DEMCAU,NV,South,South Atlantic,Cares about people,26,26,72
-Top candidate quality,QLT16DEMCAU,NV,South,South Atlantic,Honest and trustworthy,25,12,82
-Top candidate quality,QLT16DEMCAU,NV,South,South Atlantic,Right experience,27,92,8
-The next president should:,OBAMAPLCY,NV,South,South Atlantic,Continue Obama's policies,50,75,22
-The next president should:,OBAMAPLCY,NV,South,South Atlantic,Be more liberal,41,21,77
-The next president should:,OBAMAPLCY,NV,South,South Atlantic,Be less liberal,6,N/A,N/A
-Better handle Supreme Court nominations?,SCOTUSDEM16,NV,South,South Atlantic,Clinton,54,91,7
-Better handle Supreme Court nominations?,SCOTUSDEM16,NV,South,South Atlantic,Sanders,43,2,95
-Ever attended a Nevada presidential caucus?,PREVCAUCDEMNV,NV,South,South Atlantic,Attended caucus before,36,62,35
-Ever attended a Nevada presidential caucus?,PREVCAUCDEMNV,NV,South,South Atlantic,First-time caucusgoers,62,44,53
-When did you decide whom to vote for?,TIMEIA16,NV,South,South Atlantic,Just today,6,N/A,N/A
-When did you decide whom to vote for?,TIMEIA16,NV,South,South Atlantic,In the last few days,7,N/A,N/A
-When did you decide whom to vote for?,TIMEIA16,NV,South,South Atlantic,Sometime last week,5,N/A,N/A
-When did you decide whom to vote for?,TIMEIA16,NV,South,South Atlantic,In the last month,13,40,58
-When did you decide whom to vote for?,TIMEIA16,NV,South,South Atlantic,Before that,68,54,45
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,NV,South,South Atlantic,Last few days,13,51,37
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,NV,South,South Atlantic,Earlier,86,51,48
-When did you decide whom to vote for?,TIMEPRIWK,NV,South,South Atlantic,In the last week,18,48,43
-When did you decide whom to vote for?,TIMEPRIWK,NV,South,South Atlantic,Earlier,81,52,47
-Area type,SIZEPLC3,NV,South,South Atlantic,Urban area,81,50,48
-Area type,SIZEPLC3,NV,South,South Atlantic,Suburban area,10,57,37
-Area type,SIZEPLC3,NV,South,South Atlantic,Rural area,9,N/A,N/A
-Region of state,GEOCOD,NV,South,South Atlantic,Washoe County,19,48,50
-Region of state,GEOCOD,NV,South,South Atlantic,Clark County,67,51,46
-Region of state,GEOCOD,NV,South,South Atlantic,Rest of the state,13,N/A,N/A
+Gender,SEX,NV,West,Mountain,Men,44,44,53
+Gender,SEX,NV,West,Mountain,Women,56,57,41
+Age,XAGE,NV,West,Mountain,17-29,18,14,82
+Age,XAGE,NV,West,Mountain,30-44,19,35,62
+Age,XAGE,NV,West,Mountain,45-64,35,61,36
+Age,XAGE,NV,West,Mountain,65 and older,28,74,24
+Age,XAGE65,NV,West,Mountain,17-24,13,12,83
+Age,XAGE65,NV,West,Mountain,25-29,5,N/A,N/A
+Age,XAGE65,NV,West,Mountain,30-39,13,29,67
+Age,XAGE65,NV,West,Mountain,40-49,11,50,48
+Age,XAGE65,NV,West,Mountain,50-64,30,62,35
+Age,XAGE65,NV,West,Mountain,65 and older,28,74,24
+Age,XAGE45,NV,West,Mountain,17-44 year olds,37,25,72
+Age,XAGE45,NV,West,Mountain,45 and older,63,66,31
+Race,RACE,NV,West,Mountain,White,59,47,49
+Race,RACE,NV,West,Mountain,Black,13,76,22
+Race,RACE,NV,West,Mountain,Latino,19,45,53
+Race,RACE,NV,West,Mountain,Asian,4,N/A,N/A
+Race,RACE,NV,West,Mountain,Other race,4,N/A,N/A
+Race,RACE2B,NV,West,Mountain,White,59,47,49
+Race,RACE2B,NV,West,Mountain,Non-white,41,56,42
+Education,EDUC12R,NV,West,Mountain,High school or less,13,49,49
+Education,EDUC12R,NV,West,Mountain,Some college,40,48,49
+Education,EDUC12R,NV,West,Mountain,College graduate,24,46,51
+Education,EDUC12R,NV,West,Mountain,Postgraduate,22,62,35
+Are you a college graduate?,EDUCCOLL,NV,West,Mountain,Yes,46,54,43
+Are you a college graduate?,EDUCCOLL,NV,West,Mountain,No,54,48,49
+Education and race,EDUCWHITE,NV,West,Mountain,White college graduates,30,50,46
+Education and race,EDUCWHITE,NV,West,Mountain,Whites no degree,29,44,52
+Education and race,EDUCWHITE,NV,West,Mountain,Non-whites college grads,16,60,38
+Education and race,EDUCWHITE,NV,West,Mountain,Non-whites no degree,24,52,45
+Income,INCOME16CAU,NV,West,Mountain,Under $30K,23,51,46
+Income,INCOME16CAU,NV,West,Mountain,$30K-$50K,24,49,50
+Income,INCOME16CAU,NV,West,Mountain,$50K-$100K,36,50,46
+Income,INCOME16CAU,NV,West,Mountain,$100K or more,17,54,42
+Income,INC50K,NV,West,Mountain,Under $50K,48,50,48
+Income,INC50K,NV,West,Mountain,$50K or More,52,51,45
+Income,INC100K,NV,West,Mountain,Under $100K,83,50,47
+Income,INC100K,NV,West,Mountain,$100K or more,17,54,42
+Income,INCOME3,NV,West,Mountain,Under $50K,48,50,48
+Income,INCOME3,NV,West,Mountain,$50K-$100K,36,50,46
+Income,INCOME3,NV,West,Mountain,$100K or more,17,54,42
+Party ID,PARTY,NV,West,Mountain,Democrats,81,58,40
+Party ID,PARTY,NV,West,Mountain,Republicans,1,N/A,N/A
+Party ID,PARTY,NV,West,Mountain,Independents,18,23,71
+Ideology,PHIL4,NV,West,Mountain,Very liberal,33,47,52
+Ideology,PHIL4,NV,West,Mountain,Somewhat liberal,37,46,50
+Ideology,PHIL4,NV,West,Mountain,Moderate,26,59,37
+Ideology,PHIL4,NV,West,Mountain,Conservative,4,N/A,N/A
+Ideology,PHIL3X,NV,West,Mountain,Liberal,70,46,51
+Ideology,PHIL3X,NV,West,Mountain,Moderate,26,59,37
+Ideology,PHIL3X,NV,West,Mountain,Conservative,4,N/A,N/A
+Ideology ,PHIL2D,NV,West,Mountain,Liberal,70,46,51
+Ideology ,PHIL2D,NV,West,Mountain,Moderate/Conservative,30,60,36
+Union household?,UNIONHH12,NV,West,Mountain,Yes,28,54,43
+Union household?,UNIONHH12,NV,West,Mountain,No,72,50,47
+Most important issue,ISSDEM16,NV,West,Mountain,Health care,23,62,36
+Most important issue,ISSDEM16,NV,West,Mountain,Economy/Jobs,35,55,41
+Most important issue,ISSDEM16,NV,West,Mountain,Terrorism,7,N/A,N/A
+Most important issue,ISSDEM16,NV,West,Mountain,Income inequality,28,33,65
+Top candidate quality,QLT16DEMCAU,NV,West,Mountain,Can win in November,18,80,15
+Top candidate quality,QLT16DEMCAU,NV,West,Mountain,Cares about people,26,26,72
+Top candidate quality,QLT16DEMCAU,NV,West,Mountain,Honest and trustworthy,25,12,82
+Top candidate quality,QLT16DEMCAU,NV,West,Mountain,Right experience,27,92,8
+The next president should:,OBAMAPLCY,NV,West,Mountain,Continue Obama's policies,50,75,22
+The next president should:,OBAMAPLCY,NV,West,Mountain,Be more liberal,41,21,77
+The next president should:,OBAMAPLCY,NV,West,Mountain,Be less liberal,6,N/A,N/A
+Better handle Supreme Court nominations?,SCOTUSDEM16,NV,West,Mountain,Clinton,54,91,7
+Better handle Supreme Court nominations?,SCOTUSDEM16,NV,West,Mountain,Sanders,43,2,95
+Ever attended a Nevada presidential caucus?,PREVCAUCDEMNV,NV,West,Mountain,Attended caucus before,36,62,35
+Ever attended a Nevada presidential caucus?,PREVCAUCDEMNV,NV,West,Mountain,First-time caucusgoers,62,44,53
+When did you decide whom to vote for?,TIMEIA16,NV,West,Mountain,Just today,6,N/A,N/A
+When did you decide whom to vote for?,TIMEIA16,NV,West,Mountain,In the last few days,7,N/A,N/A
+When did you decide whom to vote for?,TIMEIA16,NV,West,Mountain,Sometime last week,5,N/A,N/A
+When did you decide whom to vote for?,TIMEIA16,NV,West,Mountain,In the last month,13,40,58
+When did you decide whom to vote for?,TIMEIA16,NV,West,Mountain,Before that,68,54,45
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,NV,West,Mountain,Last few days,13,51,37
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,NV,West,Mountain,Earlier,86,51,48
+When did you decide whom to vote for?,TIMEPRIWK,NV,West,Mountain,In the last week,18,48,43
+When did you decide whom to vote for?,TIMEPRIWK,NV,West,Mountain,Earlier,81,52,47
+Area type,SIZEPLC3,NV,West,Mountain,Urban area,81,50,48
+Area type,SIZEPLC3,NV,West,Mountain,Suburban area,10,57,37
+Area type,SIZEPLC3,NV,West,Mountain,Rural area,9,N/A,N/A
+Region of state,GEOCOD,NV,West,Mountain,Washoe County,19,48,50
+Region of state,GEOCOD,NV,West,Mountain,Clark County,67,51,46
+Region of state,GEOCOD,NV,West,Mountain,Rest of the state,13,N/A,N/A

@@ -107,8 +107,8 @@ for poll in exitpollhub:
             for region, subregions in regions.iteritems():
                 for subregion, states in subregions.iteritems():
                     if state in states:
-                        subregion = subregion
-                        region = region
+                        state_subregion = subregion
+                        state_region = region
 
             if poll['party'] == party:
                 filename = 'data/' + party + '/' + state + '-' + party +'.csv'
@@ -140,4 +140,4 @@ for poll in exitpollhub:
 
                                 d[item['question']][answer['answer']][candidate] = a['pct']
 
-                            csv_file.writerow([item['question'],item['pollname'],state,region,subregion,answer['answer'],answer['pct'],d[item['question']][answer['answer']][candidates[0]],d[item['question']][answer['answer']][candidates[1]]])
+                            csv_file.writerow([item['question'],item['pollname'],state,state_region,state_subregion,answer['answer'],answer['pct'],d[item['question']][answer['answer']][candidates[0]],d[item['question']][answer['answer']][candidates[1]]])

@@ -1,110 +1,110 @@
 question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
-Gender,SEX,IA,South,South Atlantic,Men,43,44,50
-Gender,SEX,IA,South,South Atlantic,Women,57,53,42
-Age,XAGE,IA,South,South Atlantic,17-29,18,14,84
-Age,XAGE,IA,South,South Atlantic,30-44,19,37,58
-Age,XAGE,IA,South,South Atlantic,45-64,36,58,35
-Age,XAGE,IA,South,South Atlantic,65 and older,28,69,26
-Age,XAGE65,IA,South,South Atlantic,17-24,10,11,86
-Age,XAGE65,IA,South,South Atlantic,25-29,8,17,81
-Age,XAGE65,IA,South,South Atlantic,30-39,14,34,62
-Age,XAGE65,IA,South,South Atlantic,40-49,10,51,44
-Age,XAGE65,IA,South,South Atlantic,50-64,30,58,34
-Age,XAGE65,IA,South,South Atlantic,65 and older,28,69,26
-Race,QRACE4,IA,South,South Atlantic,White,91,49,46
-Race,QRACE4,IA,South,South Atlantic,Black,3,N/A,N/A
-Race,QRACE4,IA,South,South Atlantic,Hispanic,4,N/A,N/A
-Race,QRACE4,IA,South,South Atlantic,Other,2,N/A,N/A
-Race,RACE2B,IA,South,South Atlantic,White,91,49,46
-Race,RACE2B,IA,South,South Atlantic,Non-white,9,58,34
-Education,EDUC12R,IA,South,South Atlantic,High school or less,18,58,39
-Education,EDUC12R,IA,South,South Atlantic,Some college,32,42,52
-Education,EDUC12R,IA,South,South Atlantic,College graduate,27,48,48
-Education,EDUC12R,IA,South,South Atlantic,Postgraduate,23,53,39
-Did you attend college?,EDUCHS,IA,South,South Atlantic,Yes,82,47,47
-Did you attend college?,EDUCHS,IA,South,South Atlantic,No,18,58,39
-Are you a college graduate?,EDUCCOLL,IA,South,South Atlantic,Yes,50,51,44
-Are you a college graduate?,EDUCCOLL,IA,South,South Atlantic,No,50,48,47
-Education and race,EDUCWHITE,IA,South,South Atlantic,White college graduates,45,50,45
-Education and race,EDUCWHITE,IA,South,South Atlantic,Whites no degree,46,47,48
-Education and race,EDUCWHITE,IA,South,South Atlantic,Non-whites college grads,4,N/A,N/A
-Education and race,EDUCWHITE,IA,South,South Atlantic,Non-whites no degree,4,N/A,N/A
-Income,INCOME16CAU,IA,South,South Atlantic,Under $30K,18,41,57
-Income,INCOME16CAU,IA,South,South Atlantic,$30K-$50K,23,47,50
-Income,INCOME16CAU,IA,South,South Atlantic,$50K-$100K,38,50,44
-Income,INCOME16CAU,IA,South,South Atlantic,$100K or more,20,55,37
-Income,INC50K,IA,South,South Atlantic,Under $50K,41,44,53
-Income,INC50K,IA,South,South Atlantic,$50K or More,59,52,42
-Income,INC100K,IA,South,South Atlantic,Under $100K,80,47,49
-Income,INC100K,IA,South,South Atlantic,$100K or more,20,55,37
-Income,INCOME3,IA,South,South Atlantic,Under $50K,41,44,53
-Income,INCOME3,IA,South,South Atlantic,$50K-$100K,38,50,44
-Income,INCOME3,IA,South,South Atlantic,$100K or more,20,55,37
-Ever Attended a Caucus Before?,PREVCAUCDEM,IA,South,South Atlantic,Yes,56,59,35
-Ever Attended a Caucus Before?,PREVCAUCDEM,IA,South,South Atlantic,No,44,37,59
-Party ID,PARTY,IA,South,South Atlantic,Democrats,78,56,39
-Party ID,PARTY,IA,South,South Atlantic,Republicans,2,N/A,N/A
-Party ID,PARTY,IA,South,South Atlantic,Independents,20,26,69
-Ideology,PHIL4,IA,South,South Atlantic,Very liberal,28,39,58
-Ideology,PHIL4,IA,South,South Atlantic,Somewhat liberal,40,50,44
-Ideology,PHIL4,IA,South,South Atlantic,Moderate,28,58,35
-Ideology,PHIL4,IA,South,South Atlantic,Conservative,4,N/A,N/A
-Ideology,PHIL3X,IA,South,South Atlantic,Liberal,68,46,50
-Ideology,PHIL3X,IA,South,South Atlantic,Moderate,28,58,35
-Ideology,PHIL3X,IA,South,South Atlantic,Conservative,4,N/A,N/A
-Ideology ,PHIL2D,IA,South,South Atlantic,Liberal,68,46,50
-Ideology ,PHIL2D,IA,South,South Atlantic,Moderate/Conservative,32,57,37
-Marital status,MARRIED,IA,South,South Atlantic,Married,60,56,37
-Marital status,MARRIED,IA,South,South Atlantic,Unmarried,40,38,58
-Marital status and gender,SEXWED,IA,South,South Atlantic,Married men,27,52,41
-Marital status and gender,SEXWED,IA,South,South Atlantic,Married women,33,60,34
-Marital status and gender,SEXWED,IA,South,South Atlantic,Unmarried men,16,30,66
-Marital status and gender,SEXWED,IA,South,South Atlantic,Unmarried women,25,43,53
-Union household?,UNIONHH12,IA,South,South Atlantic,Yes,21,52,43
-Union household?,UNIONHH12,IA,South,South Atlantic,No,79,48,47
-Most important issue,ISSDEM16,IA,South,South Atlantic,Health care,30,59,38
-Most important issue,ISSDEM16,IA,South,South Atlantic,Economy/Jobs,33,51,42
-Most important issue,ISSDEM16,IA,South,South Atlantic,Terrorism,6,65,28
-Most important issue,ISSDEM16,IA,South,South Atlantic,Income inequality,27,34,61
-Top candidate quality,QLT16DEMCAU,IA,South,South Atlantic,Can win in November,20,77,17
-Top candidate quality,QLT16DEMCAU,IA,South,South Atlantic,Cares about people,26,22,74
-Top candidate quality,QLT16DEMCAU,IA,South,South Atlantic,Honest and trustworthy,24,10,83
-Top candidate quality,QLT16DEMCAU,IA,South,South Atlantic,Right experience,28,88,9
-Who would you trust to handle health care?,HEALTHDEM16,IA,South,South Atlantic,Only Clinton,26,96,1
-Who would you trust to handle health care?,HEALTHDEM16,IA,South,South Atlantic,Only Sanders,24,1,97
-Who would you trust to handle health care?,HEALTHDEM16,IA,South,South Atlantic,Both,47,49,44
-Who would you trust to handle health care?,HEALTHDEM16,IA,South,South Atlantic,Neither,1,N/A,N/A
-Trust Clinton to handle health care?,HEALTHDEMCLIN,IA,South,South Atlantic,Yes,73,66,29
-Trust Clinton to handle health care?,HEALTHDEMCLIN,IA,South,South Atlantic,No,26,1,94
-Trust Sanders to handle health care?,HEALTHDEMSANDERS,IA,South,South Atlantic,Yes,71,33,62
-Trust Sanders to handle health care?,HEALTHDEMSANDERS,IA,South,South Atlantic,No,28,91,3
-Who shares your values?,VALUESDEM16,IA,South,South Atlantic,Only Clinton,16,94,2
-Who shares your values?,VALUESDEM16,IA,South,South Atlantic,Only Sanders,25,1,96
-Who shares your values?,VALUESDEM16,IA,South,South Atlantic,Both,56,59,35
-Who shares your values?,VALUESDEM16,IA,South,South Atlantic,Neither,2,N/A,N/A
-Does Clinton share your values?,VALUESCLIN,IA,South,South Atlantic,Yes,72,67,28
-Does Clinton share your values?,VALUESCLIN,IA,South,South Atlantic,No,26,2,93
-Does Sanders share your values?,VALUESSANDERS,IA,South,South Atlantic,Yes,81,41,54
-Does Sanders share your values?,VALUESSANDERS,IA,South,South Atlantic,No,18,87,7
-The next president should:,OBAMAPLCY,IA,South,South Atlantic,Continue Obama's policies,55,68,26
-The next president should:,OBAMAPLCY,IA,South,South Atlantic,Be more liberal,33,21,76
-The next president should:,OBAMAPLCY,IA,South,South Atlantic,Be less liberal,7,43,50
-When did you decide whom to vote for?,TIMEIA16,IA,South,South Atlantic,Just today,7,45,42
-When did you decide whom to vote for?,TIMEIA16,IA,South,South Atlantic,In the last few days,9,46,46
-When did you decide whom to vote for?,TIMEIA16,IA,South,South Atlantic,Sometime last week,6,N/A,N/A
-When did you decide whom to vote for?,TIMEIA16,IA,South,South Atlantic,In the last month,18,41,57
-When did you decide whom to vote for?,TIMEIA16,IA,South,South Atlantic,Before that,59,54,42
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,IA,South,South Atlantic,Last few days,16,45,44
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,IA,South,South Atlantic,Earlier,83,51,46
-When did you decide whom to vote for?,TIMEPRIWK,IA,South,South Atlantic,In the last week,22,45,45
-When did you decide whom to vote for?,TIMEPRIWK,IA,South,South Atlantic,Earlier,77,51,46
-When did you decide whom to vote for?,TIMEPRIMTH,IA,South,South Atlantic,In the last month,40,43,51
-When did you decide whom to vote for?,TIMEPRIMTH,IA,South,South Atlantic,Earlier,59,54,42
-Area type,SIZEPLC3,IA,South,South Atlantic,Urban area,32,46,50
-Area type,SIZEPLC3,IA,South,South Atlantic,Suburban area,24,53,40
-Area type,SIZEPLC3,IA,South,South Atlantic,Rural area,44,50,45
-Vote by Region,GEOCODIA,IA,South,South Atlantic,Eastern Iowa,27,48,48
-Vote by Region,GEOCODIA,IA,South,South Atlantic,East Central Iowa,19,50,47
-Vote by Region,GEOCODIA,IA,South,South Atlantic,Des Moines Area,26,51,41
-Vote by Region,GEOCODIA,IA,South,South Atlantic,Central Iowa,16,50,45
-Vote by Region,GEOCODIA,IA,South,South Atlantic,Western Iowa,13,47,47
+Gender,SEX,IA,Midwest,West North Central,Men,43,44,50
+Gender,SEX,IA,Midwest,West North Central,Women,57,53,42
+Age,XAGE,IA,Midwest,West North Central,17-29,18,14,84
+Age,XAGE,IA,Midwest,West North Central,30-44,19,37,58
+Age,XAGE,IA,Midwest,West North Central,45-64,36,58,35
+Age,XAGE,IA,Midwest,West North Central,65 and older,28,69,26
+Age,XAGE65,IA,Midwest,West North Central,17-24,10,11,86
+Age,XAGE65,IA,Midwest,West North Central,25-29,8,17,81
+Age,XAGE65,IA,Midwest,West North Central,30-39,14,34,62
+Age,XAGE65,IA,Midwest,West North Central,40-49,10,51,44
+Age,XAGE65,IA,Midwest,West North Central,50-64,30,58,34
+Age,XAGE65,IA,Midwest,West North Central,65 and older,28,69,26
+Race,QRACE4,IA,Midwest,West North Central,White,91,49,46
+Race,QRACE4,IA,Midwest,West North Central,Black,3,N/A,N/A
+Race,QRACE4,IA,Midwest,West North Central,Hispanic,4,N/A,N/A
+Race,QRACE4,IA,Midwest,West North Central,Other,2,N/A,N/A
+Race,RACE2B,IA,Midwest,West North Central,White,91,49,46
+Race,RACE2B,IA,Midwest,West North Central,Non-white,9,58,34
+Education,EDUC12R,IA,Midwest,West North Central,High school or less,18,58,39
+Education,EDUC12R,IA,Midwest,West North Central,Some college,32,42,52
+Education,EDUC12R,IA,Midwest,West North Central,College graduate,27,48,48
+Education,EDUC12R,IA,Midwest,West North Central,Postgraduate,23,53,39
+Did you attend college?,EDUCHS,IA,Midwest,West North Central,Yes,82,47,47
+Did you attend college?,EDUCHS,IA,Midwest,West North Central,No,18,58,39
+Are you a college graduate?,EDUCCOLL,IA,Midwest,West North Central,Yes,50,51,44
+Are you a college graduate?,EDUCCOLL,IA,Midwest,West North Central,No,50,48,47
+Education and race,EDUCWHITE,IA,Midwest,West North Central,White college graduates,45,50,45
+Education and race,EDUCWHITE,IA,Midwest,West North Central,Whites no degree,46,47,48
+Education and race,EDUCWHITE,IA,Midwest,West North Central,Non-whites college grads,4,N/A,N/A
+Education and race,EDUCWHITE,IA,Midwest,West North Central,Non-whites no degree,4,N/A,N/A
+Income,INCOME16CAU,IA,Midwest,West North Central,Under $30K,18,41,57
+Income,INCOME16CAU,IA,Midwest,West North Central,$30K-$50K,23,47,50
+Income,INCOME16CAU,IA,Midwest,West North Central,$50K-$100K,38,50,44
+Income,INCOME16CAU,IA,Midwest,West North Central,$100K or more,20,55,37
+Income,INC50K,IA,Midwest,West North Central,Under $50K,41,44,53
+Income,INC50K,IA,Midwest,West North Central,$50K or More,59,52,42
+Income,INC100K,IA,Midwest,West North Central,Under $100K,80,47,49
+Income,INC100K,IA,Midwest,West North Central,$100K or more,20,55,37
+Income,INCOME3,IA,Midwest,West North Central,Under $50K,41,44,53
+Income,INCOME3,IA,Midwest,West North Central,$50K-$100K,38,50,44
+Income,INCOME3,IA,Midwest,West North Central,$100K or more,20,55,37
+Ever Attended a Caucus Before?,PREVCAUCDEM,IA,Midwest,West North Central,Yes,56,59,35
+Ever Attended a Caucus Before?,PREVCAUCDEM,IA,Midwest,West North Central,No,44,37,59
+Party ID,PARTY,IA,Midwest,West North Central,Democrats,78,56,39
+Party ID,PARTY,IA,Midwest,West North Central,Republicans,2,N/A,N/A
+Party ID,PARTY,IA,Midwest,West North Central,Independents,20,26,69
+Ideology,PHIL4,IA,Midwest,West North Central,Very liberal,28,39,58
+Ideology,PHIL4,IA,Midwest,West North Central,Somewhat liberal,40,50,44
+Ideology,PHIL4,IA,Midwest,West North Central,Moderate,28,58,35
+Ideology,PHIL4,IA,Midwest,West North Central,Conservative,4,N/A,N/A
+Ideology,PHIL3X,IA,Midwest,West North Central,Liberal,68,46,50
+Ideology,PHIL3X,IA,Midwest,West North Central,Moderate,28,58,35
+Ideology,PHIL3X,IA,Midwest,West North Central,Conservative,4,N/A,N/A
+Ideology ,PHIL2D,IA,Midwest,West North Central,Liberal,68,46,50
+Ideology ,PHIL2D,IA,Midwest,West North Central,Moderate/Conservative,32,57,37
+Marital status,MARRIED,IA,Midwest,West North Central,Married,60,56,37
+Marital status,MARRIED,IA,Midwest,West North Central,Unmarried,40,38,58
+Marital status and gender,SEXWED,IA,Midwest,West North Central,Married men,27,52,41
+Marital status and gender,SEXWED,IA,Midwest,West North Central,Married women,33,60,34
+Marital status and gender,SEXWED,IA,Midwest,West North Central,Unmarried men,16,30,66
+Marital status and gender,SEXWED,IA,Midwest,West North Central,Unmarried women,25,43,53
+Union household?,UNIONHH12,IA,Midwest,West North Central,Yes,21,52,43
+Union household?,UNIONHH12,IA,Midwest,West North Central,No,79,48,47
+Most important issue,ISSDEM16,IA,Midwest,West North Central,Health care,30,59,38
+Most important issue,ISSDEM16,IA,Midwest,West North Central,Economy/Jobs,33,51,42
+Most important issue,ISSDEM16,IA,Midwest,West North Central,Terrorism,6,65,28
+Most important issue,ISSDEM16,IA,Midwest,West North Central,Income inequality,27,34,61
+Top candidate quality,QLT16DEMCAU,IA,Midwest,West North Central,Can win in November,20,77,17
+Top candidate quality,QLT16DEMCAU,IA,Midwest,West North Central,Cares about people,26,22,74
+Top candidate quality,QLT16DEMCAU,IA,Midwest,West North Central,Honest and trustworthy,24,10,83
+Top candidate quality,QLT16DEMCAU,IA,Midwest,West North Central,Right experience,28,88,9
+Who would you trust to handle health care?,HEALTHDEM16,IA,Midwest,West North Central,Only Clinton,26,96,1
+Who would you trust to handle health care?,HEALTHDEM16,IA,Midwest,West North Central,Only Sanders,24,1,97
+Who would you trust to handle health care?,HEALTHDEM16,IA,Midwest,West North Central,Both,47,49,44
+Who would you trust to handle health care?,HEALTHDEM16,IA,Midwest,West North Central,Neither,1,N/A,N/A
+Trust Clinton to handle health care?,HEALTHDEMCLIN,IA,Midwest,West North Central,Yes,73,66,29
+Trust Clinton to handle health care?,HEALTHDEMCLIN,IA,Midwest,West North Central,No,26,1,94
+Trust Sanders to handle health care?,HEALTHDEMSANDERS,IA,Midwest,West North Central,Yes,71,33,62
+Trust Sanders to handle health care?,HEALTHDEMSANDERS,IA,Midwest,West North Central,No,28,91,3
+Who shares your values?,VALUESDEM16,IA,Midwest,West North Central,Only Clinton,16,94,2
+Who shares your values?,VALUESDEM16,IA,Midwest,West North Central,Only Sanders,25,1,96
+Who shares your values?,VALUESDEM16,IA,Midwest,West North Central,Both,56,59,35
+Who shares your values?,VALUESDEM16,IA,Midwest,West North Central,Neither,2,N/A,N/A
+Does Clinton share your values?,VALUESCLIN,IA,Midwest,West North Central,Yes,72,67,28
+Does Clinton share your values?,VALUESCLIN,IA,Midwest,West North Central,No,26,2,93
+Does Sanders share your values?,VALUESSANDERS,IA,Midwest,West North Central,Yes,81,41,54
+Does Sanders share your values?,VALUESSANDERS,IA,Midwest,West North Central,No,18,87,7
+The next president should:,OBAMAPLCY,IA,Midwest,West North Central,Continue Obama's policies,55,68,26
+The next president should:,OBAMAPLCY,IA,Midwest,West North Central,Be more liberal,33,21,76
+The next president should:,OBAMAPLCY,IA,Midwest,West North Central,Be less liberal,7,43,50
+When did you decide whom to vote for?,TIMEIA16,IA,Midwest,West North Central,Just today,7,45,42
+When did you decide whom to vote for?,TIMEIA16,IA,Midwest,West North Central,In the last few days,9,46,46
+When did you decide whom to vote for?,TIMEIA16,IA,Midwest,West North Central,Sometime last week,6,N/A,N/A
+When did you decide whom to vote for?,TIMEIA16,IA,Midwest,West North Central,In the last month,18,41,57
+When did you decide whom to vote for?,TIMEIA16,IA,Midwest,West North Central,Before that,59,54,42
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,IA,Midwest,West North Central,Last few days,16,45,44
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,IA,Midwest,West North Central,Earlier,83,51,46
+When did you decide whom to vote for?,TIMEPRIWK,IA,Midwest,West North Central,In the last week,22,45,45
+When did you decide whom to vote for?,TIMEPRIWK,IA,Midwest,West North Central,Earlier,77,51,46
+When did you decide whom to vote for?,TIMEPRIMTH,IA,Midwest,West North Central,In the last month,40,43,51
+When did you decide whom to vote for?,TIMEPRIMTH,IA,Midwest,West North Central,Earlier,59,54,42
+Area type,SIZEPLC3,IA,Midwest,West North Central,Urban area,32,46,50
+Area type,SIZEPLC3,IA,Midwest,West North Central,Suburban area,24,53,40
+Area type,SIZEPLC3,IA,Midwest,West North Central,Rural area,44,50,45
+Vote by Region,GEOCODIA,IA,Midwest,West North Central,Eastern Iowa,27,48,48
+Vote by Region,GEOCODIA,IA,Midwest,West North Central,East Central Iowa,19,50,47
+Vote by Region,GEOCODIA,IA,Midwest,West North Central,Des Moines Area,26,51,41
+Vote by Region,GEOCODIA,IA,Midwest,West North Central,Central Iowa,16,50,45
+Vote by Region,GEOCODIA,IA,Midwest,West North Central,Western Iowa,13,47,47
