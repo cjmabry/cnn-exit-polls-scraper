@@ -1,214 +1,214 @@
-Question,pollname,Answer,Percentage of Electorate,Clinton,Sanders
-Gender,SEX,Men,45,32,67
-Gender,SEX,Women,55,44,55
-Race,RACE,White,93,37,61
-Race,RACE,Black,2,N/A,N/A
-Race,RACE,Latino,1,N/A,N/A
-Race,RACE,Asian,2,N/A,N/A
-Race,RACE,Other race,2,N/A,N/A
-Race,RACE2B,White,93,37,61
-Race,RACE2B,Non-white,7,49,50
-Age,AGE,18-29,19,16,83
-Age,AGE,30-44,22,32,66
-Age,AGE,45-64,42,45,54
-Age,AGE,65 and older,18,54,45
-Age,AGE65,18-24,12,17,82
-Age,AGE65,25-29,7,14,85
-Age,AGE65,30-39,14,27,72
-Age,AGE65,40-49,17,38,60
-Age,AGE65,50-64,33,48,51
-Age,AGE65,65 and older,18,54,45
-Age,AGE45,18-44,41,25,74
-Age,AGE45,45 and older,59,48,51
-Education,EDUC12R,High school or less,12,34,64
-Education,EDUC12R,Some college,28,30,69
-Education,EDUC12R,College graduate,32,38,60
-Education,EDUC12R,Postgraduate,28,48,51
-Did you attend college?,EDUCHS,Yes,88,39,60
-Did you attend college?,EDUCHS,No,12,34,64
-Are you a college graduate?,EDUCCOLL,Yes,60,43,56
-Are you a college graduate?,EDUCCOLL,No,40,31,67
-Education and race,EDUCWHITE,White college graduates,57,42,57
-Education and race,EDUCWHITE,Whites no degree,37,30,68
-Education and race,EDUCWHITE,Non-whites college grads,4,N/A,N/A
-Education and race,EDUCWHITE,Non-whites no degree,3,N/A,N/A
-Income,INCOME16,Less than $30K,14,24,72
-Income,INCOME16,$30K-50K,18,39,60
-Income,INCOME16,$50K-100K,33,35,64
-Income,INCOME16,$100K-200K,27,44,55
-Income,INCOME16,$200K or more,8,53,46
-Income,INC50K,Under $50K,31,32,65
-Income,INC50K,$50K or More,69,41,58
-Income,INC100K,Under $100K,65,34,65
-Income,INC100K,$100K or more,35,46,53
-Income,INCOME3,Under $50K,31,32,65
-Income,INCOME3,$50K-$100K,33,35,64
-Income,INCOME3,$100K or more,35,46,53
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,Voted before,83,41,57
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,First-time voter,16,21,78
-Party ID,PARTY,Democrats,58,48,52
-Party ID,PARTY,Republicans,2,N/A,N/A
-Party ID,PARTY,Independents,40,25,73
-Ideology,PHIL4,Very liberal,26,33,67
-Ideology,PHIL4,Somewhat liberal,42,43,57
-Ideology,PHIL4,Moderate,27,39,59
-Ideology,PHIL4,Conservative,4,N/A,N/A
-Ideology,PHIL3X,Liberal,68,39,61
-Ideology,PHIL3X,Moderate,27,39,59
-Ideology,PHIL3X,Conservative,4,N/A,N/A
-Ideology ,PHIL2D,Liberal,68,39,61
-Ideology ,PHIL2D,Moderate/Conservative,32,37,60
-Marital status,MARRIED,Married,58,44,56
-Marital status,MARRIED,Unmarried,42,31,67
-Marital status and gender,SEXWED,Married men,26,43,56
-Marital status and gender,SEXWED,Married women,31,44,56
-Marital status and gender,SEXWED,Unmarried men,19,25,74
-Marital status and gender,SEXWED,Unmarried women,24,35,62
-Does anyone in your household own a gun?,GUNOWNER12,Yes,30,29,69
-Does anyone in your household own a gun?,GUNOWNER12,No,70,43,57
-Most important issue,ISSDEM16,Health care,23,45,54
-Most important issue,ISSDEM16,Economy/Jobs,33,39,59
-Most important issue,ISSDEM16,Terrorism,9,46,50
-Most important issue,ISSDEM16,Income inequality,32,29,71
-Top candidate quality,QLT16DEMPRI,Electability,12,79,20
-Top candidate quality,QLT16DEMPRI,Cares,27,17,82
-Top candidate quality,QLT16DEMPRI,Honest,34,6,92
-Top candidate quality,QLT16DEMPRI,Experience,26,84,15
-More important in your vote for president today,ISSVQUAL,Positions on issues,71,32,67
-More important in your vote for president today,ISSVQUAL,Leadership/Qualities,26,54,45
-Who shares your values?,VALUESDEM16,Only Clinton,11,N/A,N/A
-Who shares your values?,VALUESDEM16,Only Sanders,33,2,98
-Who shares your values?,VALUESDEM16,Both,50,52,48
-Who shares your values?,VALUESDEM16,Neither,4,N/A,N/A
-Does Clinton share your values?,VALUESCLIN,Yes,62,60,40
-Does Clinton share your values?,VALUESCLIN,No,37,2,94
-Does Sanders share your values?,VALUESSANDERS,Yes,84,32,68
-Does Sanders share your values?,VALUESSANDERS,No,15,N/A,N/A
-Who is honest and trustworthy?,HONESTDEM16,Only Clinton,7,N/A,N/A
-Who is honest and trustworthy?,HONESTDEM16,Only Sanders,50,3,96
-Who is honest and trustworthy?,HONESTDEM16,Both,39,72,27
-Who is honest and trustworthy?,HONESTDEM16,Neither,3,N/A,N/A
-Is Clinton honest and trustworthy?,HONESTDEM16CLIN,Yes,45,76,24
-Is Clinton honest and trustworthy?,HONESTDEM16CLIN,No,53,6,92
-Is Sanders honest and trustworthy?,HONESTDEM16SAND,Yes,89,33,66
-Is Sanders honest and trustworthy?,HONESTDEM16SAND,No,9,N/A,N/A
-Who would you trust to handle health care?,HEALTHDEM16,Only Clinton,16,98,1
-Who would you trust to handle health care?,HEALTHDEM16,Only Sanders,29,0,99
-Who would you trust to handle health care?,HEALTHDEM16,Both,49,42,57
-Who would you trust to handle health care?,HEALTHDEM16,Neither,5,N/A,N/A
-Trust Clinton to handle health care?,HEALTHDEMCLIN,Yes,65,56,43
-Trust Clinton to handle health care?,HEALTHDEMCLIN,No,34,2,95
-Trust Sanders to handle health care?,HEALTHDEMSANDERS,Yes,78,27,72
-Trust Sanders to handle health care?,HEALTHDEMSANDERS,No,21,79,17
-Who would you trust to handle the economy?,ECONDEM16,Only Clinton,22,96,3
-Who would you trust to handle the economy?,ECONDEM16,Only Sanders,37,1,98
-Who would you trust to handle the economy?,ECONDEM16,Both,37,41,58
-Who would you trust to handle the economy?,ECONDEM16,Neither,3,N/A,N/A
-Trust Clinton to handle economy?,ECONDEMCLIN,Yes,59,62,38
-Trust Clinton to handle economy?,ECONDEMCLIN,No,40,2,95
-Trust Sanders to handle economy?,ECONDEMSANDERS,Yes,74,21,78
-Trust Sanders to handle economy?,ECONDEMSANDERS,No,25,88,9
-Who do you trust in an international crisis?,INTCRISISDEM16,Only Clinton,28,92,7
-Who do you trust in an international crisis?,INTCRISISDEM16,Only Sanders,19,0,100
-Who do you trust in an international crisis?,INTCRISISDEM16,Both,48,24,74
-Who do you trust in an international crisis?,INTCRISISDEM16,Neither,4,N/A,N/A
-Trust Clinton in an international crisis?,INTCRISISDEMCLIN,Yes,76,49,50
-Trust Clinton in an international crisis?,INTCRISISDEMCLIN,No,23,3,94
-Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,Yes,67,18,81
-Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,No,32,82,16
-Who do you trust to deal with income inequality?,INCINEQDEM16,Only Clinton,12,N/A,N/A
-Who do you trust to deal with income inequality?,INCINEQDEM16,Only Sanders,47,5,95
-Who do you trust to deal with income inequality?,INCINEQDEM16,Both,37,62,36
-Who do you trust to deal with income inequality?,INCINEQDEM16,Neither,3,N/A,N/A
-Trust Clinton to deal with income inequality?,INCINEQDEMCLIN,Yes,49,70,29
-Trust Clinton to deal with income inequality?,INCINEQDEMCLIN,No,50,7,92
-Trust Sanders to deal with income inequality?,INCINEQDEMSANDERS,Yes,84,30,69
-Trust Sanders to deal with income inequality?,INCINEQDEMSANDERS,No,15,N/A,N/A
-Who would you trust to handle gun policy?,GUNPLCYDEM16,Only Clinton,18,91,9
-Who would you trust to handle gun policy?,GUNPLCYDEM16,Only Sanders,23,5,95
-Who would you trust to handle gun policy?,GUNPLCYDEM16,Both,47,39,61
-Who would you trust to handle gun policy?,GUNPLCYDEM16,Neither,10,N/A,N/A
-Trust Clinton to handle gun policy?,GUNPLCY16CLIN,Yes,65,53,46
-Trust Clinton to handle gun policy?,GUNPLCY16CLIN,No,33,8,88
-Trust Sanders to handle gun policy?,GUNPLCY16SAND,Yes,69,28,72
-Trust Sanders to handle gun policy?,GUNPLCY16SAND,No,28,65,32
-The next president should:,OBAMAPLCY,Continue Obama's policies,40,63,37
-The next president should:,OBAMAPLCY,Be more liberal,42,17,82
-The next president should:,OBAMAPLCY,Be less liberal,13,N/A,N/A
-Family's financial situation,GETAHEAD,Getting ahead,15,47,53
-Family's financial situation,GETAHEAD,Holding steady ,66,39,60
-Family's financial situation,GETAHEAD,Falling behind ,18,28,70
-U.S. economic system generally:,ECONFAIR,Favors the wealthy,90,36,63
-U.S. economic system generally:,ECONFAIR,Is fair to most Americans,9,N/A,N/A
-Life for the next generation of Americans will be:,LIFE,Better than today,25,37,61
-Life for the next generation of Americans will be:,LIFE,Worse than today,39,29,70
-Life for the next generation of Americans will be:,LIFE,About the same,35,49,49
-Worried about U.S. economy?,ECONWORR,Very worried,29,24,74
-Worried about U.S. economy?,ECONWORR,Somewhat worried,50,39,59
-Worried about U.S. economy?,ECONWORR,Not too worried,18,59,41
-Worried about U.S. economy?,ECONWORR,Not at all worried,3,N/A,N/A
-Worried about U.S. economy?,ECOWORR2,Yes,79,34,65
-Worried about U.S. economy?,ECOWORR2,No,20,56,44
-Worried about terrorist attack in U.S.?,TERRWORR,Very worried,22,39,61
-Worried about terrorist attack in U.S.?,TERRWORR,Somewhat worried,47,45,54
-Worried about terrorist attack in U.S.?,TERRWORR,Not too worried,26,30,69
-Worried about terrorist attack in U.S.?,TERRWORR,Not at all worried,4,N/A,N/A
-Worried about terrorist attack in U.S.?,TERWORR2,Yes,69,43,56
-Worried about terrorist attack in U.S.?,TERWORR2,No,30,28,71
-Views on a single-payer health care plan?,SINGLEPAYER,Support,63,29,71
-Views on a single-payer health care plan?,SINGLEPAYER,Oppose,32,58,40
-Should income tax rates:,TAXINC12,Increase for all,10,N/A,N/A
-Should income tax rates:,TAXINC12,Increase on $250K+,78,41,59
-Should income tax rates:,TAXINC12,Not increase,10,N/A,N/A
-Feelings about the federal government,GOVTANGR16,Enthusiastic,8,N/A,N/A
-Feelings about the federal government,GOVTANGR16,Satisfied,31,56,44
-Feelings about the federal government,GOVTANGR16,Dissatisfied,49,32,67
-Feelings about the federal government,GOVTANGR16,Angry,12,N/A,N/A
-Feelings about the federal government,GOVTANGR16B,Enthusiastic/Satisfied,38,55,45
-Feelings about the federal government,GOVTANGR16B,Dissatisfied/Angry,61,28,70
-Do you feel betrayed by Democratic politicians?,BETRAYEDDEM,Yes,15,11,84
-Do you feel betrayed by Democratic politicians?,BETRAYEDDEM,No,83,44,56
-Next president should be:,OUTSIDER16,Experienced in politics,70,50,50
-Next president should be:,OUTSIDER16,Outside the establishment,26,8,88
-Satisfied if Clinton wins the nomination?,SATHCLIN,Yes,62,61,39
-Satisfied if Clinton wins the nomination?,SATHCLIN,No,37,N/A,97
-Satisfied if Sanders wins the nomination?,SATSANDERS,Yes,79,24,75
-Satisfied if Sanders wins the nomination?,SATSANDERS,No,20,95,2
-Clinton's positions on the issues are:,CLINTONLIB,Too liberal,9,N/A,N/A
-Clinton's positions on the issues are:,CLINTONLIB,Not liberal enough,32,10,89
-Clinton's positions on the issues are:,CLINTONLIB,About right,54,61,38
-Sanders' positions on the issues are:,SANDERSLIB,Too liberal,27,85,12
-Sanders' positions on the issues are:,SANDERSLIB,Not liberal enough,4,N/A,N/A
-Sanders' positions on the issues are:,SANDERSLIB,About right,67,18,81
-Importance of race relations in deciding vote,BREAK16PRID,Most important factor,8,N/A,N/A
-Importance of race relations in deciding vote,BREAK16PRID,An important factor,42,38,61
-Importance of race relations in deciding vote,BREAK16PRID,A minor factor,33,38,61
-Importance of race relations in deciding vote,BREAK16PRID,Not a factor,14,43,54
-Were recent debates a factor in deciding vote?,BREAKFACTD,Yes,83,37,61
-Were recent debates a factor in deciding vote?,BREAKFACTD,No,14,43,54
-Were race relations important in deciding vote?,BREAKIMPD,Yes,50,37,62
-Were race relations important in deciding vote?,BREAKIMPD,No,48,40,59
-Party registration,REGNHDEM,Undeclared,40,27,72
-Party registration,REGNHDEM,Democrat,54,49,50
-Party registration,REGNHDEM,Not registered,6,N/A,N/A
-Did anyone contact you about your candidate?,CONTACT16PRI,Yes,55,44,55
-Did anyone contact you about your candidate?,CONTACT16PRI,No,44,31,67
-When did you decide whom to vote for?,TIMENH16,Just today,13,49,44
-When did you decide whom to vote for?,TIMENH16,In the last few days,12,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,Sometime last week,6,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,In the last month,16,29,71
-When did you decide whom to vote for?,TIMENH16,Before that,53,38,62
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,Last few days,25,43,52
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,Earlier,74,36,63
-When did you decide whom to vote for?,TIMEPRIWK,In the last week,31,43,53
-When did you decide whom to vote for?,TIMEPRIWK,Earlier,68,36,64
-When did you decide whom to vote for?,TIMEPRIMTH,In the last month,47,38,59
-When did you decide whom to vote for?,TIMEPRIMTH,Earlier,53,38,62
-Area type,SIZEPLC3,Urban area,12,40,57
-Area type,SIZEPLC3,Suburban area,46,41,57
-Area type,SIZEPLC3,Rural area,42,34,65
-Region,GEOCODNH,Seacoast,18,41,59
-Region,GEOCODNH,Manchester/Nashua Area,18,44,54
-Region,GEOCODNH,Concord/Ct. Valley,26,35,64
-Region,GEOCODNH,South,22,39,59
-Region,GEOCODNH,North,17,33,65
+question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+Gender,SEX,NH,South,South Atlantic,Men,45,32,67
+Gender,SEX,NH,South,South Atlantic,Women,55,44,55
+Race,RACE,NH,South,South Atlantic,White,93,37,61
+Race,RACE,NH,South,South Atlantic,Black,2,N/A,N/A
+Race,RACE,NH,South,South Atlantic,Latino,1,N/A,N/A
+Race,RACE,NH,South,South Atlantic,Asian,2,N/A,N/A
+Race,RACE,NH,South,South Atlantic,Other race,2,N/A,N/A
+Race,RACE2B,NH,South,South Atlantic,White,93,37,61
+Race,RACE2B,NH,South,South Atlantic,Non-white,7,49,50
+Age,AGE,NH,South,South Atlantic,18-29,19,16,83
+Age,AGE,NH,South,South Atlantic,30-44,22,32,66
+Age,AGE,NH,South,South Atlantic,45-64,42,45,54
+Age,AGE,NH,South,South Atlantic,65 and older,18,54,45
+Age,AGE65,NH,South,South Atlantic,18-24,12,17,82
+Age,AGE65,NH,South,South Atlantic,25-29,7,14,85
+Age,AGE65,NH,South,South Atlantic,30-39,14,27,72
+Age,AGE65,NH,South,South Atlantic,40-49,17,38,60
+Age,AGE65,NH,South,South Atlantic,50-64,33,48,51
+Age,AGE65,NH,South,South Atlantic,65 and older,18,54,45
+Age,AGE45,NH,South,South Atlantic,18-44,41,25,74
+Age,AGE45,NH,South,South Atlantic,45 and older,59,48,51
+Education,EDUC12R,NH,South,South Atlantic,High school or less,12,34,64
+Education,EDUC12R,NH,South,South Atlantic,Some college,28,30,69
+Education,EDUC12R,NH,South,South Atlantic,College graduate,32,38,60
+Education,EDUC12R,NH,South,South Atlantic,Postgraduate,28,48,51
+Did you attend college?,EDUCHS,NH,South,South Atlantic,Yes,88,39,60
+Did you attend college?,EDUCHS,NH,South,South Atlantic,No,12,34,64
+Are you a college graduate?,EDUCCOLL,NH,South,South Atlantic,Yes,60,43,56
+Are you a college graduate?,EDUCCOLL,NH,South,South Atlantic,No,40,31,67
+Education and race,EDUCWHITE,NH,South,South Atlantic,White college graduates,57,42,57
+Education and race,EDUCWHITE,NH,South,South Atlantic,Whites no degree,37,30,68
+Education and race,EDUCWHITE,NH,South,South Atlantic,Non-whites college grads,4,N/A,N/A
+Education and race,EDUCWHITE,NH,South,South Atlantic,Non-whites no degree,3,N/A,N/A
+Income,INCOME16,NH,South,South Atlantic,Less than $30K,14,24,72
+Income,INCOME16,NH,South,South Atlantic,$30K-50K,18,39,60
+Income,INCOME16,NH,South,South Atlantic,$50K-100K,33,35,64
+Income,INCOME16,NH,South,South Atlantic,$100K-200K,27,44,55
+Income,INCOME16,NH,South,South Atlantic,$200K or more,8,53,46
+Income,INC50K,NH,South,South Atlantic,Under $50K,31,32,65
+Income,INC50K,NH,South,South Atlantic,$50K or More,69,41,58
+Income,INC100K,NH,South,South Atlantic,Under $100K,65,34,65
+Income,INC100K,NH,South,South Atlantic,$100K or more,35,46,53
+Income,INCOME3,NH,South,South Atlantic,Under $50K,31,32,65
+Income,INCOME3,NH,South,South Atlantic,$50K-$100K,33,35,64
+Income,INCOME3,NH,South,South Atlantic,$100K or more,35,46,53
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,NH,South,South Atlantic,Voted before,83,41,57
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,NH,South,South Atlantic,First-time voter,16,21,78
+Party ID,PARTY,NH,South,South Atlantic,Democrats,58,48,52
+Party ID,PARTY,NH,South,South Atlantic,Republicans,2,N/A,N/A
+Party ID,PARTY,NH,South,South Atlantic,Independents,40,25,73
+Ideology,PHIL4,NH,South,South Atlantic,Very liberal,26,33,67
+Ideology,PHIL4,NH,South,South Atlantic,Somewhat liberal,42,43,57
+Ideology,PHIL4,NH,South,South Atlantic,Moderate,27,39,59
+Ideology,PHIL4,NH,South,South Atlantic,Conservative,4,N/A,N/A
+Ideology,PHIL3X,NH,South,South Atlantic,Liberal,68,39,61
+Ideology,PHIL3X,NH,South,South Atlantic,Moderate,27,39,59
+Ideology,PHIL3X,NH,South,South Atlantic,Conservative,4,N/A,N/A
+Ideology ,PHIL2D,NH,South,South Atlantic,Liberal,68,39,61
+Ideology ,PHIL2D,NH,South,South Atlantic,Moderate/Conservative,32,37,60
+Marital status,MARRIED,NH,South,South Atlantic,Married,58,44,56
+Marital status,MARRIED,NH,South,South Atlantic,Unmarried,42,31,67
+Marital status and gender,SEXWED,NH,South,South Atlantic,Married men,26,43,56
+Marital status and gender,SEXWED,NH,South,South Atlantic,Married women,31,44,56
+Marital status and gender,SEXWED,NH,South,South Atlantic,Unmarried men,19,25,74
+Marital status and gender,SEXWED,NH,South,South Atlantic,Unmarried women,24,35,62
+Does anyone in your household own a gun?,GUNOWNER12,NH,South,South Atlantic,Yes,30,29,69
+Does anyone in your household own a gun?,GUNOWNER12,NH,South,South Atlantic,No,70,43,57
+Most important issue,ISSDEM16,NH,South,South Atlantic,Health care,23,45,54
+Most important issue,ISSDEM16,NH,South,South Atlantic,Economy/Jobs,33,39,59
+Most important issue,ISSDEM16,NH,South,South Atlantic,Terrorism,9,46,50
+Most important issue,ISSDEM16,NH,South,South Atlantic,Income inequality,32,29,71
+Top candidate quality,QLT16DEMPRI,NH,South,South Atlantic,Electability,12,79,20
+Top candidate quality,QLT16DEMPRI,NH,South,South Atlantic,Cares,27,17,82
+Top candidate quality,QLT16DEMPRI,NH,South,South Atlantic,Honest,34,6,92
+Top candidate quality,QLT16DEMPRI,NH,South,South Atlantic,Experience,26,84,15
+More important in your vote for president today,ISSVQUAL,NH,South,South Atlantic,Positions on issues,71,32,67
+More important in your vote for president today,ISSVQUAL,NH,South,South Atlantic,Leadership/Qualities,26,54,45
+Who shares your values?,VALUESDEM16,NH,South,South Atlantic,Only Clinton,11,N/A,N/A
+Who shares your values?,VALUESDEM16,NH,South,South Atlantic,Only Sanders,33,2,98
+Who shares your values?,VALUESDEM16,NH,South,South Atlantic,Both,50,52,48
+Who shares your values?,VALUESDEM16,NH,South,South Atlantic,Neither,4,N/A,N/A
+Does Clinton share your values?,VALUESCLIN,NH,South,South Atlantic,Yes,62,60,40
+Does Clinton share your values?,VALUESCLIN,NH,South,South Atlantic,No,37,2,94
+Does Sanders share your values?,VALUESSANDERS,NH,South,South Atlantic,Yes,84,32,68
+Does Sanders share your values?,VALUESSANDERS,NH,South,South Atlantic,No,15,N/A,N/A
+Who is honest and trustworthy?,HONESTDEM16,NH,South,South Atlantic,Only Clinton,7,N/A,N/A
+Who is honest and trustworthy?,HONESTDEM16,NH,South,South Atlantic,Only Sanders,50,3,96
+Who is honest and trustworthy?,HONESTDEM16,NH,South,South Atlantic,Both,39,72,27
+Who is honest and trustworthy?,HONESTDEM16,NH,South,South Atlantic,Neither,3,N/A,N/A
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,NH,South,South Atlantic,Yes,45,76,24
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,NH,South,South Atlantic,No,53,6,92
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,NH,South,South Atlantic,Yes,89,33,66
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,NH,South,South Atlantic,No,9,N/A,N/A
+Who would you trust to handle health care?,HEALTHDEM16,NH,South,South Atlantic,Only Clinton,16,98,1
+Who would you trust to handle health care?,HEALTHDEM16,NH,South,South Atlantic,Only Sanders,29,0,99
+Who would you trust to handle health care?,HEALTHDEM16,NH,South,South Atlantic,Both,49,42,57
+Who would you trust to handle health care?,HEALTHDEM16,NH,South,South Atlantic,Neither,5,N/A,N/A
+Trust Clinton to handle health care?,HEALTHDEMCLIN,NH,South,South Atlantic,Yes,65,56,43
+Trust Clinton to handle health care?,HEALTHDEMCLIN,NH,South,South Atlantic,No,34,2,95
+Trust Sanders to handle health care?,HEALTHDEMSANDERS,NH,South,South Atlantic,Yes,78,27,72
+Trust Sanders to handle health care?,HEALTHDEMSANDERS,NH,South,South Atlantic,No,21,79,17
+Who would you trust to handle the economy?,ECONDEM16,NH,South,South Atlantic,Only Clinton,22,96,3
+Who would you trust to handle the economy?,ECONDEM16,NH,South,South Atlantic,Only Sanders,37,1,98
+Who would you trust to handle the economy?,ECONDEM16,NH,South,South Atlantic,Both,37,41,58
+Who would you trust to handle the economy?,ECONDEM16,NH,South,South Atlantic,Neither,3,N/A,N/A
+Trust Clinton to handle economy?,ECONDEMCLIN,NH,South,South Atlantic,Yes,59,62,38
+Trust Clinton to handle economy?,ECONDEMCLIN,NH,South,South Atlantic,No,40,2,95
+Trust Sanders to handle economy?,ECONDEMSANDERS,NH,South,South Atlantic,Yes,74,21,78
+Trust Sanders to handle economy?,ECONDEMSANDERS,NH,South,South Atlantic,No,25,88,9
+Who do you trust in an international crisis?,INTCRISISDEM16,NH,South,South Atlantic,Only Clinton,28,92,7
+Who do you trust in an international crisis?,INTCRISISDEM16,NH,South,South Atlantic,Only Sanders,19,0,100
+Who do you trust in an international crisis?,INTCRISISDEM16,NH,South,South Atlantic,Both,48,24,74
+Who do you trust in an international crisis?,INTCRISISDEM16,NH,South,South Atlantic,Neither,4,N/A,N/A
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,NH,South,South Atlantic,Yes,76,49,50
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,NH,South,South Atlantic,No,23,3,94
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,NH,South,South Atlantic,Yes,67,18,81
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,NH,South,South Atlantic,No,32,82,16
+Who do you trust to deal with income inequality?,INCINEQDEM16,NH,South,South Atlantic,Only Clinton,12,N/A,N/A
+Who do you trust to deal with income inequality?,INCINEQDEM16,NH,South,South Atlantic,Only Sanders,47,5,95
+Who do you trust to deal with income inequality?,INCINEQDEM16,NH,South,South Atlantic,Both,37,62,36
+Who do you trust to deal with income inequality?,INCINEQDEM16,NH,South,South Atlantic,Neither,3,N/A,N/A
+Trust Clinton to deal with income inequality?,INCINEQDEMCLIN,NH,South,South Atlantic,Yes,49,70,29
+Trust Clinton to deal with income inequality?,INCINEQDEMCLIN,NH,South,South Atlantic,No,50,7,92
+Trust Sanders to deal with income inequality?,INCINEQDEMSANDERS,NH,South,South Atlantic,Yes,84,30,69
+Trust Sanders to deal with income inequality?,INCINEQDEMSANDERS,NH,South,South Atlantic,No,15,N/A,N/A
+Who would you trust to handle gun policy?,GUNPLCYDEM16,NH,South,South Atlantic,Only Clinton,18,91,9
+Who would you trust to handle gun policy?,GUNPLCYDEM16,NH,South,South Atlantic,Only Sanders,23,5,95
+Who would you trust to handle gun policy?,GUNPLCYDEM16,NH,South,South Atlantic,Both,47,39,61
+Who would you trust to handle gun policy?,GUNPLCYDEM16,NH,South,South Atlantic,Neither,10,N/A,N/A
+Trust Clinton to handle gun policy?,GUNPLCY16CLIN,NH,South,South Atlantic,Yes,65,53,46
+Trust Clinton to handle gun policy?,GUNPLCY16CLIN,NH,South,South Atlantic,No,33,8,88
+Trust Sanders to handle gun policy?,GUNPLCY16SAND,NH,South,South Atlantic,Yes,69,28,72
+Trust Sanders to handle gun policy?,GUNPLCY16SAND,NH,South,South Atlantic,No,28,65,32
+The next president should:,OBAMAPLCY,NH,South,South Atlantic,Continue Obama's policies,40,63,37
+The next president should:,OBAMAPLCY,NH,South,South Atlantic,Be more liberal,42,17,82
+The next president should:,OBAMAPLCY,NH,South,South Atlantic,Be less liberal,13,N/A,N/A
+Family's financial situation,GETAHEAD,NH,South,South Atlantic,Getting ahead,15,47,53
+Family's financial situation,GETAHEAD,NH,South,South Atlantic,Holding steady ,66,39,60
+Family's financial situation,GETAHEAD,NH,South,South Atlantic,Falling behind ,18,28,70
+U.S. economic system generally:,ECONFAIR,NH,South,South Atlantic,Favors the wealthy,90,36,63
+U.S. economic system generally:,ECONFAIR,NH,South,South Atlantic,Is fair to most Americans,9,N/A,N/A
+Life for the next generation of Americans will be:,LIFE,NH,South,South Atlantic,Better than today,25,37,61
+Life for the next generation of Americans will be:,LIFE,NH,South,South Atlantic,Worse than today,39,29,70
+Life for the next generation of Americans will be:,LIFE,NH,South,South Atlantic,About the same,35,49,49
+Worried about U.S. economy?,ECONWORR,NH,South,South Atlantic,Very worried,29,24,74
+Worried about U.S. economy?,ECONWORR,NH,South,South Atlantic,Somewhat worried,50,39,59
+Worried about U.S. economy?,ECONWORR,NH,South,South Atlantic,Not too worried,18,59,41
+Worried about U.S. economy?,ECONWORR,NH,South,South Atlantic,Not at all worried,3,N/A,N/A
+Worried about U.S. economy?,ECOWORR2,NH,South,South Atlantic,Yes,79,34,65
+Worried about U.S. economy?,ECOWORR2,NH,South,South Atlantic,No,20,56,44
+Worried about terrorist attack in U.S.?,TERRWORR,NH,South,South Atlantic,Very worried,22,39,61
+Worried about terrorist attack in U.S.?,TERRWORR,NH,South,South Atlantic,Somewhat worried,47,45,54
+Worried about terrorist attack in U.S.?,TERRWORR,NH,South,South Atlantic,Not too worried,26,30,69
+Worried about terrorist attack in U.S.?,TERRWORR,NH,South,South Atlantic,Not at all worried,4,N/A,N/A
+Worried about terrorist attack in U.S.?,TERWORR2,NH,South,South Atlantic,Yes,69,43,56
+Worried about terrorist attack in U.S.?,TERWORR2,NH,South,South Atlantic,No,30,28,71
+Views on a single-payer health care plan?,SINGLEPAYER,NH,South,South Atlantic,Support,63,29,71
+Views on a single-payer health care plan?,SINGLEPAYER,NH,South,South Atlantic,Oppose,32,58,40
+Should income tax rates:,TAXINC12,NH,South,South Atlantic,Increase for all,10,N/A,N/A
+Should income tax rates:,TAXINC12,NH,South,South Atlantic,Increase on $250K+,78,41,59
+Should income tax rates:,TAXINC12,NH,South,South Atlantic,Not increase,10,N/A,N/A
+Feelings about the federal government,GOVTANGR16,NH,South,South Atlantic,Enthusiastic,8,N/A,N/A
+Feelings about the federal government,GOVTANGR16,NH,South,South Atlantic,Satisfied,31,56,44
+Feelings about the federal government,GOVTANGR16,NH,South,South Atlantic,Dissatisfied,49,32,67
+Feelings about the federal government,GOVTANGR16,NH,South,South Atlantic,Angry,12,N/A,N/A
+Feelings about the federal government,GOVTANGR16B,NH,South,South Atlantic,Enthusiastic/Satisfied,38,55,45
+Feelings about the federal government,GOVTANGR16B,NH,South,South Atlantic,Dissatisfied/Angry,61,28,70
+Do you feel betrayed by Democratic politicians?,BETRAYEDDEM,NH,South,South Atlantic,Yes,15,11,84
+Do you feel betrayed by Democratic politicians?,BETRAYEDDEM,NH,South,South Atlantic,No,83,44,56
+Next president should be:,OUTSIDER16,NH,South,South Atlantic,Experienced in politics,70,50,50
+Next president should be:,OUTSIDER16,NH,South,South Atlantic,Outside the establishment,26,8,88
+Satisfied if Clinton wins the nomination?,SATHCLIN,NH,South,South Atlantic,Yes,62,61,39
+Satisfied if Clinton wins the nomination?,SATHCLIN,NH,South,South Atlantic,No,37,N/A,97
+Satisfied if Sanders wins the nomination?,SATSANDERS,NH,South,South Atlantic,Yes,79,24,75
+Satisfied if Sanders wins the nomination?,SATSANDERS,NH,South,South Atlantic,No,20,95,2
+Clinton's positions on the issues are:,CLINTONLIB,NH,South,South Atlantic,Too liberal,9,N/A,N/A
+Clinton's positions on the issues are:,CLINTONLIB,NH,South,South Atlantic,Not liberal enough,32,10,89
+Clinton's positions on the issues are:,CLINTONLIB,NH,South,South Atlantic,About right,54,61,38
+Sanders' positions on the issues are:,SANDERSLIB,NH,South,South Atlantic,Too liberal,27,85,12
+Sanders' positions on the issues are:,SANDERSLIB,NH,South,South Atlantic,Not liberal enough,4,N/A,N/A
+Sanders' positions on the issues are:,SANDERSLIB,NH,South,South Atlantic,About right,67,18,81
+Importance of race relations in deciding vote,BREAK16PRID,NH,South,South Atlantic,Most important factor,8,N/A,N/A
+Importance of race relations in deciding vote,BREAK16PRID,NH,South,South Atlantic,An important factor,42,38,61
+Importance of race relations in deciding vote,BREAK16PRID,NH,South,South Atlantic,A minor factor,33,38,61
+Importance of race relations in deciding vote,BREAK16PRID,NH,South,South Atlantic,Not a factor,14,43,54
+Were recent debates a factor in deciding vote?,BREAKFACTD,NH,South,South Atlantic,Yes,83,37,61
+Were recent debates a factor in deciding vote?,BREAKFACTD,NH,South,South Atlantic,No,14,43,54
+Were race relations important in deciding vote?,BREAKIMPD,NH,South,South Atlantic,Yes,50,37,62
+Were race relations important in deciding vote?,BREAKIMPD,NH,South,South Atlantic,No,48,40,59
+Party registration,REGNHDEM,NH,South,South Atlantic,Undeclared,40,27,72
+Party registration,REGNHDEM,NH,South,South Atlantic,Democrat,54,49,50
+Party registration,REGNHDEM,NH,South,South Atlantic,Not registered,6,N/A,N/A
+Did anyone contact you about your candidate?,CONTACT16PRI,NH,South,South Atlantic,Yes,55,44,55
+Did anyone contact you about your candidate?,CONTACT16PRI,NH,South,South Atlantic,No,44,31,67
+When did you decide whom to vote for?,TIMENH16,NH,South,South Atlantic,Just today,13,49,44
+When did you decide whom to vote for?,TIMENH16,NH,South,South Atlantic,In the last few days,12,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,NH,South,South Atlantic,Sometime last week,6,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,NH,South,South Atlantic,In the last month,16,29,71
+When did you decide whom to vote for?,TIMENH16,NH,South,South Atlantic,Before that,53,38,62
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,NH,South,South Atlantic,Last few days,25,43,52
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,NH,South,South Atlantic,Earlier,74,36,63
+When did you decide whom to vote for?,TIMEPRIWK,NH,South,South Atlantic,In the last week,31,43,53
+When did you decide whom to vote for?,TIMEPRIWK,NH,South,South Atlantic,Earlier,68,36,64
+When did you decide whom to vote for?,TIMEPRIMTH,NH,South,South Atlantic,In the last month,47,38,59
+When did you decide whom to vote for?,TIMEPRIMTH,NH,South,South Atlantic,Earlier,53,38,62
+Area type,SIZEPLC3,NH,South,South Atlantic,Urban area,12,40,57
+Area type,SIZEPLC3,NH,South,South Atlantic,Suburban area,46,41,57
+Area type,SIZEPLC3,NH,South,South Atlantic,Rural area,42,34,65
+Region,GEOCODNH,NH,South,South Atlantic,Seacoast,18,41,59
+Region,GEOCODNH,NH,South,South Atlantic,Manchester/Nashua Area,18,44,54
+Region,GEOCODNH,NH,South,South Atlantic,Concord/Ct. Valley,26,35,64
+Region,GEOCODNH,NH,South,South Atlantic,South,22,39,59
+Region,GEOCODNH,NH,South,South Atlantic,North,17,33,65

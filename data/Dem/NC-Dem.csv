@@ -1,157 +1,157 @@
-Question,pollname,Answer,Percentage of Electorate,Clinton,Sanders
-Gender,SEX,Men,42,49,47
-Gender,SEX,Women,58,59,37
-Age,XAGE,17-29,18,28,72
-Age,XAGE,30-44,21,50,48
-Age,XAGE,45-64,42,62,33
-Age,XAGE,65 and older,20,69,25
-Age,XAGE65,17-24,9,19,81
-Age,XAGE65,25-29,9,37,62
-Age,XAGE65,30-39,14,45,53
-Age,XAGE65,40-49,17,58,37
-Age,XAGE65,50-64,32,63,32
-Age,XAGE65,65 and older,20,69,25
-Age,XAGE45,17-44 year olds,39,40,59
-Age,XAGE45,45 and older,61,64,30
-Race,RACE,White,62,43,52
-Race,RACE,Black,32,80,19
-Race,RACE,Latino,3,N/A,N/A
-Race,RACE,Asian,1,N/A,N/A
-Race,RACE,Other race,3,N/A,N/A
-Race,RACE2B,White,62,43,52
-Race,RACE2B,Non-white,38,74,25
-Race by gender,SEXBYRACE,White men,27,36,58
-Race by gender,SEXBYRACE,White women,35,49,47
-Race by gender,SEXBYRACE,Black men,12,82,16
-Race by gender,SEXBYRACE,Black women,20,79,20
-Race by gender,SEXBYRACE,Latino men,1,N/A,N/A
-Race by gender,SEXBYRACE,Latino women,2,N/A,N/A
-Race by gender,SEXBYRACE,Others,4,N/A,N/A
-Education,EDUC12R,High school or less,16,65,32
-Education,EDUC12R,Some college,27,54,44
-Education,EDUC12R,College graduate,32,52,42
-Education,EDUC12R,Postgraduate,25,53,44
-Are you a college graduate?,EDUCCOLL,Yes,58,53,43
-Are you a college graduate?,EDUCCOLL,No,42,58,40
-Education and race,EDUCWHITE,White college graduates,40,46,49
-Education and race,EDUCWHITE,Whites no degree,22,39,57
-Education and race,EDUCWHITE,Non-whites college grads,18,68,30
-Education and race,EDUCWHITE,Non-whites no degree,20,79,20
-Income,INCOME16,Less than $30K,19,55,42
-Income,INCOME16,$30K-50K,24,49,49
-Income,INCOME16,$50K-100K,32,46,49
-Income,INCOME16,$100K-200K,20,59,37
-Income,INCOME16,$200K or more,4,N/A,N/A
-Income,INC50K,Under $50K,43,52,46
-Income,INC50K,$50K or More,57,51,44
-Income,INC100K,Under $100K,75,49,47
-Income,INC100K,$100K or more,25,59,38
-Income,INCOME3,Under $50K,43,52,46
-Income,INCOME3,$50K-$100K,32,46,49
-Income,INCOME3,$100K or more,25,59,38
-Party ID,PARTY,Democrats,70,65,34
-Party ID,PARTY,Republicans,3,N/A,N/A
-Party ID,PARTY,Independents,28,34,58
-Ideology,PHIL4,Very liberal,26,50,50
-Ideology,PHIL4,Somewhat liberal,30,53,45
-Ideology,PHIL4,Moderate,35,59,36
-Ideology,PHIL4,Conservative,9,53,32
-Ideology,PHIL3X,Liberal,56,52,47
-Ideology,PHIL3X,Moderate,35,59,36
-Ideology,PHIL3X,Conservative,9,53,32
-Ideology ,PHIL2D,Liberal,56,52,47
-Ideology ,PHIL2D,Moderate/Conservative,44,58,35
-Marital status,MARRIED,Married,56,61,34
-Marital status,MARRIED,Unmarried,44,52,46
-Marital status and gender,SEXWED,Married men,25,55,38
-Marital status and gender,SEXWED,Married women,32,66,31
-Marital status and gender,SEXWED,Unmarried men,17,43,55
-Marital status and gender,SEXWED,Unmarried women,27,58,41
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,Voted before,86,61,35
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,First-time voter,13,31,66
-Most important issue,ISSDEM16,Health care,22,56,40
-Most important issue,ISSDEM16,Economy/Jobs,37,58,38
-Most important issue,ISSDEM16,Terrorism,10,58,33
-Most important issue,ISSDEM16,Income inequality,28,47,51
-Top candidate quality,QLT16DEMPRI,Electability,13,80,17
-Top candidate quality,QLT16DEMPRI,Cares,30,48,51
-Top candidate quality,QLT16DEMPRI,Honest,26,24,71
-Top candidate quality,QLT16DEMPRI,Experience,28,81,15
-The next president should:,OBAMAPLCY,Continue Obama's policies,54,71,27
-The next president should:,OBAMAPLCY,Be more liberal,28,27,72
-The next president should:,OBAMAPLCY,Be less liberal,13,31,52
-Race relations in this country have:,RACEREL14,Gotten better,10,N/A,N/A
-Race relations in this country have:,RACEREL14,Stayed the same,29,62,33
-Race relations in this country have:,RACEREL14,Gotten worse,59,54,42
-Who do you trust to handle race relations?,RACERELDEM16,Only Clinton,19,95,3
-Who do you trust to handle race relations?,RACERELDEM16,Only Sanders,13,2,95
-Who do you trust to handle race relations?,RACERELDEM16,Both,56,61,38
-Who do you trust to handle race relations?,RACERELDEM16,Neither,9,N/A,N/A
-Trust Clinton to handle race relations?,RACERELCLIN,Yes,75,70,29
-Trust Clinton to handle race relations?,RACERELCLIN,No,22,16,73
-Trust Sanders to handle race relations?,RACERELSANDERS,Yes,69,50,49
-Trust Sanders to handle race relations?,RACERELSANDERS,No,28,77,14
-Trade with other countries:,TRADE16,Creates U.S. jobs,36,61,37
-Trade with other countries:,TRADE16,Takes away U.S. jobs,44,49,46
-Trade with other countries:,TRADE16,Does not affect jobs,13,49,49
-Worried about U.S. economy?,ECONWORR,Very worried,34,46,46
-Worried about U.S. economy?,ECONWORR,Somewhat worried,38,50,49
-Worried about U.S. economy?,ECONWORR,Not too worried,20,62,36
-Worried about U.S. economy?,ECONWORR,Not at all worried,7,N/A,N/A
-Worried about U.S. economy?,ECOWORR2,Yes,72,48,47
-Worried about U.S. economy?,ECOWORR2,No,27,66,33
-Family's financial situation,GETAHEAD,Getting ahead,22,53,44
-Family's financial situation,GETAHEAD,Holding steady ,58,60,37
-Family's financial situation,GETAHEAD,Falling behind ,18,54,40
-Next president should be:,OUTSIDER16,Experienced in politics,81,58,40
-Next president should be:,OUTSIDER16,Outside the establishment,14,19,68
-Satisfied if Clinton wins the nomination?,SATHCLIN,Yes,76,73,25
-Satisfied if Clinton wins the nomination?,SATHCLIN,No,22,5,85
-Satisfied if Sanders wins the nomination?,SATSANDERS,Yes,66,43,55
-Satisfied if Sanders wins the nomination?,SATSANDERS,No,29,84,8
-Clinton's positions on the issues are:,CLINTONLIB,Too liberal,11,N/A,N/A
-Clinton's positions on the issues are:,CLINTONLIB,Not liberal enough,21,17,82
-Clinton's positions on the issues are:,CLINTONLIB,About right,64,78,21
-Sanders' positions on the issues are:,SANDERSLIB,Too liberal,30,76,18
-Sanders' positions on the issues are:,SANDERSLIB,Not liberal enough,10,N/A,N/A
-Sanders' positions on the issues are:,SANDERSLIB,About right,53,39,60
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,Yes,59,79,19
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,No,38,11,81
-Is Bernie Sanders honest and trustworthy?,SANDHONEST,Yes,83,49,48
-Is Bernie Sanders honest and trustworthy?,SANDHONEST,No,11,68,22
-Hillary Clinton's views on business are:,CLINBUSINESS,Too pro-business,29,15,82
-Hillary Clinton's views on business are:,CLINBUSINESS,Too anti-business,8,N/A,N/A
-Hillary Clinton's views on business are:,CLINBUSINESS,About right,58,77,21
-Bernie Sanders' views on business are:,SANDBUSINESS,Too pro-business,8,N/A,N/A
-Bernie Sanders' views on business are:,SANDBUSINESS,Too anti-business,28,79,15
-Bernie Sanders' views on business are:,SANDBUSINESS,About right,57,35,64
-Hillary Clinton's policies are:,CLINREALISTIC,Realistic,79,70,28
-Hillary Clinton's policies are:,CLINREALISTIC,Not realistic,19,11,76
-Bernie Sanders' policies are:,SANDREALISTIC,Realistic,52,38,60
-Bernie Sanders' policies are:,SANDREALISTIC,Not realistic,41,79,14
-The candidate's gender was:,GENDISS,Most important factor,5,N/A,N/A
-The candidate's gender was:,GENDISS,An important factor,18,80,16
-The candidate's gender was:,GENDISS,Not a factor,77,50,45
-Was the candidate's gender an important factor?,GENDISS2,Yes,22,82,15
-Was the candidate's gender an important factor?,GENDISS2,No,77,50,45
-Better chance to defeat Trump in November?,BEATTRUMP16,Clinton,68,78,19
-Better chance to defeat Trump in November?,BEATTRUMP16,Sanders,26,9,88
-Who would make the best commander in chief?,CICDEM16,Clinton,56,89,8
-Who would make the best commander in chief?,CICDEM16,Sanders,41,5,93
-When did you decide whom to vote for?,TIMENH16,Just today,7,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,In the last few days,8,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,Sometime last week,6,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,In the last month,18,45,52
-When did you decide whom to vote for?,TIMENH16,Before that,60,59,38
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,Last few days,15,41,54
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,Earlier,84,55,42
-When did you decide whom to vote for?,TIMEPRIWK,In the last week,21,42,52
-When did you decide whom to vote for?,TIMEPRIWK,Earlier,78,56,41
-Area type,SIZEPLC3,Urban area,42,57,41
-Area type,SIZEPLC3,Suburban area,23,53,41
-Area type,SIZEPLC3,Rural area,35,53,42
-Region,GEOCOD,East,23,58,34
-Region,GEOCOD,Raleigh-Durham,27,55,42
-Region,GEOCOD,Charlotte Area,14,60,39
-Region,GEOCOD,Piedmont/Central,21,56,41
-Region,GEOCOD,West,15,44,52
+question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+Gender,SEX,NC,South,South Atlantic,Men,42,49,47
+Gender,SEX,NC,South,South Atlantic,Women,58,59,37
+Age,XAGE,NC,South,South Atlantic,17-29,18,28,72
+Age,XAGE,NC,South,South Atlantic,30-44,21,50,48
+Age,XAGE,NC,South,South Atlantic,45-64,42,62,33
+Age,XAGE,NC,South,South Atlantic,65 and older,20,69,25
+Age,XAGE65,NC,South,South Atlantic,17-24,9,19,81
+Age,XAGE65,NC,South,South Atlantic,25-29,9,37,62
+Age,XAGE65,NC,South,South Atlantic,30-39,14,45,53
+Age,XAGE65,NC,South,South Atlantic,40-49,17,58,37
+Age,XAGE65,NC,South,South Atlantic,50-64,32,63,32
+Age,XAGE65,NC,South,South Atlantic,65 and older,20,69,25
+Age,XAGE45,NC,South,South Atlantic,17-44 year olds,39,40,59
+Age,XAGE45,NC,South,South Atlantic,45 and older,61,64,30
+Race,RACE,NC,South,South Atlantic,White,62,43,52
+Race,RACE,NC,South,South Atlantic,Black,32,80,19
+Race,RACE,NC,South,South Atlantic,Latino,3,N/A,N/A
+Race,RACE,NC,South,South Atlantic,Asian,1,N/A,N/A
+Race,RACE,NC,South,South Atlantic,Other race,3,N/A,N/A
+Race,RACE2B,NC,South,South Atlantic,White,62,43,52
+Race,RACE2B,NC,South,South Atlantic,Non-white,38,74,25
+Race by gender,SEXBYRACE,NC,South,South Atlantic,White men,27,36,58
+Race by gender,SEXBYRACE,NC,South,South Atlantic,White women,35,49,47
+Race by gender,SEXBYRACE,NC,South,South Atlantic,Black men,12,82,16
+Race by gender,SEXBYRACE,NC,South,South Atlantic,Black women,20,79,20
+Race by gender,SEXBYRACE,NC,South,South Atlantic,Latino men,1,N/A,N/A
+Race by gender,SEXBYRACE,NC,South,South Atlantic,Latino women,2,N/A,N/A
+Race by gender,SEXBYRACE,NC,South,South Atlantic,Others,4,N/A,N/A
+Education,EDUC12R,NC,South,South Atlantic,High school or less,16,65,32
+Education,EDUC12R,NC,South,South Atlantic,Some college,27,54,44
+Education,EDUC12R,NC,South,South Atlantic,College graduate,32,52,42
+Education,EDUC12R,NC,South,South Atlantic,Postgraduate,25,53,44
+Are you a college graduate?,EDUCCOLL,NC,South,South Atlantic,Yes,58,53,43
+Are you a college graduate?,EDUCCOLL,NC,South,South Atlantic,No,42,58,40
+Education and race,EDUCWHITE,NC,South,South Atlantic,White college graduates,40,46,49
+Education and race,EDUCWHITE,NC,South,South Atlantic,Whites no degree,22,39,57
+Education and race,EDUCWHITE,NC,South,South Atlantic,Non-whites college grads,18,68,30
+Education and race,EDUCWHITE,NC,South,South Atlantic,Non-whites no degree,20,79,20
+Income,INCOME16,NC,South,South Atlantic,Less than $30K,19,55,42
+Income,INCOME16,NC,South,South Atlantic,$30K-50K,24,49,49
+Income,INCOME16,NC,South,South Atlantic,$50K-100K,32,46,49
+Income,INCOME16,NC,South,South Atlantic,$100K-200K,20,59,37
+Income,INCOME16,NC,South,South Atlantic,$200K or more,4,N/A,N/A
+Income,INC50K,NC,South,South Atlantic,Under $50K,43,52,46
+Income,INC50K,NC,South,South Atlantic,$50K or More,57,51,44
+Income,INC100K,NC,South,South Atlantic,Under $100K,75,49,47
+Income,INC100K,NC,South,South Atlantic,$100K or more,25,59,38
+Income,INCOME3,NC,South,South Atlantic,Under $50K,43,52,46
+Income,INCOME3,NC,South,South Atlantic,$50K-$100K,32,46,49
+Income,INCOME3,NC,South,South Atlantic,$100K or more,25,59,38
+Party ID,PARTY,NC,South,South Atlantic,Democrats,70,65,34
+Party ID,PARTY,NC,South,South Atlantic,Republicans,3,N/A,N/A
+Party ID,PARTY,NC,South,South Atlantic,Independents,28,34,58
+Ideology,PHIL4,NC,South,South Atlantic,Very liberal,26,50,50
+Ideology,PHIL4,NC,South,South Atlantic,Somewhat liberal,30,53,45
+Ideology,PHIL4,NC,South,South Atlantic,Moderate,35,59,36
+Ideology,PHIL4,NC,South,South Atlantic,Conservative,9,53,32
+Ideology,PHIL3X,NC,South,South Atlantic,Liberal,56,52,47
+Ideology,PHIL3X,NC,South,South Atlantic,Moderate,35,59,36
+Ideology,PHIL3X,NC,South,South Atlantic,Conservative,9,53,32
+Ideology ,PHIL2D,NC,South,South Atlantic,Liberal,56,52,47
+Ideology ,PHIL2D,NC,South,South Atlantic,Moderate/Conservative,44,58,35
+Marital status,MARRIED,NC,South,South Atlantic,Married,56,61,34
+Marital status,MARRIED,NC,South,South Atlantic,Unmarried,44,52,46
+Marital status and gender,SEXWED,NC,South,South Atlantic,Married men,25,55,38
+Marital status and gender,SEXWED,NC,South,South Atlantic,Married women,32,66,31
+Marital status and gender,SEXWED,NC,South,South Atlantic,Unmarried men,17,43,55
+Marital status and gender,SEXWED,NC,South,South Atlantic,Unmarried women,27,58,41
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,NC,South,South Atlantic,Voted before,86,61,35
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,NC,South,South Atlantic,First-time voter,13,31,66
+Most important issue,ISSDEM16,NC,South,South Atlantic,Health care,22,56,40
+Most important issue,ISSDEM16,NC,South,South Atlantic,Economy/Jobs,37,58,38
+Most important issue,ISSDEM16,NC,South,South Atlantic,Terrorism,10,58,33
+Most important issue,ISSDEM16,NC,South,South Atlantic,Income inequality,28,47,51
+Top candidate quality,QLT16DEMPRI,NC,South,South Atlantic,Electability,13,80,17
+Top candidate quality,QLT16DEMPRI,NC,South,South Atlantic,Cares,30,48,51
+Top candidate quality,QLT16DEMPRI,NC,South,South Atlantic,Honest,26,24,71
+Top candidate quality,QLT16DEMPRI,NC,South,South Atlantic,Experience,28,81,15
+The next president should:,OBAMAPLCY,NC,South,South Atlantic,Continue Obama's policies,54,71,27
+The next president should:,OBAMAPLCY,NC,South,South Atlantic,Be more liberal,28,27,72
+The next president should:,OBAMAPLCY,NC,South,South Atlantic,Be less liberal,13,31,52
+Race relations in this country have:,RACEREL14,NC,South,South Atlantic,Gotten better,10,N/A,N/A
+Race relations in this country have:,RACEREL14,NC,South,South Atlantic,Stayed the same,29,62,33
+Race relations in this country have:,RACEREL14,NC,South,South Atlantic,Gotten worse,59,54,42
+Who do you trust to handle race relations?,RACERELDEM16,NC,South,South Atlantic,Only Clinton,19,95,3
+Who do you trust to handle race relations?,RACERELDEM16,NC,South,South Atlantic,Only Sanders,13,2,95
+Who do you trust to handle race relations?,RACERELDEM16,NC,South,South Atlantic,Both,56,61,38
+Who do you trust to handle race relations?,RACERELDEM16,NC,South,South Atlantic,Neither,9,N/A,N/A
+Trust Clinton to handle race relations?,RACERELCLIN,NC,South,South Atlantic,Yes,75,70,29
+Trust Clinton to handle race relations?,RACERELCLIN,NC,South,South Atlantic,No,22,16,73
+Trust Sanders to handle race relations?,RACERELSANDERS,NC,South,South Atlantic,Yes,69,50,49
+Trust Sanders to handle race relations?,RACERELSANDERS,NC,South,South Atlantic,No,28,77,14
+Trade with other countries:,TRADE16,NC,South,South Atlantic,Creates U.S. jobs,36,61,37
+Trade with other countries:,TRADE16,NC,South,South Atlantic,Takes away U.S. jobs,44,49,46
+Trade with other countries:,TRADE16,NC,South,South Atlantic,Does not affect jobs,13,49,49
+Worried about U.S. economy?,ECONWORR,NC,South,South Atlantic,Very worried,34,46,46
+Worried about U.S. economy?,ECONWORR,NC,South,South Atlantic,Somewhat worried,38,50,49
+Worried about U.S. economy?,ECONWORR,NC,South,South Atlantic,Not too worried,20,62,36
+Worried about U.S. economy?,ECONWORR,NC,South,South Atlantic,Not at all worried,7,N/A,N/A
+Worried about U.S. economy?,ECOWORR2,NC,South,South Atlantic,Yes,72,48,47
+Worried about U.S. economy?,ECOWORR2,NC,South,South Atlantic,No,27,66,33
+Family's financial situation,GETAHEAD,NC,South,South Atlantic,Getting ahead,22,53,44
+Family's financial situation,GETAHEAD,NC,South,South Atlantic,Holding steady ,58,60,37
+Family's financial situation,GETAHEAD,NC,South,South Atlantic,Falling behind ,18,54,40
+Next president should be:,OUTSIDER16,NC,South,South Atlantic,Experienced in politics,81,58,40
+Next president should be:,OUTSIDER16,NC,South,South Atlantic,Outside the establishment,14,19,68
+Satisfied if Clinton wins the nomination?,SATHCLIN,NC,South,South Atlantic,Yes,76,73,25
+Satisfied if Clinton wins the nomination?,SATHCLIN,NC,South,South Atlantic,No,22,5,85
+Satisfied if Sanders wins the nomination?,SATSANDERS,NC,South,South Atlantic,Yes,66,43,55
+Satisfied if Sanders wins the nomination?,SATSANDERS,NC,South,South Atlantic,No,29,84,8
+Clinton's positions on the issues are:,CLINTONLIB,NC,South,South Atlantic,Too liberal,11,N/A,N/A
+Clinton's positions on the issues are:,CLINTONLIB,NC,South,South Atlantic,Not liberal enough,21,17,82
+Clinton's positions on the issues are:,CLINTONLIB,NC,South,South Atlantic,About right,64,78,21
+Sanders' positions on the issues are:,SANDERSLIB,NC,South,South Atlantic,Too liberal,30,76,18
+Sanders' positions on the issues are:,SANDERSLIB,NC,South,South Atlantic,Not liberal enough,10,N/A,N/A
+Sanders' positions on the issues are:,SANDERSLIB,NC,South,South Atlantic,About right,53,39,60
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,NC,South,South Atlantic,Yes,59,79,19
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,NC,South,South Atlantic,No,38,11,81
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,NC,South,South Atlantic,Yes,83,49,48
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,NC,South,South Atlantic,No,11,68,22
+Hillary Clinton's views on business are:,CLINBUSINESS,NC,South,South Atlantic,Too pro-business,29,15,82
+Hillary Clinton's views on business are:,CLINBUSINESS,NC,South,South Atlantic,Too anti-business,8,N/A,N/A
+Hillary Clinton's views on business are:,CLINBUSINESS,NC,South,South Atlantic,About right,58,77,21
+Bernie Sanders' views on business are:,SANDBUSINESS,NC,South,South Atlantic,Too pro-business,8,N/A,N/A
+Bernie Sanders' views on business are:,SANDBUSINESS,NC,South,South Atlantic,Too anti-business,28,79,15
+Bernie Sanders' views on business are:,SANDBUSINESS,NC,South,South Atlantic,About right,57,35,64
+Hillary Clinton's policies are:,CLINREALISTIC,NC,South,South Atlantic,Realistic,79,70,28
+Hillary Clinton's policies are:,CLINREALISTIC,NC,South,South Atlantic,Not realistic,19,11,76
+Bernie Sanders' policies are:,SANDREALISTIC,NC,South,South Atlantic,Realistic,52,38,60
+Bernie Sanders' policies are:,SANDREALISTIC,NC,South,South Atlantic,Not realistic,41,79,14
+The candidate's gender was:,GENDISS,NC,South,South Atlantic,Most important factor,5,N/A,N/A
+The candidate's gender was:,GENDISS,NC,South,South Atlantic,An important factor,18,80,16
+The candidate's gender was:,GENDISS,NC,South,South Atlantic,Not a factor,77,50,45
+Was the candidate's gender an important factor?,GENDISS2,NC,South,South Atlantic,Yes,22,82,15
+Was the candidate's gender an important factor?,GENDISS2,NC,South,South Atlantic,No,77,50,45
+Better chance to defeat Trump in November?,BEATTRUMP16,NC,South,South Atlantic,Clinton,68,78,19
+Better chance to defeat Trump in November?,BEATTRUMP16,NC,South,South Atlantic,Sanders,26,9,88
+Who would make the best commander in chief?,CICDEM16,NC,South,South Atlantic,Clinton,56,89,8
+Who would make the best commander in chief?,CICDEM16,NC,South,South Atlantic,Sanders,41,5,93
+When did you decide whom to vote for?,TIMENH16,NC,South,South Atlantic,Just today,7,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,NC,South,South Atlantic,In the last few days,8,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,NC,South,South Atlantic,Sometime last week,6,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,NC,South,South Atlantic,In the last month,18,45,52
+When did you decide whom to vote for?,TIMENH16,NC,South,South Atlantic,Before that,60,59,38
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,NC,South,South Atlantic,Last few days,15,41,54
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,NC,South,South Atlantic,Earlier,84,55,42
+When did you decide whom to vote for?,TIMEPRIWK,NC,South,South Atlantic,In the last week,21,42,52
+When did you decide whom to vote for?,TIMEPRIWK,NC,South,South Atlantic,Earlier,78,56,41
+Area type,SIZEPLC3,NC,South,South Atlantic,Urban area,42,57,41
+Area type,SIZEPLC3,NC,South,South Atlantic,Suburban area,23,53,41
+Area type,SIZEPLC3,NC,South,South Atlantic,Rural area,35,53,42
+Region,GEOCOD,NC,South,South Atlantic,East,23,58,34
+Region,GEOCOD,NC,South,South Atlantic,Raleigh-Durham,27,55,42
+Region,GEOCOD,NC,South,South Atlantic,Charlotte Area,14,60,39
+Region,GEOCOD,NC,South,South Atlantic,Piedmont/Central,21,56,41
+Region,GEOCOD,NC,South,South Atlantic,West,15,44,52

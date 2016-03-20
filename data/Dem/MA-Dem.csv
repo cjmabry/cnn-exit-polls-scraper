@@ -1,120 +1,120 @@
-Question,pollname,Answer,Percentage of Electorate,Clinton,Sanders
-Gender,SEX,Men,42,41,58
-Gender,SEX,Women,58,57,42
-Age,AGE,18-29,19,35,65
-Age,AGE,30-44,23,55,44
-Age,AGE,45-64,39,51,48
-Age,AGE,65 and older,19,59,39
-Age,AGE65,18-24,11,28,71
-Age,AGE65,25-29,9,42,58
-Age,AGE65,30-39,15,53,47
-Age,AGE65,40-49,14,55,44
-Age,AGE65,50-64,32,51,48
-Age,AGE65,65 and older,19,59,39
-Age,AGE45,18-44,43,46,54
-Age,AGE45,45 and older,57,54,45
-Race,RACE,White,85,49,50
-Race,RACE,Black,4,N/A,N/A
-Race,RACE,Latino,6,N/A,N/A
-Race,RACE,Asian,4,N/A,N/A
-Race,RACE,Other race,1,N/A,N/A
-Race,RACE2B,White,85,49,50
-Race,RACE2B,Non-white,15,59,41
-Education,EDUC12R,High school or less,8,43,57
-Education,EDUC12R,Some college,24,40,60
-Education,EDUC12R,College graduate,32,50,49
-Education,EDUC12R,Postgraduate,35,58,41
-Are you a college graduate?,EDUCCOLL,Yes,67,54,45
-Are you a college graduate?,EDUCCOLL,No,33,41,59
-Education and race,EDUCWHITE,White college graduates,58,53,46
-Education and race,EDUCWHITE,Whites no degree,27,40,60
-Education and race,EDUCWHITE,Non-whites college grads,9,66,32
-Education and race,EDUCWHITE,Non-whites no degree,6,N/A,N/A
-Income,INCOME16,Less than $30K,13,47,50
-Income,INCOME16,$30K-50K,18,40,60
-Income,INCOME16,$50K-100K,33,46,54
-Income,INCOME16,$100K-200K,30,57,42
-Income,INCOME16,$200K or more,7,N/A,N/A
-Income,INC50K,Under $50K,31,43,56
-Income,INC50K,$50K or More,69,53,46
-Income,INC100K,Under $100K,63,45,55
-Income,INC100K,$100K or more,37,59,39
-Income,INCOME3,Under $50K,31,43,56
-Income,INCOME3,$50K-$100K,33,46,54
-Income,INCOME3,$100K or more,37,59,39
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,Voted before,81,55,45
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,First-time voter,17,27,72
-Party ID,PARTY,Democrats,65,60,40
-Party ID,PARTY,Republicans,2,N/A,N/A
-Party ID,PARTY,Independents,33,33,66
-Ideology,PHIL4,Very liberal,29,42,57
-Ideology,PHIL4,Somewhat liberal,41,60,40
-Ideology,PHIL4,Moderate,25,45,54
-Ideology,PHIL4,Conservative,5,N/A,N/A
-Ideology,PHIL3X,Liberal,70,52,47
-Ideology,PHIL3X,Moderate,25,45,54
-Ideology,PHIL3X,Conservative,5,N/A,N/A
-Ideology ,PHIL2D,Liberal,70,52,47
-Ideology ,PHIL2D,Moderate/Conservative,30,45,54
-Marital status,MARRIED,Married,55,55,44
-Marital status,MARRIED,Unmarried,45,44,55
-Marital status and gender,SEXWED,Married men,23,49,50
-Marital status and gender,SEXWED,Married women,33,59,40
-Marital status and gender,SEXWED,Unmarried men,18,30,69
-Marital status and gender,SEXWED,Unmarried women,26,53,46
-Most important issue,ISSDEM16,Health care,16,59,41
-Most important issue,ISSDEM16,Economy/Jobs,40,52,48
-Most important issue,ISSDEM16,Terrorism,12,58,39
-Most important issue,ISSDEM16,Income inequality,30,40,59
-Top candidate quality,QLT16DEMPRI,Electability,20,81,19
-Top candidate quality,QLT16DEMPRI,Cares,23,30,70
-Top candidate quality,QLT16DEMPRI,Honest,27,9,91
-Top candidate quality,QLT16DEMPRI,Experience,26,90,9
-Who is honest and trustworthy?,HONESTDEM16,Only Clinton,7,N/A,N/A
-Who is honest and trustworthy?,HONESTDEM16,Only Sanders,37,9,90
-Who is honest and trustworthy?,HONESTDEM16,Both,48,75,25
-Who is honest and trustworthy?,HONESTDEM16,Neither,6,N/A,N/A
-Is Clinton honest and trustworthy?,HONESTDEM16CLIN,Yes,54,78,22
-Is Clinton honest and trustworthy?,HONESTDEM16CLIN,No,43,15,83
-Is Sanders honest and trustworthy?,HONESTDEM16SAND,Yes,85,46,54
-Is Sanders honest and trustworthy?,HONESTDEM16SAND,No,12,76,20
-Who do you trust in an international crisis?,INTCRISISDEM16,Only Clinton,36,94,6
-Who do you trust in an international crisis?,INTCRISISDEM16,Only Sanders,16,3,97
-Who do you trust in an international crisis?,INTCRISISDEM16,Both,41,35,64
-Who do you trust in an international crisis?,INTCRISISDEM16,Neither,5,N/A,N/A
-Trust Clinton in an international crisis?,INTCRISISDEMCLIN,Yes,77,62,37
-Trust Clinton in an international crisis?,INTCRISISDEMCLIN,No,21,7,91
-Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,Yes,57,26,73
-Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,No,41,85,14
-Better handle Supreme Court nominations?,SCOTUSDEM16,Clinton,52,90,10
-Better handle Supreme Court nominations?,SCOTUSDEM16,Sanders,43,5,94
-The next president should:,OBAMAPLCY,Continue Obama's policies,45,70,30
-The next president should:,OBAMAPLCY,Be more liberal,34,32,68
-The next president should:,OBAMAPLCY,Be less liberal,16,38,60
-U.S. economic system generally:,ECONFAIR,Favors the wealthy,87,48,51
-U.S. economic system generally:,ECONFAIR,Is fair to most Americans,11,59,40
-Next president should be:,OUTSIDER16,Experienced in politics,78,60,40
-Next president should be:,OUTSIDER16,Outside the establishment,17,12,86
-Clinton's positions on the issues are:,CLINTONLIB,Too liberal,8,30,70
-Clinton's positions on the issues are:,CLINTONLIB,Not liberal enough,29,24,75
-Clinton's positions on the issues are:,CLINTONLIB,About right,57,70,30
-Sanders' positions on the issues are:,SANDERSLIB,Too liberal,31,86,13
-Sanders' positions on the issues are:,SANDERSLIB,Not liberal enough,6,N/A,N/A
-Sanders' positions on the issues are:,SANDERSLIB,About right,59,28,71
-When did you decide whom to vote for?,TIMENH16,Just today,12,43,54
-When did you decide whom to vote for?,TIMENH16,In the last few days,11,59,41
-When did you decide whom to vote for?,TIMENH16,Sometime last week,4,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,In the last month,15,44,55
-When did you decide whom to vote for?,TIMENH16,Before that,56,51,49
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,Last few days,24,51,48
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,Earlier,75,50,49
-When did you decide whom to vote for?,TIMEPRIWK,In the last week,28,52,46
-When did you decide whom to vote for?,TIMEPRIWK,Earlier,71,50,50
-Area type,SIZEPLC3,Urban area,16,61,37
-Area type,SIZEPLC3,Suburban area,84,48,51
-Area type,SIZEPLC3,Rural area,N/A,N/A,N/A
-Region,GEOCOD,Boston Area,33,54,45
-Region,GEOCOD,N. Shore/Rte. 128,17,52,46
-Region,GEOCOD,S. Shore/Cape Cod,13,48,51
-Region,GEOCOD,Industrial Belt,21,49,50
-Region,GEOCOD,Western Mass.,15,44,56
+question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+Gender,SEX,MA,South,South Atlantic,Men,42,41,58
+Gender,SEX,MA,South,South Atlantic,Women,58,57,42
+Age,AGE,MA,South,South Atlantic,18-29,19,35,65
+Age,AGE,MA,South,South Atlantic,30-44,23,55,44
+Age,AGE,MA,South,South Atlantic,45-64,39,51,48
+Age,AGE,MA,South,South Atlantic,65 and older,19,59,39
+Age,AGE65,MA,South,South Atlantic,18-24,11,28,71
+Age,AGE65,MA,South,South Atlantic,25-29,9,42,58
+Age,AGE65,MA,South,South Atlantic,30-39,15,53,47
+Age,AGE65,MA,South,South Atlantic,40-49,14,55,44
+Age,AGE65,MA,South,South Atlantic,50-64,32,51,48
+Age,AGE65,MA,South,South Atlantic,65 and older,19,59,39
+Age,AGE45,MA,South,South Atlantic,18-44,43,46,54
+Age,AGE45,MA,South,South Atlantic,45 and older,57,54,45
+Race,RACE,MA,South,South Atlantic,White,85,49,50
+Race,RACE,MA,South,South Atlantic,Black,4,N/A,N/A
+Race,RACE,MA,South,South Atlantic,Latino,6,N/A,N/A
+Race,RACE,MA,South,South Atlantic,Asian,4,N/A,N/A
+Race,RACE,MA,South,South Atlantic,Other race,1,N/A,N/A
+Race,RACE2B,MA,South,South Atlantic,White,85,49,50
+Race,RACE2B,MA,South,South Atlantic,Non-white,15,59,41
+Education,EDUC12R,MA,South,South Atlantic,High school or less,8,43,57
+Education,EDUC12R,MA,South,South Atlantic,Some college,24,40,60
+Education,EDUC12R,MA,South,South Atlantic,College graduate,32,50,49
+Education,EDUC12R,MA,South,South Atlantic,Postgraduate,35,58,41
+Are you a college graduate?,EDUCCOLL,MA,South,South Atlantic,Yes,67,54,45
+Are you a college graduate?,EDUCCOLL,MA,South,South Atlantic,No,33,41,59
+Education and race,EDUCWHITE,MA,South,South Atlantic,White college graduates,58,53,46
+Education and race,EDUCWHITE,MA,South,South Atlantic,Whites no degree,27,40,60
+Education and race,EDUCWHITE,MA,South,South Atlantic,Non-whites college grads,9,66,32
+Education and race,EDUCWHITE,MA,South,South Atlantic,Non-whites no degree,6,N/A,N/A
+Income,INCOME16,MA,South,South Atlantic,Less than $30K,13,47,50
+Income,INCOME16,MA,South,South Atlantic,$30K-50K,18,40,60
+Income,INCOME16,MA,South,South Atlantic,$50K-100K,33,46,54
+Income,INCOME16,MA,South,South Atlantic,$100K-200K,30,57,42
+Income,INCOME16,MA,South,South Atlantic,$200K or more,7,N/A,N/A
+Income,INC50K,MA,South,South Atlantic,Under $50K,31,43,56
+Income,INC50K,MA,South,South Atlantic,$50K or More,69,53,46
+Income,INC100K,MA,South,South Atlantic,Under $100K,63,45,55
+Income,INC100K,MA,South,South Atlantic,$100K or more,37,59,39
+Income,INCOME3,MA,South,South Atlantic,Under $50K,31,43,56
+Income,INCOME3,MA,South,South Atlantic,$50K-$100K,33,46,54
+Income,INCOME3,MA,South,South Atlantic,$100K or more,37,59,39
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,MA,South,South Atlantic,Voted before,81,55,45
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,MA,South,South Atlantic,First-time voter,17,27,72
+Party ID,PARTY,MA,South,South Atlantic,Democrats,65,60,40
+Party ID,PARTY,MA,South,South Atlantic,Republicans,2,N/A,N/A
+Party ID,PARTY,MA,South,South Atlantic,Independents,33,33,66
+Ideology,PHIL4,MA,South,South Atlantic,Very liberal,29,42,57
+Ideology,PHIL4,MA,South,South Atlantic,Somewhat liberal,41,60,40
+Ideology,PHIL4,MA,South,South Atlantic,Moderate,25,45,54
+Ideology,PHIL4,MA,South,South Atlantic,Conservative,5,N/A,N/A
+Ideology,PHIL3X,MA,South,South Atlantic,Liberal,70,52,47
+Ideology,PHIL3X,MA,South,South Atlantic,Moderate,25,45,54
+Ideology,PHIL3X,MA,South,South Atlantic,Conservative,5,N/A,N/A
+Ideology ,PHIL2D,MA,South,South Atlantic,Liberal,70,52,47
+Ideology ,PHIL2D,MA,South,South Atlantic,Moderate/Conservative,30,45,54
+Marital status,MARRIED,MA,South,South Atlantic,Married,55,55,44
+Marital status,MARRIED,MA,South,South Atlantic,Unmarried,45,44,55
+Marital status and gender,SEXWED,MA,South,South Atlantic,Married men,23,49,50
+Marital status and gender,SEXWED,MA,South,South Atlantic,Married women,33,59,40
+Marital status and gender,SEXWED,MA,South,South Atlantic,Unmarried men,18,30,69
+Marital status and gender,SEXWED,MA,South,South Atlantic,Unmarried women,26,53,46
+Most important issue,ISSDEM16,MA,South,South Atlantic,Health care,16,59,41
+Most important issue,ISSDEM16,MA,South,South Atlantic,Economy/Jobs,40,52,48
+Most important issue,ISSDEM16,MA,South,South Atlantic,Terrorism,12,58,39
+Most important issue,ISSDEM16,MA,South,South Atlantic,Income inequality,30,40,59
+Top candidate quality,QLT16DEMPRI,MA,South,South Atlantic,Electability,20,81,19
+Top candidate quality,QLT16DEMPRI,MA,South,South Atlantic,Cares,23,30,70
+Top candidate quality,QLT16DEMPRI,MA,South,South Atlantic,Honest,27,9,91
+Top candidate quality,QLT16DEMPRI,MA,South,South Atlantic,Experience,26,90,9
+Who is honest and trustworthy?,HONESTDEM16,MA,South,South Atlantic,Only Clinton,7,N/A,N/A
+Who is honest and trustworthy?,HONESTDEM16,MA,South,South Atlantic,Only Sanders,37,9,90
+Who is honest and trustworthy?,HONESTDEM16,MA,South,South Atlantic,Both,48,75,25
+Who is honest and trustworthy?,HONESTDEM16,MA,South,South Atlantic,Neither,6,N/A,N/A
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,MA,South,South Atlantic,Yes,54,78,22
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,MA,South,South Atlantic,No,43,15,83
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,MA,South,South Atlantic,Yes,85,46,54
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,MA,South,South Atlantic,No,12,76,20
+Who do you trust in an international crisis?,INTCRISISDEM16,MA,South,South Atlantic,Only Clinton,36,94,6
+Who do you trust in an international crisis?,INTCRISISDEM16,MA,South,South Atlantic,Only Sanders,16,3,97
+Who do you trust in an international crisis?,INTCRISISDEM16,MA,South,South Atlantic,Both,41,35,64
+Who do you trust in an international crisis?,INTCRISISDEM16,MA,South,South Atlantic,Neither,5,N/A,N/A
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,MA,South,South Atlantic,Yes,77,62,37
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,MA,South,South Atlantic,No,21,7,91
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,MA,South,South Atlantic,Yes,57,26,73
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,MA,South,South Atlantic,No,41,85,14
+Better handle Supreme Court nominations?,SCOTUSDEM16,MA,South,South Atlantic,Clinton,52,90,10
+Better handle Supreme Court nominations?,SCOTUSDEM16,MA,South,South Atlantic,Sanders,43,5,94
+The next president should:,OBAMAPLCY,MA,South,South Atlantic,Continue Obama's policies,45,70,30
+The next president should:,OBAMAPLCY,MA,South,South Atlantic,Be more liberal,34,32,68
+The next president should:,OBAMAPLCY,MA,South,South Atlantic,Be less liberal,16,38,60
+U.S. economic system generally:,ECONFAIR,MA,South,South Atlantic,Favors the wealthy,87,48,51
+U.S. economic system generally:,ECONFAIR,MA,South,South Atlantic,Is fair to most Americans,11,59,40
+Next president should be:,OUTSIDER16,MA,South,South Atlantic,Experienced in politics,78,60,40
+Next president should be:,OUTSIDER16,MA,South,South Atlantic,Outside the establishment,17,12,86
+Clinton's positions on the issues are:,CLINTONLIB,MA,South,South Atlantic,Too liberal,8,30,70
+Clinton's positions on the issues are:,CLINTONLIB,MA,South,South Atlantic,Not liberal enough,29,24,75
+Clinton's positions on the issues are:,CLINTONLIB,MA,South,South Atlantic,About right,57,70,30
+Sanders' positions on the issues are:,SANDERSLIB,MA,South,South Atlantic,Too liberal,31,86,13
+Sanders' positions on the issues are:,SANDERSLIB,MA,South,South Atlantic,Not liberal enough,6,N/A,N/A
+Sanders' positions on the issues are:,SANDERSLIB,MA,South,South Atlantic,About right,59,28,71
+When did you decide whom to vote for?,TIMENH16,MA,South,South Atlantic,Just today,12,43,54
+When did you decide whom to vote for?,TIMENH16,MA,South,South Atlantic,In the last few days,11,59,41
+When did you decide whom to vote for?,TIMENH16,MA,South,South Atlantic,Sometime last week,4,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,MA,South,South Atlantic,In the last month,15,44,55
+When did you decide whom to vote for?,TIMENH16,MA,South,South Atlantic,Before that,56,51,49
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,MA,South,South Atlantic,Last few days,24,51,48
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,MA,South,South Atlantic,Earlier,75,50,49
+When did you decide whom to vote for?,TIMEPRIWK,MA,South,South Atlantic,In the last week,28,52,46
+When did you decide whom to vote for?,TIMEPRIWK,MA,South,South Atlantic,Earlier,71,50,50
+Area type,SIZEPLC3,MA,South,South Atlantic,Urban area,16,61,37
+Area type,SIZEPLC3,MA,South,South Atlantic,Suburban area,84,48,51
+Area type,SIZEPLC3,MA,South,South Atlantic,Rural area,N/A,N/A,N/A
+Region,GEOCOD,MA,South,South Atlantic,Boston Area,33,54,45
+Region,GEOCOD,MA,South,South Atlantic,N. Shore/Rte. 128,17,52,46
+Region,GEOCOD,MA,South,South Atlantic,S. Shore/Cape Cod,13,48,51
+Region,GEOCOD,MA,South,South Atlantic,Industrial Belt,21,49,50
+Region,GEOCOD,MA,South,South Atlantic,Western Mass.,15,44,56

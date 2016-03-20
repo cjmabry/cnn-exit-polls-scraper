@@ -1,168 +1,168 @@
-Question,pollname,Answer,Percentage of Electorate,Clinton,Sanders
-Gender,SEX,Men,39,68,32
-Gender,SEX,Women,61,79,21
-Age,XAGE,17-29,15,46,54
-Age,XAGE,30-44,20,75,25
-Age,XAGE,45-64,47,77,22
-Age,XAGE,65 and older,19,88,11
-Age,XAGE65,17-24,7,40,60
-Age,XAGE65,25-29,8,52,48
-Age,XAGE65,30-39,13,70,30
-Age,XAGE65,40-49,16,79,21
-Age,XAGE65,50-64,38,78,22
-Age,XAGE65,65 and older,19,88,11
-Age,XAGE45,17-44 year olds,35,63,37
-Age,XAGE45,45 and older,65,81,19
-Race,RACE,White,35,54,46
-Race,RACE,Black,61,86,14
-Race,RACE,Latino,2,N/A,N/A
-Race,RACE,Asian,1,N/A,N/A
-Race,RACE,Other race,1,N/A,N/A
-Race,RACE2B,White,35,54,46
-Race,RACE2B,Non-white,65,85,14
-Race by gender,SEXBYRACE,White men,14,44,56
-Race by gender,SEXBYRACE,White women,21,60,40
-Race by gender,SEXBYRACE,Black men,24,82,18
-Race by gender,SEXBYRACE,Black women,37,89,11
-Race by gender,SEXBYRACE,Latino men,1,N/A,N/A
-Race by gender,SEXBYRACE,Latino women,1,N/A,N/A
-Race by gender,SEXBYRACE,Others,2,N/A,N/A
-Education,EDUC12R,High school or less,23,86,14
-Education,EDUC12R,Some college,37,71,29
-Education,EDUC12R,College graduate,24,70,30
-Education,EDUC12R,Postgraduate,16,70,30
-Are you a college graduate?,EDUCCOLL,Yes,40,70,30
-Are you a college graduate?,EDUCCOLL,No,60,77,23
-Education and race,EDUCWHITE,White college graduates,21,52,48
-Education and race,EDUCWHITE,Whites no degree,15,57,43
-Education and race,EDUCWHITE,Non-whites college grads,20,89,11
-Education and race,EDUCWHITE,Non-whites no degree,44,83,16
-Income,INCOME16,Less than $30K,33,81,19
-Income,INCOME16,$30K-50K,28,71,29
-Income,INCOME16,$50K-100K,24,66,33
-Income,INCOME16,$100K-200K,13,70,30
-Income,INCOME16,$200K or more,2,N/A,N/A
-Income,INC50K,Under $50K,61,76,23
-Income,INC50K,$50K or More,39,68,32
-Income,INC100K,Under $100K,85,74,26
-Income,INC100K,$100K or more,15,70,30
-Income,INCOME3,Under $50K,61,76,23
-Income,INCOME3,$50K-$100K,24,66,33
-Income,INCOME3,$100K or more,15,70,30
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,Voted before,85,82,18
-Ever voted in a Democratic presidential primary?,PREVPRIDEM,First-time voter,13,37,63
-Party ID,PARTY,Democrats,82,80,20
-Party ID,PARTY,Republicans,3,N/A,N/A
-Party ID,PARTY,Independents,16,46,53
-Ideology,PHIL4,Very liberal,23,70,30
-Ideology,PHIL4,Somewhat liberal,30,70,30
-Ideology,PHIL4,Moderate,35,78,21
-Ideology,PHIL4,Conservative,11,72,28
-Ideology,PHIL3X,Liberal,54,70,30
-Ideology,PHIL3X,Moderate,35,78,21
-Ideology,PHIL3X,Conservative,11,72,28
-Ideology ,PHIL2D,Liberal,54,70,30
-Ideology ,PHIL2D,Moderate/Conservative,46,77,23
-Marital status,MARRIED,Married,52,72,27
-Marital status,MARRIED,Unmarried,48,73,27
-Marital status and gender,SEXWED,Married men,24,64,36
-Marital status and gender,SEXWED,Married women,28,80,20
-Marital status and gender,SEXWED,Unmarried men,14,N/A,N/A
-Marital status and gender,SEXWED,Unmarried women,34,75,25
-Attend religious services:,ATTEND,More than once a week,27,88,11
-Attend religious services:,ATTEND,Once a week,26,84,16
-Attend religious services:,ATTEND,A few times a month,16,74,26
-Attend religious services:,ATTEND,A few times a year,19,65,34
-Attend religious services:,ATTEND,Never,11,N/A,N/A
-Attend religious services:,ATTEND2,Weekly,54,86,14
-Attend religious services:,ATTEND2,Occasionally,35,69,30
-Attend religious services:,ATTEND2,Never,11,N/A,N/A
-Does anyone in your household own a gun?,GUNOWNER12,Yes,41,66,34
-Does anyone in your household own a gun?,GUNOWNER12,No,59,78,21
-Most important issue,ISSDEM16,Health care,21,79,21
-Most important issue,ISSDEM16,Economy/Jobs,44,75,25
-Most important issue,ISSDEM16,Terrorism,10,82,17
-Most important issue,ISSDEM16,Income inequality,21,63,37
-Top candidate quality,QLT16DEMPRI,Electability,12,82,18
-Top candidate quality,QLT16DEMPRI,Cares,31,68,31
-Top candidate quality,QLT16DEMPRI,Honest,23,51,49
-Top candidate quality,QLT16DEMPRI,Experience,31,94,6
-Who is honest and trustworthy?,HONESTDEM16,Only Clinton,29,97,3
-Who is honest and trustworthy?,HONESTDEM16,Only Sanders,17,8,92
-Who is honest and trustworthy?,HONESTDEM16,Both,46,80,20
-Who is honest and trustworthy?,HONESTDEM16,Neither,6,N/A,N/A
-Is Clinton honest and trustworthy?,HONESTDEM16CLIN,Yes,75,87,13
-Is Clinton honest and trustworthy?,HONESTDEM16CLIN,No,23,26,74
-Is Sanders honest and trustworthy?,HONESTDEM16SAND,Yes,63,61,39
-Is Sanders honest and trustworthy?,HONESTDEM16SAND,No,34,95,5
-Who do you trust in an international crisis?,INTCRISISDEM16,Only Clinton,52,96,4
-Who do you trust in an international crisis?,INTCRISISDEM16,Only Sanders,8,N/A,N/A
-Who do you trust in an international crisis?,INTCRISISDEM16,Both,36,61,38
-Who do you trust in an international crisis?,INTCRISISDEM16,Neither,2,N/A,N/A
-Trust Clinton in an international crisis?,INTCRISISDEMCLIN,Yes,88,82,18
-Trust Clinton in an international crisis?,INTCRISISDEMCLIN,No,10,N/A,N/A
-Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,Yes,44,52,47
-Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,No,54,93,7
-Who do you trust to handle race relations?,RACERELDEM16,Only Clinton,35,99,1
-Who do you trust to handle race relations?,RACERELDEM16,Only Sanders,10,N/A,N/A
-Who do you trust to handle race relations?,RACERELDEM16,Both,50,72,27
-Who do you trust to handle race relations?,RACERELDEM16,Neither,4,N/A,N/A
-Trust Clinton to handle race relations?,RACERELCLIN,Yes,85,84,16
-Trust Clinton to handle race relations?,RACERELCLIN,No,13,21,79
-Trust Sanders to handle race relations?,RACERELSANDERS,Yes,59,62,38
-Trust Sanders to handle race relations?,RACERELSANDERS,No,39,95,5
-Race relations in this country have:,RACEREL14,Gotten better,18,84,16
-Race relations in this country have:,RACEREL14,Stayed the same,38,77,23
-Race relations in this country have:,RACEREL14,Gotten worse,43,71,28
-Better handle Supreme Court nominations?,SCOTUSDEM16,Clinton,73,94,6
-Better handle Supreme Court nominations?,SCOTUSDEM16,Sanders,24,9,91
-Which is more important?,GUNCHOICE,Reducing gun violence,81,75,25
-Which is more important?,GUNCHOICE,Protecting gun rights,16,N/A,N/A
-The next president should:,OBAMAPLCY,Continue Obama's policies,74,81,19
-The next president should:,OBAMAPLCY,Be more liberal,16,45,55
-The next president should:,OBAMAPLCY,Be less liberal,5,N/A,N/A
-U.S. economic system generally:,ECONFAIR,Favors the wealthy,79,70,30
-U.S. economic system generally:,ECONFAIR,Is fair to most Americans,19,85,14
-Worried about U.S. economy?,ECONWORR,Very worried,50,73,27
-Worried about U.S. economy?,ECONWORR,Somewhat worried,34,71,29
-Worried about U.S. economy?,ECONWORR,Not too worried,14,N/A,N/A
-Worried about U.S. economy?,ECONWORR,Not at all worried,1,N/A,N/A
-Worried about U.S. economy?,ECOWORR2,Yes,84,72,28
-Worried about U.S. economy?,ECOWORR2,No,15,76,24
-Next president should be:,OUTSIDER16,Experienced in politics,85,82,18
-Next president should be:,OUTSIDER16,Outside the establishment,11,N/A,N/A
-Satisfied if Clinton wins the nomination?,SATHCLIN,Yes,85,87,13
-Satisfied if Clinton wins the nomination?,SATHCLIN,No,14,5,93
-Satisfied if Sanders wins the nomination?,SATSANDERS,Yes,58,58,42
-Satisfied if Sanders wins the nomination?,SATSANDERS,No,38,99,1
-Clinton's positions on the issues are:,CLINTONLIB,Too liberal,8,N/A,N/A
-Clinton's positions on the issues are:,CLINTONLIB,Not liberal enough,14,18,81
-Clinton's positions on the issues are:,CLINTONLIB,About right,74,90,10
-Sanders' positions on the issues are:,SANDERSLIB,Too liberal,22,94,6
-Sanders' positions on the issues are:,SANDERSLIB,Not liberal enough,23,93,7
-Sanders' positions on the issues are:,SANDERSLIB,About right,49,56,43
-Importance of race relations in deciding vote,BREAK16PRID,Most important factor,25,81,19
-Importance of race relations in deciding vote,BREAK16PRID,An important factor,56,69,31
-Importance of race relations in deciding vote,BREAK16PRID,A minor factor,6,N/A,N/A
-Importance of race relations in deciding vote,BREAK16PRID,Not a factor,8,N/A,N/A
-Were race relations important in deciding vote?,BREAKIMPD,Yes,81,73,27
-Were race relations important in deciding vote?,BREAKIMPD,No,14,74,26
-Did anyone contact you about your candidate?,CONTACT16PRI,Yes,31,76,24
-Did anyone contact you about your candidate?,CONTACT16PRI,No,68,75,25
-When did you decide whom to vote for?,TIMENH16,Just today,8,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,In the last few days,7,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,Sometime last week,7,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,In the last month,17,61,38
-When did you decide whom to vote for?,TIMENH16,Before that,60,76,24
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,Last few days,15,71,29
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,Earlier,84,74,26
-When did you decide whom to vote for?,TIMEPRIWK,In the last week,23,76,24
-When did you decide whom to vote for?,TIMEPRIWK,Earlier,77,73,27
-Area type,SIZEPLC3,Urban area,13,70,30
-Area type,SIZEPLC3,Suburban area,27,70,30
-Area type,SIZEPLC3,Rural area,60,77,22
-Region of State,GEOCOD,Upcountry,18,66,34
-Region of State,GEOCOD,Piedmont,11,74,25
-Region of State,GEOCOD,Central,34,78,22
-Region of State,GEOCOD,Pee Dee/Waccamaw,15,83,17
-Region of State,GEOCOD,Lowcountry,23,70,30
+question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+Gender,SEX,SC,South,South Atlantic,Men,39,68,32
+Gender,SEX,SC,South,South Atlantic,Women,61,79,21
+Age,XAGE,SC,South,South Atlantic,17-29,15,46,54
+Age,XAGE,SC,South,South Atlantic,30-44,20,75,25
+Age,XAGE,SC,South,South Atlantic,45-64,47,77,22
+Age,XAGE,SC,South,South Atlantic,65 and older,19,88,11
+Age,XAGE65,SC,South,South Atlantic,17-24,7,40,60
+Age,XAGE65,SC,South,South Atlantic,25-29,8,52,48
+Age,XAGE65,SC,South,South Atlantic,30-39,13,70,30
+Age,XAGE65,SC,South,South Atlantic,40-49,16,79,21
+Age,XAGE65,SC,South,South Atlantic,50-64,38,78,22
+Age,XAGE65,SC,South,South Atlantic,65 and older,19,88,11
+Age,XAGE45,SC,South,South Atlantic,17-44 year olds,35,63,37
+Age,XAGE45,SC,South,South Atlantic,45 and older,65,81,19
+Race,RACE,SC,South,South Atlantic,White,35,54,46
+Race,RACE,SC,South,South Atlantic,Black,61,86,14
+Race,RACE,SC,South,South Atlantic,Latino,2,N/A,N/A
+Race,RACE,SC,South,South Atlantic,Asian,1,N/A,N/A
+Race,RACE,SC,South,South Atlantic,Other race,1,N/A,N/A
+Race,RACE2B,SC,South,South Atlantic,White,35,54,46
+Race,RACE2B,SC,South,South Atlantic,Non-white,65,85,14
+Race by gender,SEXBYRACE,SC,South,South Atlantic,White men,14,44,56
+Race by gender,SEXBYRACE,SC,South,South Atlantic,White women,21,60,40
+Race by gender,SEXBYRACE,SC,South,South Atlantic,Black men,24,82,18
+Race by gender,SEXBYRACE,SC,South,South Atlantic,Black women,37,89,11
+Race by gender,SEXBYRACE,SC,South,South Atlantic,Latino men,1,N/A,N/A
+Race by gender,SEXBYRACE,SC,South,South Atlantic,Latino women,1,N/A,N/A
+Race by gender,SEXBYRACE,SC,South,South Atlantic,Others,2,N/A,N/A
+Education,EDUC12R,SC,South,South Atlantic,High school or less,23,86,14
+Education,EDUC12R,SC,South,South Atlantic,Some college,37,71,29
+Education,EDUC12R,SC,South,South Atlantic,College graduate,24,70,30
+Education,EDUC12R,SC,South,South Atlantic,Postgraduate,16,70,30
+Are you a college graduate?,EDUCCOLL,SC,South,South Atlantic,Yes,40,70,30
+Are you a college graduate?,EDUCCOLL,SC,South,South Atlantic,No,60,77,23
+Education and race,EDUCWHITE,SC,South,South Atlantic,White college graduates,21,52,48
+Education and race,EDUCWHITE,SC,South,South Atlantic,Whites no degree,15,57,43
+Education and race,EDUCWHITE,SC,South,South Atlantic,Non-whites college grads,20,89,11
+Education and race,EDUCWHITE,SC,South,South Atlantic,Non-whites no degree,44,83,16
+Income,INCOME16,SC,South,South Atlantic,Less than $30K,33,81,19
+Income,INCOME16,SC,South,South Atlantic,$30K-50K,28,71,29
+Income,INCOME16,SC,South,South Atlantic,$50K-100K,24,66,33
+Income,INCOME16,SC,South,South Atlantic,$100K-200K,13,70,30
+Income,INCOME16,SC,South,South Atlantic,$200K or more,2,N/A,N/A
+Income,INC50K,SC,South,South Atlantic,Under $50K,61,76,23
+Income,INC50K,SC,South,South Atlantic,$50K or More,39,68,32
+Income,INC100K,SC,South,South Atlantic,Under $100K,85,74,26
+Income,INC100K,SC,South,South Atlantic,$100K or more,15,70,30
+Income,INCOME3,SC,South,South Atlantic,Under $50K,61,76,23
+Income,INCOME3,SC,South,South Atlantic,$50K-$100K,24,66,33
+Income,INCOME3,SC,South,South Atlantic,$100K or more,15,70,30
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,SC,South,South Atlantic,Voted before,85,82,18
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,SC,South,South Atlantic,First-time voter,13,37,63
+Party ID,PARTY,SC,South,South Atlantic,Democrats,82,80,20
+Party ID,PARTY,SC,South,South Atlantic,Republicans,3,N/A,N/A
+Party ID,PARTY,SC,South,South Atlantic,Independents,16,46,53
+Ideology,PHIL4,SC,South,South Atlantic,Very liberal,23,70,30
+Ideology,PHIL4,SC,South,South Atlantic,Somewhat liberal,30,70,30
+Ideology,PHIL4,SC,South,South Atlantic,Moderate,35,78,21
+Ideology,PHIL4,SC,South,South Atlantic,Conservative,11,72,28
+Ideology,PHIL3X,SC,South,South Atlantic,Liberal,54,70,30
+Ideology,PHIL3X,SC,South,South Atlantic,Moderate,35,78,21
+Ideology,PHIL3X,SC,South,South Atlantic,Conservative,11,72,28
+Ideology ,PHIL2D,SC,South,South Atlantic,Liberal,54,70,30
+Ideology ,PHIL2D,SC,South,South Atlantic,Moderate/Conservative,46,77,23
+Marital status,MARRIED,SC,South,South Atlantic,Married,52,72,27
+Marital status,MARRIED,SC,South,South Atlantic,Unmarried,48,73,27
+Marital status and gender,SEXWED,SC,South,South Atlantic,Married men,24,64,36
+Marital status and gender,SEXWED,SC,South,South Atlantic,Married women,28,80,20
+Marital status and gender,SEXWED,SC,South,South Atlantic,Unmarried men,14,N/A,N/A
+Marital status and gender,SEXWED,SC,South,South Atlantic,Unmarried women,34,75,25
+Attend religious services:,ATTEND,SC,South,South Atlantic,More than once a week,27,88,11
+Attend religious services:,ATTEND,SC,South,South Atlantic,Once a week,26,84,16
+Attend religious services:,ATTEND,SC,South,South Atlantic,A few times a month,16,74,26
+Attend religious services:,ATTEND,SC,South,South Atlantic,A few times a year,19,65,34
+Attend religious services:,ATTEND,SC,South,South Atlantic,Never,11,N/A,N/A
+Attend religious services:,ATTEND2,SC,South,South Atlantic,Weekly,54,86,14
+Attend religious services:,ATTEND2,SC,South,South Atlantic,Occasionally,35,69,30
+Attend religious services:,ATTEND2,SC,South,South Atlantic,Never,11,N/A,N/A
+Does anyone in your household own a gun?,GUNOWNER12,SC,South,South Atlantic,Yes,41,66,34
+Does anyone in your household own a gun?,GUNOWNER12,SC,South,South Atlantic,No,59,78,21
+Most important issue,ISSDEM16,SC,South,South Atlantic,Health care,21,79,21
+Most important issue,ISSDEM16,SC,South,South Atlantic,Economy/Jobs,44,75,25
+Most important issue,ISSDEM16,SC,South,South Atlantic,Terrorism,10,82,17
+Most important issue,ISSDEM16,SC,South,South Atlantic,Income inequality,21,63,37
+Top candidate quality,QLT16DEMPRI,SC,South,South Atlantic,Electability,12,82,18
+Top candidate quality,QLT16DEMPRI,SC,South,South Atlantic,Cares,31,68,31
+Top candidate quality,QLT16DEMPRI,SC,South,South Atlantic,Honest,23,51,49
+Top candidate quality,QLT16DEMPRI,SC,South,South Atlantic,Experience,31,94,6
+Who is honest and trustworthy?,HONESTDEM16,SC,South,South Atlantic,Only Clinton,29,97,3
+Who is honest and trustworthy?,HONESTDEM16,SC,South,South Atlantic,Only Sanders,17,8,92
+Who is honest and trustworthy?,HONESTDEM16,SC,South,South Atlantic,Both,46,80,20
+Who is honest and trustworthy?,HONESTDEM16,SC,South,South Atlantic,Neither,6,N/A,N/A
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,SC,South,South Atlantic,Yes,75,87,13
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,SC,South,South Atlantic,No,23,26,74
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,SC,South,South Atlantic,Yes,63,61,39
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,SC,South,South Atlantic,No,34,95,5
+Who do you trust in an international crisis?,INTCRISISDEM16,SC,South,South Atlantic,Only Clinton,52,96,4
+Who do you trust in an international crisis?,INTCRISISDEM16,SC,South,South Atlantic,Only Sanders,8,N/A,N/A
+Who do you trust in an international crisis?,INTCRISISDEM16,SC,South,South Atlantic,Both,36,61,38
+Who do you trust in an international crisis?,INTCRISISDEM16,SC,South,South Atlantic,Neither,2,N/A,N/A
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,SC,South,South Atlantic,Yes,88,82,18
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,SC,South,South Atlantic,No,10,N/A,N/A
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,SC,South,South Atlantic,Yes,44,52,47
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,SC,South,South Atlantic,No,54,93,7
+Who do you trust to handle race relations?,RACERELDEM16,SC,South,South Atlantic,Only Clinton,35,99,1
+Who do you trust to handle race relations?,RACERELDEM16,SC,South,South Atlantic,Only Sanders,10,N/A,N/A
+Who do you trust to handle race relations?,RACERELDEM16,SC,South,South Atlantic,Both,50,72,27
+Who do you trust to handle race relations?,RACERELDEM16,SC,South,South Atlantic,Neither,4,N/A,N/A
+Trust Clinton to handle race relations?,RACERELCLIN,SC,South,South Atlantic,Yes,85,84,16
+Trust Clinton to handle race relations?,RACERELCLIN,SC,South,South Atlantic,No,13,21,79
+Trust Sanders to handle race relations?,RACERELSANDERS,SC,South,South Atlantic,Yes,59,62,38
+Trust Sanders to handle race relations?,RACERELSANDERS,SC,South,South Atlantic,No,39,95,5
+Race relations in this country have:,RACEREL14,SC,South,South Atlantic,Gotten better,18,84,16
+Race relations in this country have:,RACEREL14,SC,South,South Atlantic,Stayed the same,38,77,23
+Race relations in this country have:,RACEREL14,SC,South,South Atlantic,Gotten worse,43,71,28
+Better handle Supreme Court nominations?,SCOTUSDEM16,SC,South,South Atlantic,Clinton,73,94,6
+Better handle Supreme Court nominations?,SCOTUSDEM16,SC,South,South Atlantic,Sanders,24,9,91
+Which is more important?,GUNCHOICE,SC,South,South Atlantic,Reducing gun violence,81,75,25
+Which is more important?,GUNCHOICE,SC,South,South Atlantic,Protecting gun rights,16,N/A,N/A
+The next president should:,OBAMAPLCY,SC,South,South Atlantic,Continue Obama's policies,74,81,19
+The next president should:,OBAMAPLCY,SC,South,South Atlantic,Be more liberal,16,45,55
+The next president should:,OBAMAPLCY,SC,South,South Atlantic,Be less liberal,5,N/A,N/A
+U.S. economic system generally:,ECONFAIR,SC,South,South Atlantic,Favors the wealthy,79,70,30
+U.S. economic system generally:,ECONFAIR,SC,South,South Atlantic,Is fair to most Americans,19,85,14
+Worried about U.S. economy?,ECONWORR,SC,South,South Atlantic,Very worried,50,73,27
+Worried about U.S. economy?,ECONWORR,SC,South,South Atlantic,Somewhat worried,34,71,29
+Worried about U.S. economy?,ECONWORR,SC,South,South Atlantic,Not too worried,14,N/A,N/A
+Worried about U.S. economy?,ECONWORR,SC,South,South Atlantic,Not at all worried,1,N/A,N/A
+Worried about U.S. economy?,ECOWORR2,SC,South,South Atlantic,Yes,84,72,28
+Worried about U.S. economy?,ECOWORR2,SC,South,South Atlantic,No,15,76,24
+Next president should be:,OUTSIDER16,SC,South,South Atlantic,Experienced in politics,85,82,18
+Next president should be:,OUTSIDER16,SC,South,South Atlantic,Outside the establishment,11,N/A,N/A
+Satisfied if Clinton wins the nomination?,SATHCLIN,SC,South,South Atlantic,Yes,85,87,13
+Satisfied if Clinton wins the nomination?,SATHCLIN,SC,South,South Atlantic,No,14,5,93
+Satisfied if Sanders wins the nomination?,SATSANDERS,SC,South,South Atlantic,Yes,58,58,42
+Satisfied if Sanders wins the nomination?,SATSANDERS,SC,South,South Atlantic,No,38,99,1
+Clinton's positions on the issues are:,CLINTONLIB,SC,South,South Atlantic,Too liberal,8,N/A,N/A
+Clinton's positions on the issues are:,CLINTONLIB,SC,South,South Atlantic,Not liberal enough,14,18,81
+Clinton's positions on the issues are:,CLINTONLIB,SC,South,South Atlantic,About right,74,90,10
+Sanders' positions on the issues are:,SANDERSLIB,SC,South,South Atlantic,Too liberal,22,94,6
+Sanders' positions on the issues are:,SANDERSLIB,SC,South,South Atlantic,Not liberal enough,23,93,7
+Sanders' positions on the issues are:,SANDERSLIB,SC,South,South Atlantic,About right,49,56,43
+Importance of race relations in deciding vote,BREAK16PRID,SC,South,South Atlantic,Most important factor,25,81,19
+Importance of race relations in deciding vote,BREAK16PRID,SC,South,South Atlantic,An important factor,56,69,31
+Importance of race relations in deciding vote,BREAK16PRID,SC,South,South Atlantic,A minor factor,6,N/A,N/A
+Importance of race relations in deciding vote,BREAK16PRID,SC,South,South Atlantic,Not a factor,8,N/A,N/A
+Were race relations important in deciding vote?,BREAKIMPD,SC,South,South Atlantic,Yes,81,73,27
+Were race relations important in deciding vote?,BREAKIMPD,SC,South,South Atlantic,No,14,74,26
+Did anyone contact you about your candidate?,CONTACT16PRI,SC,South,South Atlantic,Yes,31,76,24
+Did anyone contact you about your candidate?,CONTACT16PRI,SC,South,South Atlantic,No,68,75,25
+When did you decide whom to vote for?,TIMENH16,SC,South,South Atlantic,Just today,8,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,SC,South,South Atlantic,In the last few days,7,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,SC,South,South Atlantic,Sometime last week,7,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,SC,South,South Atlantic,In the last month,17,61,38
+When did you decide whom to vote for?,TIMENH16,SC,South,South Atlantic,Before that,60,76,24
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,SC,South,South Atlantic,Last few days,15,71,29
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,SC,South,South Atlantic,Earlier,84,74,26
+When did you decide whom to vote for?,TIMEPRIWK,SC,South,South Atlantic,In the last week,23,76,24
+When did you decide whom to vote for?,TIMEPRIWK,SC,South,South Atlantic,Earlier,77,73,27
+Area type,SIZEPLC3,SC,South,South Atlantic,Urban area,13,70,30
+Area type,SIZEPLC3,SC,South,South Atlantic,Suburban area,27,70,30
+Area type,SIZEPLC3,SC,South,South Atlantic,Rural area,60,77,22
+Region of State,GEOCOD,SC,South,South Atlantic,Upcountry,18,66,34
+Region of State,GEOCOD,SC,South,South Atlantic,Piedmont,11,74,25
+Region of State,GEOCOD,SC,South,South Atlantic,Central,34,78,22
+Region of State,GEOCOD,SC,South,South Atlantic,Pee Dee/Waccamaw,15,83,17
+Region of State,GEOCOD,SC,South,South Atlantic,Lowcountry,23,70,30

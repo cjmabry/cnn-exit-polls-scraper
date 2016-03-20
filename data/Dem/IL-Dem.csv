@@ -1,151 +1,151 @@
-Question,pollname,Answer,Percentage of Electorate,Clinton,Sanders
-Gender,SEX,Men,46,45,53
-Gender,SEX,Women,54,55,45
-Age,XAGE,17-29,17,14,86
-Age,XAGE,30-44,22,42,58
-Age,XAGE,45-64,39,60,39
-Age,XAGE,65 and older,22,70,29
-Age,XAGE65,17-24,10,10,88
-Age,XAGE65,25-29,7,18,82
-Age,XAGE65,30-39,16,38,62
-Age,XAGE65,40-49,15,55,42
-Age,XAGE65,50-64,31,60,39
-Age,XAGE65,65 and older,22,70,29
-Age,XAGE45,17-44 year olds,39,30,70
-Age,XAGE45,45 and older,61,63,36
-Race,RACE,White,58,42,57
-Race,RACE,Black,28,70,30
-Race,RACE,Latino,9,49,50
-Race,RACE,Asian,3,N/A,N/A
-Race,RACE,Other race,2,N/A,N/A
-Race,RACE2B,White,58,42,57
-Race,RACE2B,Non-white,42,63,37
-Race by gender,SEXBYRACE,White men,28,35,64
-Race by gender,SEXBYRACE,White women,30,49,51
-Race by gender,SEXBYRACE,Black men,11,74,24
-Race by gender,SEXBYRACE,Black women,17,66,34
-Race by gender,SEXBYRACE,Latino men,4,N/A,N/A
-Race by gender,SEXBYRACE,Latino women,5,N/A,N/A
-Race by gender,SEXBYRACE,Others,5,N/A,N/A
-Education,EDUC12R,High school or less,15,63,37
-Education,EDUC12R,Some college,32,49,50
-Education,EDUC12R,College graduate,32,44,55
-Education,EDUC12R,Postgraduate,21,56,43
-Are you a college graduate?,EDUCCOLL,Yes,53,49,50
-Are you a college graduate?,EDUCCOLL,No,47,53,46
-Education and race,EDUCWHITE,White college graduates,34,42,57
-Education and race,EDUCWHITE,Whites no degree,24,43,56
-Education and race,EDUCWHITE,Non-whites college grads,18,63,36
-Education and race,EDUCWHITE,Non-whites no degree,23,64,35
-Income,INCOME16,Less than $30K,18,61,39
-Income,INCOME16,$30K-50K,20,51,49
-Income,INCOME16,$50K-100K,34,44,56
-Income,INCOME16,$100K-200K,22,49,50
-Income,INCOME16,$200K or more,6,N/A,N/A
-Income,INC50K,Under $50K,38,56,44
-Income,INC50K,$50K or More,62,48,51
-Income,INC100K,Under $100K,72,50,50
-Income,INC100K,$100K or more,28,52,46
-Income,INCOME3,Under $50K,38,56,44
-Income,INCOME3,$50K-$100K,34,44,56
-Income,INCOME3,$100K or more,28,52,46
-Party ID,PARTY,Democrats,77,57,42
-Party ID,PARTY,Republicans,2,N/A,N/A
-Party ID,PARTY,Independents,21,30,69
-Ideology,PHIL4,Very liberal,29,47,52
-Ideology,PHIL4,Somewhat liberal,36,49,51
-Ideology,PHIL4,Moderate,30,57,41
-Ideology,PHIL4,Conservative,5,N/A,N/A
-Ideology,PHIL3X,Liberal,64,48,52
-Ideology,PHIL3X,Moderate,30,57,41
-Ideology,PHIL3X,Conservative,5,N/A,N/A
-Ideology ,PHIL2D,Liberal,64,48,52
-Ideology ,PHIL2D,Moderate/Conservative,36,56,43
-Marital status,MARRIED,Married,51,56,43
-Marital status,MARRIED,Unmarried,49,42,58
-Marital status and gender,SEXWED,Married men,24,51,47
-Marital status and gender,SEXWED,Married women,27,61,39
-Marital status and gender,SEXWED,Unmarried men,22,38,62
-Marital status and gender,SEXWED,Unmarried women,27,45,55
-Most important issue,ISSDEM16,Health care,18,55,43
-Most important issue,ISSDEM16,Economy/Jobs,47,52,47
-Most important issue,ISSDEM16,Terrorism,9,68,32
-Most important issue,ISSDEM16,Income inequality,23,37,63
-Top candidate quality,QLT16DEMPRI,Electability,13,75,25
-Top candidate quality,QLT16DEMPRI,Cares,28,36,63
-Top candidate quality,QLT16DEMPRI,Honest,32,29,70
-Top candidate quality,QLT16DEMPRI,Experience,25,83,17
-The next president should:,OBAMAPLCY,Continue Obama's policies,55,64,35
-The next president should:,OBAMAPLCY,Be more liberal,32,28,72
-The next president should:,OBAMAPLCY,Be less liberal,9,N/A,N/A
-Race relations in this country have:,RACEREL14,Gotten better,9,N/A,N/A
-Race relations in this country have:,RACEREL14,Stayed the same,35,53,47
-Race relations in this country have:,RACEREL14,Gotten worse,54,48,52
-Who do you trust to handle race relations?,RACERELDEM16,Only Clinton,16,94,6
-Who do you trust to handle race relations?,RACERELDEM16,Only Sanders,23,6,94
-Who do you trust to handle race relations?,RACERELDEM16,Both,55,57,42
-Who do you trust to handle race relations?,RACERELDEM16,Neither,4,N/A,N/A
-Trust Clinton to handle race relations?,RACERELCLIN,Yes,71,66,34
-Trust Clinton to handle race relations?,RACERELCLIN,No,27,11,89
-Trust Sanders to handle race relations?,RACERELSANDERS,Yes,78,42,57
-Trust Sanders to handle race relations?,RACERELSANDERS,No,21,82,18
-Family's financial situation,GETAHEAD,Getting ahead,21,59,39
-Family's financial situation,GETAHEAD,Holding steady ,61,48,52
-Family's financial situation,GETAHEAD,Falling behind ,17,47,53
-Trade with other countries:,TRADE16,Creates U.S. jobs,44,56,44
-Trade with other countries:,TRADE16,Takes away U.S. jobs,44,44,56
-Trade with other countries:,TRADE16,Does not affect jobs,9,N/A,N/A
-Worried about U.S. economy?,ECONWORR,Very worried,45,50,49
-Worried about U.S. economy?,ECONWORR,Somewhat worried,40,49,50
-Worried about U.S. economy?,ECONWORR,Not too worried,11,N/A,N/A
-Worried about U.S. economy?,ECONWORR,Not at all worried,4,N/A,N/A
-Worried about U.S. economy?,ECOWORR2,Yes,84,50,50
-Worried about U.S. economy?,ECOWORR2,No,15,54,42
-Next president should be:,OUTSIDER16,Experienced in politics,82,56,43
-Next president should be:,OUTSIDER16,Outside the establishment,14,18,82
-Satisfied if Clinton wins the nomination?,SATHCLIN,Yes,73,69,30
-Satisfied if Clinton wins the nomination?,SATHCLIN,No,27,2,98
-Satisfied if Sanders wins the nomination?,SATSANDERS,Yes,75,37,63
-Satisfied if Sanders wins the nomination?,SATSANDERS,No,23,95,5
-Clinton's positions on the issues are:,CLINTONLIB,Too liberal,10,N/A,N/A
-Clinton's positions on the issues are:,CLINTONLIB,Not liberal enough,27,13,87
-Clinton's positions on the issues are:,CLINTONLIB,About right,60,74,26
-Sanders' positions on the issues are:,SANDERSLIB,Too liberal,25,85,14
-Sanders' positions on the issues are:,SANDERSLIB,Not liberal enough,11,N/A,N/A
-Sanders' positions on the issues are:,SANDERSLIB,About right,60,29,71
-Is Bernie Sanders honest and trustworthy?,SANDHONEST,Yes,80,42,57
-Is Bernie Sanders honest and trustworthy?,SANDHONEST,No,15,N/A,N/A
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,Yes,57,78,21
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,No,40,13,86
-Hillary Clinton's policies are:,CLINREALISTIC,Realistic,72,67,33
-Hillary Clinton's policies are:,CLINREALISTIC,Not realistic,24,5,93
-Bernie Sanders' policies are:,SANDREALISTIC,Realistic,64,29,71
-Bernie Sanders' policies are:,SANDREALISTIC,Not realistic,34,87,11
-Who is more inspiring about the country's future?,INSPIRES16D,Clinton,45,99,1
-Who is more inspiring about the country's future?,INSPIRES16D,Sanders,54,10,88
-The candidate's gender was:,GENDISS,Most important factor,5,N/A,N/A
-The candidate's gender was:,GENDISS,An important factor,15,73,27
-The candidate's gender was:,GENDISS,Not a factor,78,44,56
-Was the candidate's gender an important factor?,GENDISS2,Yes,21,74,26
-Was the candidate's gender an important factor?,GENDISS2,No,78,44,56
-Better chance to defeat Trump in November?,BEATTRUMP16,Clinton,65,76,23
-Better chance to defeat Trump in November?,BEATTRUMP16,Sanders,34,4,96
-Who would make the best commander in chief?,CICDEM16,Clinton,53,89,10
-Who would make the best commander in chief?,CICDEM16,Sanders,45,5,94
-When did you decide whom to vote for?,TIMENH16,Just today,11,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,In the last few days,10,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,Sometime last week,5,N/A,N/A
-When did you decide whom to vote for?,TIMENH16,In the last month,19,41,59
-When did you decide whom to vote for?,TIMENH16,Before that,54,55,43
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,Last few days,21,47,52
-When did you decide whom to vote for?,TIMEPRIFEWDAYS,Earlier,78,51,48
-When did you decide whom to vote for?,TIMEPRIWK,In the last week,26,47,52
-When did you decide whom to vote for?,TIMEPRIWK,Earlier,74,51,47
-Area type,SIZEPLC3,Urban area,43,52,48
-Area type,SIZEPLC3,Suburban area,48,50,50
-Area type,SIZEPLC3,Rural area,9,48,50
-Region,GEOCOD,Chicago,34,54,46
-Region,GEOCOD,Cook Suburbs,23,53,46
-Region,GEOCOD,Collar Counties,20,47,52
-Region,GEOCOD,North,10,46,53
-Region,GEOCOD,Central/South,14,45,54
+question,pollname,state,region,subregion,answer,percentage of electorate,clinton,sanders
+Gender,SEX,IL,South,South Atlantic,Men,46,45,53
+Gender,SEX,IL,South,South Atlantic,Women,54,55,45
+Age,XAGE,IL,South,South Atlantic,17-29,17,14,86
+Age,XAGE,IL,South,South Atlantic,30-44,22,42,58
+Age,XAGE,IL,South,South Atlantic,45-64,39,60,39
+Age,XAGE,IL,South,South Atlantic,65 and older,22,70,29
+Age,XAGE65,IL,South,South Atlantic,17-24,10,10,88
+Age,XAGE65,IL,South,South Atlantic,25-29,7,18,82
+Age,XAGE65,IL,South,South Atlantic,30-39,16,38,62
+Age,XAGE65,IL,South,South Atlantic,40-49,15,55,42
+Age,XAGE65,IL,South,South Atlantic,50-64,31,60,39
+Age,XAGE65,IL,South,South Atlantic,65 and older,22,70,29
+Age,XAGE45,IL,South,South Atlantic,17-44 year olds,39,30,70
+Age,XAGE45,IL,South,South Atlantic,45 and older,61,63,36
+Race,RACE,IL,South,South Atlantic,White,58,42,57
+Race,RACE,IL,South,South Atlantic,Black,28,70,30
+Race,RACE,IL,South,South Atlantic,Latino,9,49,50
+Race,RACE,IL,South,South Atlantic,Asian,3,N/A,N/A
+Race,RACE,IL,South,South Atlantic,Other race,2,N/A,N/A
+Race,RACE2B,IL,South,South Atlantic,White,58,42,57
+Race,RACE2B,IL,South,South Atlantic,Non-white,42,63,37
+Race by gender,SEXBYRACE,IL,South,South Atlantic,White men,28,35,64
+Race by gender,SEXBYRACE,IL,South,South Atlantic,White women,30,49,51
+Race by gender,SEXBYRACE,IL,South,South Atlantic,Black men,11,74,24
+Race by gender,SEXBYRACE,IL,South,South Atlantic,Black women,17,66,34
+Race by gender,SEXBYRACE,IL,South,South Atlantic,Latino men,4,N/A,N/A
+Race by gender,SEXBYRACE,IL,South,South Atlantic,Latino women,5,N/A,N/A
+Race by gender,SEXBYRACE,IL,South,South Atlantic,Others,5,N/A,N/A
+Education,EDUC12R,IL,South,South Atlantic,High school or less,15,63,37
+Education,EDUC12R,IL,South,South Atlantic,Some college,32,49,50
+Education,EDUC12R,IL,South,South Atlantic,College graduate,32,44,55
+Education,EDUC12R,IL,South,South Atlantic,Postgraduate,21,56,43
+Are you a college graduate?,EDUCCOLL,IL,South,South Atlantic,Yes,53,49,50
+Are you a college graduate?,EDUCCOLL,IL,South,South Atlantic,No,47,53,46
+Education and race,EDUCWHITE,IL,South,South Atlantic,White college graduates,34,42,57
+Education and race,EDUCWHITE,IL,South,South Atlantic,Whites no degree,24,43,56
+Education and race,EDUCWHITE,IL,South,South Atlantic,Non-whites college grads,18,63,36
+Education and race,EDUCWHITE,IL,South,South Atlantic,Non-whites no degree,23,64,35
+Income,INCOME16,IL,South,South Atlantic,Less than $30K,18,61,39
+Income,INCOME16,IL,South,South Atlantic,$30K-50K,20,51,49
+Income,INCOME16,IL,South,South Atlantic,$50K-100K,34,44,56
+Income,INCOME16,IL,South,South Atlantic,$100K-200K,22,49,50
+Income,INCOME16,IL,South,South Atlantic,$200K or more,6,N/A,N/A
+Income,INC50K,IL,South,South Atlantic,Under $50K,38,56,44
+Income,INC50K,IL,South,South Atlantic,$50K or More,62,48,51
+Income,INC100K,IL,South,South Atlantic,Under $100K,72,50,50
+Income,INC100K,IL,South,South Atlantic,$100K or more,28,52,46
+Income,INCOME3,IL,South,South Atlantic,Under $50K,38,56,44
+Income,INCOME3,IL,South,South Atlantic,$50K-$100K,34,44,56
+Income,INCOME3,IL,South,South Atlantic,$100K or more,28,52,46
+Party ID,PARTY,IL,South,South Atlantic,Democrats,77,57,42
+Party ID,PARTY,IL,South,South Atlantic,Republicans,2,N/A,N/A
+Party ID,PARTY,IL,South,South Atlantic,Independents,21,30,69
+Ideology,PHIL4,IL,South,South Atlantic,Very liberal,29,47,52
+Ideology,PHIL4,IL,South,South Atlantic,Somewhat liberal,36,49,51
+Ideology,PHIL4,IL,South,South Atlantic,Moderate,30,57,41
+Ideology,PHIL4,IL,South,South Atlantic,Conservative,5,N/A,N/A
+Ideology,PHIL3X,IL,South,South Atlantic,Liberal,64,48,52
+Ideology,PHIL3X,IL,South,South Atlantic,Moderate,30,57,41
+Ideology,PHIL3X,IL,South,South Atlantic,Conservative,5,N/A,N/A
+Ideology ,PHIL2D,IL,South,South Atlantic,Liberal,64,48,52
+Ideology ,PHIL2D,IL,South,South Atlantic,Moderate/Conservative,36,56,43
+Marital status,MARRIED,IL,South,South Atlantic,Married,51,56,43
+Marital status,MARRIED,IL,South,South Atlantic,Unmarried,49,42,58
+Marital status and gender,SEXWED,IL,South,South Atlantic,Married men,24,51,47
+Marital status and gender,SEXWED,IL,South,South Atlantic,Married women,27,61,39
+Marital status and gender,SEXWED,IL,South,South Atlantic,Unmarried men,22,38,62
+Marital status and gender,SEXWED,IL,South,South Atlantic,Unmarried women,27,45,55
+Most important issue,ISSDEM16,IL,South,South Atlantic,Health care,18,55,43
+Most important issue,ISSDEM16,IL,South,South Atlantic,Economy/Jobs,47,52,47
+Most important issue,ISSDEM16,IL,South,South Atlantic,Terrorism,9,68,32
+Most important issue,ISSDEM16,IL,South,South Atlantic,Income inequality,23,37,63
+Top candidate quality,QLT16DEMPRI,IL,South,South Atlantic,Electability,13,75,25
+Top candidate quality,QLT16DEMPRI,IL,South,South Atlantic,Cares,28,36,63
+Top candidate quality,QLT16DEMPRI,IL,South,South Atlantic,Honest,32,29,70
+Top candidate quality,QLT16DEMPRI,IL,South,South Atlantic,Experience,25,83,17
+The next president should:,OBAMAPLCY,IL,South,South Atlantic,Continue Obama's policies,55,64,35
+The next president should:,OBAMAPLCY,IL,South,South Atlantic,Be more liberal,32,28,72
+The next president should:,OBAMAPLCY,IL,South,South Atlantic,Be less liberal,9,N/A,N/A
+Race relations in this country have:,RACEREL14,IL,South,South Atlantic,Gotten better,9,N/A,N/A
+Race relations in this country have:,RACEREL14,IL,South,South Atlantic,Stayed the same,35,53,47
+Race relations in this country have:,RACEREL14,IL,South,South Atlantic,Gotten worse,54,48,52
+Who do you trust to handle race relations?,RACERELDEM16,IL,South,South Atlantic,Only Clinton,16,94,6
+Who do you trust to handle race relations?,RACERELDEM16,IL,South,South Atlantic,Only Sanders,23,6,94
+Who do you trust to handle race relations?,RACERELDEM16,IL,South,South Atlantic,Both,55,57,42
+Who do you trust to handle race relations?,RACERELDEM16,IL,South,South Atlantic,Neither,4,N/A,N/A
+Trust Clinton to handle race relations?,RACERELCLIN,IL,South,South Atlantic,Yes,71,66,34
+Trust Clinton to handle race relations?,RACERELCLIN,IL,South,South Atlantic,No,27,11,89
+Trust Sanders to handle race relations?,RACERELSANDERS,IL,South,South Atlantic,Yes,78,42,57
+Trust Sanders to handle race relations?,RACERELSANDERS,IL,South,South Atlantic,No,21,82,18
+Family's financial situation,GETAHEAD,IL,South,South Atlantic,Getting ahead,21,59,39
+Family's financial situation,GETAHEAD,IL,South,South Atlantic,Holding steady ,61,48,52
+Family's financial situation,GETAHEAD,IL,South,South Atlantic,Falling behind ,17,47,53
+Trade with other countries:,TRADE16,IL,South,South Atlantic,Creates U.S. jobs,44,56,44
+Trade with other countries:,TRADE16,IL,South,South Atlantic,Takes away U.S. jobs,44,44,56
+Trade with other countries:,TRADE16,IL,South,South Atlantic,Does not affect jobs,9,N/A,N/A
+Worried about U.S. economy?,ECONWORR,IL,South,South Atlantic,Very worried,45,50,49
+Worried about U.S. economy?,ECONWORR,IL,South,South Atlantic,Somewhat worried,40,49,50
+Worried about U.S. economy?,ECONWORR,IL,South,South Atlantic,Not too worried,11,N/A,N/A
+Worried about U.S. economy?,ECONWORR,IL,South,South Atlantic,Not at all worried,4,N/A,N/A
+Worried about U.S. economy?,ECOWORR2,IL,South,South Atlantic,Yes,84,50,50
+Worried about U.S. economy?,ECOWORR2,IL,South,South Atlantic,No,15,54,42
+Next president should be:,OUTSIDER16,IL,South,South Atlantic,Experienced in politics,82,56,43
+Next president should be:,OUTSIDER16,IL,South,South Atlantic,Outside the establishment,14,18,82
+Satisfied if Clinton wins the nomination?,SATHCLIN,IL,South,South Atlantic,Yes,73,69,30
+Satisfied if Clinton wins the nomination?,SATHCLIN,IL,South,South Atlantic,No,27,2,98
+Satisfied if Sanders wins the nomination?,SATSANDERS,IL,South,South Atlantic,Yes,75,37,63
+Satisfied if Sanders wins the nomination?,SATSANDERS,IL,South,South Atlantic,No,23,95,5
+Clinton's positions on the issues are:,CLINTONLIB,IL,South,South Atlantic,Too liberal,10,N/A,N/A
+Clinton's positions on the issues are:,CLINTONLIB,IL,South,South Atlantic,Not liberal enough,27,13,87
+Clinton's positions on the issues are:,CLINTONLIB,IL,South,South Atlantic,About right,60,74,26
+Sanders' positions on the issues are:,SANDERSLIB,IL,South,South Atlantic,Too liberal,25,85,14
+Sanders' positions on the issues are:,SANDERSLIB,IL,South,South Atlantic,Not liberal enough,11,N/A,N/A
+Sanders' positions on the issues are:,SANDERSLIB,IL,South,South Atlantic,About right,60,29,71
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,IL,South,South Atlantic,Yes,80,42,57
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,IL,South,South Atlantic,No,15,N/A,N/A
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,IL,South,South Atlantic,Yes,57,78,21
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,IL,South,South Atlantic,No,40,13,86
+Hillary Clinton's policies are:,CLINREALISTIC,IL,South,South Atlantic,Realistic,72,67,33
+Hillary Clinton's policies are:,CLINREALISTIC,IL,South,South Atlantic,Not realistic,24,5,93
+Bernie Sanders' policies are:,SANDREALISTIC,IL,South,South Atlantic,Realistic,64,29,71
+Bernie Sanders' policies are:,SANDREALISTIC,IL,South,South Atlantic,Not realistic,34,87,11
+Who is more inspiring about the country's future?,INSPIRES16D,IL,South,South Atlantic,Clinton,45,99,1
+Who is more inspiring about the country's future?,INSPIRES16D,IL,South,South Atlantic,Sanders,54,10,88
+The candidate's gender was:,GENDISS,IL,South,South Atlantic,Most important factor,5,N/A,N/A
+The candidate's gender was:,GENDISS,IL,South,South Atlantic,An important factor,15,73,27
+The candidate's gender was:,GENDISS,IL,South,South Atlantic,Not a factor,78,44,56
+Was the candidate's gender an important factor?,GENDISS2,IL,South,South Atlantic,Yes,21,74,26
+Was the candidate's gender an important factor?,GENDISS2,IL,South,South Atlantic,No,78,44,56
+Better chance to defeat Trump in November?,BEATTRUMP16,IL,South,South Atlantic,Clinton,65,76,23
+Better chance to defeat Trump in November?,BEATTRUMP16,IL,South,South Atlantic,Sanders,34,4,96
+Who would make the best commander in chief?,CICDEM16,IL,South,South Atlantic,Clinton,53,89,10
+Who would make the best commander in chief?,CICDEM16,IL,South,South Atlantic,Sanders,45,5,94
+When did you decide whom to vote for?,TIMENH16,IL,South,South Atlantic,Just today,11,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,IL,South,South Atlantic,In the last few days,10,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,IL,South,South Atlantic,Sometime last week,5,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,IL,South,South Atlantic,In the last month,19,41,59
+When did you decide whom to vote for?,TIMENH16,IL,South,South Atlantic,Before that,54,55,43
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,IL,South,South Atlantic,Last few days,21,47,52
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,IL,South,South Atlantic,Earlier,78,51,48
+When did you decide whom to vote for?,TIMEPRIWK,IL,South,South Atlantic,In the last week,26,47,52
+When did you decide whom to vote for?,TIMEPRIWK,IL,South,South Atlantic,Earlier,74,51,47
+Area type,SIZEPLC3,IL,South,South Atlantic,Urban area,43,52,48
+Area type,SIZEPLC3,IL,South,South Atlantic,Suburban area,48,50,50
+Area type,SIZEPLC3,IL,South,South Atlantic,Rural area,9,48,50
+Region,GEOCOD,IL,South,South Atlantic,Chicago,34,54,46
+Region,GEOCOD,IL,South,South Atlantic,Cook Suburbs,23,53,46
+Region,GEOCOD,IL,South,South Atlantic,Collar Counties,20,47,52
+Region,GEOCOD,IL,South,South Atlantic,North,10,46,53
+Region,GEOCOD,IL,South,South Atlantic,Central/South,14,45,54
