@@ -1,0 +1,146 @@
+Question,Answer,Percentage of Electorate,Clinton,Sanders
+Gender
+,Men,43,44,50
+,Women,57,53,42
+Age
+,17-29,18,14,84
+,30-44,19,37,58
+,45-64,36,58,35
+,65 and older,28,69,26
+Age
+,17-24,10,11,86
+,25-29,8,17,81
+,30-39,14,34,62
+,40-49,10,51,44
+,50-64,30,58,34
+,65 and older,28,69,26
+Race
+,White,91,49,46
+,Black,3,N/A,N/A
+,Hispanic,4,N/A,N/A
+,Other,2,N/A,N/A
+Race
+,White,91,49,46
+,Non-white,9,58,34
+Education
+,High school or less,18,58,39
+,Some college,32,42,52
+,College graduate,27,48,48
+,Postgraduate,23,53,39
+Did you attend college?
+,Yes,82,47,47
+,No,18,58,39
+Are you a college graduate?
+,Yes,50,51,44
+,No,50,48,47
+Education and race
+,White college graduates,45,50,45
+,Whites no degree,46,47,48
+,Non-whites college grads,4,N/A,N/A
+,Non-whites no degree,4,N/A,N/A
+Income
+,Under $30K,18,41,57
+,$30K-$50K,23,47,50
+,$50K-$100K,38,50,44
+,$100K or more,20,55,37
+Income
+,Under $50K,41,44,53
+,$50K or More,59,52,42
+Income
+,Under $100K,80,47,49
+,$100K or more,20,55,37
+Income
+,Under $50K,41,44,53
+,$50K-$100K,38,50,44
+,$100K or more,20,55,37
+Ever Attended a Caucus Before?
+,Yes,56,59,35
+,No,44,37,59
+Party ID
+,Democrats,78,56,39
+,Republicans,2,N/A,N/A
+,Independents,20,26,69
+Ideology
+,Very liberal,28,39,58
+,Somewhat liberal,40,50,44
+,Moderate,28,58,35
+,Conservative,4,N/A,N/A
+Ideology
+,Liberal,68,46,50
+,Moderate,28,58,35
+,Conservative,4,N/A,N/A
+Ideology 
+,Liberal,68,46,50
+,Moderate/Conservative,32,57,37
+Marital status
+,Married,60,56,37
+,Unmarried,40,38,58
+Marital status and gender
+,Married men,27,52,41
+,Married women,33,60,34
+,Unmarried men,16,30,66
+,Unmarried women,25,43,53
+Union household?
+,Yes,21,52,43
+,No,79,48,47
+Most important issue
+,Health care,30,59,38
+,Economy/Jobs,33,51,42
+,Terrorism,6,65,28
+,Income inequality,27,34,61
+Top candidate quality
+,Can win in November,20,77,17
+,Cares about people,26,22,74
+,Honest and trustworthy,24,10,83
+,Right experience,28,88,9
+Who would you trust to handle health care?
+,Only Clinton,26,96,1
+,Only Sanders,24,1,97
+,Both,47,49,44
+,Neither,1,N/A,N/A
+Trust Clinton to handle health care?
+,Yes,73,66,29
+,No,26,1,94
+Trust Sanders to handle health care?
+,Yes,71,33,62
+,No,28,91,3
+Who shares your values?
+,Only Clinton,16,94,2
+,Only Sanders,25,1,96
+,Both,56,59,35
+,Neither,2,N/A,N/A
+Does Clinton share your values?
+,Yes,72,67,28
+,No,26,2,93
+Does Sanders share your values?
+,Yes,81,41,54
+,No,18,87,7
+The next president should:
+,Continue Obama's policies,55,68,26
+,Be more liberal,33,21,76
+,Be less liberal,7,43,50
+When did you decide whom to vote for?
+,Just today,7,45,42
+,In the last few days,9,46,46
+,Sometime last week,6,N/A,N/A
+,In the last month,18,41,57
+,Before that,59,54,42
+When did you decide whom to vote for?
+,Last few days,16,45,44
+,Earlier,83,51,46
+When did you decide whom to vote for?
+,In the last week,22,45,45
+,Earlier,77,51,46
+When did you decide whom to vote for?
+,In the last month,40,43,51
+,Earlier,59,54,42
+Area type
+,Urban area,32,46,50
+,Suburban area,24,53,40
+,Rural area,44,50,45
+Vote by Region
+,Eastern Iowa,27,48,48
+,East Central Iowa,19,50,47
+,Des Moines Area,26,51,41
+,Central Iowa,16,50,45
+,Western Iowa,13,47,47

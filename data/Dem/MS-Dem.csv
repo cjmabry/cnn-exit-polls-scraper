@@ -1,0 +1,216 @@
+Question,Answer,Percentage of Electorate,Clinton,Sanders
+Gender
+,Men,36,79,19
+,Women,64,85,15
+Age
+,17-29,15,62,37
+,30-44,25,79,20
+,45-64,40,90,9
+,65 and older,20,91,9
+Age
+,17-24,8,N/A,N/A
+,25-29,7,N/A,N/A
+,30-39,15,72,27
+,40-49,19,91,9
+,50-64,30,89,10
+,65 and older,20,91,9
+Age
+,17-44 year olds,40,72,27
+,45 and older,60,90,9
+Race
+,White,24,68,31
+,Black,71,89,11
+,Latino,1,N/A,N/A
+,Asian,0,N/A,N/A
+,Other race,4,N/A,N/A
+Race
+,White,24,68,31
+,Non-white,76,88,11
+Race by gender
+,White men,10,N/A,N/A
+,White women,14,71,29
+,Black men,23,86,13
+,Black women,47,90,10
+,Latino men,1,N/A,N/A
+,Latino women,0,N/A,N/A
+,Others,4,N/A,N/A
+Education
+,High school or less,23,93,7
+,Some college,33,84,16
+,College graduate,26,74,24
+,Postgraduate,17,84,16
+Are you a college graduate?
+,Yes,43,78,21
+,No,57,88,12
+Education and race
+,White college graduates,15,62,36
+,Whites no degree,9,N/A,N/A
+,Non-whites college grads,29,86,12
+,Non-whites no degree,48,90,10
+Income
+,Less than $30K,39,85,14
+,$30K-50K,25,80,20
+,$50K-100K,24,80,20
+,$100K-200K,10,N/A,N/A
+,$200K or more,2,N/A,N/A
+Income
+,Under $50K,64,83,16
+,$50K or More,36,83,16
+Income
+,Under $100K,88,82,17
+,$100K or more,12,89,9
+Income
+,Under $50K,64,83,16
+,$50K-$100K,24,80,20
+,$100K or more,12,89,9
+Ever voted in a Democratic presidential primary?
+,Voted before,91,85,14
+,First-time voter,7,N/A,N/A
+Party ID
+,Democrats,86,87,12
+,Republicans,2,N/A,N/A
+,Independents,13,66,34
+Ideology
+,Very liberal,27,80,20
+,Somewhat liberal,24,82,18
+,Moderate,40,86,14
+,Conservative,10,N/A,N/A
+Ideology
+,Liberal,51,81,19
+,Moderate,40,86,14
+,Conservative,10,N/A,N/A
+Ideology 
+,Liberal,51,81,19
+,Moderate/Conservative,49,85,13
+Attend religious services:
+,More than once a week,35,89,8
+,Once a week,27,85,14
+,A few times a month,15,N/A,N/A
+,A few times a year,14,N/A,N/A
+,Never,8,N/A,N/A
+Attend religious services:
+,Weekly,62,87,11
+,Occasionally,29,79,21
+,Never,8,N/A,N/A
+Marital status
+,Married,51,87,12
+,Unmarried,49,81,18
+Marital status and gender
+,Married men,24,86,12
+,Married women,27,88,12
+,Unmarried men,12,N/A,N/A
+,Unmarried women,36,86,14
+Most important issue
+,Health care,24,84,15
+,Economy/Jobs,43,85,15
+,Terrorism,10,N/A,N/A
+,Income inequality,19,78,22
+Top candidate quality
+,Electability,11,95,5
+,Cares,30,77,23
+,Honest,23,73,26
+,Experience,33,93,7
+Trade with other countries:
+,Creates U.S. jobs,43,86,12
+,Takes away U.S. jobs,41,84,16
+,Does not affect jobs,12,N/A,N/A
+Who would you trust to handle the economy?
+,Only Clinton,53,99,0
+,Only Sanders,7,N/A,N/A
+,Both,33,79,21
+,Neither,4,N/A,N/A
+Trust Clinton to handle economy?
+,Yes,87,91,8
+,No,11,N/A,N/A
+Trust Sanders to handle economy?
+,Yes,40,66,33
+,No,57,96,2
+Who do you trust to handle race relations?
+,Only Clinton,52,99,1
+,Only Sanders,8,N/A,N/A
+,Both,34,82,18
+,Neither,5,N/A,N/A
+Trust Clinton to handle race relations?
+,Yes,86,92,7
+,No,12,N/A,N/A
+Trust Sanders to handle race relations?
+,Yes,42,70,29
+,No,56,95,3
+Race relations in this country have:
+,Gotten better,17,N/A,N/A
+,Stayed the same,32,89,11
+,Gotten worse,49,80,18
+The next president should:
+,Continue Obama's policies,71,88,12
+,Be more liberal,19,N/A,N/A
+,Be less liberal,9,N/A,N/A
+U.S. economic system generally:
+,Favors the wealthy,78,80,20
+,Is fair to most Americans,18,N/A,N/A
+Worried about U.S. economy?
+,Very worried,50,80,19
+,Somewhat worried,32,81,19
+,Not too worried,11,N/A,N/A
+,Not at all worried,6,N/A,N/A
+Worried about U.S. economy?
+,Yes,82,81,19
+,No,17,N/A,N/A
+Feelings about the federal government
+,Enthusiastic,8,N/A,N/A
+,Satisfied,34,89,11
+,Dissatisfied,43,79,21
+,Angry,12,N/A,N/A
+Feelings about the federal government
+,Enthusiastic/Satisfied,42,89,11
+,Dissatisfied/Angry,56,76,24
+Next president should be:
+,Experienced in politics,87,85,15
+,Outside the establishment,11,N/A,N/A
+Clinton's positions on the issues are:
+,Too liberal,9,N/A,N/A
+,Not liberal enough,10,N/A,N/A
+,About right,79,93,6
+Sanders' positions on the issues are:
+,Too liberal,27,94,3
+,Not liberal enough,24,95,5
+,About right,43,71,28
+Is Hillary Clinton honest and trustworthy?
+,Yes,80,94,6
+,No,18,28,72
+Is Bernie Sanders honest and trustworthy?
+,Yes,66,75,25
+,No,27,95,5
+Hillary Clinton's views on business are:
+,Too pro-business,16,N/A,N/A
+,Too anti-business,6,N/A,N/A
+,About right,76,91,9
+Bernie Sanders' views on business are:
+,Too pro-business,20,91,9
+,Too anti-business,30,93,7
+,About right,44,67,33
+Hillary Clinton's policies are:
+,Realistic,89,91,9
+,Not realistic,9,N/A,N/A
+Bernie Sanders' policies are:
+,Realistic,45,69,30
+,Not realistic,46,96,2
+When did you decide whom to vote for?
+,Just today,8,N/A,N/A
+,In the last few days,8,N/A,N/A
+,Sometime last week,5,N/A,N/A
+,In the last month,12,N/A,N/A
+,Before that,67,84,16
+When did you decide whom to vote for?
+,Last few days,16,N/A,N/A
+,Earlier,84,83,17
+When did you decide whom to vote for?
+,In the last week,20,78,22
+,Earlier,79,83,17
+Area type
+,Urban area,31,86,13
+,Suburban area,26,78,21
+,Rural area,43,84,15
+Region
+,Jackson/Delta,45,86,13
+,Southeast,30,80,20
+,Northeast,25,82,18

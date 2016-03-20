@@ -1,0 +1,209 @@
+Question,Answer,Percentage of Electorate,Clinton,Sanders
+Gender
+,Men,44,48,51
+,Women,56,63,36
+Age
+,18-29,15,19,81
+,30-44,22,45,54
+,45-64,41,66,32
+,65 and older,21,77,23
+Age
+,18-24,8,15,85
+,25-29,7,23,77
+,30-39,15,41,57
+,40-49,15,54,46
+,50-64,33,69,30
+,65 and older,21,77,23
+Age
+,18-44,38,34,65
+,45 and older,62,70,29
+Race
+,White,74,53,47
+,Black,20,71,28
+,Latino,2,N/A,N/A
+,Asian,1,N/A,N/A
+,Other race,2,N/A,N/A
+Race
+,White,74,53,47
+,Non-white,26,67,32
+Race by gender
+,White men,33,42,57
+,White women,41,61,38
+,Black men,8,73,26
+,Black women,12,69,29
+,Latino men,1,N/A,N/A
+,Latino women,1,N/A,N/A
+,Others,4,N/A,N/A
+Education
+,High school or less,17,62,37
+,Some college,34,50,49
+,College graduate,28,54,46
+,Postgraduate,21,63,37
+Are you a college graduate?
+,Yes,49,57,42
+,No,51,54,45
+Education and race
+,White college graduates,39,54,45
+,Whites no degree,36,50,49
+,Non-whites college grads,10,70,30
+,Non-whites no degree,15,64,34
+Income
+,Less than $30K,21,59,38
+,$30K-50K,21,51,48
+,$50K-100K,32,56,44
+,$100K-200K,23,51,49
+,$200K or more,4,N/A,N/A
+Income
+,Under $50K,42,55,43
+,$50K or More,58,54,46
+Income
+,Under $100K,74,55,43
+,$100K or more,26,51,49
+Income
+,Under $50K,42,55,43
+,$50K-$100K,32,56,44
+,$100K or more,26,51,49
+Party ID
+,Democrats,74,64,35
+,Republicans,2,N/A,N/A
+,Independents,24,33,66
+Ideology
+,Very liberal,23,48,52
+,Somewhat liberal,36,53,46
+,Moderate,34,63,36
+,Conservative,7,58,38
+Ideology
+,Liberal,59,51,48
+,Moderate,34,63,36
+,Conservative,7,58,38
+Ideology 
+,Liberal,59,51,48
+,Moderate/Conservative,41,62,36
+Marital status
+,Married,56,58,41
+,Unmarried,44,54,46
+Marital status and gender
+,Married men,26,50,48
+,Married women,30,65,34
+,Unmarried men,18,45,55
+,Unmarried women,25,61,39
+Union household?
+,Yes,24,55,45
+,No,76,54,44
+Most important issue
+,Health care,23,59,41
+,Economy/Jobs,40,59,39
+,Terrorism,10,79,21
+,Income inequality,25,39,61
+Top candidate quality
+,Electability,13,83,17
+,Cares,28,42,58
+,Honest,26,26,73
+,Experience,31,84,15
+The next president should:
+,Continue Obama's policies,51,74,26
+,Be more liberal,32,28,71
+,Be less liberal,12,48,47
+Race relations in this country have:
+,Gotten better,12,N/A,N/A
+,Stayed the same,30,57,42
+,Gotten worse,56,57,43
+Who do you trust to handle race relations?
+,Only Clinton,20,100,N/A
+,Only Sanders,16,2,98
+,Both,59,57,42
+,Neither,4,N/A,N/A
+Trust Clinton to handle race relations?
+,Yes,79,68,31
+,No,19,9,90
+Trust Sanders to handle race relations?
+,Yes,75,45,54
+,No,24,91,8
+Trade with other countries:
+,Creates U.S. jobs,29,65,35
+,Takes away U.S. jobs,53,54,45
+,Does not affect jobs,13,N/A,N/A
+Worried about U.S. economy?
+,Very worried,34,52,46
+,Somewhat worried,41,50,49
+,Not too worried,20,67,33
+,Not at all worried,4,N/A,N/A
+Worried about U.S. economy?
+,Yes,75,51,48
+,No,24,69,31
+Family's financial situation
+,Getting ahead,20,57,43
+,Holding steady ,62,57,42
+,Falling behind ,19,57,43
+Next president should be:
+,Experienced in politics,81,61,38
+,Outside the establishment,15,26,71
+Satisfied if Clinton wins the nomination?
+,Yes,76,73,26
+,No,23,3,96
+Satisfied if Sanders wins the nomination?
+,Yes,66,38,62
+,No,32,96,4
+Clinton's positions on the issues are:
+,Too liberal,8,N/A,N/A
+,Not liberal enough,24,22,78
+,About right,65,75,24
+Sanders' positions on the issues are:
+,Too liberal,27,85,14
+,Not liberal enough,11,N/A,N/A
+,About right,57,37,63
+Is Hillary Clinton honest and trustworthy?
+,Yes,61,80,18
+,No,36,12,88
+Is Bernie Sanders honest and trustworthy?
+,Yes,79,47,52
+,No,15,82,14
+Hillary Clinton's views on business are:
+,Too pro-business,29,17,82
+,Too anti-business,6,N/A,N/A
+,About right,61,79,20
+Bernie Sanders' views on business are:
+,Too pro-business,7,N/A,N/A
+,Too anti-business,28,87,11
+,About right,57,32,68
+Hillary Clinton's policies are:
+,Realistic,78,71,29
+,Not realistic,19,8,91
+Bernie Sanders' policies are:
+,Realistic,57,35,65
+,Not realistic,40,88,12
+The candidate's gender was:
+,Most important factor,4,N/A,N/A
+,An important factor,13,83,17
+,Not a factor,82,53,47
+Was the candidate's gender an important factor?
+,Yes,17,83,17
+,No,82,53,47
+Better chance to defeat Trump in November?
+,Clinton,66,83,17
+,Sanders,31,4,96
+Who would make the best commander in chief?
+,Clinton,57,92,6
+,Sanders,40,3,97
+When did you decide whom to vote for?
+,Just today,11,58,40
+,In the last few days,8,N/A,N/A
+,Sometime last week,6,N/A,N/A
+,In the last month,15,52,47
+,Before that,59,61,38
+When did you decide whom to vote for?
+,Last few days,19,48,51
+,Earlier,80,57,42
+When did you decide whom to vote for?
+,In the last week,25,44,55
+,Earlier,74,60,40
+Area type
+,Urban area,44,61,38
+,Suburban area,47,53,46
+,Rural area,9,51,48
+Region
+,Cleveland Area,22,63,35
+,North,29,57,43
+,Ohio Valley/West,15,52,47
+,Columbus Area,18,52,47
+,Cincinnati/Dayton,16,55,45

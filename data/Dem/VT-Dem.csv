@@ -1,0 +1,158 @@
+Question,Answer,Percentage of Electorate,Clinton,Sanders
+Gender
+,Men,43,9,91
+,Women,57,17,83
+Age
+,17-29,15,5,95
+,30-44,22,9,91
+,45-64,41,13,86
+,65 and older,22,23,77
+Age
+,17-24,6,N/A,N/A
+,25-29,9,5,95
+,30-39,14,8,92
+,40-49,18,12,88
+,50-64,31,14,86
+,65 and older,22,23,77
+Age
+,17-44 year olds,37,7,92
+,45 and older,63,17,83
+Race
+,White,95,13,86
+,Black,1,N/A,N/A
+,Latino,0,N/A,N/A
+,Asian,1,N/A,N/A
+,Other race,2,N/A,N/A
+Race
+,White,95,13,86
+,Non-white,5,N/A,N/A
+Education
+,High school or less,10,9,91
+,Some college,19,11,88
+,College graduate,34,12,88
+,Postgraduate,37,18,82
+Are you a college graduate?
+,Yes,71,15,85
+,No,29,10,89
+Education and race
+,White college graduates,68,15,85
+,Whites no degree,28,10,89
+,Non-whites college grads,3,N/A,N/A
+,Non-whites no degree,1,N/A,N/A
+Income
+,Less than $30K,17,10,90
+,$30K-50K,22,11,89
+,$50K-100K,36,12,88
+,$100K-200K,20,20,80
+,$200K or more,5,N/A,N/A
+Income
+,Under $50K,39,10,90
+,$50K or More,61,16,84
+Income
+,Under $100K,75,11,89
+,$100K or more,25,22,78
+Income
+,Under $50K,39,10,90
+,$50K-$100K,36,12,88
+,$100K or more,25,22,78
+Ever voted in a Democratic presidential primary?
+,Voted before,82,15,85
+,First-time voter,16,8,92
+Party ID
+,Democrats,56,18,82
+,Republicans,3,N/A,N/A
+,Independents,41,8,92
+Ideology
+,Very liberal,33,9,91
+,Somewhat liberal,42,14,85
+,Moderate,21,20,79
+,Conservative,5,N/A,N/A
+Ideology
+,Liberal,74,12,88
+,Moderate,21,20,79
+,Conservative,5,N/A,N/A
+Ideology 
+,Liberal,74,12,88
+,Moderate/Conservative,26,19,81
+Marital status
+,Married,59,15,85
+,Unmarried,41,11,89
+Marital status and gender
+,Married men,27,10,89
+,Married women,32,18,81
+,Unmarried men,16,6,94
+,Unmarried women,25,15,85
+Most important issue
+,Health care,20,15,84
+,Economy/Jobs,36,16,84
+,Terrorism,5,N/A,N/A
+,Income inequality,36,9,91
+Top candidate quality
+,Electability,8,50,50
+,Cares,29,4,96
+,Honest,49,2,98
+,Experience,12,58,42
+Who is honest and trustworthy?
+,Only Clinton,2,N/A,N/A
+,Only Sanders,67,3,97
+,Both,28,35,65
+,Neither,1,N/A,N/A
+Is Clinton honest and trustworthy?
+,Yes,30,38,62
+,No,69,3,97
+Is Sanders honest and trustworthy?
+,Yes,95,12,88
+,No,3,N/A,N/A
+Who do you trust in an international crisis?
+,Only Clinton,12,78,22
+,Only Sanders,31,0,100
+,Both,52,7,92
+,Neither,3,N/A,N/A
+Trust Clinton in an international crisis?
+,Yes,64,20,79
+,No,34,1,99
+Trust Sanders in an international crisis?
+,Yes,84,5,95
+,No,15,63,36
+Better handle Supreme Court nominations?
+,Clinton,19,62,37
+,Sanders,76,1,99
+The next president should:
+,Continue Obama's policies,35,29,71
+,Be more liberal,49,3,97
+,Be less liberal,10,11,87
+U.S. economic system generally:
+,Favors the wealthy,94,12,88
+,Is fair to most Americans,5,N/A,N/A
+Next president should be:
+,Experienced in politics,72,17,83
+,Outside the establishment,22,3,97
+Clinton's positions on the issues are:
+,Too liberal,7,2,97
+,Not liberal enough,51,3,97
+,About right,34,34,65
+Sanders' positions on the issues are:
+,Too liberal,13,59,40
+,Not liberal enough,2,N/A,N/A
+,About right,82,6,94
+When did you decide whom to vote for?
+,Just today,6,N/A,N/A
+,In the last few days,4,N/A,N/A
+,Sometime last week,2,N/A,N/A
+,In the last month,8,22,78
+,Before that,80,10,90
+When did you decide whom to vote for?
+,Last few days,10,22,76
+,Earlier,89,12,87
+When did you decide whom to vote for?
+,In the last week,12,28,70
+,Earlier,88,11,88
+Area type
+,Urban area,N/A,N/A,N/A
+,Suburban area,16,13,86
+,Rural area,84,13,86
+Region
+,North,17,9,91
+,Burlington,31,14,85
+,Central/Upper Val.,29,13,87
+,Rutland/Green Mtn.,23,16,84

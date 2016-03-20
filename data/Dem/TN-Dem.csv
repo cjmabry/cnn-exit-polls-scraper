@@ -1,0 +1,227 @@
+Question,Answer,Percentage of Electorate,Clinton,Sanders
+Gender
+,Men,42,64,35
+,Women,58,70,29
+Age
+,18-29,15,39,61
+,30-44,20,56,43
+,45-64,43,76,23
+,65 and older,21,82,18
+Age
+,18-24,9,N/A,N/A
+,25-29,6,N/A,N/A
+,30-39,14,49,50
+,40-49,14,73,27
+,50-64,35,76,22
+,65 and older,21,82,18
+Age
+,18-44,36,48,51
+,45 and older,64,78,21
+Race
+,White,63,57,42
+,Black,32,89,10
+,Latino,2,N/A,N/A
+,Asian,1,N/A,N/A
+,Other race,2,N/A,N/A
+Race
+,White,63,57,42
+,Non-white,37,85,14
+Education
+,High school or less,15,77,23
+,Some college,29,65,34
+,College graduate,30,59,40
+,Postgraduate,26,69,30
+Are you a college graduate?
+,Yes,56,64,36
+,No,44,69,30
+Education and race
+,White college graduates,40,57,42
+,Whites no degree,23,53,46
+,Non-whites college grads,15,82,17
+,Non-whites no degree,22,86,13
+Income
+,Less than $30K,22,58,41
+,$30K-50K,22,66,33
+,$50K-100K,27,61,38
+,$100K-200K,23,72,27
+,$200K or more,5,N/A,N/A
+Income
+,Under $50K,44,62,37
+,$50K or More,56,67,32
+Income
+,Under $100K,72,62,38
+,$100K or more,28,74,25
+Income
+,Under $50K,44,62,37
+,$50K-$100K,27,61,38
+,$100K or more,28,74,25
+Ever voted in a Democratic presidential primary?
+,Voted before,85,73,26
+,First-time voter,14,N/A,N/A
+Party ID
+,Democrats,75,74,26
+,Republicans,2,N/A,N/A
+,Independents,23,45,54
+Ideology
+,Very liberal,25,55,44
+,Somewhat liberal,37,68,31
+,Moderate,32,73,26
+,Conservative,7,N/A,N/A
+Ideology
+,Liberal,61,63,37
+,Moderate,32,73,26
+,Conservative,7,N/A,N/A
+Ideology 
+,Liberal,61,63,37
+,Moderate/Conservative,39,72,27
+Marital status
+,Married,57,72,27
+,Unmarried,43,61,39
+Marital status and gender
+,Married men,23,71,28
+,Married women,34,72,26
+,Unmarried men,18,N/A,N/A
+,Unmarried women,25,65,34
+Attend religious services:
+,More than once a week,21,N/A,N/A
+,Once a week,26,79,19
+,A few times a month,12,N/A,N/A
+,A few times a year,22,54,45
+,Never,19,N/A,N/A
+Attend religious services:
+,Weekly,46,81,18
+,Occasionally,34,58,42
+,Never,19,N/A,N/A
+Most important issue
+,Health care,26,72,27
+,Economy/Jobs,33,69,31
+,Terrorism,10,73,25
+,Income inequality,28,57,43
+Top candidate quality
+,Electability,11,N/A,N/A
+,Cares,25,50,49
+,Honest,24,36,63
+,Experience,37,90,10
+Who shares your values?
+,Only Clinton,22,N/A,N/A
+,Only Sanders,14,N/A,N/A
+,Both,59,69,30
+,Neither,4,N/A,N/A
+Does Clinton share your values?
+,Yes,80,78,22
+,No,18,18,80
+Does Sanders share your values?
+,Yes,72,58,42
+,No,26,91,7
+Who is honest and trustworthy?
+,Only Clinton,17,N/A,N/A
+,Only Sanders,23,10,89
+,Both,48,80,20
+,Neither,9,N/A,N/A
+Is Clinton honest and trustworthy?
+,Yes,65,85,15
+,No,33,30,69
+Is Sanders honest and trustworthy?
+,Yes,72,57,42
+,No,26,92,7
+Who do you trust in an international crisis?
+,Only Clinton,42,99,1
+,Only Sanders,10,N/A,N/A
+,Both,42,57,43
+,Neither,5,N/A,N/A
+Trust Clinton in an international crisis?
+,Yes,84,78,22
+,No,14,N/A,N/A
+Trust Sanders in an international crisis?
+,Yes,52,47,53
+,No,47,92,7
+Who do you trust to handle race relations?
+,Only Clinton,26,98,2
+,Only Sanders,15,N/A,N/A
+,Both,50,66,34
+,Neither,7,N/A,N/A
+Trust Clinton to handle race relations?
+,Yes,77,77,23
+,No,22,27,70
+Trust Sanders to handle race relations?
+,Yes,65,53,47
+,No,33,91,7
+Race relations in this country have:
+,Gotten better,15,N/A,N/A
+,Stayed the same,40,68,32
+,Gotten worse,45,68,31
+Better handle Supreme Court nominations?
+,Clinton,68,94,6
+,Sanders,28,6,93
+Did either candidate attack the other unfairly?
+,Only Clinton did,11,N/A,N/A
+,Only Sanders did,4,N/A,N/A
+,Both did,15,N/A,N/A
+,Neither did,64,70,30
+Did Clinton attack Sanders unfairly?
+,Yes,26,51,48
+,No,69,71,28
+Did Sanders attack Clinton unfairly?
+,Yes,20,N/A,N/A
+,No,75,64,36
+The next president should:
+,Continue Obama's policies,58,83,16
+,Be more liberal,28,37,62
+,Be less liberal,10,N/A,N/A
+U.S. economic system generally:
+,Favors the wealthy,83,63,36
+,Is fair to most Americans,13,N/A,N/A
+Worried about U.S. economy?
+,Very worried,37,60,39
+,Somewhat worried,37,63,36
+,Not too worried,18,N/A,N/A
+,Not at all worried,5,N/A,N/A
+Worried about U.S. economy?
+,Yes,75,62,38
+,No,23,81,18
+Feelings about the federal government
+,Enthusiastic,6,N/A,N/A
+,Satisfied,32,76,23
+,Dissatisfied,45,66,33
+,Angry,16,N/A,N/A
+Feelings about the federal government
+,Enthusiastic/Satisfied,38,77,23
+,Dissatisfied/Angry,61,59,40
+Next president should be:
+,Experienced in politics,83,73,27
+,Outside the establishment,11,N/A,N/A
+Satisfied if Clinton wins the nomination?
+,Yes,79,83,17
+,No,19,11,86
+Satisfied if Sanders wins the nomination?
+,Yes,64,52,47
+,No,33,96,2
+Clinton's positions on the issues are:
+,Too liberal,8,N/A,N/A
+,Not liberal enough,20,24,76
+,About right,69,83,17
+Sanders' positions on the issues are:
+,Too liberal,29,92,6
+,Not liberal enough,11,N/A,N/A
+,About right,52,42,57
+When did you decide whom to vote for?
+,Just today,7,N/A,N/A
+,In the last few days,8,N/A,N/A
+,Sometime last week,5,N/A,N/A
+,In the last month,18,N/A,N/A
+,Before that,60,71,29
+When did you decide whom to vote for?
+,Last few days,15,N/A,N/A
+,Earlier,83,69,30
+When did you decide whom to vote for?
+,In the last week,20,61,39
+,Earlier,78,69,30
+Area type
+,Urban area,55,72,27
+,Suburban area,24,62,37
+,Rural area,21,61,38
+Region
+,East,29,58,42
+,Nashville,28,66,33
+,Central,16,63,35
+,Memphis/West,28,82,18

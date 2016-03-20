@@ -1,0 +1,206 @@
+Question,Answer,Percentage of Electorate,Clinton,Sanders
+Gender
+,Men,45,44,55
+,Women,55,51,45
+Age
+,18-29,19,19,81
+,30-44,26,42,53
+,45-64,35,57,41
+,65 and older,20,69,30
+Age
+,18-24,11,15,85
+,25-29,8,24,75
+,30-39,17,36,59
+,40-49,17,55,41
+,50-64,27,57,41
+,65 and older,20,69,30
+Age
+,18-44,45,32,65
+,45 and older,55,62,37
+Race
+,White,70,42,56
+,Black,21,68,28
+,Latino,3,N/A,N/A
+,Asian,2,N/A,N/A
+,Other race,4,N/A,N/A
+Race
+,White,70,42,56
+,Non-white,30,63,34
+Race by gender
+,White men,33,37,62
+,White women,37,47,51
+,Black men,7,N/A,N/A
+,Black women,14,66,28
+,Latino men,1,N/A,N/A
+,Latino women,1,N/A,N/A
+,Others,6,N/A,N/A
+Education
+,High school or less,17,61,37
+,Some college,37,43,55
+,College graduate,26,41,54
+,Postgraduate,20,57,42
+Are you a college graduate?
+,Yes,46,48,49
+,No,54,49,50
+Education and race
+,White college graduates,33,43,54
+,Whites no degree,36,42,57
+,Non-whites college grads,13,61,35
+,Non-whites no degree,18,63,34
+Income
+,Less than $30K,23,51,48
+,$30K-50K,22,44,54
+,$50K-100K,31,47,50
+,$100K-200K,20,48,48
+,$200K or more,4,N/A,N/A
+Income
+,Under $50K,45,48,51
+,$50K or More,55,48,49
+Income
+,Under $100K,76,48,51
+,$100K or more,24,50,47
+Income
+,Under $50K,45,48,51
+,$50K-$100K,31,47,50
+,$100K or more,24,50,47
+Party ID
+,Democrats,69,58,40
+,Republicans,4,N/A,N/A
+,Independents,27,28,71
+Ideology
+,Very liberal,22,41,59
+,Somewhat liberal,35,49,51
+,Moderate,33,55,44
+,Conservative,9,N/A,N/A
+Ideology
+,Liberal,57,46,54
+,Moderate,33,55,44
+,Conservative,9,N/A,N/A
+Ideology 
+,Liberal,57,46,54
+,Moderate/Conservative,43,52,43
+Marital status
+,Married,54,49,50
+,Unmarried,46,44,53
+Marital status and gender
+,Married men,27,46,53
+,Married women,26,53,47
+,Unmarried men,20,44,56
+,Unmarried women,26,43,50
+Union household?
+,Yes,33,46,49
+,No,67,46,53
+Most important issue
+,Health care,19,48,49
+,Economy/Jobs,43,52,46
+,Terrorism,8,69,30
+,Income inequality,27,38,60
+Top candidate quality
+,Electability,11,73,27
+,Cares,33,40,56
+,Honest,28,20,78
+,Experience,26,81,18
+Trade with other countries:
+,Creates U.S. jobs,30,54,44
+,Takes away U.S. jobs,57,41,56
+,Does not affect jobs,8,N/A,N/A
+Who do you trust to handle race relations?
+,Only Clinton,17,92,8
+,Only Sanders,26,2,97
+,Both,52,55,42
+,Neither,3,N/A,N/A
+Trust Clinton to handle race relations?
+,Yes,69,64,34
+,No,29,6,93
+Trust Sanders to handle race relations?
+,Yes,78,37,61
+,No,20,84,15
+Race relations in this country have:
+,Gotten better,16,53,47
+,Stayed the same,35,53,46
+,Gotten worse,48,38,58
+The next president should:
+,Continue Obama's policies,50,68,32
+,Be more liberal,31,24,72
+,Be less liberal,13,47,53
+U.S. economic system generally:
+,Favors the wealthy,86,48,50
+,Is fair to most Americans,13,N/A,N/A
+Worried about U.S. economy?
+,Very worried,37,40,58
+,Somewhat worried,43,60,40
+,Not too worried,15,47,44
+,Not at all worried,4,N/A,N/A
+Worried about U.S. economy?
+,Yes,80,51,48
+,No,19,47,45
+Feelings about the federal government
+,Enthusiastic,5,N/A,N/A
+,Satisfied,24,57,36
+,Dissatisfied,51,48,52
+,Angry,17,40,60
+Feelings about the federal government
+,Enthusiastic/Satisfied,29,58,34
+,Dissatisfied/Angry,69,46,54
+Next president should be:
+,Experienced in politics,82,56,41
+,Outside the establishment,13,16,84
+For a safe public water supply:
+,Strengthen regulations,85,44,53
+,Already regulated enough,10,N/A,N/A
+Satisfied if Clinton wins the nomination?
+,Yes,63,70,27
+,No,34,2,98
+Satisfied if Sanders wins the nomination?
+,Yes,74,31,67
+,No,23,92,6
+Clinton's positions on the issues are:
+,Too liberal,11,N/A,N/A
+,Not liberal enough,26,13,87
+,About right,58,70,27
+Sanders' positions on the issues are:
+,Too liberal,19,81,18
+,Not liberal enough,8,N/A,N/A
+,About right,67,30,68
+Is Hillary Clinton honest and trustworthy?
+,Yes,56,79,20
+,No,40,8,88
+Is Bernie Sanders honest and trustworthy?
+,Yes,81,42,55
+,No,11,N/A,N/A
+Hillary Clinton's views on business are:
+,Too pro-business,34,16,79
+,Too anti-business,4,N/A,N/A
+,About right,56,75,23
+Bernie Sanders' views on business are:
+,Too pro-business,9,N/A,N/A
+,Too anti-business,20,89,11
+,About right,63,31,65
+Hillary Clinton's policies are:
+,Realistic,71,61,36
+,Not realistic,25,8,92
+Bernie Sanders' policies are:
+,Realistic,64,25,72
+,Not realistic,29,87,13
+When did you decide whom to vote for?
+,Just today,7,N/A,N/A
+,In the last few days,9,N/A,N/A
+,Sometime last week,5,N/A,N/A
+,In the last month,21,45,49
+,Before that,57,53,47
+When did you decide whom to vote for?
+,Last few days,16,53,47
+,Earlier,83,50,48
+When did you decide whom to vote for?
+,In the last week,21,49,49
+,Earlier,78,51,48
+Area type
+,Urban area,15,61,36
+,Suburban area,69,47,50
+,Rural area,16,42,57
+Region
+,Wayne,22,59,39
+,Oakland/Macomb,23,50,47
+,Southeast,22,48,51
+,Southwest,16,40,55
+,N. Central/U.P.,16,40,60
