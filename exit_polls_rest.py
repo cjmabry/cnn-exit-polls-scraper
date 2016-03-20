@@ -4,6 +4,8 @@ from pprint import pprint
 party = 'Dem'
 candidates = ['Clinton', 'Sanders']
 # party = 'Rep'
+# candidates = ['Trump', 'Cruz', 'Kasich']
+
 
 r = requests.get('http://data.cnn.com/elections/2016/config.json')
 
