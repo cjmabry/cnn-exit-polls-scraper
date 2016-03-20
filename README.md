@@ -3,8 +3,9 @@ Gather exit polls from CNN for the 2016 primaries and export them as state CSVs.
 
 ## Setup
 * `git clone https://github.com/cjmabry/cnn-exit-polls-scraper.git`
-* (optional) create virtualenv: `vitrualenv venv`
-* (optional) activate it: `source venv/bin/activate`
+* __optional__
+  * create virtualenv: `vitrualenv venv`
+  * activate it: `source venv/bin/activate`
 * install dependencies:`pip install -r requirements.txt`
 * run it: `python exit_polls.py`
 
