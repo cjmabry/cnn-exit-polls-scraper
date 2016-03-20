@@ -1,159 +1,159 @@
-Question,Answer,Percentage of Electorate,Clinton,Sanders
-Gender,,,,
-,Men,42,41,58
-,Women,58,57,42
-Age,,,,
-,18-29,19,35,65
-,30-44,23,55,44
-,45-64,39,51,48
-,65 and older,19,59,39
-Age,,,,
-,18-24,11,28,71
-,25-29,9,42,58
-,30-39,15,53,47
-,40-49,14,55,44
-,50-64,32,51,48
-,65 and older,19,59,39
-Age,,,,
-,18-44,43,46,54
-,45 and older,57,54,45
-Race,,,,
-,White,85,49,50
-,Black,4,N/A,N/A
-,Latino,6,N/A,N/A
-,Asian,4,N/A,N/A
-,Other race,1,N/A,N/A
-Race,,,,
-,White,85,49,50
-,Non-white,15,59,41
-Education,,,,
-,High school or less,8,43,57
-,Some college,24,40,60
-,College graduate,32,50,49
-,Postgraduate,35,58,41
-Are you a college graduate?,,,,
-,Yes,67,54,45
-,No,33,41,59
-Education and race,,,,
-,White college graduates,58,53,46
-,Whites no degree,27,40,60
-,Non-whites college grads,9,66,32
-,Non-whites no degree,6,N/A,N/A
-Income,,,,
-,Less than $30K,13,47,50
-,$30K-50K,18,40,60
-,$50K-100K,33,46,54
-,$100K-200K,30,57,42
-,$200K or more,7,N/A,N/A
-Income,,,,
-,Under $50K,31,43,56
-,$50K or More,69,53,46
-Income,,,,
-,Under $100K,63,45,55
-,$100K or more,37,59,39
-Income,,,,
-,Under $50K,31,43,56
-,$50K-$100K,33,46,54
-,$100K or more,37,59,39
-Ever voted in a Democratic presidential primary?,,,,
-,Voted before,81,55,45
-,First-time voter,17,27,72
-Party ID,,,,
-,Democrats,65,60,40
-,Republicans,2,N/A,N/A
-,Independents,33,33,66
-Ideology,,,,
-,Very liberal,29,42,57
-,Somewhat liberal,41,60,40
-,Moderate,25,45,54
-,Conservative,5,N/A,N/A
-Ideology,,,,
-,Liberal,70,52,47
-,Moderate,25,45,54
-,Conservative,5,N/A,N/A
-Ideology ,,,,
-,Liberal,70,52,47
-,Moderate/Conservative,30,45,54
-Marital status,,,,
-,Married,55,55,44
-,Unmarried,45,44,55
-Marital status and gender,,,,
-,Married men,23,49,50
-,Married women,33,59,40
-,Unmarried men,18,30,69
-,Unmarried women,26,53,46
-Most important issue,,,,
-,Health care,16,59,41
-,Economy/Jobs,40,52,48
-,Terrorism,12,58,39
-,Income inequality,30,40,59
-Top candidate quality,,,,
-,Electability,20,81,19
-,Cares,23,30,70
-,Honest,27,9,91
-,Experience,26,90,9
-Who is honest and trustworthy?,,,,
-,Only Clinton,7,N/A,N/A
-,Only Sanders,37,9,90
-,Both,48,75,25
-,Neither,6,N/A,N/A
-Is Clinton honest and trustworthy?,,,,
-,Yes,54,78,22
-,No,43,15,83
-Is Sanders honest and trustworthy?,,,,
-,Yes,85,46,54
-,No,12,76,20
-Who do you trust in an international crisis?,,,,
-,Only Clinton,36,94,6
-,Only Sanders,16,3,97
-,Both,41,35,64
-,Neither,5,N/A,N/A
-Trust Clinton in an international crisis?,,,,
-,Yes,77,62,37
-,No,21,7,91
-Trust Sanders in an international crisis?,,,,
-,Yes,57,26,73
-,No,41,85,14
-Better handle Supreme Court nominations?,,,,
-,Clinton,52,90,10
-,Sanders,43,5,94
-The next president should:,,,,
-,Continue Obama's policies,45,70,30
-,Be more liberal,34,32,68
-,Be less liberal,16,38,60
-U.S. economic system generally:,,,,
-,Favors the wealthy,87,48,51
-,Is fair to most Americans,11,59,40
-Next president should be:,,,,
-,Experienced in politics,78,60,40
-,Outside the establishment,17,12,86
-Clinton's positions on the issues are:,,,,
-,Too liberal,8,30,70
-,Not liberal enough,29,24,75
-,About right,57,70,30
-Sanders' positions on the issues are:,,,,
-,Too liberal,31,86,13
-,Not liberal enough,6,N/A,N/A
-,About right,59,28,71
-When did you decide whom to vote for?,,,,
-,Just today,12,43,54
-,In the last few days,11,59,41
-,Sometime last week,4,N/A,N/A
-,In the last month,15,44,55
-,Before that,56,51,49
-When did you decide whom to vote for?,,,,
-,Last few days,24,51,48
-,Earlier,75,50,49
-When did you decide whom to vote for?,,,,
-,In the last week,28,52,46
-,Earlier,71,50,50
-Area type,,,,
-,Urban area,16,61,37
-,Suburban area,84,48,51
-,Rural area,N/A,N/A,N/A
-Region,,,,
-,Boston Area,33,54,45
-,N. Shore/Rte. 128,17,52,46
-,S. Shore/Cape Cod,13,48,51
-,Industrial Belt,21,49,50
-,Western Mass.,15,44,56
+Question,pollname,Answer,Percentage of Electorate,Clinton,Sanders
+Gender,SEX,,,,
+,,Men,42,41,58
+,,Women,58,57,42
+Age,AGE,,,,
+,,18-29,19,35,65
+,,30-44,23,55,44
+,,45-64,39,51,48
+,,65 and older,19,59,39
+Age,AGE65,,,,
+,,18-24,11,28,71
+,,25-29,9,42,58
+,,30-39,15,53,47
+,,40-49,14,55,44
+,,50-64,32,51,48
+,,65 and older,19,59,39
+Age,AGE45,,,,
+,,18-44,43,46,54
+,,45 and older,57,54,45
+Race,RACE,,,,
+,,White,85,49,50
+,,Black,4,N/A,N/A
+,,Latino,6,N/A,N/A
+,,Asian,4,N/A,N/A
+,,Other race,1,N/A,N/A
+Race,RACE2B,,,,
+,,White,85,49,50
+,,Non-white,15,59,41
+Education,EDUC12R,,,,
+,,High school or less,8,43,57
+,,Some college,24,40,60
+,,College graduate,32,50,49
+,,Postgraduate,35,58,41
+Are you a college graduate?,EDUCCOLL,,,,
+,,Yes,67,54,45
+,,No,33,41,59
+Education and race,EDUCWHITE,,,,
+,,White college graduates,58,53,46
+,,Whites no degree,27,40,60
+,,Non-whites college grads,9,66,32
+,,Non-whites no degree,6,N/A,N/A
+Income,INCOME16,,,,
+,,Less than $30K,13,47,50
+,,$30K-50K,18,40,60
+,,$50K-100K,33,46,54
+,,$100K-200K,30,57,42
+,,$200K or more,7,N/A,N/A
+Income,INC50K,,,,
+,,Under $50K,31,43,56
+,,$50K or More,69,53,46
+Income,INC100K,,,,
+,,Under $100K,63,45,55
+,,$100K or more,37,59,39
+Income,INCOME3,,,,
+,,Under $50K,31,43,56
+,,$50K-$100K,33,46,54
+,,$100K or more,37,59,39
+Ever voted in a Democratic presidential primary?,PREVPRIDEM,,,,
+,,Voted before,81,55,45
+,,First-time voter,17,27,72
+Party ID,PARTY,,,,
+,,Democrats,65,60,40
+,,Republicans,2,N/A,N/A
+,,Independents,33,33,66
+Ideology,PHIL4,,,,
+,,Very liberal,29,42,57
+,,Somewhat liberal,41,60,40
+,,Moderate,25,45,54
+,,Conservative,5,N/A,N/A
+Ideology,PHIL3X,,,,
+,,Liberal,70,52,47
+,,Moderate,25,45,54
+,,Conservative,5,N/A,N/A
+Ideology ,PHIL2D,,,,
+,,Liberal,70,52,47
+,,Moderate/Conservative,30,45,54
+Marital status,MARRIED,,,,
+,,Married,55,55,44
+,,Unmarried,45,44,55
+Marital status and gender,SEXWED,,,,
+,,Married men,23,49,50
+,,Married women,33,59,40
+,,Unmarried men,18,30,69
+,,Unmarried women,26,53,46
+Most important issue,ISSDEM16,,,,
+,,Health care,16,59,41
+,,Economy/Jobs,40,52,48
+,,Terrorism,12,58,39
+,,Income inequality,30,40,59
+Top candidate quality,QLT16DEMPRI,,,,
+,,Electability,20,81,19
+,,Cares,23,30,70
+,,Honest,27,9,91
+,,Experience,26,90,9
+Who is honest and trustworthy?,HONESTDEM16,,,,
+,,Only Clinton,7,N/A,N/A
+,,Only Sanders,37,9,90
+,,Both,48,75,25
+,,Neither,6,N/A,N/A
+Is Clinton honest and trustworthy?,HONESTDEM16CLIN,,,,
+,,Yes,54,78,22
+,,No,43,15,83
+Is Sanders honest and trustworthy?,HONESTDEM16SAND,,,,
+,,Yes,85,46,54
+,,No,12,76,20
+Who do you trust in an international crisis?,INTCRISISDEM16,,,,
+,,Only Clinton,36,94,6
+,,Only Sanders,16,3,97
+,,Both,41,35,64
+,,Neither,5,N/A,N/A
+Trust Clinton in an international crisis?,INTCRISISDEMCLIN,,,,
+,,Yes,77,62,37
+,,No,21,7,91
+Trust Sanders in an international crisis?,INTCRISISDEMSANDERS,,,,
+,,Yes,57,26,73
+,,No,41,85,14
+Better handle Supreme Court nominations?,SCOTUSDEM16,,,,
+,,Clinton,52,90,10
+,,Sanders,43,5,94
+The next president should:,OBAMAPLCY,,,,
+,,Continue Obama's policies,45,70,30
+,,Be more liberal,34,32,68
+,,Be less liberal,16,38,60
+U.S. economic system generally:,ECONFAIR,,,,
+,,Favors the wealthy,87,48,51
+,,Is fair to most Americans,11,59,40
+Next president should be:,OUTSIDER16,,,,
+,,Experienced in politics,78,60,40
+,,Outside the establishment,17,12,86
+Clinton's positions on the issues are:,CLINTONLIB,,,,
+,,Too liberal,8,30,70
+,,Not liberal enough,29,24,75
+,,About right,57,70,30
+Sanders' positions on the issues are:,SANDERSLIB,,,,
+,,Too liberal,31,86,13
+,,Not liberal enough,6,N/A,N/A
+,,About right,59,28,71
+When did you decide whom to vote for?,TIMENH16,,,,
+,,Just today,12,43,54
+,,In the last few days,11,59,41
+,,Sometime last week,4,N/A,N/A
+,,In the last month,15,44,55
+,,Before that,56,51,49
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,,,,
+,,Last few days,24,51,48
+,,Earlier,75,50,49
+When did you decide whom to vote for?,TIMEPRIWK,,,,
+,,In the last week,28,52,46
+,,Earlier,71,50,50
+Area type,SIZEPLC3,,,,
+,,Urban area,16,61,37
+,,Suburban area,84,48,51
+,,Rural area,N/A,N/A,N/A
+Region,GEOCOD,,,,
+,,Boston Area,33,54,45
+,,N. Shore/Rte. 128,17,52,46
+,,S. Shore/Cape Cod,13,48,51
+,,Industrial Belt,21,49,50
+,,Western Mass.,15,44,56

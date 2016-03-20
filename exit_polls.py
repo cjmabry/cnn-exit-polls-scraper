@@ -31,10 +31,10 @@ for poll in exitpollhub:
 
                 with open(filename, 'wb') as f:
                     csv_file = csv.writer(f)
-                    csv_file.writerow(['Question','Answer','Percentage of Electorate','Clinton','Sanders'])
+                    csv_file.writerow(['Question','pollname','Answer','Percentage of Electorate','Clinton','Sanders'])
 
                     for item in data['polls']:
-                        csv_file.writerow([item['question'],'','','',''])
+                        csv_file.writerow([item['question'],item['pollname'],'','','',''])
 
                         # dictionary for debugging
                         d[item['question']] = {}
@@ -57,4 +57,4 @@ for poll in exitpollhub:
 
                                 d[item['question']][answer['answer']][candidate] = a['pct']
 
-                            csv_file.writerow(['',answer['answer'],answer['pct'],d[item['question']][answer['answer']][candidates[0]],d[item['question']][answer['answer']][candidates[1]]])
+                            csv_file.writerow(['','',answer['answer'],answer['pct'],d[item['question']][answer['answer']][candidates[0]],d[item['question']][answer['answer']][candidates[1]]])
