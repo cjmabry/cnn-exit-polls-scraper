@@ -1,0 +1,126 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Gender,SEX,KY,South,East South Central,Male,49,26,71
+Gender,SEX,KY,South,East South Central,Female,51,40,54
+Age,AGE,KY,South,East South Central,18-29,19,34,59
+Age,AGE,KY,South,East South Central,30-44,23,29,66
+Age,AGE,KY,South,East South Central,45-64,42,33,63
+Age,AGE,KY,South,East South Central,65 and older,17,37,61
+Age,AGE65,KY,South,East South Central,18-24,10,31,61
+Age,AGE65,KY,South,East South Central,25-29,9,N/A,N/A
+Age,AGE65,KY,South,East South Central,30-39,15,33,61
+Age,AGE65,KY,South,East South Central,40-49,18,24,72
+Age,AGE65,KY,South,East South Central,50-64,32,35,61
+Age,AGE65,KY,South,East South Central,65 and older,17,37,61
+Age,AGE45,KY,South,East South Central,18-44,42,31,63
+Age,AGE45,KY,South,East South Central,45 and older,58,34,62
+Race,RACE,KY,South,East South Central,White,88,27,68
+Race,RACE,KY,South,East South Central,Black,8,N/A,N/A
+Race,RACE,KY,South,East South Central,Latino,3,N/A,N/A
+Race,RACE,KY,South,East South Central,Asian,1,N/A,N/A
+Race,RACE,KY,South,East South Central,Other race,1,N/A,N/A
+Race,RACE2B,KY,South,East South Central,White,88,27,68
+Race,RACE2B,KY,South,East South Central,Non-white,12,73,20
+Race and gender,SEXBYRACE,KY,South,East South Central,White men,43,20,77
+Race and gender,SEXBYRACE,KY,South,East South Central,White women,44,35,60
+Race and gender,SEXBYRACE,KY,South,East South Central,Black men,4,N/A,N/A
+Race and gender,SEXBYRACE,KY,South,East South Central,Black women,4,N/A,N/A
+Race and gender,SEXBYRACE,KY,South,East South Central,Latino men,1,N/A,N/A
+Race and gender,SEXBYRACE,KY,South,East South Central,Latino women,1,N/A,N/A
+Race and gender,SEXBYRACE,KY,South,East South Central,Others,2,N/A,N/A
+Education,EDUC12R,KY,South,East South Central,High school or less,25,28,66
+Education,EDUC12R,KY,South,East South Central,Some college,36,33,64
+Education,EDUC12R,KY,South,East South Central,College graduate,24,28,67
+Education,EDUC12R,KY,South,East South Central,Postgraduate,15,53,42
+Are you a college graduate?,EDUCCOLL,KY,South,East South Central,Yes,40,38,58
+Are you a college graduate?,EDUCCOLL,KY,South,East South Central,No,60,31,65
+Education and race,EDUCWHITE,KY,South,East South Central,White college graduates,36,34,61
+Education and race,EDUCWHITE,KY,South,East South Central,Whites no degree,52,23,73
+Education and race,EDUCWHITE,KY,South,East South Central,Non-whites college grads,4,N/A,N/A
+Education and race,EDUCWHITE,KY,South,East South Central,Non-whites no degree,9,N/A,N/A
+Education among whites by sex,EDUCWHITEBYSEX,KY,South,East South Central,White college-grad women,19,42,52
+Education among whites by sex,EDUCWHITEBYSEX,KY,South,East South Central,White non-college women,26,28,66
+Education among whites by sex,EDUCWHITEBYSEX,KY,South,East South Central,White college-grad men,17,26,71
+Education among whites by sex,EDUCWHITEBYSEX,KY,South,East South Central,White non-college men,26,18,80
+Education among whites by sex,EDUCWHITEBYSEX,KY,South,East South Central,Non-whites,13,74,18
+Income,INCOME16GEN,KY,South,East South Central,"Under $30,000",17,36,55
+Income,INCOME16GEN,KY,South,East South Central,"$30K-$49,999",23,33,60
+Income,INCOME16GEN,KY,South,East South Central,"$50K-$99,999",33,32,65
+Income,INCOME16GEN,KY,South,East South Central,"$100K-$199,999",21,27,71
+Income,INCOME16GEN,KY,South,East South Central,"$200K-$249,999",3,N/A,N/A
+Income,INCOME16GEN,KY,South,East South Central,"$250,000 or more",2,N/A,N/A
+Income,INCOME3,KY,South,East South Central,Under $50K,41,34,58
+Income,INCOME3,KY,South,East South Central,$50K-$100K,33,32,65
+Income,INCOME3,KY,South,East South Central,$100K or more,26,30,68
+Income,INC50K,KY,South,East South Central,Under $50K,41,34,58
+Income,INC50K,KY,South,East South Central,$50K or more,59,31,66
+Income,INC100K,KY,South,East South Central,Under $100K,74,33,61
+Income,INC100K,KY,South,East South Central,$100K or more,26,30,68
+Party ID,PARTY,KY,South,East South Central,Democrats,38,75,22
+Party ID,PARTY,KY,South,East South Central,Republicans,45,3,93
+Party ID,PARTY,KY,South,East South Central,Independents,18,23,67
+Party by gender,PARTYGENDER,KY,South,East South Central,Democratic men,14,75,23
+Party by gender,PARTYGENDER,KY,South,East South Central,Democratic women,24,75,21
+Party by gender,PARTYGENDER,KY,South,East South Central,Republican men,25,2,96
+Party by gender,PARTYGENDER,KY,South,East South Central,Republican women,20,4,90
+Party by gender,PARTYGENDER,KY,South,East South Central,Independent men,9,N/A,N/A
+Party by gender,PARTYGENDER,KY,South,East South Central,Independent women,9,N/A,N/A
+Ideology,PHIL3,KY,South,East South Central,Liberal,18,79,17
+Ideology,PHIL3,KY,South,East South Central,Moderate,38,38,55
+Ideology,PHIL3,KY,South,East South Central,Conservative,43,11,86
+White born-again or evangelical Christian?,WHTEVANG,KY,South,East South Central,Yes,53,17,79
+White born-again or evangelical Christian?,WHTEVANG,KY,South,East South Central,No,47,49,45
+Marital status,MARRIED,KY,South,East South Central,Married,65,26,70
+Marital status,MARRIED,KY,South,East South Central,Unmarried,35,41,52
+Marital status by gender,SEXWED,KY,South,East South Central,Married men,32,23,74
+Marital status by gender,SEXWED,KY,South,East South Central,Married women,34,29,66
+Marital status by gender,SEXWED,KY,South,East South Central,Unmarried men,15,30,68
+Marital status by gender,SEXWED,KY,South,East South Central,Unmarried women,20,50,40
+Coal-industry household?,COALHH,KY,South,East South Central,Yes,8,N/A,N/A
+Coal-industry household?,COALHH,KY,South,East South Central,No,92,33,62
+When did you decide presidential vote?,TIME16,KY,South,East South Central,Last few days,13,24,66
+When did you decide presidential vote?,TIME16,KY,South,East South Central,Last week,5,N/A,N/A
+When did you decide presidential vote?,TIME16,KY,South,East South Central,In October,11,N/A,N/A
+When did you decide presidential vote?,TIME16,KY,South,East South Central,In September,6,N/A,N/A
+When did you decide presidential vote?,TIME16,KY,South,East South Central,Before September,65,32,66
+When did you decide presidential vote?,TIME16WEEK,KY,South,East South Central,In the last week,17,28,61
+When did you decide presidential vote?,TIME16WEEK,KY,South,East South Central,Before that,82,30,67
+When did you decide presidential vote?,TIME16MONTH,KY,South,East South Central,In the last month,28,27,63
+When did you decide presidential vote?,TIME16MONTH,KY,South,East South Central,Before that,71,31,67
+Opinion of presidential candidate you voted for,DESCRIBP12,KY,South,East South Central,Strongly favor ,46,35,60
+Opinion of presidential candidate you voted for,DESCRIBP12,KY,South,East South Central,Have reservations,29,34,66
+Opinion of presidential candidate you voted for,DESCRIBP12,KY,South,East South Central,Dislike opponents,24,22,67
+Most important issue facing the country,ISSUE16,KY,South,East South Central,Foreign policy,10,N/A,N/A
+Most important issue facing the country,ISSUE16,KY,South,East South Central,Immigration,14,9,90
+Most important issue facing the country,ISSUE16,KY,South,East South Central,Economy,52,40,55
+Most important issue facing the country,ISSUE16,KY,South,East South Central,Terrorism,21,24,72
+Which candidate quality mattered most?,QLT16,KY,South,East South Central,Cares about me,15,36,56
+Which candidate quality mattered most?,QLT16,KY,South,East South Central,Can bring change,54,9,87
+Which candidate quality mattered most?,QLT16,KY,South,East South Central,Right experience,15,90,8
+Which candidate quality mattered most?,QLT16,KY,South,East South Central,Good judgment,12,57,35
+Opinion of Hillary Clinton,FAVHCLIN16,KY,South,East South Central,Favorable,28,97,1
+Opinion of Hillary Clinton,FAVHCLIN16,KY,South,East South Central,Unfavorable,71,4,90
+Opinion of Donald Trump,FAVTRUMP,KY,South,East South Central,Favorable,53,2,98
+Opinion of Donald Trump,FAVTRUMP,KY,South,East South Central,Unfavorable,45,65,25
+Opinion of Clinton and Trump,FAVPRES16,KY,South,East South Central,Both favorable,1,N/A,N/A
+Opinion of Clinton and Trump,FAVPRES16,KY,South,East South Central,Only Clinton favorable,27,98,0
+Opinion of Clinton and Trump,FAVPRES16,KY,South,East South Central,Only Trump favorable,53,0,100
+Opinion of Clinton and Trump,FAVPRES16,KY,South,East South Central,Both unfavorable,18,15,61
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,KY,South,East South Central,Yes,23,99,1
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,KY,South,East South Central,No,75,11,83
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,KY,South,East South Central,Yes,47,3,97
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,KY,South,East South Central,No,51,61,30
+Which candidate is honest?,HONEST16,KY,South,East South Central,Both are,1,N/A,N/A
+Which candidate is honest?,HONEST16,KY,South,East South Central,Only Clinton is,22,99,N/A
+Which candidate is honest?,HONEST16,KY,South,East South Central,Only Trump is,46,0,99
+Which candidate is honest?,HONEST16,KY,South,East South Central,Neither is,28,29,54
+Life for the next generation of Americans will be:,LIFE,KY,South,East South Central,Better than today,37,42,56
+Life for the next generation of Americans will be:,LIFE,KY,South,East South Central,Worse than today,33,16,77
+Life for the next generation of Americans will be:,LIFE,KY,South,East South Central,About the same,27,38,56
+Area type,SIZEPLC3,KY,South,East South Central,Urban area,28,51,43
+Area type,SIZEPLC3,KY,South,East South Central,Suburban area,11,N/A,N/A
+Area type,SIZEPLC3,KY,South,East South Central,Rural area,61,27,70
+Region,GEOCOD,KY,South,East South Central,Eastern Kentucky,20,19,78
+Region,GEOCOD,KY,South,East South Central,Bluegrass Country,18,39,56
+Region,GEOCOD,KY,South,East South Central,North / Louisville Sub.,17,28,66
+Region,GEOCOD,KY,South,East South Central,Jefferson County,19,55,40
+Region,GEOCOD,KY,South,East South Central,Western Kentucky,27,27,69

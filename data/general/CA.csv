@@ -1,0 +1,264 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Gender,SEX,CA,,,Male,49,57,36
+Gender,SEX,CA,,,Female,51,66,30
+Age,AGE,CA,,,18-29,20,66,23
+Age,AGE,CA,,,30-44,24,67,27
+Age,AGE,CA,,,45-64,38,57,39
+Age,AGE,CA,,,65 and older,18,61,36
+Age,AGE65,CA,,,18-24,11,67,18
+Age,AGE65,CA,,,25-29,9,64,29
+Age,AGE65,CA,,,30-39,16,70,23
+Age,AGE65,CA,,,40-49,18,60,36
+Age,AGE65,CA,,,50-64,28,57,40
+Age,AGE65,CA,,,65 and older,18,61,36
+Age,AGE45,CA,,,18-44,44,67,25
+Age,AGE45,CA,,,45 and older,56,58,38
+Race,RACE,CA,,,White,48,50,45
+Race,RACE,CA,,,Black,6,88,9
+Race,RACE,CA,,,Latino,31,71,24
+Race,RACE,CA,,,Asian,12,70,17
+Race,RACE,CA,,,Other race,3,N/A,N/A
+Race,RACE2B,CA,,,White,48,50,45
+Race,RACE2B,CA,,,Non-white,52,73,21
+Race and gender,SEXBYRACE,CA,,,White men,23,43,50
+Race and gender,SEXBYRACE,CA,,,White women,25,57,40
+Race and gender,SEXBYRACE,CA,,,Black men,3,N/A,N/A
+Race and gender,SEXBYRACE,CA,,,Black women,3,N/A,N/A
+Race and gender,SEXBYRACE,CA,,,Latino men,13,68,27
+Race and gender,SEXBYRACE,CA,,,Latino women,18,73,22
+Race and gender,SEXBYRACE,CA,,,Others,15,70,20
+Education,EDUC12R,CA,,,High school or less,15,61,31
+Education,EDUC12R,CA,,,Some college,31,56,39
+Education,EDUC12R,CA,,,College graduate,35,63,32
+Education,EDUC12R,CA,,,Postgraduate,19,67,27
+Are you a college graduate?,EDUCCOLL,CA,,,Yes,54,65,30
+Are you a college graduate?,EDUCCOLL,CA,,,No,46,57,36
+Education and race,EDUCWHITE,CA,,,White college graduates,29,59,35
+Education and race,EDUCWHITE,CA,,,Whites no degree,19,36,59
+Education and race,EDUCWHITE,CA,,,Non-whites college grads,25,72,23
+Education and race,EDUCWHITE,CA,,,Non-whites no degree,27,73,20
+Education among whites by sex,EDUCWHITEBYSEX,CA,,,White college-grad women,15,67,30
+Education among whites by sex,EDUCWHITEBYSEX,CA,,,White non-college women,10,42,54
+Education among whites by sex,EDUCWHITEBYSEX,CA,,,White college-grad men,14,51,41
+Education among whites by sex,EDUCWHITEBYSEX,CA,,,White non-college men,9,29,64
+Education among whites by sex,EDUCWHITEBYSEX,CA,,,Non-whites,52,72,21
+Income,INCOME16GEN,CA,,,"Under $30,000",17,66,29
+Income,INCOME16GEN,CA,,,"$30K-$49,999",20,75,20
+Income,INCOME16GEN,CA,,,"$50K-$99,999",26,67,26
+Income,INCOME16GEN,CA,,,"$100K-$199,999",26,56,42
+Income,INCOME16GEN,CA,,,"$200K-$249,999",7,N/A,N/A
+Income,INCOME16GEN,CA,,,"$250,000 or more",4,N/A,N/A
+Income,INC50K,CA,,,Under $50K,37,71,24
+Income,INC50K,CA,,,$50K or more,63,61,34
+Income,INC100K,CA,,,Under $100K,63,69,25
+Income,INC100K,CA,,,$100K or more,37,57,40
+Income,INCOME3,CA,,,Under $50K,37,71,24
+Income,INCOME3,CA,,,$50K-$100K,26,67,26
+Income,INCOME3,CA,,,$100K or more,37,57,40
+Party ID,PARTY,CA,,,Democrats,47,92,5
+Party ID,PARTY,CA,,,Republicans,23,13,84
+Party ID,PARTY,CA,,,Independents,30,50,37
+Party by gender,PARTYGENDER,CA,,,Democratic men,19,90,5
+Party by gender,PARTYGENDER,CA,,,Democratic women,28,93,5
+Party by gender,PARTYGENDER,CA,,,Republican men,11,13,83
+Party by gender,PARTYGENDER,CA,,,Republican women,11,12,85
+Party by gender,PARTYGENDER,CA,,,Independent men,19,48,39
+Party by gender,PARTYGENDER,CA,,,Independent women,11,54,35
+Ideology,PHIL3,CA,,,Liberal,37,88,8
+Ideology,PHIL3,CA,,,Moderate,35,60,33
+Ideology,PHIL3,CA,,,Conservative,28,28,68
+Marital status,MARRIED,CA,,,Married,57,58,38
+Marital status,MARRIED,CA,,,Unmarried,43,65,27
+Marital status by gender,SEXWED,CA,,,Married men,28,57,39
+Marital status by gender,SEXWED,CA,,,Married women,29,60,38
+Marital status by gender,SEXWED,CA,,,Unmarried men,17,56,31
+Marital status by gender,SEXWED,CA,,,Unmarried women,26,70,25
+White born-again or evangelical Christian?,WHTEVANG,CA,,,Yes,13,N/A,N/A
+White born-again or evangelical Christian?,WHTEVANG,CA,,,No,87,69,26
+Religion,REL5,CA,,,Protestant,41,45,51
+Religion,REL5,CA,,,Catholic,28,63,32
+Religion,REL5,CA,,,Jewish,3,N/A,N/A
+Religion,REL5,CA,,,Another religion,7,N/A,N/A
+Religion,REL5,CA,,,No religion,21,78,12
+How often do you attend religious services?,ATTEND16,CA,,,Weekly or more,27,46,52
+How often do you attend religious services?,ATTEND16,CA,,,Monthly,13,N/A,N/A
+How often do you attend religious services?,ATTEND16,CA,,,Few times a year,29,63,31
+How often do you attend religious services?,ATTEND16,CA,,,Never,31,73,19
+How often do you attend religious services?,ATTEND16B,CA,,,Monthly or more,40,52,46
+How often do you attend religious services?,ATTEND16B,CA,,,Less often than that,60,68,24
+Union household?,UNIONHH12,CA,,,Yes,16,66,31
+Union household?,UNIONHH12,CA,,,No,84,61,32
+Served in the U.S. military,VETVOTER,CA,,,Veterans,13,N/A,N/A
+Served in the U.S. military,VETVOTER,CA,,,Non-veterans,87,65,30
+Were you born a U.S. citizen?,BORNCITIZEN,CA,,,Yes,78,59,35
+Were you born a U.S. citizen?,BORNCITIZEN,CA,,,No,22,N/A,N/A
+First-time voter?,FTVOTER,CA,,,Yes,16,N/A,N/A
+First-time voter?,FTVOTER,CA,,,No,84,58,37
+When did you decide presidential vote?,TIME16,CA,,,Last few days,5,N/A,N/A
+When did you decide presidential vote?,TIME16,CA,,,Last week,6,N/A,N/A
+When did you decide presidential vote?,TIME16,CA,,,In October,19,N/A,N/A
+When did you decide presidential vote?,TIME16,CA,,,In September,13,N/A,N/A
+When did you decide presidential vote?,TIME16,CA,,,Before September,55,67,29
+When did you decide presidential vote?,TIME16WEEK,CA,,,In the last week,11,N/A,N/A
+When did you decide presidential vote?,TIME16WEEK,CA,,,Before that,87,64,31
+When did you decide presidential vote?,TIME16MONTH,CA,,,In the last month,29,51,42
+When did you decide presidential vote?,TIME16MONTH,CA,,,Before that,68,67,29
+Opinion of presidential candidate you voted for,DESCRIBP12,CA,,,Strongly favor ,40,69,26
+Opinion of presidential candidate you voted for,DESCRIBP12,CA,,,Have reservations,33,60,36
+Opinion of presidential candidate you voted for,DESCRIBP12,CA,,,Dislike opponents,25,51,42
+Most important issue facing the country,ISSUE16,CA,,,Foreign policy,16,69,27
+Most important issue facing the country,ISSUE16,CA,,,Immigration,15,58,36
+Most important issue facing the country,ISSUE16,CA,,,Economy,44,68,26
+Most important issue facing the country,ISSUE16,CA,,,Terrorism,22,50,48
+Which candidate quality mattered most?,QLT16,CA,,,Cares about me,16,64,29
+Which candidate quality mattered most?,QLT16,CA,,,Can bring change,29,22,76
+Which candidate quality mattered most?,QLT16,CA,,,Right experience,29,95,3
+Which candidate quality mattered most?,QLT16,CA,,,Good judgment,24,70,20
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,CA,,,Offered legal status,71,72,20
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,CA,,,Deported to home country,25,31,67
+View of U.S. wall along the entire Mexican border,IMMWALL,CA,,,Support,30,26,68
+View of U.S. wall along the entire Mexican border,IMMWALL,CA,,,Oppose,67,79,14
+Effect of international trade,TRADE16,CA,,,Creates U.S. jobs,43,70,23
+Effect of international trade,TRADE16,CA,,,Takes away U.S. jobs,37,48,46
+Effect of international trade,TRADE16,CA,,,Does not affect jobs,13,N/A,N/A
+How is the fight against ISIS going?,ISIS16,CA,,,Very well,6,N/A,N/A
+How is the fight against ISIS going?,ISIS16,CA,,,Somewhat well,34,75,18
+How is the fight against ISIS going?,ISIS16,CA,,,Somewhat badly,30,58,37
+How is the fight against ISIS going?,ISIS16,CA,,,Very badly,18,N/A,N/A
+How is the fight against ISIS going?,ISIS16B,CA,,,Well,40,78,15
+How is the fight against ISIS going?,ISIS16B,CA,,,Badly,48,44,52
+"In your vote, were Supreme Court appointments:",SUPREME16,CA,,,The most important factor,26,59,40
+"In your vote, were Supreme Court appointments:",SUPREME16,CA,,,An important factor,41,61,35
+"In your vote, were Supreme Court appointments:",SUPREME16,CA,,,A minor factor,14,N/A,N/A
+"In your vote, were Supreme Court appointments:",SUPREME16,CA,,,Not a factor at all,14,N/A,N/A
+"In your vote, were Supreme Court appointments:",SUPREME16B,CA,,,Important,67,60,37
+"In your vote, were Supreme Court appointments:",SUPREME16B,CA,,,Not important,28,63,27
+Does the country's criminal justice system:,FAIRJUSTICE,CA,,,Treat all fairly,29,34,62
+Does the country's criminal justice system:,FAIRJUSTICE,CA,,,Treat blacks unfairly,60,78,15
+View on Obamacare,HEALTHCARE16,CA,,,Did not go far enough,42,83,14
+View on Obamacare,HEALTHCARE16,CA,,,Was about right,23,79,9
+View on Obamacare,HEALTHCARE16,CA,,,Went too far,30,16,78
+Feelings about the federal government,GOVTANGR16,CA,,,Enthusiastic,8,N/A,N/A
+Feelings about the federal government,GOVTANGR16,CA,,,Satisfied,28,79,14
+Feelings about the federal government,GOVTANGR16,CA,,,Dissatisfied,47,61,34
+Feelings about the federal government,GOVTANGR16,CA,,,Angry,16,N/A,N/A
+Feelings about the federal government,GOVTANGR16B,CA,,,Enthusiastic/Satisfied,36,80,13
+Feelings about the federal government,GOVTANGR16B,CA,,,Dissatisfied/Angry,62,51,45
+Opinion of government,GOVTDO10,CA,,,Government should do more,56,82,12
+Opinion of government,GOVTDO10,CA,,,Government doing too much,39,31,63
+Opinion of Barack Obama as president,OBAMA4,CA,,,Strongly approve,36,93,3
+Opinion of Barack Obama as president,OBAMA4,CA,,,Somewhat approve,26,83,13
+Opinion of Barack Obama as president,OBAMA4,CA,,,Somewhat disapprove,10,N/A,N/A
+Opinion of Barack Obama as president,OBAMA4,CA,,,Strongly disapprove,27,16,81
+Opinion of Barack Obama as president,OBAMA2,CA,,,Approve,62,89,7
+Opinion of Barack Obama as president,OBAMA2,CA,,,Disapprove,38,18,77
+Should the next president:,OBAMAPLCY16,CA,,,Continue Obama's policies,31,90,3
+Should the next president:,OBAMAPLCY16,CA,,,Be more conservative,34,25,71
+Should the next president:,OBAMAPLCY16,CA,,,Be more liberal,23,N/A,N/A
+Opinion of Hillary Clinton,FAVHCLIN16,CA,,,Favorable,54,97,3
+Opinion of Hillary Clinton,FAVHCLIN16,CA,,,Unfavorable,43,18,72
+Opinion of Donald Trump,FAVTRUMP,CA,,,Favorable,25,2,95
+Opinion of Donald Trump,FAVTRUMP,CA,,,Unfavorable,70,84,10
+Opinion of Clinton and Trump,FAVPRES16,CA,,,Both favorable,1,N/A,N/A
+Opinion of Clinton and Trump,FAVPRES16,CA,,,Only Clinton favorable,54,97,3
+Opinion of Clinton and Trump,FAVPRES16,CA,,,Only Trump favorable,25,N/A,97
+Opinion of Clinton and Trump,FAVPRES16,CA,,,Both unfavorable,17,N/A,N/A
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,CA,,,Yes,50,96,1
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,CA,,,No,50,27,65
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,CA,,,Yes,20,11,89
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,CA,,,No,76,75,19
+Which candidate is honest?,HONEST16,CA,,,Both are,2,N/A,N/A
+Which candidate is honest?,HONEST16,CA,,,Only Clinton is,48,96,1
+Which candidate is honest?,HONEST16,CA,,,Only Trump is,18,4,96
+Which candidate is honest?,HONEST16,CA,,,Neither is,30,42,46
+Is Clinton qualified to serve as president?,QUALCLINTON,CA,,,Yes,64,86,9
+Is Clinton qualified to serve as president?,QUALCLINTON,CA,,,No,33,12,78
+Is Trump qualified to serve as president?,QUALTRUMP,CA,,,Yes,26,8,90
+Is Trump qualified to serve as president?,QUALTRUMP,CA,,,No,72,80,12
+Who is qualified to serve as president?,QUALIFIED16,CA,,,Both are,5,N/A,N/A
+Who is qualified to serve as president?,QUALIFIED16,CA,,,Only Clinton is,59,92,3
+Who is qualified to serve as president?,QUALIFIED16,CA,,,Only Trump is,21,6,94
+Who is qualified to serve as president?,QUALIFIED16,CA,,,Neither is,12,N/A,N/A
+Does Clinton have the temperament to be president?,TEMPCLINTON,CA,,,Yes,67,84,11
+Does Clinton have the temperament to be president?,TEMPCLINTON,CA,,,No,32,13,79
+Does Trump have the temperament to be president?,TEMPTRUMP,CA,,,Yes,25,16,83
+Does Trump have the temperament to be president?,TEMPTRUMP,CA,,,No,72,76,16
+Which candidate has the right temperament?,TEMPERAMENT16,CA,,,Both do,7,N/A,N/A
+Which candidate has the right temperament?,TEMPERAMENT16,CA,,,Only Clinton does,60,89,6
+Which candidate has the right temperament?,TEMPERAMENT16,CA,,,Only Trump does,18,N/A,N/A
+Which candidate has the right temperament?,TEMPERAMENT16,CA,,,Neither does,14,N/A,N/A
+How would you feel if Clinton wins?,CLINTONWINGEN,CA,,,Excited,19,95,N/A
+How would you feel if Clinton wins?,CLINTONWINGEN,CA,,,Optimistic,37,91,2
+How would you feel if Clinton wins?,CLINTONWINGEN,CA,,,Concerned,25,N/A,N/A
+How would you feel if Clinton wins?,CLINTONWINGEN,CA,,,Scared,16,N/A,N/A
+How would you feel if Clinton wins?,CLINTONWINGENB,CA,,,Positive,56,92,1
+How would you feel if Clinton wins?,CLINTONWINGENB,CA,,,Negative,41,21,72
+How would you feel if Trump wins?,TRUMPWINGEN,CA,,,Excited,12,N/A,N/A
+How would you feel if Trump wins?,TRUMPWINGEN,CA,,,Optimistic,16,N/A,N/A
+How would you feel if Trump wins?,TRUMPWINGEN,CA,,,Concerned,23,N/A,N/A
+How would you feel if Trump wins?,TRUMPWINGEN,CA,,,Scared,44,96,2
+How would you feel if Trump wins?,TRUMPWINGENB,CA,,,Positive,27,1,98
+How would you feel if Trump wins?,TRUMPWINGENB,CA,,,Negative,67,86,6
+Does Clinton's use of private email bother you:,CLINTONEMAIL,CA,,,A lot,35,13,79
+Does Clinton's use of private email bother you:,CLINTONEMAIL,CA,,,Some,19,N/A,N/A
+Does Clinton's use of private email bother you:,CLINTONEMAIL,CA,,,Not much,21,N/A,N/A
+Does Clinton's use of private email bother you:,CLINTONEMAIL,CA,,,Not at all,22,98,0
+Does Clinton's use of private email bother you?,CLINTONEMAILB,CA,,,Yes,53,34,58
+Does Clinton's use of private email bother you?,CLINTONEMAILB,CA,,,No,44,93,3
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,CA,,,A lot,63,88,5
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,CA,,,Some,18,N/A,N/A
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,CA,,,Not much,8,N/A,N/A
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,CA,,,Not at all,10,N/A,N/A
+Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,CA,,,Yes,81,73,21
+Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,CA,,,No,18,N/A,N/A
+Who would better handle the economy?,HANDLEECON16,CA,,,Clinton,63,93,1
+Who would better handle the economy?,HANDLEECON16,CA,,,Trump,32,3,95
+Who would better handle foreign policy?,HANDLEFP16,CA,,,Clinton,67,91,2
+Who would better handle foreign policy?,HANDLEFP16,CA,,,Trump,29,N/A,98
+Who would be a better commander in chief?,CHIEF16,CA,,,Clinton,66,91,1
+Who would be a better commander in chief?,CHIEF16,CA,,,Trump,31,1,96
+Opinion of the Democratic Party,FAVDEM2,CA,,,Favorable,56,96,2
+Opinion of the Democratic Party,FAVDEM2,CA,,,Unfavorable,34,10,84
+Opinion of the Republican Party,FAVREP2,CA,,,Favorable,27,18,72
+Opinion of the Republican Party,FAVREP2,CA,,,Unfavorable,64,80,16
+Condition of national economy,NEC,CA,,,Excellent,5,N/A,N/A
+Condition of national economy,NEC,CA,,,Good,36,79,13
+Condition of national economy,NEC,CA,,,Not good,39,57,40
+Condition of national economy,NEC,CA,,,Poor,18,N/A,N/A
+Condition of national economy,NEC2,CA,,,Good,40,81,12
+Condition of national economy,NEC2,CA,,,Poor,57,48,48
+Financial situation compared to four years ago:,FINSIT,CA,,,Better today,37,79,20
+Financial situation compared to four years ago:,FINSIT,CA,,,Worse today,20,N/A,N/A
+Financial situation compared to four years ago:,FINSIT,CA,,,About the same,40,60,27
+Direction of the country,TRACK,CA,,,Right direction,40,91,4
+Direction of the country,TRACK,CA,,,Wrong track,50,32,62
+Life for the next generation of Americans will be:,LIFE,CA,,,Better than today,46,80,18
+Life for the next generation of Americans will be:,LIFE,CA,,,Worse than today,26,38,53
+Life for the next generation of Americans will be:,LIFE,CA,,,About the same,24,54,34
+Vote for president in a two-way race,2WAYPRES16,CA,,,Clinton,61,96,1
+Vote for president in a two-way race,2WAYPRES16,CA,,,Trump,31,0,98
+Vote for president in a two-way race,2WAYPRES16,CA,,,Would not vote,6,N/A,N/A
+How confident are you in the vote count?,COUNTACC,CA,,,Very confident,50,77,17
+How confident are you in the vote count?,COUNTACC,CA,,,Somewhat confident,28,55,37
+How confident are you in the vote count?,COUNTACC,CA,,,Not very confident,14,N/A,N/A
+How confident are you in the vote count?,COUNTACC,CA,,,Not at all confident,5,N/A,N/A
+Are you confident in the vote count?,COUNT2,CA,,,Confident,79,69,24
+Are you confident in the vote count?,COUNT2,CA,,,Not confident,19,N/A,N/A
+"Are you gay, lesbian, bisexual or transgender?",LGBT,CA,,,Yes,5,N/A,N/A
+"Are you gay, lesbian, bisexual or transgender?",LGBT,CA,,,No,95,60,34
+Importance of debates to your vote,BREAK12,CA,,,Most important factor,28,75,22
+Importance of debates to your vote,BREAK12,CA,,,An important factor,37,62,32
+Importance of debates to your vote,BREAK12,CA,,,A minor factor,18,N/A,N/A
+Importance of debates to your vote,BREAK12,CA,,,Not a factor,10,N/A,N/A
+Importance of debates to your vote,BREAK12A,CA,,,Important,65,68,28
+Importance of debates to your vote,BREAK12A,CA,,,Not important,28,N/A,N/A
+Were debates a factor in your vote?,BREAK12B,CA,,,Yes,83,66,30
+Were debates a factor in your vote?,BREAK12B,CA,,,No,10,N/A,N/A
+Area type,SIZEPLC3,CA,,,Urban area,30,63,32
+Area type,SIZEPLC3,CA,,,Suburban area,67,61,33
+Area type,SIZEPLC3,CA,,,Rural area,3,N/A,N/A
+Region,GEOCOD,CA,,,Coastal,10,67,28
+Region,GEOCOD,CA,,,Inland / Central Valley,20,50,45
+Region,GEOCOD,CA,,,Bay Area,17,79,15
+Region,GEOCOD,CA,,,L.A. County,25,71,24
+Region,GEOCOD,CA,,,Southern California,28,48,45

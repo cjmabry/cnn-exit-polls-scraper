@@ -1,0 +1,181 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Gender,SEX,GA,South,South Atlantic,Male,45,37,60
+Gender,SEX,GA,South,South Atlantic,Female,55,54,43
+Age,AGE,GA,South,South Atlantic,18-29,18,63,33
+Age,AGE,GA,South,South Atlantic,30-44,28,51,44
+Age,AGE,GA,South,South Atlantic,45-64,38,41,57
+Age,AGE,GA,South,South Atlantic,65 and older,16,31,67
+Age,AGE65,GA,South,South Atlantic,18-24,9,65,29
+Age,AGE65,GA,South,South Atlantic,25-29,9,60,37
+Age,AGE65,GA,South,South Atlantic,30-39,18,50,44
+Age,AGE65,GA,South,South Atlantic,40-49,21,45,51
+Age,AGE65,GA,South,South Atlantic,50-64,27,42,57
+Age,AGE65,GA,South,South Atlantic,65 and older,16,31,67
+Age,AGE45,GA,South,South Atlantic,18-44,46,55,40
+Age,AGE45,GA,South,South Atlantic,45 and older,54,38,60
+Race,RACE,GA,South,South Atlantic,White,60,21,75
+Race,RACE,GA,South,South Atlantic,Black,30,89,9
+Race,RACE,GA,South,South Atlantic,Latino,4,67,27
+Race,RACE,GA,South,South Atlantic,Asian,3,N/A,N/A
+Race,RACE,GA,South,South Atlantic,Other race,2,N/A,N/A
+Race,RACE2B,GA,South,South Atlantic,White,60,21,75
+Race,RACE2B,GA,South,South Atlantic,Non-white,40,83,14
+Race and gender,SEXBYRACE,GA,South,South Atlantic,White men,30,16,80
+Race and gender,SEXBYRACE,GA,South,South Atlantic,White women,31,26,70
+Race and gender,SEXBYRACE,GA,South,South Atlantic,Black men,12,83,15
+Race and gender,SEXBYRACE,GA,South,South Atlantic,Black women,19,94,5
+Race and gender,SEXBYRACE,GA,South,South Atlantic,Latino men,2,N/A,N/A
+Race and gender,SEXBYRACE,GA,South,South Atlantic,Latino women,2,N/A,N/A
+Race and gender,SEXBYRACE,GA,South,South Atlantic,Others,5,63,36
+Education,EDUC12R,GA,South,South Atlantic,High school or less,19,39,57
+Education,EDUC12R,GA,South,South Atlantic,Some college,31,46,51
+Education,EDUC12R,GA,South,South Atlantic,College graduate,34,49,49
+Education,EDUC12R,GA,South,South Atlantic,Postgraduate,17,50,47
+Are you a college graduate?,EDUCCOLL,GA,South,South Atlantic,Yes,50,49,48
+Are you a college graduate?,EDUCCOLL,GA,South,South Atlantic,No,50,43,54
+Education and race,EDUCWHITE,GA,South,South Atlantic,White college graduates,30,28,69
+Education and race,EDUCWHITE,GA,South,South Atlantic,Whites no degree,30,15,81
+Education and race,EDUCWHITE,GA,South,South Atlantic,Non-whites college grads,20,82,16
+Education and race,EDUCWHITE,GA,South,South Atlantic,Non-whites no degree,20,85,13
+Education among whites by sex,EDUCWHITEBYSEX,GA,South,South Atlantic,White college-grad women,16,34,63
+Education among whites by sex,EDUCWHITEBYSEX,GA,South,South Atlantic,White non-college women,15,18,78
+Education among whites by sex,EDUCWHITEBYSEX,GA,South,South Atlantic,White college-grad men,15,21,76
+Education among whites by sex,EDUCWHITEBYSEX,GA,South,South Atlantic,White non-college men,15,11,85
+Education among whites by sex,EDUCWHITEBYSEX,GA,South,South Atlantic,Non-whites,40,83,14
+Income,INCOME16GEN,GA,South,South Atlantic,"Under $30,000",16,54,41
+Income,INCOME16GEN,GA,South,South Atlantic,"$30K-$49,999",20,40,53
+Income,INCOME16GEN,GA,South,South Atlantic,"$50K-$99,999",33,49,49
+Income,INCOME16GEN,GA,South,South Atlantic,"$100K-$199,999",21,41,57
+Income,INCOME16GEN,GA,South,South Atlantic,"$200K-$249,999",4,N/A,N/A
+Income,INCOME16GEN,GA,South,South Atlantic,"$250,000 or more",6,N/A,N/A
+Income,INCOME3,GA,South,South Atlantic,Under $50K,36,47,48
+Income,INCOME3,GA,South,South Atlantic,$50K-$100K,33,49,49
+Income,INCOME3,GA,South,South Atlantic,$100K or more,32,42,56
+Income,INC50K,GA,South,South Atlantic,Under $50K,36,47,48
+Income,INC50K,GA,South,South Atlantic,$50K or more,64,46,52
+Income,INC100K,GA,South,South Atlantic,Under $100K,68,48,48
+Income,INC100K,GA,South,South Atlantic,$100K or more,32,42,56
+Party ID,PARTY,GA,South,South Atlantic,Democrats,34,94,5
+Party ID,PARTY,GA,South,South Atlantic,Republicans,36,4,94
+Party ID,PARTY,GA,South,South Atlantic,Independents,30,41,52
+Party by gender,PARTYGENDER,GA,South,South Atlantic,Democratic men,11,94,5
+Party by gender,PARTYGENDER,GA,South,South Atlantic,Democratic women,23,94,5
+Party by gender,PARTYGENDER,GA,South,South Atlantic,Republican men,18,4,93
+Party by gender,PARTYGENDER,GA,South,South Atlantic,Republican women,18,4,95
+Party by gender,PARTYGENDER,GA,South,South Atlantic,Independent men,16,35,60
+Party by gender,PARTYGENDER,GA,South,South Atlantic,Independent women,14,49,42
+Ideology,PHIL3,GA,South,South Atlantic,Liberal,22,85,11
+Ideology,PHIL3,GA,South,South Atlantic,Moderate,36,57,38
+Ideology,PHIL3,GA,South,South Atlantic,Conservative,42,15,85
+White born-again or evangelical Christian?,WHTEVANG,GA,South,South Atlantic,Yes,34,5,92
+White born-again or evangelical Christian?,WHTEVANG,GA,South,South Atlantic,No,66,66,31
+Marital status,MARRIED,GA,South,South Atlantic,Married,59,35,62
+Marital status,MARRIED,GA,South,South Atlantic,Unmarried,41,58,39
+Marital status by gender,SEXWED,GA,South,South Atlantic,Married men,31,28,69
+Marital status by gender,SEXWED,GA,South,South Atlantic,Married women,28,42,54
+Marital status by gender,SEXWED,GA,South,South Atlantic,Unmarried men,15,47,51
+Marital status by gender,SEXWED,GA,South,South Atlantic,Unmarried women,26,64,32
+When did you decide presidential vote?,TIME16,GA,South,South Atlantic,Last few days,5,43,46
+When did you decide presidential vote?,TIME16,GA,South,South Atlantic,Last week,4,N/A,N/A
+When did you decide presidential vote?,TIME16,GA,South,South Atlantic,In October,10,42,49
+When did you decide presidential vote?,TIME16,GA,South,South Atlantic,In September,13,52,45
+When did you decide presidential vote?,TIME16,GA,South,South Atlantic,Before September,66,44,55
+When did you decide presidential vote?,TIME16WEEK,GA,South,South Atlantic,In the last week,10,52,42
+When did you decide presidential vote?,TIME16WEEK,GA,South,South Atlantic,Before that,89,45,53
+When did you decide presidential vote?,TIME16MONTH,GA,South,South Atlantic,In the last month,20,47,45
+When did you decide presidential vote?,TIME16MONTH,GA,South,South Atlantic,Before that,79,45,53
+Opinion of presidential candidate you voted for,DESCRIBP12,GA,South,South Atlantic,Strongly favor ,52,52,46
+Opinion of presidential candidate you voted for,DESCRIBP12,GA,South,South Atlantic,Have reservations,25,50,48
+Opinion of presidential candidate you voted for,DESCRIBP12,GA,South,South Atlantic,Dislike opponents,21,35,54
+Most important issue facing the country,ISSUE16,GA,South,South Atlantic,Foreign policy,11,63,32
+Most important issue facing the country,ISSUE16,GA,South,South Atlantic,Immigration,14,24,75
+Most important issue facing the country,ISSUE16,GA,South,South Atlantic,Economy,56,48,48
+Most important issue facing the country,ISSUE16,GA,South,South Atlantic,Terrorism,17,41,58
+Which candidate quality mattered most?,QLT16,GA,South,South Atlantic,Cares about me,16,64,33
+Which candidate quality mattered most?,QLT16,GA,South,South Atlantic,Can bring change,41,14,84
+Which candidate quality mattered most?,QLT16,GA,South,South Atlantic,Right experience,19,89,10
+Which candidate quality mattered most?,QLT16,GA,South,South Atlantic,Good judgment,20,53,39
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,GA,South,South Atlantic,Offered legal status,73,61,36
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,GA,South,South Atlantic,Deported to home country,21,18,82
+How do things work in the U.S. today?,RACEFACTOR,GA,South,South Atlantic,Whites are favored,39,85,12
+How do things work in the U.S. today?,RACEFACTOR,GA,South,South Atlantic,Minorities are favored,25,11,88
+How do things work in the U.S. today?,RACEFACTOR,GA,South,South Atlantic,No group is favored,32,33,62
+Feelings about the federal government,GOVTANGR16,GA,South,South Atlantic,Enthusiastic,5,N/A,N/A
+Feelings about the federal government,GOVTANGR16,GA,South,South Atlantic,Satisfied,26,81,15
+Feelings about the federal government,GOVTANGR16,GA,South,South Atlantic,Dissatisfied,41,41,55
+Feelings about the federal government,GOVTANGR16,GA,South,South Atlantic,Angry,26,16,80
+Feelings about the federal government,GOVTANGR16B,GA,South,South Atlantic,Enthusiastic/Satisfied,31,81,16
+Feelings about the federal government,GOVTANGR16B,GA,South,South Atlantic,Dissatisfied/Angry,67,31,65
+Opinion of Barack Obama as president,OBAMA4,GA,South,South Atlantic,Strongly approve,36,91,8
+Opinion of Barack Obama as president,OBAMA4,GA,South,South Atlantic,Somewhat approve,15,73,19
+Opinion of Barack Obama as president,OBAMA4,GA,South,South Atlantic,Somewhat disapprove,10,13,80
+Opinion of Barack Obama as president,OBAMA4,GA,South,South Atlantic,Strongly disapprove,38,2,97
+Opinion of Barack Obama as president,OBAMA2,GA,South,South Atlantic,Approve,50,86,12
+Opinion of Barack Obama as president,OBAMA2,GA,South,South Atlantic,Disapprove,49,4,93
+Opinion of Hillary Clinton,FAVHCLIN16,GA,South,South Atlantic,Favorable,43,96,4
+Opinion of Hillary Clinton,FAVHCLIN16,GA,South,South Atlantic,Unfavorable,56,6,90
+Opinion of Donald Trump,FAVTRUMP,GA,South,South Atlantic,Favorable,45,2,97
+Opinion of Donald Trump,FAVTRUMP,GA,South,South Atlantic,Unfavorable,54,81,16
+Opinion of Clinton and Trump,FAVPRES16,GA,South,South Atlantic,Both favorable,2,N/A,N/A
+Opinion of Clinton and Trump,FAVPRES16,GA,South,South Atlantic,Only Clinton favorable,41,99,1
+Opinion of Clinton and Trump,FAVPRES16,GA,South,South Atlantic,Only Trump favorable,43,1,98
+Opinion of Clinton and Trump,FAVPRES16,GA,South,South Atlantic,Both unfavorable,13,24,63
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,GA,South,South Atlantic,Yes,38,96,3
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,GA,South,South Atlantic,No,59,16,80
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,GA,South,South Atlantic,Yes,40,1,97
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,GA,South,South Atlantic,No,56,81,16
+Which candidate is honest?,HONEST16,GA,South,South Atlantic,Both are,1,N/A,N/A
+Which candidate is honest?,HONEST16,GA,South,South Atlantic,Only Clinton is,37,98,1
+Which candidate is honest?,HONEST16,GA,South,South Atlantic,Only Trump is,39,1,98
+Which candidate is honest?,HONEST16,GA,South,South Atlantic,Neither is,19,47,45
+Is Clinton qualified to serve as president?,QUALCLINTON,GA,South,South Atlantic,Yes,50,91,9
+Is Clinton qualified to serve as president?,QUALCLINTON,GA,South,South Atlantic,No,49,5,90
+Is Trump qualified to serve as president?,QUALTRUMP,GA,South,South Atlantic,Yes,42,3,95
+Is Trump qualified to serve as president?,QUALTRUMP,GA,South,South Atlantic,No,58,81,15
+Who is qualified to serve as president?,QUALIFIED16,GA,South,South Atlantic,Both are,5,N/A,N/A
+Who is qualified to serve as president?,QUALIFIED16,GA,South,South Atlantic,Only Clinton is,45,97,2
+Who is qualified to serve as president?,QUALIFIED16,GA,South,South Atlantic,Only Trump is,37,N/A,98
+Who is qualified to serve as president?,QUALIFIED16,GA,South,South Atlantic,Neither is,12,21,65
+Does Clinton have the temperament to be president?,TEMPCLINTON,GA,South,South Atlantic,Yes,52,87,10
+Does Clinton have the temperament to be president?,TEMPCLINTON,GA,South,South Atlantic,No,46,4,93
+Does Trump have the temperament to be president?,TEMPTRUMP,GA,South,South Atlantic,Yes,42,4,96
+Does Trump have the temperament to be president?,TEMPTRUMP,GA,South,South Atlantic,No,56,80,14
+Which candidate has the right temperament?,TEMPERAMENT16,GA,South,South Atlantic,Both do,5,N/A,N/A
+Which candidate has the right temperament?,TEMPERAMENT16,GA,South,South Atlantic,Only Clinton does,47,94,2
+Which candidate has the right temperament?,TEMPERAMENT16,GA,South,South Atlantic,Only Trump does,36,1,99
+Which candidate has the right temperament?,TEMPERAMENT16,GA,South,South Atlantic,Neither does,10,17,71
+Does Clinton's use of private email bother you:,CLINTONEMAIL,GA,South,South Atlantic,A lot,49,5,92
+Does Clinton's use of private email bother you:,CLINTONEMAIL,GA,South,South Atlantic,Some,14,67,26
+Does Clinton's use of private email bother you:,CLINTONEMAIL,GA,South,South Atlantic,Not much,15,90,6
+Does Clinton's use of private email bother you:,CLINTONEMAIL,GA,South,South Atlantic,Not at all,21,95,4
+Does Clinton's use of private email bother you?,CLINTONEMAILB,GA,South,South Atlantic,Yes,63,19,77
+Does Clinton's use of private email bother you?,CLINTONEMAILB,GA,South,South Atlantic,No,36,93,5
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,GA,South,South Atlantic,A lot,46,85,11
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,GA,South,South Atlantic,Some,20,20,75
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,GA,South,South Atlantic,Not much,13,7,92
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,GA,South,South Atlantic,Not at all,21,10,89
+Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,GA,South,South Atlantic,Yes,65,65,30
+Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,GA,South,South Atlantic,No,34,9,90
+Condition of national economy,NEC,GA,South,South Atlantic,Excellent,5,N/A,N/A
+Condition of national economy,NEC,GA,South,South Atlantic,Good,36,82,13
+Condition of national economy,NEC,GA,South,South Atlantic,Not good,34,29,66
+Condition of national economy,NEC,GA,South,South Atlantic,Poor,24,13,86
+Condition of national economy,NEC2,GA,South,South Atlantic,Good,41,83,12
+Condition of national economy,NEC2,GA,South,South Atlantic,Poor,59,23,75
+Financial situation compared to four years ago:,FINSIT,GA,South,South Atlantic,Better today,37,70,26
+Financial situation compared to four years ago:,FINSIT,GA,South,South Atlantic,Worse today,26,11,86
+Financial situation compared to four years ago:,FINSIT,GA,South,South Atlantic,About the same,36,46,53
+Life for the next generation of Americans will be:,LIFE,GA,South,South Atlantic,Better than today,40,60,38
+Life for the next generation of Americans will be:,LIFE,GA,South,South Atlantic,Worse than today,26,27,69
+Life for the next generation of Americans will be:,LIFE,GA,South,South Atlantic,About the same,28,54,43
+Vote for president in a two-way race,2WAYPRES16,GA,South,South Atlantic,Clinton,47,97,1
+Vote for president in a two-way race,2WAYPRES16,GA,South,South Atlantic,Trump,48,1,98
+Vote for president in a two-way race,2WAYPRES16,GA,South,South Atlantic,Would not vote,4,N/A,N/A
+Area type,SIZEPLC3,GA,South,South Atlantic,Urban area,18,68,29
+Area type,SIZEPLC3,GA,South,South Atlantic,Suburban area,58,46,51
+Area type,SIZEPLC3,GA,South,South Atlantic,Rural area,23,29,67
+Region,GEOCOD,GA,South,South Atlantic,North,19,28,69
+Region,GEOCOD,GA,South,South Atlantic,Atlanta Suburbs,28,50,46
+Region,GEOCOD,GA,South,South Atlantic,Atlanta Metro,18,76,22
+Region,GEOCOD,GA,South,South Atlantic,Central,19,42,55
+Region,GEOCOD,GA,South,South Atlantic,Coast / South,16,32,65

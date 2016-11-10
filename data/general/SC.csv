@@ -1,0 +1,126 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Gender,SEX,SC,South,South Atlantic,Male,46,35,59
+Gender,SEX,SC,South,South Atlantic,Female,54,45,51
+Age,AGE,SC,South,South Atlantic,18-29,18,43,43
+Age,AGE,SC,South,South Atlantic,30-44,30,44,51
+Age,AGE,SC,South,South Atlantic,45-64,38,37,62
+Age,AGE,SC,South,South Atlantic,65 and older,13,39,58
+Age,AGE65,SC,South,South Atlantic,18-24,8,N/A,N/A
+Age,AGE65,SC,South,South Atlantic,25-29,10,N/A,N/A
+Age,AGE65,SC,South,South Atlantic,30-39,18,46,48
+Age,AGE65,SC,South,South Atlantic,40-49,22,45,53
+Age,AGE65,SC,South,South Atlantic,50-64,28,32,66
+Age,AGE65,SC,South,South Atlantic,65 and older,13,39,58
+Age,AGE45,SC,South,South Atlantic,18-44,48,44,48
+Age,AGE45,SC,South,South Atlantic,45 and older,52,37,61
+Race,RACE,SC,South,South Atlantic,White,74,24,70
+Race,RACE,SC,South,South Atlantic,Black,19,94,4
+Race,RACE,SC,South,South Atlantic,Latino,4,N/A,N/A
+Race,RACE,SC,South,South Atlantic,Asian,1,N/A,N/A
+Race,RACE,SC,South,South Atlantic,Other race,2,N/A,N/A
+Race,RACE2B,SC,South,South Atlantic,White,74,24,70
+Race,RACE2B,SC,South,South Atlantic,Non-white,26,86,12
+Race and gender,SEXBYRACE,SC,South,South Atlantic,White men,34,18,76
+Race and gender,SEXBYRACE,SC,South,South Atlantic,White women,40,30,64
+Race and gender,SEXBYRACE,SC,South,South Atlantic,Black men,8,N/A,N/A
+Race and gender,SEXBYRACE,SC,South,South Atlantic,Black women,11,N/A,N/A
+Race and gender,SEXBYRACE,SC,South,South Atlantic,Latino men,3,N/A,N/A
+Race and gender,SEXBYRACE,SC,South,South Atlantic,Latino women,2,N/A,N/A
+Race and gender,SEXBYRACE,SC,South,South Atlantic,Others,3,N/A,N/A
+Education,EDUC12R,SC,South,South Atlantic,High school or less,17,38,58
+Education,EDUC12R,SC,South,South Atlantic,Some college,36,36,58
+Education,EDUC12R,SC,South,South Atlantic,College graduate,32,43,52
+Education,EDUC12R,SC,South,South Atlantic,Postgraduate,16,43,54
+Are you a college graduate?,EDUCCOLL,SC,South,South Atlantic,Yes,48,43,52
+Are you a college graduate?,EDUCCOLL,SC,South,South Atlantic,No,52,36,58
+Education and race,EDUCWHITE,SC,South,South Atlantic,White college graduates,37,31,64
+Education and race,EDUCWHITE,SC,South,South Atlantic,Whites no degree,39,18,75
+Education and race,EDUCWHITE,SC,South,South Atlantic,Non-whites college grads,11,N/A,N/A
+Education and race,EDUCWHITE,SC,South,South Atlantic,Non-whites no degree,14,86,13
+Education among whites by sex,EDUCWHITEBYSEX,SC,South,South Atlantic,White college-grad women,22,36,58
+Education among whites by sex,EDUCWHITEBYSEX,SC,South,South Atlantic,White non-college women,19,23,72
+Education among whites by sex,EDUCWHITEBYSEX,SC,South,South Atlantic,White college-grad men,15,24,72
+Education among whites by sex,EDUCWHITEBYSEX,SC,South,South Atlantic,White non-college men,19,14,78
+Education among whites by sex,EDUCWHITEBYSEX,SC,South,South Atlantic,Non-whites,25,86,12
+Income,INCOME16GEN,SC,South,South Atlantic,"Under $30,000",15,N/A,N/A
+Income,INCOME16GEN,SC,South,South Atlantic,"$30K-$49,999",20,45,49
+Income,INCOME16GEN,SC,South,South Atlantic,"$50K-$99,999",36,42,55
+Income,INCOME16GEN,SC,South,South Atlantic,"$100K-$199,999",19,26,69
+Income,INCOME16GEN,SC,South,South Atlantic,"$200K-$249,999",6,N/A,N/A
+Income,INCOME16GEN,SC,South,South Atlantic,"$250,000 or more",4,N/A,N/A
+Income,INCOME3,SC,South,South Atlantic,Under $50K,34,48,47
+Income,INCOME3,SC,South,South Atlantic,$50K-$100K,36,42,55
+Income,INCOME3,SC,South,South Atlantic,$100K or more,30,32,64
+Income,INC50K,SC,South,South Atlantic,Under $50K,34,48,47
+Income,INC50K,SC,South,South Atlantic,$50K or more,66,37,59
+Income,INC100K,SC,South,South Atlantic,Under $100K,70,45,51
+Income,INC100K,SC,South,South Atlantic,$100K or more,30,32,64
+Party ID,PARTY,SC,South,South Atlantic,Democrats,27,93,4
+Party ID,PARTY,SC,South,South Atlantic,Republicans,46,5,92
+Party ID,PARTY,SC,South,South Atlantic,Independents,26,43,47
+Party by gender,PARTYGENDER,SC,South,South Atlantic,Democratic men,11,N/A,N/A
+Party by gender,PARTYGENDER,SC,South,South Atlantic,Democratic women,17,94,4
+Party by gender,PARTYGENDER,SC,South,South Atlantic,Republican men,21,5,93
+Party by gender,PARTYGENDER,SC,South,South Atlantic,Republican women,25,5,91
+Party by gender,PARTYGENDER,SC,South,South Atlantic,Independent men,13,31,57
+Party by gender,PARTYGENDER,SC,South,South Atlantic,Independent women,13,56,38
+Ideology,PHIL3,SC,South,South Atlantic,Liberal,18,83,13
+Ideology,PHIL3,SC,South,South Atlantic,Moderate,38,49,45
+Ideology,PHIL3,SC,South,South Atlantic,Conservative,44,12,83
+White born-again or evangelical Christian?,WHTEVANG,SC,South,South Atlantic,Yes,44,11,86
+White born-again or evangelical Christian?,WHTEVANG,SC,South,South Atlantic,No,56,62,32
+Marital status,MARRIED,SC,South,South Atlantic,Married,63,33,64
+Marital status,MARRIED,SC,South,South Atlantic,Unmarried,37,50,43
+Marital status by gender,SEXWED,SC,South,South Atlantic,Married men,31,30,68
+Marital status by gender,SEXWED,SC,South,South Atlantic,Married women,32,36,60
+Marital status by gender,SEXWED,SC,South,South Atlantic,Unmarried men,15,44,46
+Marital status by gender,SEXWED,SC,South,South Atlantic,Unmarried women,22,54,42
+When did you decide presidential vote?,TIME16,SC,South,South Atlantic,Last few days,11,N/A,N/A
+When did you decide presidential vote?,TIME16,SC,South,South Atlantic,Last week,5,N/A,N/A
+When did you decide presidential vote?,TIME16,SC,South,South Atlantic,In October,9,N/A,N/A
+When did you decide presidential vote?,TIME16,SC,South,South Atlantic,In September,9,N/A,N/A
+When did you decide presidential vote?,TIME16,SC,South,South Atlantic,Before September,65,42,56
+When did you decide presidential vote?,TIME16WEEK,SC,South,South Atlantic,In the last week,16,44,42
+When did you decide presidential vote?,TIME16WEEK,SC,South,South Atlantic,Before that,84,40,57
+When did you decide presidential vote?,TIME16MONTH,SC,South,South Atlantic,In the last month,26,39,50
+When did you decide presidential vote?,TIME16MONTH,SC,South,South Atlantic,Before that,74,42,56
+Opinion of presidential candidate you voted for,DESCRIBP12,SC,South,South Atlantic,Strongly favor ,48,43,55
+Opinion of presidential candidate you voted for,DESCRIBP12,SC,South,South Atlantic,Have reservations,32,41,54
+Opinion of presidential candidate you voted for,DESCRIBP12,SC,South,South Atlantic,Dislike opponents,17,37,55
+Most important issue facing the country,ISSUE16,SC,South,South Atlantic,Foreign policy,9,N/A,N/A
+Most important issue facing the country,ISSUE16,SC,South,South Atlantic,Immigration,13,N/A,N/A
+Most important issue facing the country,ISSUE16,SC,South,South Atlantic,Economy,54,46,49
+Most important issue facing the country,ISSUE16,SC,South,South Atlantic,Terrorism,20,26,71
+Which candidate quality mattered most?,QLT16,SC,South,South Atlantic,Cares about me,17,50,47
+Which candidate quality mattered most?,QLT16,SC,South,South Atlantic,Can bring change,49,14,84
+Which candidate quality mattered most?,QLT16,SC,South,South Atlantic,Right experience,18,88,10
+Which candidate quality mattered most?,QLT16,SC,South,South Atlantic,Good judgment,13,N/A,N/A
+Does the country's criminal justice system:,FAIRJUSTICE,SC,South,South Atlantic,Treat all fairly,53,16,80
+Does the country's criminal justice system:,FAIRJUSTICE,SC,South,South Atlantic,Treat blacks unfairly,40,72,23
+Opinion of Hillary Clinton,FAVHCLIN16,SC,South,South Atlantic,Favorable,35,99,1
+Opinion of Hillary Clinton,FAVHCLIN16,SC,South,South Atlantic,Unfavorable,65,7,86
+Opinion of Donald Trump,FAVTRUMP,SC,South,South Atlantic,Favorable,46,1,98
+Opinion of Donald Trump,FAVTRUMP,SC,South,South Atlantic,Unfavorable,53,72,20
+Opinion of Clinton and Trump,FAVPRES16,SC,South,South Atlantic,Both favorable,1,N/A,N/A
+Opinion of Clinton and Trump,FAVPRES16,SC,South,South Atlantic,Only Clinton favorable,34,100,0
+Opinion of Clinton and Trump,FAVPRES16,SC,South,South Atlantic,Only Trump favorable,45,N/A,99
+Opinion of Clinton and Trump,FAVPRES16,SC,South,South Atlantic,Both unfavorable,19,25,55
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,SC,South,South Atlantic,Yes,29,97,3
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,SC,South,South Atlantic,No,70,15,79
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,SC,South,South Atlantic,Yes,44,2,97
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,SC,South,South Atlantic,No,53,69,24
+Which candidate is honest?,HONEST16,SC,South,South Atlantic,Both are,1,N/A,N/A
+Which candidate is honest?,HONEST16,SC,South,South Atlantic,Only Clinton is,28,98,2
+Which candidate is honest?,HONEST16,SC,South,South Atlantic,Only Trump is,43,N/A,99
+Which candidate is honest?,HONEST16,SC,South,South Atlantic,Neither is,26,39,46
+Life for the next generation of Americans will be:,LIFE,SC,South,South Atlantic,Better than today,41,47,51
+Life for the next generation of Americans will be:,LIFE,SC,South,South Atlantic,Worse than today,27,23,71
+Life for the next generation of Americans will be:,LIFE,SC,South,South Atlantic,About the same,28,49,41
+Area type,SIZEPLC3,SC,South,South Atlantic,Urban area,35,49,46
+Area type,SIZEPLC3,SC,South,South Atlantic,Suburban area,55,33,62
+Area type,SIZEPLC3,SC,South,South Atlantic,Rural area,10,54,40
+Region,GEOCOD,SC,South,South Atlantic,Upcountry,25,31,64
+Region,GEOCOD,SC,South,South Atlantic,Piedmont,14,36,59
+Region,GEOCOD,SC,South,South Atlantic,Central,26,49,47
+Region,GEOCOD,SC,South,South Atlantic,Pee Dee / Waccamaw,15,40,56
+Region,GEOCOD,SC,South,South Atlantic,Lowcountry,20,45,50

@@ -1,0 +1,221 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Gender,SEX,VA,South,South Atlantic,Male,47,43,52
+Gender,SEX,VA,South,South Atlantic,Female,53,56,39
+Age,AGE,VA,South,South Atlantic,18-29,18,54,36
+Age,AGE,VA,South,South Atlantic,30-44,25,53,40
+Age,AGE,VA,South,South Atlantic,45-64,41,47,50
+Age,AGE,VA,South,South Atlantic,65 and older,16,45,52
+Age,AGE65,VA,South,South Atlantic,18-24,9,51,38
+Age,AGE65,VA,South,South Atlantic,25-29,9,57,34
+Age,AGE65,VA,South,South Atlantic,30-39,16,55,37
+Age,AGE65,VA,South,South Atlantic,40-49,21,51,45
+Age,AGE65,VA,South,South Atlantic,50-64,30,45,52
+Age,AGE65,VA,South,South Atlantic,65 and older,16,45,52
+Age,AGE45,VA,South,South Atlantic,18-44,43,54,38
+Age,AGE45,VA,South,South Atlantic,45 and older,57,47,51
+Race,RACE,VA,South,South Atlantic,White,67,35,59
+Race,RACE,VA,South,South Atlantic,Black,21,88,9
+Race,RACE,VA,South,South Atlantic,Latino,6,65,30
+Race,RACE,VA,South,South Atlantic,Asian,3,N/A,N/A
+Race,RACE,VA,South,South Atlantic,Other race,3,N/A,N/A
+Race,RACE2B,VA,South,South Atlantic,White,67,35,59
+Race,RACE2B,VA,South,South Atlantic,Non-white,33,79,17
+Race and gender,SEXBYRACE,VA,South,South Atlantic,White men,32,29,65
+Race and gender,SEXBYRACE,VA,South,South Atlantic,White women,35,41,54
+Race and gender,SEXBYRACE,VA,South,South Atlantic,Black men,9,84,13
+Race and gender,SEXBYRACE,VA,South,South Atlantic,Black women,12,91,7
+Race and gender,SEXBYRACE,VA,South,South Atlantic,Latino men,3,N/A,N/A
+Race and gender,SEXBYRACE,VA,South,South Atlantic,Latino women,3,N/A,N/A
+Race and gender,SEXBYRACE,VA,South,South Atlantic,Others,6,62,30
+Education,EDUC12R,VA,South,South Atlantic,High school or less,14,44,52
+Education,EDUC12R,VA,South,South Atlantic,Some college,31,44,51
+Education,EDUC12R,VA,South,South Atlantic,College graduate,31,51,44
+Education,EDUC12R,VA,South,South Atlantic,Postgraduate,23,61,33
+Are you a college graduate?,EDUCCOLL,VA,South,South Atlantic,Yes,54,55,39
+Are you a college graduate?,EDUCCOLL,VA,South,South Atlantic,No,46,44,51
+Education and race,EDUCWHITE,VA,South,South Atlantic,White college graduates,38,45,49
+Education and race,EDUCWHITE,VA,South,South Atlantic,Whites no degree,29,24,71
+Education and race,EDUCWHITE,VA,South,South Atlantic,Non-whites college grads,16,78,17
+Education and race,EDUCWHITE,VA,South,South Atlantic,Non-whites no degree,16,81,16
+Education among whites by sex,EDUCWHITEBYSEX,VA,South,South Atlantic,White college-grad women,21,50,44
+Education among whites by sex,EDUCWHITEBYSEX,VA,South,South Atlantic,White non-college women,15,29,66
+Education among whites by sex,EDUCWHITEBYSEX,VA,South,South Atlantic,White college-grad men,17,40,54
+Education among whites by sex,EDUCWHITEBYSEX,VA,South,South Atlantic,White non-college men,15,19,75
+Education among whites by sex,EDUCWHITEBYSEX,VA,South,South Atlantic,Non-whites,33,79,16
+Income,INCOME16GEN,VA,South,South Atlantic,"Under $30,000",13,53,41
+Income,INCOME16GEN,VA,South,South Atlantic,"$30K-$49,999",17,53,41
+Income,INCOME16GEN,VA,South,South Atlantic,"$50K-$99,999",30,47,49
+Income,INCOME16GEN,VA,South,South Atlantic,"$100K-$199,999",26,50,45
+Income,INCOME16GEN,VA,South,South Atlantic,"$200K-$249,999",5,N/A,N/A
+Income,INCOME16GEN,VA,South,South Atlantic,"$250,000 or more",8,N/A,N/A
+Income,INCOME3,VA,South,South Atlantic,Under $50K,30,53,41
+Income,INCOME3,VA,South,South Atlantic,$50K-$100K,30,47,49
+Income,INCOME3,VA,South,South Atlantic,$100K or more,40,51,44
+Income,INC50K,VA,South,South Atlantic,Under $50K,30,53,41
+Income,INC50K,VA,South,South Atlantic,$50K or more,70,49,46
+Income,INC100K,VA,South,South Atlantic,Under $100K,60,50,45
+Income,INC100K,VA,South,South Atlantic,$100K or more,40,51,44
+Party ID,PARTY,VA,South,South Atlantic,Democrats,40,92,6
+Party ID,PARTY,VA,South,South Atlantic,Republicans,33,6,88
+Party ID,PARTY,VA,South,South Atlantic,Independents,26,43,48
+Party by gender,PARTYGENDER,VA,South,South Atlantic,Democratic men,15,93,5
+Party by gender,PARTYGENDER,VA,South,South Atlantic,Democratic women,25,91,6
+Party by gender,PARTYGENDER,VA,South,South Atlantic,Republican men,18,4,89
+Party by gender,PARTYGENDER,VA,South,South Atlantic,Republican women,15,8,87
+Party by gender,PARTYGENDER,VA,South,South Atlantic,Independent men,14,42,50
+Party by gender,PARTYGENDER,VA,South,South Atlantic,Independent women,13,44,45
+Ideology,PHIL3,VA,South,South Atlantic,Liberal,26,85,11
+Ideology,PHIL3,VA,South,South Atlantic,Moderate,40,58,36
+Ideology,PHIL3,VA,South,South Atlantic,Conservative,33,12,83
+White born-again or evangelical Christian?,WHTEVANG,VA,South,South Atlantic,Yes,25,14,80
+White born-again or evangelical Christian?,WHTEVANG,VA,South,South Atlantic,No,75,59,35
+How often do you attend religious services?,ATTEND16,VA,South,South Atlantic,Weekly or more,34,42,53
+How often do you attend religious services?,ATTEND16,VA,South,South Atlantic,Monthly,18,49,45
+How often do you attend religious services?,ATTEND16,VA,South,South Atlantic,Few times a year,29,49,47
+How often do you attend religious services?,ATTEND16,VA,South,South Atlantic,Never,19,60,33
+How often do you attend religious services?,ATTEND16B,VA,South,South Atlantic,Monthly or more,53,44,50
+How often do you attend religious services?,ATTEND16B,VA,South,South Atlantic,Less often than that,47,53,41
+Marital status,MARRIED,VA,South,South Atlantic,Married,59,44,52
+Marital status,MARRIED,VA,South,South Atlantic,Unmarried,41,54,36
+Marital status by gender,SEXWED,VA,South,South Atlantic,Married men,29,40,56
+Marital status by gender,SEXWED,VA,South,South Atlantic,Married women,30,47,48
+Marital status by gender,SEXWED,VA,South,South Atlantic,Unmarried men,17,46,42
+Marital status by gender,SEXWED,VA,South,South Atlantic,Unmarried women,23,61,32
+Served in the U.S. military,VETVOTER,VA,South,South Atlantic,Veterans,15,48,48
+Served in the U.S. military,VETVOTER,VA,South,South Atlantic,Non-veterans,85,52,43
+Does anyone in your household own a gun?,GUNOWNER12,VA,South,South Atlantic,Yes,50,36,59
+Does anyone in your household own a gun?,GUNOWNER12,VA,South,South Atlantic,No,50,68,28
+When did you decide presidential vote?,TIME16,VA,South,South Atlantic,Last few days,10,N/A,N/A
+When did you decide presidential vote?,TIME16,VA,South,South Atlantic,Last week,4,N/A,N/A
+When did you decide presidential vote?,TIME16,VA,South,South Atlantic,In October,10,N/A,N/A
+When did you decide presidential vote?,TIME16,VA,South,South Atlantic,In September,9,N/A,N/A
+When did you decide presidential vote?,TIME16,VA,South,South Atlantic,Before September,66,53,44
+When did you decide presidential vote?,TIME16WEEK,VA,South,South Atlantic,In the last week,14,45,42
+When did you decide presidential vote?,TIME16WEEK,VA,South,South Atlantic,Before that,85,51,46
+When did you decide presidential vote?,TIME16MONTH,VA,South,South Atlantic,In the last month,23,42,48
+When did you decide presidential vote?,TIME16MONTH,VA,South,South Atlantic,Before that,76,52,44
+Opinion of presidential candidate you voted for,DESCRIBP12,VA,South,South Atlantic,Strongly favor ,47,59,38
+Opinion of presidential candidate you voted for,DESCRIBP12,VA,South,South Atlantic,Have reservations,34,43,55
+Opinion of presidential candidate you voted for,DESCRIBP12,VA,South,South Atlantic,Dislike opponents,17,33,47
+Most important issue facing the country,ISSUE16,VA,South,South Atlantic,Foreign policy,11,67,26
+Most important issue facing the country,ISSUE16,VA,South,South Atlantic,Immigration,10,27,68
+Most important issue facing the country,ISSUE16,VA,South,South Atlantic,Economy,56,52,41
+Most important issue facing the country,ISSUE16,VA,South,South Atlantic,Terrorism,20,45,53
+Which candidate quality mattered most?,QLT16,VA,South,South Atlantic,Cares about me,12,61,27
+Which candidate quality mattered most?,QLT16,VA,South,South Atlantic,Can bring change,41,15,81
+Which candidate quality mattered most?,QLT16,VA,South,South Atlantic,Right experience,24,89,8
+Which candidate quality mattered most?,QLT16,VA,South,South Atlantic,Good judgment,20,66,26
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,VA,South,South Atlantic,Offered legal status,73,65,30
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,VA,South,South Atlantic,Deported to home country,24,12,85
+Do you think immigrants to the U.S. today:,IMMBETTER,VA,South,South Atlantic,Help the country,60,73,21
+Do you think immigrants to the U.S. today:,IMMBETTER,VA,South,South Atlantic,Hurt the country,35,18,80
+Effect of international trade,TRADE16,VA,South,South Atlantic,Creates U.S. jobs,41,65,30
+Effect of international trade,TRADE16,VA,South,South Atlantic,Takes away U.S. jobs,46,37,59
+Effect of international trade,TRADE16,VA,South,South Atlantic,Does not affect jobs,10,N/A,N/A
+Does the country's criminal justice system:,FAIRJUSTICE,VA,South,South Atlantic,Treat all fairly,45,21,75
+Does the country's criminal justice system:,FAIRJUSTICE,VA,South,South Atlantic,Treat blacks unfairly,48,83,13
+How do things work in the U.S. today?,RACEFACTOR,VA,South,South Atlantic,Whites are favored,44,82,13
+How do things work in the U.S. today?,RACEFACTOR,VA,South,South Atlantic,Minorities are favored,21,10,87
+How do things work in the U.S. today?,RACEFACTOR,VA,South,South Atlantic,No group is favored,32,39,56
+View on Obamacare,HEALTHCARE16,VA,South,South Atlantic,Did not go far enough,27,84,13
+View on Obamacare,HEALTHCARE16,VA,South,South Atlantic,Was about right,22,90,7
+View on Obamacare,HEALTHCARE16,VA,South,South Atlantic,Went too far,47,14,80
+Views on stricter gun control measures,GUN16,VA,South,South Atlantic,Support,56,79,17
+Views on stricter gun control measures,GUN16,VA,South,South Atlantic,Oppose,41,16,78
+Feelings about the federal government,GOVTANGR16,VA,South,South Atlantic,Enthusiastic,6,N/A,N/A
+Feelings about the federal government,GOVTANGR16,VA,South,South Atlantic,Satisfied,30,78,18
+Feelings about the federal government,GOVTANGR16,VA,South,South Atlantic,Dissatisfied,42,41,52
+Feelings about the federal government,GOVTANGR16,VA,South,South Atlantic,Angry,20,14,79
+Feelings about the federal government,GOVTANGR16B,VA,South,South Atlantic,Enthusiastic/Satisfied,36,78,18
+Feelings about the federal government,GOVTANGR16B,VA,South,South Atlantic,Dissatisfied/Angry,62,32,60
+Opinion of Barack Obama as president,OBAMA4,VA,South,South Atlantic,Strongly approve,38,95,3
+Opinion of Barack Obama as president,OBAMA4,VA,South,South Atlantic,Somewhat approve,17,64,21
+Opinion of Barack Obama as president,OBAMA4,VA,South,South Atlantic,Somewhat disapprove,13,N/A,N/A
+Opinion of Barack Obama as president,OBAMA4,VA,South,South Atlantic,Strongly disapprove,32,2,96
+Opinion of Barack Obama as president,OBAMA2,VA,South,South Atlantic,Approve,54,86,8
+Opinion of Barack Obama as president,OBAMA2,VA,South,South Atlantic,Disapprove,45,8,89
+Should the next president:,OBAMAPLCY16,VA,South,South Atlantic,Continue Obama's policies,34,92,4
+Should the next president:,OBAMAPLCY16,VA,South,South Atlantic,Be more conservative,48,15,79
+Should the next president:,OBAMAPLCY16,VA,South,South Atlantic,Be more liberal,13,59,30
+Opinion of Hillary Clinton,FAVHCLIN16,VA,South,South Atlantic,Favorable,46,97,2
+Opinion of Hillary Clinton,FAVHCLIN16,VA,South,South Atlantic,Unfavorable,54,11,82
+Opinion of Donald Trump,FAVTRUMP,VA,South,South Atlantic,Favorable,37,3,96
+Opinion of Donald Trump,FAVTRUMP,VA,South,South Atlantic,Unfavorable,61,80,13
+Opinion of Clinton and Trump,FAVPRES16,VA,South,South Atlantic,Both favorable,1,N/A,N/A
+Opinion of Clinton and Trump,FAVPRES16,VA,South,South Atlantic,Only Clinton favorable,45,98,1
+Opinion of Clinton and Trump,FAVPRES16,VA,South,South Atlantic,Only Trump favorable,36,1,99
+Opinion of Clinton and Trump,FAVPRES16,VA,South,South Atlantic,Both unfavorable,17,32,44
+Opinion of Tim Kaine,FAVKAINE,VA,South,South Atlantic,Favorable,49,88,8
+Opinion of Tim Kaine,FAVKAINE,VA,South,South Atlantic,Unfavorable,47,14,83
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,VA,South,South Atlantic,Yes,39,93,6
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,VA,South,South Atlantic,No,58,17,73
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,VA,South,South Atlantic,Yes,35,5,93
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,VA,South,South Atlantic,No,62,74,18
+Which candidate is honest?,HONEST16,VA,South,South Atlantic,Both are,2,N/A,N/A
+Which candidate is honest?,HONEST16,VA,South,South Atlantic,Only Clinton is,37,96,4
+Which candidate is honest?,HONEST16,VA,South,South Atlantic,Only Trump is,33,2,97
+Which candidate is honest?,HONEST16,VA,South,South Atlantic,Neither is,24,39,40
+Is Clinton qualified to serve as president?,QUALCLINTON,VA,South,South Atlantic,Yes,52,93,4
+Is Clinton qualified to serve as president?,QUALCLINTON,VA,South,South Atlantic,No,47,5,90
+Is Trump qualified to serve as president?,QUALTRUMP,VA,South,South Atlantic,Yes,36,3,97
+Is Trump qualified to serve as president?,QUALTRUMP,VA,South,South Atlantic,No,62,80,14
+Who is qualified to serve as president?,QUALIFIED16,VA,South,South Atlantic,Both are,2,N/A,N/A
+Who is qualified to serve as president?,QUALIFIED16,VA,South,South Atlantic,Only Clinton is,50,95,2
+Who is qualified to serve as president?,QUALIFIED16,VA,South,South Atlantic,Only Trump is,35,2,98
+Who is qualified to serve as president?,QUALIFIED16,VA,South,South Atlantic,Neither is,12,N/A,N/A
+Does Clinton have the temperament to be president?,TEMPCLINTON,VA,South,South Atlantic,Yes,54,84,12
+Does Clinton have the temperament to be president?,TEMPCLINTON,VA,South,South Atlantic,No,43,4,87
+Does Trump have the temperament to be president?,TEMPTRUMP,VA,South,South Atlantic,Yes,34,2,95
+Does Trump have the temperament to be president?,TEMPTRUMP,VA,South,South Atlantic,No,63,75,17
+Which candidate has the right temperament?,TEMPERAMENT16,VA,South,South Atlantic,Both do,3,N/A,N/A
+Which candidate has the right temperament?,TEMPERAMENT16,VA,South,South Atlantic,Only Clinton does,51,88,7
+Which candidate has the right temperament?,TEMPERAMENT16,VA,South,South Atlantic,Only Trump does,31,2,96
+Which candidate has the right temperament?,TEMPERAMENT16,VA,South,South Atlantic,Neither does,11,N/A,N/A
+Does Clinton's use of private email bother you:,CLINTONEMAIL,VA,South,South Atlantic,A lot,43,6,88
+Does Clinton's use of private email bother you:,CLINTONEMAIL,VA,South,South Atlantic,Some,19,76,16
+Does Clinton's use of private email bother you:,CLINTONEMAIL,VA,South,South Atlantic,Not much,20,90,8
+Does Clinton's use of private email bother you:,CLINTONEMAIL,VA,South,South Atlantic,Not at all,17,93,4
+Does Clinton's use of private email bother you?,CLINTONEMAILB,VA,South,South Atlantic,Yes,62,27,66
+Does Clinton's use of private email bother you?,CLINTONEMAILB,VA,South,South Atlantic,No,37,92,7
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,VA,South,South Atlantic,A lot,52,85,9
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,VA,South,South Atlantic,Some,20,24,71
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,VA,South,South Atlantic,Not much,15,7,90
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,VA,South,South Atlantic,Not at all,11,N/A,N/A
+Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,VA,South,South Atlantic,Yes,72,68,26
+Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,VA,South,South Atlantic,No,26,6,92
+Who would better handle the economy?,HANDLEECON16,VA,South,South Atlantic,Clinton,51,93,2
+Who would better handle the economy?,HANDLEECON16,VA,South,South Atlantic,Trump,47,7,90
+Who would better handle foreign policy?,HANDLEFP16,VA,South,South Atlantic,Clinton,60,83,12
+Who would better handle foreign policy?,HANDLEFP16,VA,South,South Atlantic,Trump,37,2,95
+Who would be a better commander in chief?,CHIEF16,VA,South,South Atlantic,Clinton,56,88,7
+Who would be a better commander in chief?,CHIEF16,VA,South,South Atlantic,Trump,42,2,96
+Condition of national economy,NEC,VA,South,South Atlantic,Excellent,4,N/A,N/A
+Condition of national economy,NEC,VA,South,South Atlantic,Good,38,79,16
+Condition of national economy,NEC,VA,South,South Atlantic,Not good,42,32,60
+Condition of national economy,NEC,VA,South,South Atlantic,Poor,15,7,88
+Condition of national economy,NEC2,VA,South,South Atlantic,Good,42,80,15
+Condition of national economy,NEC2,VA,South,South Atlantic,Poor,57,25,68
+U.S. economic system generally:,ECONFAIR,VA,South,South Atlantic,Favors the wealthy,66,56,37
+U.S. economic system generally:,ECONFAIR,VA,South,South Atlantic,Is fair to most Americans,30,33,62
+Financial situation compared to four years ago:,FINSIT,VA,South,South Atlantic,Better today,39,75,20
+Financial situation compared to four years ago:,FINSIT,VA,South,South Atlantic,Worse today,27,22,75
+Financial situation compared to four years ago:,FINSIT,VA,South,South Atlantic,About the same,34,45,48
+Life for the next generation of Americans will be:,LIFE,VA,South,South Atlantic,Better than today,46,62,36
+Life for the next generation of Americans will be:,LIFE,VA,South,South Atlantic,Worse than today,24,25,70
+Life for the next generation of Americans will be:,LIFE,VA,South,South Atlantic,About the same,28,59,35
+Which best describes you?,MOVETOVA14,VA,South,South Atlantic,Moved to VA since 2006,14,N/A,N/A
+Which best describes you?,MOVETOVA14,VA,South,South Atlantic,Moved to VA before 2006,43,53,42
+Which best describes you?,MOVETOVA14,VA,South,South Atlantic,Born in Virginia,43,44,52
+Which better describes you?,BORNINVA14,VA,South,South Atlantic,Born in Virginia,43,44,52
+Which better describes you?,BORNINVA14,VA,South,South Atlantic,Moved to Virginia,56,56,39
+Vote for president in a two-way race,2WAYPRES16,VA,South,South Atlantic,Clinton,52,95,2
+Vote for president in a two-way race,2WAYPRES16,VA,South,South Atlantic,Trump,42,0,98
+Vote for president in a two-way race,2WAYPRES16,VA,South,South Atlantic,Would not vote,5,N/A,N/A
+Area type,SIZEPLC3,VA,South,South Atlantic,Urban area,30,59,34
+Area type,SIZEPLC3,VA,South,South Atlantic,Suburban area,51,47,48
+Area type,SIZEPLC3,VA,South,South Atlantic,Rural area,19,41,56
+Region,GEOCOD,VA,South,South Atlantic,D.C. Suburbs,19,68,27
+Region,GEOCOD,VA,South,South Atlantic,N. Virginia Exurbs,17,48,46
+Region,GEOCOD,VA,South,South Atlantic,Central / West,21,31,64
+Region,GEOCOD,VA,South,South Atlantic,Richmond / East,25,50,44
+Region,GEOCOD,VA,South,South Atlantic,Tidewater,18,53,42

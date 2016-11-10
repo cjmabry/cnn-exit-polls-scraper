@@ -1,0 +1,171 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Gender,SEX,IN,Midwest,East North Central,Male,49,33,62
+Gender,SEX,IN,Midwest,East North Central,Female,51,42,53
+Age,AGE,IN,Midwest,East North Central,18-29,19,46,46
+Age,AGE,IN,Midwest,East North Central,30-44,28,37,57
+Age,AGE,IN,Midwest,East North Central,45-64,38,34,63
+Age,AGE,IN,Midwest,East North Central,65 and older,14,39,58
+Age,AGE65,IN,Midwest,East North Central,18-24,11,50,44
+Age,AGE65,IN,Midwest,East North Central,25-29,9,42,48
+Age,AGE65,IN,Midwest,East North Central,30-39,19,38,56
+Age,AGE65,IN,Midwest,East North Central,40-49,20,30,63
+Age,AGE65,IN,Midwest,East North Central,50-64,28,37,62
+Age,AGE65,IN,Midwest,East North Central,65 and older,14,39,58
+Age,AGE45,IN,Midwest,East North Central,18-44,47,41,53
+Age,AGE45,IN,Midwest,East North Central,45 and older,53,35,61
+Race,RACE,IN,Midwest,East North Central,White,83,32,64
+Race,RACE,IN,Midwest,East North Central,Black,9,83,12
+Race,RACE,IN,Midwest,East North Central,Latino,5,N/A,N/A
+Race,RACE,IN,Midwest,East North Central,Asian,1,N/A,N/A
+Race,RACE,IN,Midwest,East North Central,Other race,2,N/A,N/A
+Race,RACE2B,IN,Midwest,East North Central,White,83,32,64
+Race,RACE2B,IN,Midwest,East North Central,Non-white,17,69,27
+Race and gender,SEXBYRACE,IN,Midwest,East North Central,White men,41,27,68
+Race and gender,SEXBYRACE,IN,Midwest,East North Central,White women,42,35,60
+Race and gender,SEXBYRACE,IN,Midwest,East North Central,Black men,4,N/A,N/A
+Race and gender,SEXBYRACE,IN,Midwest,East North Central,Black women,5,88,8
+Race and gender,SEXBYRACE,IN,Midwest,East North Central,Latino men,3,N/A,N/A
+Race and gender,SEXBYRACE,IN,Midwest,East North Central,Latino women,3,N/A,N/A
+Race and gender,SEXBYRACE,IN,Midwest,East North Central,Others,3,N/A,N/A
+Education,EDUC12R,IN,Midwest,East North Central,High school or less,20,30,66
+Education,EDUC12R,IN,Midwest,East North Central,Some college,33,34,61
+Education,EDUC12R,IN,Midwest,East North Central,College graduate,32,38,56
+Education,EDUC12R,IN,Midwest,East North Central,Postgraduate,15,54,41
+Are you a college graduate?,EDUCCOLL,IN,Midwest,East North Central,Yes,47,43,51
+Are you a college graduate?,EDUCCOLL,IN,Midwest,East North Central,No,53,33,63
+Education and race,EDUCWHITE,IN,Midwest,East North Central,White college graduates,40,37,57
+Education and race,EDUCWHITE,IN,Midwest,East North Central,Whites no degree,44,26,69
+Education and race,EDUCWHITE,IN,Midwest,East North Central,Non-whites college grads,7,75,21
+Education and race,EDUCWHITE,IN,Midwest,East North Central,Non-whites no degree,10,62,34
+Education among whites by sex,EDUCWHITEBYSEX,IN,Midwest,East North Central,White college-grad women,21,39,55
+Education among whites by sex,EDUCWHITEBYSEX,IN,Midwest,East North Central,White non-college women,22,30,65
+Education among whites by sex,EDUCWHITEBYSEX,IN,Midwest,East North Central,White college-grad men,19,34,60
+Education among whites by sex,EDUCWHITEBYSEX,IN,Midwest,East North Central,White non-college men,21,22,73
+Education among whites by sex,EDUCWHITEBYSEX,IN,Midwest,East North Central,Non-whites,17,68,28
+Income,INCOME16GEN,IN,Midwest,East North Central,"Under $30,000",15,41,49
+Income,INCOME16GEN,IN,Midwest,East North Central,"$30K-$49,999",21,38,53
+Income,INCOME16GEN,IN,Midwest,East North Central,"$50K-$99,999",35,33,63
+Income,INCOME16GEN,IN,Midwest,East North Central,"$100K-$199,999",22,31,63
+Income,INCOME16GEN,IN,Midwest,East North Central,"$200K-$249,999",3,N/A,N/A
+Income,INCOME16GEN,IN,Midwest,East North Central,"$250,000 or more",3,N/A,N/A
+Income,INCOME3,IN,Midwest,East North Central,Under $50K,37,40,52
+Income,INCOME3,IN,Midwest,East North Central,$50K-$100K,35,33,63
+Income,INCOME3,IN,Midwest,East North Central,$100K or more,28,34,62
+Income,INC50K,IN,Midwest,East North Central,Under $50K,37,40,52
+Income,INC50K,IN,Midwest,East North Central,$50K or more,63,33,62
+Income,INC100K,IN,Midwest,East North Central,Under $100K,72,36,57
+Income,INC100K,IN,Midwest,East North Central,$100K or more,28,34,62
+Party ID,PARTY,IN,Midwest,East North Central,Democrats,30,84,13
+Party ID,PARTY,IN,Midwest,East North Central,Republicans,42,6,92
+Party ID,PARTY,IN,Midwest,East North Central,Independents,28,36,53
+Ideology,PHIL3,IN,Midwest,East North Central,Liberal,22,79,15
+Ideology,PHIL3,IN,Midwest,East North Central,Moderate,40,41,53
+Ideology,PHIL3,IN,Midwest,East North Central,Conservative,38,10,86
+Party by gender,PARTYGENDER,IN,Midwest,East North Central,Democratic men,12,85,15
+Party by gender,PARTYGENDER,IN,Midwest,East North Central,Democratic women,18,84,13
+Party by gender,PARTYGENDER,IN,Midwest,East North Central,Republican men,22,6,93
+Party by gender,PARTYGENDER,IN,Midwest,East North Central,Republican women,21,6,91
+Party by gender,PARTYGENDER,IN,Midwest,East North Central,Independent men,16,34,53
+Party by gender,PARTYGENDER,IN,Midwest,East North Central,Independent women,12,39,52
+White born-again or evangelical Christian?,WHTEVANG,IN,Midwest,East North Central,Yes,39,22,75
+White born-again or evangelical Christian?,WHTEVANG,IN,Midwest,East North Central,No,61,50,45
+Marital status,MARRIED,IN,Midwest,East North Central,Married,62,33,61
+Marital status,MARRIED,IN,Midwest,East North Central,Unmarried,38,45,49
+Marital status by gender,SEXWED,IN,Midwest,East North Central,Married men,31,29,65
+Marital status by gender,SEXWED,IN,Midwest,East North Central,Married women,32,37,57
+Marital status by gender,SEXWED,IN,Midwest,East North Central,Unmarried men,16,41,54
+Marital status by gender,SEXWED,IN,Midwest,East North Central,Unmarried women,21,48,45
+When did you decide presidential vote?,TIME16,IN,Midwest,East North Central,Last few days,15,33,49
+When did you decide presidential vote?,TIME16,IN,Midwest,East North Central,Last week,6,N/A,N/A
+When did you decide presidential vote?,TIME16,IN,Midwest,East North Central,In October,7,N/A,N/A
+When did you decide presidential vote?,TIME16,IN,Midwest,East North Central,In September,7,N/A,N/A
+When did you decide presidential vote?,TIME16,IN,Midwest,East North Central,Before September,63,37,60
+When did you decide presidential vote?,TIME16WEEK,IN,Midwest,East North Central,In the last week,21,36,51
+When did you decide presidential vote?,TIME16WEEK,IN,Midwest,East North Central,Before that,78,35,61
+When did you decide presidential vote?,TIME16MONTH,IN,Midwest,East North Central,In the last month,29,34,53
+When did you decide presidential vote?,TIME16MONTH,IN,Midwest,East North Central,Before that,71,35,61
+Opinion of presidential candidate you voted for,DESCRIBP12,IN,Midwest,East North Central,Strongly favor ,45,36,61
+Opinion of presidential candidate you voted for,DESCRIBP12,IN,Midwest,East North Central,Have reservations,32,41,55
+Opinion of presidential candidate you voted for,DESCRIBP12,IN,Midwest,East North Central,Dislike opponents,21,36,56
+Most important issue facing the country,ISSUE16,IN,Midwest,East North Central,Foreign policy,13,45,48
+Most important issue facing the country,ISSUE16,IN,Midwest,East North Central,Immigration,13,N/A,N/A
+Most important issue facing the country,ISSUE16,IN,Midwest,East North Central,Economy,54,38,54
+Most important issue facing the country,ISSUE16,IN,Midwest,East North Central,Terrorism,17,28,68
+Which candidate quality mattered most?,QLT16,IN,Midwest,East North Central,Cares about me,20,52,45
+Which candidate quality mattered most?,QLT16,IN,Midwest,East North Central,Can bring change,49,10,84
+Which candidate quality mattered most?,QLT16,IN,Midwest,East North Central,Right experience,14,82,12
+Which candidate quality mattered most?,QLT16,IN,Midwest,East North Central,Good judgment,15,54,34
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,IN,Midwest,East North Central,Offered legal status,67,50,45
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,IN,Midwest,East North Central,Deported to home country,30,13,84
+How do things work in the U.S. today?,RACEFACTOR,IN,Midwest,East North Central,Whites are favored,29,73,22
+How do things work in the U.S. today?,RACEFACTOR,IN,Midwest,East North Central,Minorities are favored,35,15,82
+How do things work in the U.S. today?,RACEFACTOR,IN,Midwest,East North Central,No group is favored,33,32,62
+Feelings about the federal government,GOVTANGR16,IN,Midwest,East North Central,Enthusiastic,4,N/A,N/A
+Feelings about the federal government,GOVTANGR16,IN,Midwest,East North Central,Satisfied,24,70,29
+Feelings about the federal government,GOVTANGR16,IN,Midwest,East North Central,Dissatisfied,49,32,63
+Feelings about the federal government,GOVTANGR16,IN,Midwest,East North Central,Angry,20,10,84
+Feelings about the federal government,GOVTANGR16B,IN,Midwest,East North Central,Enthusiastic/Satisfied,28,71,28
+Feelings about the federal government,GOVTANGR16B,IN,Midwest,East North Central,Dissatisfied/Angry,70,26,69
+Opinion of Barack Obama as president,OBAMA4,IN,Midwest,East North Central,Strongly approve,22,88,6
+Opinion of Barack Obama as president,OBAMA4,IN,Midwest,East North Central,Somewhat approve,20,61,20
+Opinion of Barack Obama as president,OBAMA4,IN,Midwest,East North Central,Somewhat disapprove,14,13,81
+Opinion of Barack Obama as president,OBAMA4,IN,Midwest,East North Central,Strongly disapprove,44,3,95
+Opinion of Barack Obama as president,OBAMA2,IN,Midwest,East North Central,Approve,42,75,13
+Opinion of Barack Obama as president,OBAMA2,IN,Midwest,East North Central,Disapprove,57,5,92
+Opinion of Hillary Clinton,FAVHCLIN16,IN,Midwest,East North Central,Favorable,28,96,2
+Opinion of Hillary Clinton,FAVHCLIN16,IN,Midwest,East North Central,Unfavorable,71,11,81
+Opinion of Donald Trump,FAVTRUMP,IN,Midwest,East North Central,Favorable,46,6,94
+Opinion of Donald Trump,FAVTRUMP,IN,Midwest,East North Central,Unfavorable,52,61,27
+Opinion of Clinton and Trump,FAVPRES16,IN,Midwest,East North Central,Both favorable,1,N/A,N/A
+Opinion of Clinton and Trump,FAVPRES16,IN,Midwest,East North Central,Only Clinton favorable,26,98,1
+Opinion of Clinton and Trump,FAVPRES16,IN,Midwest,East North Central,Only Trump favorable,45,4,96
+Opinion of Clinton and Trump,FAVPRES16,IN,Midwest,East North Central,Both unfavorable,26,22,54
+Opinion of Mike Pence,FAVPENCE,IN,Midwest,East North Central,Favorable,57,7,89
+Opinion of Mike Pence,FAVPENCE,IN,Midwest,East North Central,Unfavorable,41,70,20
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,IN,Midwest,East North Central,Yes,27,92,8
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,IN,Midwest,East North Central,No,72,18,77
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,IN,Midwest,East North Central,Yes,42,7,93
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,IN,Midwest,East North Central,No,56,63,30
+Which candidate is honest?,HONEST16,IN,Midwest,East North Central,Both are,4,N/A,N/A
+Which candidate is honest?,HONEST16,IN,Midwest,East North Central,Only Clinton is,23,99,1
+Which candidate is honest?,HONEST16,IN,Midwest,East North Central,Only Trump is,38,2,98
+Which candidate is honest?,HONEST16,IN,Midwest,East North Central,Neither is,33,37,51
+Is Clinton qualified to serve as president?,QUALCLINTON,IN,Midwest,East North Central,Yes,37,85,7
+Is Clinton qualified to serve as president?,QUALCLINTON,IN,Midwest,East North Central,No,63,4,90
+Is Trump qualified to serve as president?,QUALTRUMP,IN,Midwest,East North Central,Yes,50,4,96
+Is Trump qualified to serve as president?,QUALTRUMP,IN,Midwest,East North Central,No,49,65,22
+Who is qualified to serve as president?,QUALIFIED16,IN,Midwest,East North Central,Both are,3,N/A,N/A
+Who is qualified to serve as president?,QUALIFIED16,IN,Midwest,East North Central,Only Clinton is,33,90,1
+Who is qualified to serve as president?,QUALIFIED16,IN,Midwest,East North Central,Only Trump is,46,2,98
+Who is qualified to serve as president?,QUALIFIED16,IN,Midwest,East North Central,Neither is,16,12,67
+Does Clinton have the temperament to be president?,TEMPCLINTON,IN,Midwest,East North Central,Yes,43,81,14
+Does Clinton have the temperament to be president?,TEMPCLINTON,IN,Midwest,East North Central,No,55,5,91
+Does Trump have the temperament to be president?,TEMPTRUMP,IN,Midwest,East North Central,Yes,42,5,95
+Does Trump have the temperament to be president?,TEMPTRUMP,IN,Midwest,East North Central,No,56,64,29
+Which candidate has the right temperament?,TEMPERAMENT16,IN,Midwest,East North Central,Both do,6,N/A,N/A
+Which candidate has the right temperament?,TEMPERAMENT16,IN,Midwest,East North Central,Only Clinton does,37,91,4
+Which candidate has the right temperament?,TEMPERAMENT16,IN,Midwest,East North Central,Only Trump does,37,3,97
+Which candidate has the right temperament?,TEMPERAMENT16,IN,Midwest,East North Central,Neither does,18,9,80
+Condition of national economy,NEC,IN,Midwest,East North Central,Excellent,5,N/A,N/A
+Condition of national economy,NEC,IN,Midwest,East North Central,Good,30,75,21
+Condition of national economy,NEC,IN,Midwest,East North Central,Not good,49,23,72
+Condition of national economy,NEC,IN,Midwest,East North Central,Poor,15,7,91
+Condition of national economy,NEC2,IN,Midwest,East North Central,Good,35,74,23
+Condition of national economy,NEC2,IN,Midwest,East North Central,Poor,64,19,76
+Financial situation compared to four years ago:,FINSIT,IN,Midwest,East North Central,Better today,37,60,36
+Financial situation compared to four years ago:,FINSIT,IN,Midwest,East North Central,Worse today,26,12,86
+Financial situation compared to four years ago:,FINSIT,IN,Midwest,East North Central,About the same,36,33,61
+Life for the next generation of Americans will be:,LIFE,IN,Midwest,East North Central,Better than today,39,35,63
+Life for the next generation of Americans will be:,LIFE,IN,Midwest,East North Central,Worse than today,28,20,73
+Life for the next generation of Americans will be:,LIFE,IN,Midwest,East North Central,About the same,30,48,42
+Vote for president in a two-way race,2WAYPRES16,IN,Midwest,East North Central,Clinton,40,95,3
+Vote for president in a two-way race,2WAYPRES16,IN,Midwest,East North Central,Trump,55,2,95
+Vote for president in a two-way race,2WAYPRES16,IN,Midwest,East North Central,Would not vote,4,N/A,N/A
+Area type,SIZEPLC3,IN,Midwest,East North Central,Urban area,33,46,50
+Area type,SIZEPLC3,IN,Midwest,East North Central,Suburban area,46,36,59
+Area type,SIZEPLC3,IN,Midwest,East North Central,Rural area,21,30,65
+Region,GEOCOD,IN,Midwest,East North Central,Northwest,17,52,43
+Region,GEOCOD,IN,Midwest,East North Central,North / Central,32,30,66
+Region,GEOCOD,IN,Midwest,East North Central,Marion County,13,57,37
+Region,GEOCOD,IN,Midwest,East North Central,Indianapolis Area,17,31,63
+Region,GEOCOD,IN,Midwest,East North Central,South,21,32,63

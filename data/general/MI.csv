@@ -1,0 +1,226 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Gender,SEX,MI,Midwest,East North Central,Male,48,41,53
+Gender,SEX,MI,Midwest,East North Central,Female,52,53,42
+Age,AGE,MI,Midwest,East North Central,18-29,21,57,34
+Age,AGE,MI,Midwest,East North Central,30-44,21,44,48
+Age,AGE,MI,Midwest,East North Central,45-64,39,44,52
+Age,AGE,MI,Midwest,East North Central,65 and older,19,47,51
+Age,AGE65,MI,Midwest,East North Central,18-24,11,58,35
+Age,AGE65,MI,Midwest,East North Central,25-29,10,55,33
+Age,AGE65,MI,Midwest,East North Central,30-39,14,45,46
+Age,AGE65,MI,Midwest,East North Central,40-49,16,43,51
+Age,AGE65,MI,Midwest,East North Central,50-64,30,44,52
+Age,AGE65,MI,Midwest,East North Central,65 and older,19,47,51
+Age,AGE45,MI,Midwest,East North Central,18-44,42,51,41
+Age,AGE45,MI,Midwest,East North Central,45 and older,58,45,52
+Race,RACE,MI,Midwest,East North Central,White,75,36,57
+Race,RACE,MI,Midwest,East North Central,Black,15,92,6
+Race,RACE,MI,Midwest,East North Central,Latino,5,59,38
+Race,RACE,MI,Midwest,East North Central,Asian,2,N/A,N/A
+Race,RACE,MI,Midwest,East North Central,Other race,3,N/A,N/A
+Race,RACE2B,MI,Midwest,East North Central,White,75,36,57
+Race,RACE2B,MI,Midwest,East North Central,Non-white,25,80,17
+Race and gender,SEXBYRACE,MI,Midwest,East North Central,White men,36,29,64
+Race and gender,SEXBYRACE,MI,Midwest,East North Central,White women,40,43,51
+Race and gender,SEXBYRACE,MI,Midwest,East North Central,Black men,7,88,9
+Race and gender,SEXBYRACE,MI,Midwest,East North Central,Black women,8,96,3
+Race and gender,SEXBYRACE,MI,Midwest,East North Central,Latino men,3,N/A,N/A
+Race and gender,SEXBYRACE,MI,Midwest,East North Central,Latino women,2,N/A,N/A
+Race and gender,SEXBYRACE,MI,Midwest,East North Central,Others,5,63,32
+Education,EDUC12R,MI,Midwest,East North Central,High school or less,20,46,49
+Education,EDUC12R,MI,Midwest,East North Central,Some college,38,45,49
+Education,EDUC12R,MI,Midwest,East North Central,College graduate,28,45,50
+Education,EDUC12R,MI,Midwest,East North Central,Postgraduate,15,61,33
+Are you a college graduate?,EDUCCOLL,MI,Midwest,East North Central,Yes,42,50,44
+Are you a college graduate?,EDUCCOLL,MI,Midwest,East North Central,No,58,45,49
+Education and race,EDUCWHITE,MI,Midwest,East North Central,White college graduates,33,43,51
+Education and race,EDUCWHITE,MI,Midwest,East North Central,Whites no degree,42,31,62
+Education and race,EDUCWHITE,MI,Midwest,East North Central,Non-whites college grads,9,77,21
+Education and race,EDUCWHITE,MI,Midwest,East North Central,Non-whites no degree,16,84,14
+Education among whites by sex,EDUCWHITEBYSEX,MI,Midwest,East North Central,White college-grad women,17,50,44
+Education among whites by sex,EDUCWHITEBYSEX,MI,Midwest,East North Central,White non-college women,22,38,57
+Education among whites by sex,EDUCWHITEBYSEX,MI,Midwest,East North Central,White college-grad men,16,36,58
+Education among whites by sex,EDUCWHITEBYSEX,MI,Midwest,East North Central,White non-college men,20,24,68
+Education among whites by sex,EDUCWHITEBYSEX,MI,Midwest,East North Central,Non-whites,24,81,16
+Income,INCOME16GEN,MI,Midwest,East North Central,"Under $30,000",22,62,32
+Income,INCOME16GEN,MI,Midwest,East North Central,"$30K-$49,999",22,44,52
+Income,INCOME16GEN,MI,Midwest,East North Central,"$50K-$99,999",35,43,51
+Income,INCOME16GEN,MI,Midwest,East North Central,"$100K-$199,999",17,43,51
+Income,INCOME16GEN,MI,Midwest,East North Central,"$200K-$249,999",1,N/A,N/A
+Income,INCOME16GEN,MI,Midwest,East North Central,"$250,000 or more",2,N/A,N/A
+Income,INCOME3,MI,Midwest,East North Central,Under $50K,45,53,42
+Income,INCOME3,MI,Midwest,East North Central,$50K-$100K,35,43,51
+Income,INCOME3,MI,Midwest,East North Central,$100K or more,21,43,51
+Income,INC50K,MI,Midwest,East North Central,Under $50K,45,53,42
+Income,INC50K,MI,Midwest,East North Central,$50K or more,55,43,51
+Income,INC100K,MI,Midwest,East North Central,Under $100K,79,49,46
+Income,INC100K,MI,Midwest,East North Central,$100K or more,21,43,51
+Party ID,PARTY,MI,Midwest,East North Central,Democrats,40,88,9
+Party ID,PARTY,MI,Midwest,East North Central,Republicans,31,7,90
+Party ID,PARTY,MI,Midwest,East North Central,Independents,29,36,52
+Party by gender,PARTYGENDER,MI,Midwest,East North Central,Democratic men,15,86,9
+Party by gender,PARTYGENDER,MI,Midwest,East North Central,Democratic women,24,88,10
+Party by gender,PARTYGENDER,MI,Midwest,East North Central,Republican men,16,7,90
+Party by gender,PARTYGENDER,MI,Midwest,East North Central,Republican women,15,8,90
+Party by gender,PARTYGENDER,MI,Midwest,East North Central,Independent men,16,33,56
+Party by gender,PARTYGENDER,MI,Midwest,East North Central,Independent women,13,40,47
+Ideology,PHIL3,MI,Midwest,East North Central,Liberal,27,81,14
+Ideology,PHIL3,MI,Midwest,East North Central,Moderate,37,52,42
+Ideology,PHIL3,MI,Midwest,East North Central,Conservative,36,17,79
+Union household?,UNIONHH12,MI,Midwest,East North Central,Yes,28,53,40
+Union household?,UNIONHH12,MI,Midwest,East North Central,No,72,48,47
+Religion,REL5,MI,Midwest,East North Central,Protestant,49,39,55
+Religion,REL5,MI,Midwest,East North Central,Catholic,24,39,57
+Religion,REL5,MI,Midwest,East North Central,Jewish,2,N/A,N/A
+Religion,REL5,MI,Midwest,East North Central,Another religion,10,N/A,N/A
+Religion,REL5,MI,Midwest,East North Central,No religion,16,59,30
+How often do you attend religious services?,ATTEND16,MI,Midwest,East North Central,Weekly or more,34,39,57
+How often do you attend religious services?,ATTEND16,MI,Midwest,East North Central,Monthly,16,44,50
+How often do you attend religious services?,ATTEND16,MI,Midwest,East North Central,Few times a year,28,51,46
+How often do you attend religious services?,ATTEND16,MI,Midwest,East North Central,Never,21,52,37
+How often do you attend religious services?,ATTEND16B,MI,Midwest,East North Central,Monthly or more,51,41,55
+How often do you attend religious services?,ATTEND16B,MI,Midwest,East North Central,Less often than that,49,51,42
+White born-again or evangelical Christian?,WHTEVANG,MI,Midwest,East North Central,Yes,27,14,81
+White born-again or evangelical Christian?,WHTEVANG,MI,Midwest,East North Central,No,73,58,36
+Marital status,MARRIED,MI,Midwest,East North Central,Married,59,39,56
+Marital status,MARRIED,MI,Midwest,East North Central,Unmarried,41,58,35
+Marital status by gender,SEXWED,MI,Midwest,East North Central,Married men,32,35,62
+Marital status by gender,SEXWED,MI,Midwest,East North Central,Married women,27,44,49
+Marital status by gender,SEXWED,MI,Midwest,East North Central,Unmarried men,19,54,37
+Marital status by gender,SEXWED,MI,Midwest,East North Central,Unmarried women,22,62,34
+When did you decide presidential vote?,TIME16,MI,Midwest,East North Central,Last few days,9,N/A,N/A
+When did you decide presidential vote?,TIME16,MI,Midwest,East North Central,Last week,4,N/A,N/A
+When did you decide presidential vote?,TIME16,MI,Midwest,East North Central,In October,13,35,55
+When did you decide presidential vote?,TIME16,MI,Midwest,East North Central,In September,11,N/A,N/A
+When did you decide presidential vote?,TIME16,MI,Midwest,East North Central,Before September,61,52,46
+When did you decide presidential vote?,TIME16WEEK,MI,Midwest,East North Central,In the last week,13,39,50
+When did you decide presidential vote?,TIME16WEEK,MI,Midwest,East North Central,Before that,84,48,48
+When did you decide presidential vote?,TIME16MONTH,MI,Midwest,East North Central,In the last month,26,37,52
+When did you decide presidential vote?,TIME16MONTH,MI,Midwest,East North Central,Before that,71,50,47
+Opinion of presidential candidate you voted for,DESCRIBP12,MI,Midwest,East North Central,Strongly favor ,47,51,46
+Opinion of presidential candidate you voted for,DESCRIBP12,MI,Midwest,East North Central,Have reservations,28,47,49
+Opinion of presidential candidate you voted for,DESCRIBP12,MI,Midwest,East North Central,Dislike opponents,23,43,48
+Most important issue facing the country,ISSUE16,MI,Midwest,East North Central,Foreign policy,13,59,34
+Most important issue facing the country,ISSUE16,MI,Midwest,East North Central,Immigration,12,25,71
+Most important issue facing the country,ISSUE16,MI,Midwest,East North Central,Economy,52,51,43
+Most important issue facing the country,ISSUE16,MI,Midwest,East North Central,Terrorism,19,42,55
+Which candidate quality mattered most?,QLT16,MI,Midwest,East North Central,Cares about me,16,55,36
+Which candidate quality mattered most?,QLT16,MI,Midwest,East North Central,Can bring change,39,14,83
+Which candidate quality mattered most?,QLT16,MI,Midwest,East North Central,Right experience,22,90,8
+Which candidate quality mattered most?,QLT16,MI,Midwest,East North Central,Good judgment,19,60,31
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,MI,Midwest,East North Central,Offered legal status,67,64,28
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,MI,Midwest,East North Central,Deported to home country,27,15,80
+Do you think immigrants to the U.S. today:,IMMBETTER,MI,Midwest,East North Central,Help the country,54,74,17
+Do you think immigrants to the U.S. today:,IMMBETTER,MI,Midwest,East North Central,Hurt the country,34,23,73
+Effect of international trade,TRADE16,MI,Midwest,East North Central,Creates U.S. jobs,31,65,31
+Effect of international trade,TRADE16,MI,Midwest,East North Central,Takes away U.S. jobs,50,36,58
+Effect of international trade,TRADE16,MI,Midwest,East North Central,Does not affect jobs,12,N/A,N/A
+Does the country's criminal justice system:,FAIRJUSTICE,MI,Midwest,East North Central,Treat all fairly,48,25,68
+Does the country's criminal justice system:,FAIRJUSTICE,MI,Midwest,East North Central,Treat blacks unfairly,44,78,17
+How do things work in the U.S. today?,RACEFACTOR,MI,Midwest,East North Central,Whites are favored,40,86,8
+How do things work in the U.S. today?,RACEFACTOR,MI,Midwest,East North Central,Minorities are favored,20,13,79
+How do things work in the U.S. today?,RACEFACTOR,MI,Midwest,East North Central,No group is favored,34,36,57
+View on Obamacare,HEALTHCARE16,MI,Midwest,East North Central,Did not go far enough,30,73,18
+View on Obamacare,HEALTHCARE16,MI,Midwest,East North Central,Was about right,20,89,8
+View on Obamacare,HEALTHCARE16,MI,Midwest,East North Central,Went too far,44,14,79
+Feelings about the federal government,GOVTANGR16,MI,Midwest,East North Central,Enthusiastic,4,N/A,N/A
+Feelings about the federal government,GOVTANGR16,MI,Midwest,East North Central,Satisfied,23,72,23
+Feelings about the federal government,GOVTANGR16,MI,Midwest,East North Central,Dissatisfied,46,45,50
+Feelings about the federal government,GOVTANGR16,MI,Midwest,East North Central,Angry,24,21,71
+Feelings about the federal government,GOVTANGR16B,MI,Midwest,East North Central,Enthusiastic/Satisfied,27,75,21
+Feelings about the federal government,GOVTANGR16B,MI,Midwest,East North Central,Dissatisfied/Angry,71,36,58
+Opinion of government,GOVTDO10,MI,Midwest,East North Central,Government should do more,45,71,24
+Opinion of government,GOVTDO10,MI,Midwest,East North Central,Government doing too much,50,23,71
+Opinion of Barack Obama as president,OBAMA4,MI,Midwest,East North Central,Strongly approve,35,96,3
+Opinion of Barack Obama as president,OBAMA4,MI,Midwest,East North Central,Somewhat approve,19,58,27
+Opinion of Barack Obama as president,OBAMA4,MI,Midwest,East North Central,Somewhat disapprove,13,N/A,N/A
+Opinion of Barack Obama as president,OBAMA4,MI,Midwest,East North Central,Strongly disapprove,32,3,95
+Opinion of Barack Obama as president,OBAMA2,MI,Midwest,East North Central,Approve,54,82,11
+Opinion of Barack Obama as president,OBAMA2,MI,Midwest,East North Central,Disapprove,45,6,91
+Should the next president:,OBAMAPLCY16,MI,Midwest,East North Central,Continue Obama's policies,32,96,2
+Should the next president:,OBAMAPLCY16,MI,Midwest,East North Central,Be more conservative,41,13,78
+Should the next president:,OBAMAPLCY16,MI,Midwest,East North Central,Be more liberal,20,49,41
+Opinion of Hillary Clinton,FAVHCLIN16,MI,Midwest,East North Central,Favorable,42,96,3
+Opinion of Hillary Clinton,FAVHCLIN16,MI,Midwest,East North Central,Unfavorable,56,11,81
+Opinion of Donald Trump,FAVTRUMP,MI,Midwest,East North Central,Favorable,39,4,94
+Opinion of Donald Trump,FAVTRUMP,MI,Midwest,East North Central,Unfavorable,59,75,17
+Opinion of Clinton and Trump,FAVPRES16,MI,Midwest,East North Central,Both favorable,2,N/A,N/A
+Opinion of Clinton and Trump,FAVPRES16,MI,Midwest,East North Central,Only Clinton favorable,40,99,1
+Opinion of Clinton and Trump,FAVPRES16,MI,Midwest,East North Central,Only Trump favorable,36,1,98
+Opinion of Clinton and Trump,FAVPRES16,MI,Midwest,East North Central,Both unfavorable,20,29,50
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,MI,Midwest,East North Central,Yes,34,97,2
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,MI,Midwest,East North Central,No,64,21,72
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,MI,Midwest,East North Central,Yes,35,4,95
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,MI,Midwest,East North Central,No,63,72,20
+Which candidate is honest?,HONEST16,MI,Midwest,East North Central,Both are,2,N/A,N/A
+Which candidate is honest?,HONEST16,MI,Midwest,East North Central,Only Clinton is,32,99,N/A
+Which candidate is honest?,HONEST16,MI,Midwest,East North Central,Only Trump is,33,1,98
+Which candidate is honest?,HONEST16,MI,Midwest,East North Central,Neither is,30,43,42
+Does Clinton have the temperament to be president?,TEMPCLINTON,MI,Midwest,East North Central,Yes,52,85,11
+Does Clinton have the temperament to be president?,TEMPCLINTON,MI,Midwest,East North Central,No,46,4,89
+Does Trump have the temperament to be president?,TEMPTRUMP,MI,Midwest,East North Central,Yes,38,4,95
+Does Trump have the temperament to be president?,TEMPTRUMP,MI,Midwest,East North Central,No,61,75,17
+Which candidate has the right temperament?,TEMPERAMENT16,MI,Midwest,East North Central,Both do,5,N/A,N/A
+Which candidate has the right temperament?,TEMPERAMENT16,MI,Midwest,East North Central,Only Clinton does,47,92,4
+Which candidate has the right temperament?,TEMPERAMENT16,MI,Midwest,East North Central,Only Trump does,32,0,99
+Which candidate has the right temperament?,TEMPERAMENT16,MI,Midwest,East North Central,Neither does,14,14,63
+Is Clinton qualified to serve as president?,QUALCLINTON,MI,Midwest,East North Central,Yes,50,86,10
+Is Clinton qualified to serve as president?,QUALCLINTON,MI,Midwest,East North Central,No,48,5,88
+Is Trump qualified to serve as president?,QUALTRUMP,MI,Midwest,East North Central,Yes,40,5,93
+Is Trump qualified to serve as president?,QUALTRUMP,MI,Midwest,East North Central,No,59,74,17
+Who is qualified to serve as president?,QUALIFIED16,MI,Midwest,East North Central,Both are,6,N/A,N/A
+Who is qualified to serve as president?,QUALIFIED16,MI,Midwest,East North Central,Only Clinton is,44,94,2
+Who is qualified to serve as president?,QUALIFIED16,MI,Midwest,East North Central,Only Trump is,33,0,98
+Who is qualified to serve as president?,QUALIFIED16,MI,Midwest,East North Central,Neither is,15,15,63
+Does Clinton's use of private email bother you:,CLINTONEMAIL,MI,Midwest,East North Central,A lot,45,5,88
+Does Clinton's use of private email bother you:,CLINTONEMAIL,MI,Midwest,East North Central,Some,15,59,34
+Does Clinton's use of private email bother you:,CLINTONEMAIL,MI,Midwest,East North Central,Not much,17,88,8
+Does Clinton's use of private email bother you:,CLINTONEMAIL,MI,Midwest,East North Central,Not at all,22,95,4
+Does Clinton's use of private email bother you?,CLINTONEMAILB,MI,Midwest,East North Central,Yes,60,18,74
+Does Clinton's use of private email bother you?,CLINTONEMAILB,MI,Midwest,East North Central,No,39,91,6
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,MI,Midwest,East North Central,A lot,49,82,9
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,MI,Midwest,East North Central,Some,20,19,76
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,MI,Midwest,East North Central,Not much,14,11,87
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,MI,Midwest,East North Central,Not at all,15,3,96
+Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,MI,Midwest,East North Central,Yes,69,64,29
+Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,MI,Midwest,East North Central,No,29,7,92
+Who would better handle the economy?,HANDLEECON16,MI,Midwest,East North Central,Clinton,49,95,2
+Who would better handle the economy?,HANDLEECON16,MI,Midwest,East North Central,Trump,47,3,90
+Who would better handle foreign policy?,HANDLEFP16,MI,Midwest,East North Central,Clinton,55,88,8
+Who would better handle foreign policy?,HANDLEFP16,MI,Midwest,East North Central,Trump,41,2,93
+Did Clinton attack Trump unfairly?,UNFAIRCLIN,MI,Midwest,East North Central,Yes,39,11,84
+Did Clinton attack Trump unfairly?,UNFAIRCLIN,MI,Midwest,East North Central,No,56,74,20
+Did Trump attack Clinton unfairly?,UNFAIRTRUMP,MI,Midwest,East North Central,Yes,55,69,27
+Did Trump attack Clinton unfairly?,UNFAIRTRUMP,MI,Midwest,East North Central,No,42,19,74
+Which candidate attacked unfairly?,UNFAIR16,MI,Midwest,East North Central,Both did,18,21,71
+Which candidate attacked unfairly?,UNFAIR16,MI,Midwest,East North Central,Only Clinton did,21,2,94
+Which candidate attacked unfairly?,UNFAIR16,MI,Midwest,East North Central,Only Trump did,38,91,6
+Which candidate attacked unfairly?,UNFAIR16,MI,Midwest,East North Central,Neither did,19,38,49
+Condition of national economy,NEC,MI,Midwest,East North Central,Excellent,3,N/A,N/A
+Condition of national economy,NEC,MI,Midwest,East North Central,Good,38,74,20
+Condition of national economy,NEC,MI,Midwest,East North Central,Not good,40,35,61
+Condition of national economy,NEC,MI,Midwest,East North Central,Poor,19,17,76
+Condition of national economy,NEC2,MI,Midwest,East North Central,Good,40,75,20
+Condition of national economy,NEC2,MI,Midwest,East North Central,Poor,59,29,66
+Financial situation compared to four years ago:,FINSIT,MI,Midwest,East North Central,Better today,37,77,19
+Financial situation compared to four years ago:,FINSIT,MI,Midwest,East North Central,Worse today,25,22,75
+Financial situation compared to four years ago:,FINSIT,MI,Midwest,East North Central,About the same,38,42,50
+Local job market compared to four years ago:,JOBSIT,MI,Midwest,East North Central,Better today,39,74,21
+Local job market compared to four years ago:,JOBSIT,MI,Midwest,East North Central,Worse today,25,22,71
+Local job market compared to four years ago:,JOBSIT,MI,Midwest,East North Central,About the same,36,48,44
+U.S. economic system generally:,ECONFAIR,MI,Midwest,East North Central,Favors the wealthy,66,55,39
+U.S. economic system generally:,ECONFAIR,MI,Midwest,East North Central,Is fair to most Americans,27,37,59
+Life for the next generation of Americans will be:,LIFE,MI,Midwest,East North Central,Better than today,34,67,31
+Life for the next generation of Americans will be:,LIFE,MI,Midwest,East North Central,Worse than today,31,28,61
+Life for the next generation of Americans will be:,LIFE,MI,Midwest,East North Central,About the same,31,53,39
+Vote for president in a two-way race,2WAYPRES16,MI,Midwest,East North Central,Clinton,48,96,1
+Vote for president in a two-way race,2WAYPRES16,MI,Midwest,East North Central,Trump,44,1,97
+Vote for president in a two-way race,2WAYPRES16,MI,Midwest,East North Central,Would not vote,7,N/A,N/A
+Area type,SIZEPLC3,MI,Midwest,East North Central,Urban area,23,71,24
+Area type,SIZEPLC3,MI,Midwest,East North Central,Suburban area,50,42,53
+Area type,SIZEPLC3,MI,Midwest,East North Central,Rural area,27,38,56
+Region,GEOCOD,MI,Midwest,East North Central,Wayne,17,65,31
+Region,GEOCOD,MI,Midwest,East North Central,Oakland / Macomb,24,48,46
+Region,GEOCOD,MI,Midwest,East North Central,Southeast,23,47,48
+Region,GEOCOD,MI,Midwest,East North Central,Southwest,18,41,54
+Region,GEOCOD,MI,Midwest,East North Central,N. Central / U.P.,19,38,57

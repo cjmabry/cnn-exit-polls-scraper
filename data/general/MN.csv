@@ -1,0 +1,135 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Gender,SEX,MN,Midwest,West North Central,Male,47,43,49
+Gender,SEX,MN,Midwest,West North Central,Female,53,50,43
+Age,AGE,MN,Midwest,West North Central,18-29,19,45,42
+Age,AGE,MN,Midwest,West North Central,30-44,27,53,39
+Age,AGE,MN,Midwest,West North Central,45-64,39,42,52
+Age,AGE,MN,Midwest,West North Central,65 and older,15,49,47
+Age,AGE65,MN,Midwest,West North Central,18-24,10,43,48
+Age,AGE65,MN,Midwest,West North Central,25-29,9,47,36
+Age,AGE65,MN,Midwest,West North Central,30-39,18,52,38
+Age,AGE65,MN,Midwest,West North Central,40-49,19,49,45
+Age,AGE65,MN,Midwest,West North Central,50-64,29,41,53
+Age,AGE65,MN,Midwest,West North Central,65 and older,15,49,47
+Age,AGE45,MN,Midwest,West North Central,18-44,46,50,40
+Age,AGE45,MN,Midwest,West North Central,45 and older,54,44,51
+Race,RACE,MN,Midwest,West North Central,White,87,43,50
+Race,RACE,MN,Midwest,West North Central,Black,4,N/A,N/A
+Race,RACE,MN,Midwest,West North Central,Latino,4,N/A,N/A
+Race,RACE,MN,Midwest,West North Central,Asian,2,N/A,N/A
+Race,RACE,MN,Midwest,West North Central,Other race,3,N/A,N/A
+Race,RACE2B,MN,Midwest,West North Central,White,87,43,50
+Race,RACE2B,MN,Midwest,West North Central,Non-white,13,71,22
+Race and gender,SEXBYRACE,MN,Midwest,West North Central,White men,41,39,53
+Race and gender,SEXBYRACE,MN,Midwest,West North Central,White women,46,46,47
+Race and gender,SEXBYRACE,MN,Midwest,West North Central,Black men,2,N/A,N/A
+Race and gender,SEXBYRACE,MN,Midwest,West North Central,Black women,2,N/A,N/A
+Race and gender,SEXBYRACE,MN,Midwest,West North Central,Latino men,2,N/A,N/A
+Race and gender,SEXBYRACE,MN,Midwest,West North Central,Latino women,2,N/A,N/A
+Race and gender,SEXBYRACE,MN,Midwest,West North Central,Others,5,N/A,N/A
+Education,EDUC12R,MN,Midwest,West North Central,High school or less,12,38,55
+Education,EDUC12R,MN,Midwest,West North Central,Some college,32,38,55
+Education,EDUC12R,MN,Midwest,West North Central,College graduate,36,47,45
+Education,EDUC12R,MN,Midwest,West North Central,Postgraduate,20,64,27
+Are you a college graduate?,EDUCCOLL,MN,Midwest,West North Central,Yes,56,53,39
+Are you a college graduate?,EDUCCOLL,MN,Midwest,West North Central,No,44,38,55
+Education and race,EDUCWHITE,MN,Midwest,West North Central,White college graduates,50,50,41
+Education and race,EDUCWHITE,MN,Midwest,West North Central,Whites no degree,37,33,60
+Education and race,EDUCWHITE,MN,Midwest,West North Central,Non-whites college grads,6,76,19
+Education and race,EDUCWHITE,MN,Midwest,West North Central,Non-whites no degree,7,65,26
+Education among whites by sex,EDUCWHITEBYSEX,MN,Midwest,West North Central,White college-grad women,28,54,39
+Education among whites by sex,EDUCWHITEBYSEX,MN,Midwest,West North Central,White non-college women,19,36,58
+Education among whites by sex,EDUCWHITEBYSEX,MN,Midwest,West North Central,White college-grad men,22,46,45
+Education among whites by sex,EDUCWHITEBYSEX,MN,Midwest,West North Central,White non-college men,19,30,63
+Education among whites by sex,EDUCWHITEBYSEX,MN,Midwest,West North Central,Non-whites,13,70,23
+Income,INCOME16GEN,MN,Midwest,West North Central,"Under $30,000",13,46,45
+Income,INCOME16GEN,MN,Midwest,West North Central,"$30K-$49,999",15,45,45
+Income,INCOME16GEN,MN,Midwest,West North Central,"$50K-$99,999",34,45,48
+Income,INCOME16GEN,MN,Midwest,West North Central,"$100K-$199,999",26,51,40
+Income,INCOME16GEN,MN,Midwest,West North Central,"$200K-$249,999",5,N/A,N/A
+Income,INCOME16GEN,MN,Midwest,West North Central,"$250,000 or more",7,N/A,N/A
+Income,INCOME3,MN,Midwest,West North Central,Under $50K,29,45,45
+Income,INCOME3,MN,Midwest,West North Central,$50K-$100K,34,45,48
+Income,INCOME3,MN,Midwest,West North Central,$100K or more,37,52,41
+Income,INC50K,MN,Midwest,West North Central,Under $50K,29,45,45
+Income,INC50K,MN,Midwest,West North Central,$50K or more,71,49,44
+Income,INC100K,MN,Midwest,West North Central,Under $100K,63,45,47
+Income,INC100K,MN,Midwest,West North Central,$100K or more,37,52,41
+Party ID,PARTY,MN,Midwest,West North Central,Democrats,37,87,10
+Party ID,PARTY,MN,Midwest,West North Central,Republicans,35,7,86
+Party ID,PARTY,MN,Midwest,West North Central,Independents,28,42,44
+Party by gender,PARTYGENDER,MN,Midwest,West North Central,Democratic men,15,85,11
+Party by gender,PARTYGENDER,MN,Midwest,West North Central,Democratic women,23,88,9
+Party by gender,PARTYGENDER,MN,Midwest,West North Central,Republican men,17,5,88
+Party by gender,PARTYGENDER,MN,Midwest,West North Central,Republican women,17,10,84
+Party by gender,PARTYGENDER,MN,Midwest,West North Central,Independent men,15,46,42
+Party by gender,PARTYGENDER,MN,Midwest,West North Central,Independent women,13,37,47
+Ideology,PHIL3,MN,Midwest,West North Central,Liberal,28,88,7
+Ideology,PHIL3,MN,Midwest,West North Central,Moderate,40,48,43
+Ideology,PHIL3,MN,Midwest,West North Central,Conservative,32,11,82
+Marital status,MARRIED,MN,Midwest,West North Central,Married,63,47,46
+Marital status,MARRIED,MN,Midwest,West North Central,Unmarried,37,48,44
+Marital status by gender,SEXWED,MN,Midwest,West North Central,Married men,30,43,50
+Marital status by gender,SEXWED,MN,Midwest,West North Central,Married women,34,51,42
+Marital status by gender,SEXWED,MN,Midwest,West North Central,Unmarried men,17,44,48
+Marital status by gender,SEXWED,MN,Midwest,West North Central,Unmarried women,20,52,40
+When did you decide presidential vote?,TIME16,MN,Midwest,West North Central,Last few days,13,35,48
+When did you decide presidential vote?,TIME16,MN,Midwest,West North Central,Last week,7,N/A,N/A
+When did you decide presidential vote?,TIME16,MN,Midwest,West North Central,In October,9,37,47
+When did you decide presidential vote?,TIME16,MN,Midwest,West North Central,In September,8,N/A,N/A
+When did you decide presidential vote?,TIME16,MN,Midwest,West North Central,Before September,63,56,40
+When did you decide presidential vote?,TIME16WEEK,MN,Midwest,West North Central,In the last week,20,31,53
+When did you decide presidential vote?,TIME16WEEK,MN,Midwest,West North Central,Before that,79,53,42
+When did you decide presidential vote?,TIME16MONTH,MN,Midwest,West North Central,In the last month,29,33,51
+When did you decide presidential vote?,TIME16MONTH,MN,Midwest,West North Central,Before that,71,54,41
+Opinion of presidential candidate you voted for,DESCRIBP12,MN,Midwest,West North Central,Strongly favor ,42,53,40
+Opinion of presidential candidate you voted for,DESCRIBP12,MN,Midwest,West North Central,Have reservations,33,47,49
+Opinion of presidential candidate you voted for,DESCRIBP12,MN,Midwest,West North Central,Dislike opponents,23,40,43
+Most important issue facing the country,ISSUE16,MN,Midwest,West North Central,Foreign policy,11,70,19
+Most important issue facing the country,ISSUE16,MN,Midwest,West North Central,Immigration,13,22,73
+Most important issue facing the country,ISSUE16,MN,Midwest,West North Central,Economy,54,51,42
+Most important issue facing the country,ISSUE16,MN,Midwest,West North Central,Terrorism,18,41,51
+Which candidate quality mattered most?,QLT16,MN,Midwest,West North Central,Cares about me,13,59,28
+Which candidate quality mattered most?,QLT16,MN,Midwest,West North Central,Can bring change,44,11,84
+Which candidate quality mattered most?,QLT16,MN,Midwest,West North Central,Right experience,21,94,4
+Which candidate quality mattered most?,QLT16,MN,Midwest,West North Central,Good judgment,20,70,14
+Does the country's criminal justice system:,FAIRJUSTICE,MN,Midwest,West North Central,Treat all fairly,47,23,70
+Does the country's criminal justice system:,FAIRJUSTICE,MN,Midwest,West North Central,Treat blacks unfairly,47,76,16
+View on Obamacare,HEALTHCARE16,MN,Midwest,West North Central,Did not go far enough,32,83,12
+View on Obamacare,HEALTHCARE16,MN,Midwest,West North Central,Was about right,14,86,11
+View on Obamacare,HEALTHCARE16,MN,Midwest,West North Central,Went too far,50,16,75
+Opinion of Hillary Clinton,FAVHCLIN16,MN,Midwest,West North Central,Favorable,44,96,3
+Opinion of Hillary Clinton,FAVHCLIN16,MN,Midwest,West North Central,Unfavorable,55,10,78
+Opinion of Donald Trump,FAVTRUMP,MN,Midwest,West North Central,Favorable,35,3,96
+Opinion of Donald Trump,FAVTRUMP,MN,Midwest,West North Central,Unfavorable,64,73,16
+Opinion of Clinton and Trump,FAVPRES16,MN,Midwest,West North Central,Both favorable,2,N/A,N/A
+Opinion of Clinton and Trump,FAVPRES16,MN,Midwest,West North Central,Only Clinton favorable,42,98,0
+Opinion of Clinton and Trump,FAVPRES16,MN,Midwest,West North Central,Only Trump favorable,33,1,99
+Opinion of Clinton and Trump,FAVPRES16,MN,Midwest,West North Central,Both unfavorable,22,25,45
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,MN,Midwest,West North Central,Yes,34,94,4
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,MN,Midwest,West North Central,No,63,22,66
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,MN,Midwest,West North Central,Yes,30,4,94
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,MN,Midwest,West North Central,No,67,67,22
+Which candidate is honest?,HONEST16,MN,Midwest,West North Central,Both are,2,N/A,N/A
+Which candidate is honest?,HONEST16,MN,Midwest,West North Central,Only Clinton is,32,97,1
+Which candidate is honest?,HONEST16,MN,Midwest,West North Central,Only Trump is,28,1,98
+Which candidate is honest?,HONEST16,MN,Midwest,West North Central,Neither is,35,39,41
+Does Clinton have the temperament to be president?,TEMPCLINTON,MN,Midwest,West North Central,Yes,56,80,15
+Does Clinton have the temperament to be president?,TEMPCLINTON,MN,Midwest,West North Central,No,42,5,83
+Does Trump have the temperament to be president?,TEMPTRUMP,MN,Midwest,West North Central,Yes,30,4,95
+Does Trump have the temperament to be president?,TEMPTRUMP,MN,Midwest,West North Central,No,67,68,21
+Which candidate has the right temperament?,TEMPERAMENT16,MN,Midwest,West North Central,Both do,5,N/A,N/A
+Which candidate has the right temperament?,TEMPERAMENT16,MN,Midwest,West North Central,Only Clinton does,51,87,7
+Which candidate has the right temperament?,TEMPERAMENT16,MN,Midwest,West North Central,Only Trump does,24,1,97
+Which candidate has the right temperament?,TEMPERAMENT16,MN,Midwest,West North Central,Neither does,17,11,63
+Life for the next generation of Americans will be:,LIFE,MN,Midwest,West North Central,Better than today,29,67,29
+Life for the next generation of Americans will be:,LIFE,MN,Midwest,West North Central,Worse than today,36,26,62
+Life for the next generation of Americans will be:,LIFE,MN,Midwest,West North Central,About the same,32,58,34
+Area type,SIZEPLC3,MN,Midwest,West North Central,Urban area,43,55,37
+Area type,SIZEPLC3,MN,Midwest,West North Central,Suburban area,26,47,47
+Area type,SIZEPLC3,MN,Midwest,West North Central,Rural area,30,35,58
+Region,GEOCOD,MN,Midwest,West North Central,Twin Cities,32,64,28
+Region,GEOCOD,MN,Midwest,West North Central,Eastern Twin Cities Sub.,19,45,47
+Region,GEOCOD,MN,Midwest,West North Central,East Central,14,33,60
+Region,GEOCOD,MN,Midwest,West North Central,South,18,37,56
+Region,GEOCOD,MN,Midwest,West North Central,North,18,37,56

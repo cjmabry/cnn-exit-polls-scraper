@@ -1,0 +1,202 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Gender,SEX,NH,Northeast,New England,Male,48,40,53
+Gender,SEX,NH,Northeast,New England,Female,52,54,41
+Age,AGE,NH,Northeast,New England,18-29,21,49,41
+Age,AGE,NH,Northeast,New England,30-44,21,47,43
+Age,AGE,NH,Northeast,New England,45-64,42,46,51
+Age,AGE,NH,Northeast,New England,65 and older,16,49,49
+Age,AGE65,NH,Northeast,New England,18-24,12,46,44
+Age,AGE65,NH,Northeast,New England,25-29,9,52,37
+Age,AGE65,NH,Northeast,New England,30-39,13,50,40
+Age,AGE65,NH,Northeast,New England,40-49,17,42,51
+Age,AGE65,NH,Northeast,New England,50-64,32,47,50
+Age,AGE65,NH,Northeast,New England,65 and older,16,49,49
+Age,AGE45,NH,Northeast,New England,18-44,42,48,42
+Age,AGE45,NH,Northeast,New England,45 and older,58,47,50
+Race,RACE,NH,Northeast,New England,White,92,46,48
+Race,RACE,NH,Northeast,New England,Black,1,N/A,N/A
+Race,RACE,NH,Northeast,New England,Latino,4,N/A,N/A
+Race,RACE,NH,Northeast,New England,Asian,1,N/A,N/A
+Race,RACE,NH,Northeast,New England,Other race,2,N/A,N/A
+Race,RACE2B,NH,Northeast,New England,White,92,46,48
+Race,RACE2B,NH,Northeast,New England,Non-white,8,58,33
+Race and gender,SEXBYRACE,NH,Northeast,New England,White men,45,39,54
+Race and gender,SEXBYRACE,NH,Northeast,New England,White women,47,53,42
+Race and gender,SEXBYRACE,NH,Northeast,New England,Black men,1,N/A,N/A
+Race and gender,SEXBYRACE,NH,Northeast,New England,Black women,1,N/A,N/A
+Race and gender,SEXBYRACE,NH,Northeast,New England,Latino men,2,N/A,N/A
+Race and gender,SEXBYRACE,NH,Northeast,New England,Latino women,2,N/A,N/A
+Race and gender,SEXBYRACE,NH,Northeast,New England,Others,3,N/A,N/A
+Education,EDUC12R,NH,Northeast,New England,High school or less,13,37,58
+Education,EDUC12R,NH,Northeast,New England,Some college,31,41,53
+Education,EDUC12R,NH,Northeast,New England,College graduate,32,47,48
+Education,EDUC12R,NH,Northeast,New England,Postgraduate,23,65,29
+Are you a college graduate?,EDUCCOLL,NH,Northeast,New England,Yes,56,54,40
+Are you a college graduate?,EDUCCOLL,NH,Northeast,New England,No,44,39,55
+Education and race,EDUCWHITE,NH,Northeast,New England,White college graduates,51,54,41
+Education and race,EDUCWHITE,NH,Northeast,New England,Whites no degree,41,38,56
+Education and race,EDUCWHITE,NH,Northeast,New England,Non-whites college grads,5,58,32
+Education and race,EDUCWHITE,NH,Northeast,New England,Non-whites no degree,3,N/A,N/A
+Education among whites by sex,EDUCWHITEBYSEX,NH,Northeast,New England,White college-grad women,28,61,35
+Education among whites by sex,EDUCWHITEBYSEX,NH,Northeast,New England,White non-college women,21,42,53
+Education among whites by sex,EDUCWHITEBYSEX,NH,Northeast,New England,White college-grad men,24,46,47
+Education among whites by sex,EDUCWHITEBYSEX,NH,Northeast,New England,White non-college men,20,34,60
+Education among whites by sex,EDUCWHITEBYSEX,NH,Northeast,New England,Non-whites,8,58,33
+Income,INCOME16GEN,NH,Northeast,New England,"Under $30,000",12,N/A,N/A
+Income,INCOME16GEN,NH,Northeast,New England,"$30K-$49,999",15,47,45
+Income,INCOME16GEN,NH,Northeast,New England,"$50K-$99,999",34,50,46
+Income,INCOME16GEN,NH,Northeast,New England,"$100K-$199,999",31,47,48
+Income,INCOME16GEN,NH,Northeast,New England,"$200K-$249,999",6,N/A,N/A
+Income,INCOME16GEN,NH,Northeast,New England,"$250,000 or more",3,N/A,N/A
+Income,INCOME3,NH,Northeast,New England,Under $50K,27,51,43
+Income,INCOME3,NH,Northeast,New England,$50K-$100K,34,50,46
+Income,INCOME3,NH,Northeast,New England,$100K or more,39,48,47
+Income,INC50K,NH,Northeast,New England,Under $50K,27,51,43
+Income,INC50K,NH,Northeast,New England,$50K or more,73,49,47
+Income,INC100K,NH,Northeast,New England,Under $100K,61,50,44
+Income,INC100K,NH,Northeast,New England,$100K or more,39,48,47
+Party ID,PARTY,NH,Northeast,New England,Democrats,28,93,5
+Party ID,PARTY,NH,Northeast,New England,Republicans,28,7,89
+Party ID,PARTY,NH,Northeast,New England,Independents,44,45,45
+Party by gender,PARTYGENDER,NH,Northeast,New England,Democratic men,11,94,4
+Party by gender,PARTYGENDER,NH,Northeast,New England,Democratic women,17,93,5
+Party by gender,PARTYGENDER,NH,Northeast,New England,Republican men,15,7,88
+Party by gender,PARTYGENDER,NH,Northeast,New England,Republican women,13,8,89
+Party by gender,PARTYGENDER,NH,Northeast,New England,Independent men,22,39,49
+Party by gender,PARTYGENDER,NH,Northeast,New England,Independent women,22,51,41
+Ideology,PHIL3,NH,Northeast,New England,Liberal,27,87,9
+Ideology,PHIL3,NH,Northeast,New England,Moderate,42,52,41
+Ideology,PHIL3,NH,Northeast,New England,Conservative,31,9,86
+White born-again or evangelical Christian?,WHTEVANG,NH,Northeast,New England,Yes,15,22,75
+White born-again or evangelical Christian?,WHTEVANG,NH,Northeast,New England,No,85,50,43
+Marital status,MARRIED,NH,Northeast,New England,Married,63,47,47
+Marital status,MARRIED,NH,Northeast,New England,Unmarried,37,51,42
+Marital status by gender,SEXWED,NH,Northeast,New England,Married men,30,46,48
+Marital status by gender,SEXWED,NH,Northeast,New England,Married women,32,49,46
+Marital status by gender,SEXWED,NH,Northeast,New England,Unmarried men,17,37,54
+Marital status by gender,SEXWED,NH,Northeast,New England,Unmarried women,20,64,32
+When did you decide presidential vote?,TIME16,NH,Northeast,New England,Last few days,15,39,48
+When did you decide presidential vote?,TIME16,NH,Northeast,New England,Last week,6,N/A,N/A
+When did you decide presidential vote?,TIME16,NH,Northeast,New England,In October,9,N/A,N/A
+When did you decide presidential vote?,TIME16,NH,Northeast,New England,In September,7,N/A,N/A
+When did you decide presidential vote?,TIME16,NH,Northeast,New England,Before September,63,52,45
+When did you decide presidential vote?,TIME16WEEK,NH,Northeast,New England,In the last week,20,37,52
+When did you decide presidential vote?,TIME16WEEK,NH,Northeast,New England,Before that,79,51,45
+When did you decide presidential vote?,TIME16MONTH,NH,Northeast,New England,In the last month,29,42,50
+When did you decide presidential vote?,TIME16MONTH,NH,Northeast,New England,Before that,71,51,45
+Opinion of presidential candidate you voted for,DESCRIBP12,NH,Northeast,New England,Strongly favor ,47,45,50
+Opinion of presidential candidate you voted for,DESCRIBP12,NH,Northeast,New England,Have reservations,33,46,51
+Opinion of presidential candidate you voted for,DESCRIBP12,NH,Northeast,New England,Dislike opponents,18,42,43
+Most important issue facing the country,ISSUE16,NH,Northeast,New England,Foreign policy,17,65,29
+Most important issue facing the country,ISSUE16,NH,Northeast,New England,Immigration,11,16,80
+Most important issue facing the country,ISSUE16,NH,Northeast,New England,Economy,51,51,42
+Most important issue facing the country,ISSUE16,NH,Northeast,New England,Terrorism,18,37,59
+Which candidate quality mattered most?,QLT16,NH,Northeast,New England,Cares about me,9,55,36
+Which candidate quality mattered most?,QLT16,NH,Northeast,New England,Can bring change,43,10,85
+Which candidate quality mattered most?,QLT16,NH,Northeast,New England,Right experience,26,93,6
+Which candidate quality mattered most?,QLT16,NH,Northeast,New England,Good judgment,18,65,21
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,NH,Northeast,New England,Offered legal status,71,63,30
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,NH,Northeast,New England,Deported to home country,27,13,83
+Do you think immigrants to the U.S. today:,IMMBETTER,NH,Northeast,New England,Help the country,57,72,21
+Do you think immigrants to the U.S. today:,IMMBETTER,NH,Northeast,New England,Hurt the country,37,17,79
+Effect of international trade,TRADE16,NH,Northeast,New England,Creates U.S. jobs,41,59,34
+Effect of international trade,TRADE16,NH,Northeast,New England,Takes away U.S. jobs,44,33,61
+Effect of international trade,TRADE16,NH,Northeast,New England,Does not affect jobs,10,N/A,N/A
+How do things work in the U.S. today?,RACEFACTOR,NH,Northeast,New England,Whites are favored,38,81,14
+How do things work in the U.S. today?,RACEFACTOR,NH,Northeast,New England,Minorities are favored,24,9,87
+How do things work in the U.S. today?,RACEFACTOR,NH,Northeast,New England,No group is favored,34,34,56
+Feelings about the federal government,GOVTANGR16,NH,Northeast,New England,Enthusiastic,4,N/A,N/A
+Feelings about the federal government,GOVTANGR16,NH,Northeast,New England,Satisfied,20,85,13
+Feelings about the federal government,GOVTANGR16,NH,Northeast,New England,Dissatisfied,49,44,48
+Feelings about the federal government,GOVTANGR16,NH,Northeast,New England,Angry,26,12,80
+Feelings about the federal government,GOVTANGR16B,NH,Northeast,New England,Enthusiastic/Satisfied,24,85,13
+Feelings about the federal government,GOVTANGR16B,NH,Northeast,New England,Dissatisfied/Angry,74,33,59
+Opinion of Barack Obama as president,OBAMA4,NH,Northeast,New England,Strongly approve,33,95,3
+Opinion of Barack Obama as president,OBAMA4,NH,Northeast,New England,Somewhat approve,21,69,22
+Opinion of Barack Obama as president,OBAMA4,NH,Northeast,New England,Somewhat disapprove,14,15,73
+Opinion of Barack Obama as president,OBAMA4,NH,Northeast,New England,Strongly disapprove,31,4,94
+Opinion of Barack Obama as president,OBAMA2,NH,Northeast,New England,Approve,54,85,10
+Opinion of Barack Obama as president,OBAMA2,NH,Northeast,New England,Disapprove,45,7,87
+Opinion of Hillary Clinton,FAVHCLIN16,NH,Northeast,New England,Favorable,40,97,2
+Opinion of Hillary Clinton,FAVHCLIN16,NH,Northeast,New England,Unfavorable,59,17,75
+Opinion of Donald Trump,FAVTRUMP,NH,Northeast,New England,Favorable,34,5,94
+Opinion of Donald Trump,FAVTRUMP,NH,Northeast,New England,Unfavorable,64,74,18
+Opinion of Clinton and Trump,FAVPRES16,NH,Northeast,New England,Both favorable,1,N/A,N/A
+Opinion of Clinton and Trump,FAVPRES16,NH,Northeast,New England,Only Clinton favorable,38,98,1
+Opinion of Clinton and Trump,FAVPRES16,NH,Northeast,New England,Only Trump favorable,33,3,97
+Opinion of Clinton and Trump,FAVPRES16,NH,Northeast,New England,Both unfavorable,25,36,45
+Opinion of Maggie Hassan,FAVHASSAN,NH,Northeast,New England,Favorable,50,84,12
+Opinion of Maggie Hassan,FAVHASSAN,NH,Northeast,New England,Unfavorable,47,13,78
+Opinion of Kelly Ayotte,FAVAYOTTE,NH,Northeast,New England,Favorable,46,21,74
+Opinion of Kelly Ayotte,FAVAYOTTE,NH,Northeast,New England,Unfavorable,50,75,18
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,NH,Northeast,New England,Yes,35,97,2
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,NH,Northeast,New England,No,63,17,74
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,NH,Northeast,New England,Yes,36,3,97
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,NH,Northeast,New England,No,62,71,19
+Which candidate is honest?,HONEST16,NH,Northeast,New England,Both are,1,N/A,N/A
+Which candidate is honest?,HONEST16,NH,Northeast,New England,Only Clinton is,33,98,1
+Which candidate is honest?,HONEST16,NH,Northeast,New England,Only Trump is,35,1,99
+Which candidate is honest?,HONEST16,NH,Northeast,New England,Neither is,28,37,42
+Is Clinton qualified to serve as president?,QUALCLINTON,NH,Northeast,New England,Yes,52,87,9
+Is Clinton qualified to serve as president?,QUALCLINTON,NH,Northeast,New England,No,47,6,86
+Is Trump qualified to serve as president?,QUALTRUMP,NH,Northeast,New England,Yes,37,4,94
+Is Trump qualified to serve as president?,QUALTRUMP,NH,Northeast,New England,No,62,76,16
+Who is qualified to serve as president?,QUALIFIED16,NH,Northeast,New England,Both are,5,N/A,N/A
+Who is qualified to serve as president?,QUALIFIED16,NH,Northeast,New England,Only Clinton is,47,94,3
+Who is qualified to serve as president?,QUALIFIED16,NH,Northeast,New England,Only Trump is,32,2,97
+Who is qualified to serve as president?,QUALIFIED16,NH,Northeast,New England,Neither is,14,14,60
+Does Clinton have the temperament to be president?,TEMPCLINTON,NH,Northeast,New England,Yes,51,87,9
+Does Clinton have the temperament to be president?,TEMPCLINTON,NH,Northeast,New England,No,47,2,91
+Does Trump have the temperament to be president?,TEMPTRUMP,NH,Northeast,New England,Yes,38,2,97
+Does Trump have the temperament to be president?,TEMPTRUMP,NH,Northeast,New England,No,61,73,18
+Which candidate has the right temperament?,TEMPERAMENT16,NH,Northeast,New England,Both do,4,N/A,N/A
+Which candidate has the right temperament?,TEMPERAMENT16,NH,Northeast,New England,Only Clinton does,48,92,3
+Which candidate has the right temperament?,TEMPERAMENT16,NH,Northeast,New England,Only Trump does,34,0,99
+Which candidate has the right temperament?,TEMPERAMENT16,NH,Northeast,New England,Neither does,13,4,71
+Does Clinton's use of private email bother you:,CLINTONEMAIL,NH,Northeast,New England,A lot,48,7,84
+Does Clinton's use of private email bother you:,CLINTONEMAIL,NH,Northeast,New England,Some,19,75,18
+Does Clinton's use of private email bother you:,CLINTONEMAIL,NH,Northeast,New England,Not much,19,93,5
+Does Clinton's use of private email bother you:,CLINTONEMAIL,NH,Northeast,New England,Not at all,13,97,2
+Does Clinton's use of private email bother you?,CLINTONEMAILB,NH,Northeast,New England,Yes,67,26,65
+Does Clinton's use of private email bother you?,CLINTONEMAILB,NH,Northeast,New England,No,32,95,4
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NH,Northeast,New England,A lot,52,85,8
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NH,Northeast,New England,Some,20,19,75
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NH,Northeast,New England,Not much,15,2,93
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NH,Northeast,New England,Not at all,12,N/A,N/A
+Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,NH,Northeast,New England,Yes,72,67,26
+Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,NH,Northeast,New England,No,28,2,94
+Who would better handle the economy?,HANDLEECON16,NH,Northeast,New England,Clinton,50,93,2
+Who would better handle the economy?,HANDLEECON16,NH,Northeast,New England,Trump,48,4,90
+Who would better handle foreign policy?,HANDLEFP16,NH,Northeast,New England,Clinton,55,87,7
+Who would better handle foreign policy?,HANDLEFP16,NH,Northeast,New England,Trump,42,1,95
+Condition of national economy,NEC,NH,Northeast,New England,Excellent,3,N/A,N/A
+Condition of national economy,NEC,NH,Northeast,New England,Good,39,73,20
+Condition of national economy,NEC,NH,Northeast,New England,Not good,40,28,66
+Condition of national economy,NEC,NH,Northeast,New England,Poor,16,8,87
+Condition of national economy,NEC2,NH,Northeast,New England,Good,42,75,19
+Condition of national economy,NEC2,NH,Northeast,New England,Poor,57,22,72
+Financial situation compared to four years ago:,FINSIT,NH,Northeast,New England,Better today,35,74,19
+Financial situation compared to four years ago:,FINSIT,NH,Northeast,New England,Worse today,28,14,79
+Financial situation compared to four years ago:,FINSIT,NH,Northeast,New England,About the same,36,53,43
+Life for the next generation of Americans will be:,LIFE,NH,Northeast,New England,Better than today,32,66,31
+Life for the next generation of Americans will be:,LIFE,NH,Northeast,New England,Worse than today,41,29,62
+Life for the next generation of Americans will be:,LIFE,NH,Northeast,New England,About the same,24,64,31
+Did any campaign contact you?,GOTV16,NH,Northeast,New England,Only Clinton,23,88,10
+Did any campaign contact you?,GOTV16,NH,Northeast,New England,Only Trump,8,N/A,N/A
+Did any campaign contact you?,GOTV16,NH,Northeast,New England,Both,18,55,39
+Did any campaign contact you?,GOTV16,NH,Northeast,New England,Neither,47,34,58
+Were you contacted by the Clinton campaign?,GOTVCLINTON,NH,Northeast,New England,Yes,41,73,23
+Were you contacted by the Clinton campaign?,GOTVCLINTON,NH,Northeast,New England,No,54,30,63
+Were you contacted by the Trump campaign?,GOTVTRUMP,NH,Northeast,New England,Yes,26,41,54
+Were you contacted by the Trump campaign?,GOTVTRUMP,NH,Northeast,New England,No,70,52,42
+Vote for president in a two-way race,2WAYPRES16,NH,Northeast,New England,Clinton,50,97,1
+Vote for president in a two-way race,2WAYPRES16,NH,Northeast,New England,Trump,46,N/A,97
+Vote for president in a two-way race,2WAYPRES16,NH,Northeast,New England,Would not vote,4,N/A,N/A
+Area type,SIZEPLC3,NH,Northeast,New England,Urban area,9,52,42
+Area type,SIZEPLC3,NH,Northeast,New England,Suburban area,53,47,47
+Area type,SIZEPLC3,NH,Northeast,New England,Rural area,37,47,47
+Region,GEOCOD,NH,Northeast,New England,Seacoast,17,53,41
+Region,GEOCOD,NH,Northeast,New England,Manchester / Nashua Area,18,49,45
+Region,GEOCOD,NH,Northeast,New England,Concord / Ct. Valley,21,54,41
+Region,GEOCOD,NH,Northeast,New England,South,27,40,54
+Region,GEOCOD,NH,Northeast,New England,North,17,44,51

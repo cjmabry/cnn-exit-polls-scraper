@@ -1,0 +1,171 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Gender,SEX,CO,West,Mountain,Male,49,41,49
+Gender,SEX,CO,West,Mountain,Female,51,55,39
+Age,AGE,CO,West,Mountain,18-29,19,50,36
+Age,AGE,CO,West,Mountain,30-44,26,46,45
+Age,AGE,CO,West,Mountain,45-64,38,49,45
+Age,AGE,CO,West,Mountain,65 and older,17,49,48
+Age,AGE65,CO,West,Mountain,18-24,11,N/A,N/A
+Age,AGE65,CO,West,Mountain,25-29,8,N/A,N/A
+Age,AGE65,CO,West,Mountain,30-39,17,48,42
+Age,AGE65,CO,West,Mountain,40-49,19,43,50
+Age,AGE65,CO,West,Mountain,50-64,29,51,43
+Age,AGE65,CO,West,Mountain,65 and older,17,49,48
+Age,AGE45,CO,West,Mountain,18-44,45,48,41
+Age,AGE45,CO,West,Mountain,45 and older,55,49,46
+Race,RACE,CO,West,Mountain,White,78,45,47
+Race,RACE,CO,West,Mountain,Black,4,N/A,N/A
+Race,RACE,CO,West,Mountain,Latino,12,67,30
+Race,RACE,CO,West,Mountain,Asian,3,N/A,N/A
+Race,RACE,CO,West,Mountain,Other race,4,N/A,N/A
+Race,RACE2B,CO,West,Mountain,White,78,45,47
+Race,RACE2B,CO,West,Mountain,Non-white,22,62,31
+Race and gender,SEXBYRACE,CO,West,Mountain,White men,38,38,50
+Race and gender,SEXBYRACE,CO,West,Mountain,White women,40,50,44
+Race and gender,SEXBYRACE,CO,West,Mountain,Black men,2,N/A,N/A
+Race and gender,SEXBYRACE,CO,West,Mountain,Black women,2,N/A,N/A
+Race and gender,SEXBYRACE,CO,West,Mountain,Latino men,6,N/A,N/A
+Race and gender,SEXBYRACE,CO,West,Mountain,Latino women,5,N/A,N/A
+Race and gender,SEXBYRACE,CO,West,Mountain,Others,7,N/A,N/A
+Education,EDUC12R,CO,West,Mountain,High school or less,19,40,51
+Education,EDUC12R,CO,West,Mountain,Some college,27,43,49
+Education,EDUC12R,CO,West,Mountain,College graduate,34,48,43
+Education,EDUC12R,CO,West,Mountain,Postgraduate,20,64,30
+Are you a college graduate?,EDUCCOLL,CO,West,Mountain,Yes,54,54,38
+Are you a college graduate?,EDUCCOLL,CO,West,Mountain,No,46,42,50
+Education and race,EDUCWHITE,CO,West,Mountain,White college graduates,45,53,39
+Education and race,EDUCWHITE,CO,West,Mountain,Whites no degree,33,34,58
+Education and race,EDUCWHITE,CO,West,Mountain,Non-whites college grads,10,61,34
+Education and race,EDUCWHITE,CO,West,Mountain,Non-whites no degree,12,62,29
+Education among whites by sex,EDUCWHITEBYSEX,CO,West,Mountain,White college-grad women,23,58,37
+Education among whites by sex,EDUCWHITEBYSEX,CO,West,Mountain,White non-college women,18,40,53
+Education among whites by sex,EDUCWHITEBYSEX,CO,West,Mountain,White college-grad men,22,47,41
+Education among whites by sex,EDUCWHITEBYSEX,CO,West,Mountain,White non-college men,16,26,63
+Education among whites by sex,EDUCWHITEBYSEX,CO,West,Mountain,Non-whites,22,61,31
+Income,INCOME16GEN,CO,West,Mountain,"Under $30,000",13,44,38
+Income,INCOME16GEN,CO,West,Mountain,"$30K-$49,999",22,46,43
+Income,INCOME16GEN,CO,West,Mountain,"$50K-$99,999",32,52,44
+Income,INCOME16GEN,CO,West,Mountain,"$100K-$199,999",23,49,42
+Income,INCOME16GEN,CO,West,Mountain,"$200K-$249,999",4,N/A,N/A
+Income,INCOME16GEN,CO,West,Mountain,"$250,000 or more",6,N/A,N/A
+Income,INCOME3,CO,West,Mountain,Under $50K,36,46,41
+Income,INCOME3,CO,West,Mountain,$50K-$100K,32,52,44
+Income,INCOME3,CO,West,Mountain,$100K or more,33,51,41
+Income,INC50K,CO,West,Mountain,Under $50K,36,46,41
+Income,INC50K,CO,West,Mountain,$50K or more,64,52,42
+Income,INC100K,CO,West,Mountain,Under $100K,67,49,42
+Income,INC100K,CO,West,Mountain,$100K or more,33,51,41
+Party ID,PARTY,CO,West,Mountain,Democrats,32,87,9
+Party ID,PARTY,CO,West,Mountain,Republicans,24,8,88
+Party ID,PARTY,CO,West,Mountain,Independents,43,42,45
+Party by gender,PARTYGENDER,CO,West,Mountain,Democratic men,12,82,12
+Party by gender,PARTYGENDER,CO,West,Mountain,Democratic women,20,91,7
+Party by gender,PARTYGENDER,CO,West,Mountain,Republican men,12,11,84
+Party by gender,PARTYGENDER,CO,West,Mountain,Republican women,12,6,92
+Party by gender,PARTYGENDER,CO,West,Mountain,Independent men,25,36,50
+Party by gender,PARTYGENDER,CO,West,Mountain,Independent women,18,49,39
+Ideology,PHIL3,CO,West,Mountain,Liberal,28,85,10
+Ideology,PHIL3,CO,West,Mountain,Moderate,37,53,36
+Ideology,PHIL3,CO,West,Mountain,Conservative,35,16,80
+When did you decide presidential vote?,TIME16,CO,West,Mountain,Last few days,N/A,N/A,N/A
+When did you decide presidential vote?,TIME16,CO,West,Mountain,Last week,6,N/A,N/A
+When did you decide presidential vote?,TIME16,CO,West,Mountain,In October,17,35,50
+When did you decide presidential vote?,TIME16,CO,West,Mountain,In September,12,42,48
+When did you decide presidential vote?,TIME16,CO,West,Mountain,Before September,63,54,41
+When did you decide presidential vote?,TIME16WEEK,CO,West,Mountain,In the last week,6,N/A,N/A
+When did you decide presidential vote?,TIME16WEEK,CO,West,Mountain,Before that,91,49,43
+When did you decide presidential vote?,TIME16MONTH,CO,West,Mountain,In the last month,22,37,48
+When did you decide presidential vote?,TIME16MONTH,CO,West,Mountain,Before that,75,52,42
+Opinion of presidential candidate you voted for,DESCRIBP12,CO,West,Mountain,Strongly favor ,38,57,38
+Opinion of presidential candidate you voted for,DESCRIBP12,CO,West,Mountain,Have reservations,25,46,42
+Opinion of presidential candidate you voted for,DESCRIBP12,CO,West,Mountain,Dislike opponents,35,41,51
+Most important issue facing the country,ISSUE16,CO,West,Mountain,Foreign policy,17,61,30
+Most important issue facing the country,ISSUE16,CO,West,Mountain,Immigration,11,37,59
+Most important issue facing the country,ISSUE16,CO,West,Mountain,Economy,54,53,38
+Most important issue facing the country,ISSUE16,CO,West,Mountain,Terrorism,14,30,67
+Which candidate quality mattered most?,QLT16,CO,West,Mountain,Cares about me,13,49,44
+Which candidate quality mattered most?,QLT16,CO,West,Mountain,Can bring change,29,5,88
+Which candidate quality mattered most?,QLT16,CO,West,Mountain,Right experience,27,88,8
+Which candidate quality mattered most?,QLT16,CO,West,Mountain,Good judgment,28,56,32
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,CO,West,Mountain,Offered legal status,78,58,34
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,CO,West,Mountain,Deported to home country,16,13,83
+View of U.S. wall along the entire Mexican border,IMMWALL,CO,West,Mountain,Support,38,9,89
+View of U.S. wall along the entire Mexican border,IMMWALL,CO,West,Mountain,Oppose,59,75,14
+Do you think immigrants to the U.S. today:,IMMBETTER,CO,West,Mountain,Help the country,64,67,25
+Do you think immigrants to the U.S. today:,IMMBETTER,CO,West,Mountain,Hurt the country,24,12,81
+How do things work in the U.S. today?,RACEFACTOR,CO,West,Mountain,Whites are favored,34,82,10
+How do things work in the U.S. today?,RACEFACTOR,CO,West,Mountain,Minorities are favored,20,12,83
+How do things work in the U.S. today?,RACEFACTOR,CO,West,Mountain,No group is favored,39,39,51
+Feelings about the federal government,GOVTANGR16,CO,West,Mountain,Enthusiastic,4,N/A,N/A
+Feelings about the federal government,GOVTANGR16,CO,West,Mountain,Satisfied,25,85,13
+Feelings about the federal government,GOVTANGR16,CO,West,Mountain,Dissatisfied,37,44,46
+Feelings about the federal government,GOVTANGR16,CO,West,Mountain,Angry,32,20,70
+Feelings about the federal government,GOVTANGR16B,CO,West,Mountain,Enthusiastic/Satisfied,29,85,12
+Feelings about the federal government,GOVTANGR16B,CO,West,Mountain,Dissatisfied/Angry,70,33,57
+Opinion of Barack Obama as president,OBAMA4,CO,West,Mountain,Strongly approve,35,95,2
+Opinion of Barack Obama as president,OBAMA4,CO,West,Mountain,Somewhat approve,19,66,15
+Opinion of Barack Obama as president,OBAMA4,CO,West,Mountain,Somewhat disapprove,9,12,68
+Opinion of Barack Obama as president,OBAMA4,CO,West,Mountain,Strongly disapprove,35,3,93
+Opinion of Barack Obama as president,OBAMA2,CO,West,Mountain,Approve,53,85,6
+Opinion of Barack Obama as president,OBAMA2,CO,West,Mountain,Disapprove,45,5,88
+Opinion of Hillary Clinton,FAVHCLIN16,CO,West,Mountain,Favorable,44,94,3
+Opinion of Hillary Clinton,FAVHCLIN16,CO,West,Mountain,Unfavorable,54,10,78
+Opinion of Donald Trump,FAVTRUMP,CO,West,Mountain,Favorable,37,3,97
+Opinion of Donald Trump,FAVTRUMP,CO,West,Mountain,Unfavorable,62,76,12
+Opinion of Clinton and Trump,FAVPRES16,CO,West,Mountain,Both favorable,2,N/A,N/A
+Opinion of Clinton and Trump,FAVPRES16,CO,West,Mountain,Only Clinton favorable,42,97,N/A
+Opinion of Clinton and Trump,FAVPRES16,CO,West,Mountain,Only Trump favorable,35,2,98
+Opinion of Clinton and Trump,FAVPRES16,CO,West,Mountain,Both unfavorable,19,27,40
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,CO,West,Mountain,Yes,38,97,1
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,CO,West,Mountain,No,60,18,71
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,CO,West,Mountain,Yes,35,3,94
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,CO,West,Mountain,No,64,73,16
+Which candidate is honest?,HONEST16,CO,West,Mountain,Both are,1,N/A,N/A
+Which candidate is honest?,HONEST16,CO,West,Mountain,Only Clinton is,36,99,0
+Which candidate is honest?,HONEST16,CO,West,Mountain,Only Trump is,33,1,96
+Which candidate is honest?,HONEST16,CO,West,Mountain,Neither is,27,38,39
+Does Clinton have the temperament to be president?,TEMPCLINTON,CO,West,Mountain,Yes,58,80,11
+Does Clinton have the temperament to be president?,TEMPCLINTON,CO,West,Mountain,No,41,5,89
+Does Trump have the temperament to be president?,TEMPTRUMP,CO,West,Mountain,Yes,36,2,96
+Does Trump have the temperament to be president?,TEMPTRUMP,CO,West,Mountain,No,63,76,13
+Which candidate has the right temperament?,TEMPERAMENT16,CO,West,Mountain,Both do,5,N/A,N/A
+Which candidate has the right temperament?,TEMPERAMENT16,CO,West,Mountain,Only Clinton does,53,87,3
+Which candidate has the right temperament?,TEMPERAMENT16,CO,West,Mountain,Only Trump does,31,1,97
+Which candidate has the right temperament?,TEMPERAMENT16,CO,West,Mountain,Neither does,10,15,63
+Is Clinton qualified to serve as president?,QUALCLINTON,CO,West,Mountain,Yes,56,85,9
+Is Clinton qualified to serve as president?,QUALCLINTON,CO,West,Mountain,No,43,3,88
+Is Trump qualified to serve as president?,QUALTRUMP,CO,West,Mountain,Yes,38,3,95
+Is Trump qualified to serve as president?,QUALTRUMP,CO,West,Mountain,No,61,78,11
+Who is qualified to serve as president?,QUALIFIED16,CO,West,Mountain,Both are,5,N/A,N/A
+Who is qualified to serve as president?,QUALIFIED16,CO,West,Mountain,Only Clinton is,51,92,2
+Who is qualified to serve as president?,QUALIFIED16,CO,West,Mountain,Only Trump is,33,1,98
+Who is qualified to serve as president?,QUALIFIED16,CO,West,Mountain,Neither is,10,8,57
+Who would better handle the economy?,HANDLEECON16,CO,West,Mountain,Clinton,48,95,0
+Who would better handle the economy?,HANDLEECON16,CO,West,Mountain,Trump,46,3,93
+Who would better handle foreign policy?,HANDLEFP16,CO,West,Mountain,Clinton,55,85,8
+Who would better handle foreign policy?,HANDLEFP16,CO,West,Mountain,Trump,41,3,94
+Condition of national economy,NEC,CO,West,Mountain,Excellent,4,N/A,N/A
+Condition of national economy,NEC,CO,West,Mountain,Good,40,84,10
+Condition of national economy,NEC,CO,West,Mountain,Not good,29,27,63
+Condition of national economy,NEC,CO,West,Mountain,Poor,27,14,78
+Condition of national economy,NEC2,CO,West,Mountain,Good,44,84,10
+Condition of national economy,NEC2,CO,West,Mountain,Poor,56,21,70
+Life for the next generation of Americans will be:,LIFE,CO,West,Mountain,Better than today,28,64,33
+Life for the next generation of Americans will be:,LIFE,CO,West,Mountain,Worse than today,31,24,66
+Life for the next generation of Americans will be:,LIFE,CO,West,Mountain,About the same,37,60,30
+Which best describes you?,MOVETOCO14,CO,West,Mountain,Moved to Colo. since 2006,13,44,46
+Which best describes you?,MOVETOCO14,CO,West,Mountain,Moved to Colo. pre-2006,50,52,42
+Which best describes you?,MOVETOCO14,CO,West,Mountain,Born in Colorado,38,46,44
+Which better describes you?,BORNINCO14,CO,West,Mountain,Born in Colorado,38,46,44
+Which better describes you?,BORNINCO14,CO,West,Mountain,Moved to Colorado,62,50,43
+Vote for president in a two-way race,2WAYPRES16,CO,West,Mountain,Clinton,50,95,0
+Vote for president in a two-way race,2WAYPRES16,CO,West,Mountain,Trump,43,0,97
+Vote for president in a two-way race,2WAYPRES16,CO,West,Mountain,Would not vote,6,N/A,N/A
+Area type,SIZEPLC3,CO,West,Mountain,Urban area,39,53,39
+Area type,SIZEPLC3,CO,West,Mountain,Suburban area,49,48,44
+Area type,SIZEPLC3,CO,West,Mountain,Rural area,12,37,57
+Region,GEOCOD,CO,West,Mountain,East,17,41,52
+Region,GEOCOD,CO,West,Mountain,Denver / Eastern Suburbs,31,61,31
+Region,GEOCOD,CO,West,Mountain,Western Suburbs / Boulder,19,58,35
+Region,GEOCOD,CO,West,Mountain,Southern Front Range,20,31,58
+Region,GEOCOD,CO,West,Mountain,Colorado Rockies,14,40,52

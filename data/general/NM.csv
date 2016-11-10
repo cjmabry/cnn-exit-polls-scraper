@@ -1,0 +1,185 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Gender,SEX,NM,West,Mountain,Male,47,42,44
+Gender,SEX,NM,West,Mountain,Female,53,54,36
+Age,AGE,NM,West,Mountain,18-29,19,52,27
+Age,AGE,NM,West,Mountain,30-44,26,48,38
+Age,AGE,NM,West,Mountain,45-64,36,45,46
+Age,AGE,NM,West,Mountain,65 and older,19,53,42
+Age,AGE65,NM,West,Mountain,18-24,12,53,26
+Age,AGE65,NM,West,Mountain,25-29,8,49,29
+Age,AGE65,NM,West,Mountain,30-39,17,45,37
+Age,AGE65,NM,West,Mountain,40-49,17,48,44
+Age,AGE65,NM,West,Mountain,50-64,27,46,46
+Age,AGE65,NM,West,Mountain,65 and older,19,53,42
+Age,AGE45,NM,West,Mountain,18-44,45,49,34
+Age,AGE45,NM,West,Mountain,45 and older,55,48,45
+Race,RACE,NM,West,Mountain,White,49,42,47
+Race,RACE,NM,West,Mountain,Black,1,N/A,N/A
+Race,RACE,NM,West,Mountain,Latino,40,54,33
+Race,RACE,NM,West,Mountain,Asian,1,N/A,N/A
+Race,RACE,NM,West,Mountain,Other race,9,53,33
+Race,RACE2B,NM,West,Mountain,White,49,42,47
+Race,RACE2B,NM,West,Mountain,Non-white,51,55,32
+Race and gender,SEXBYRACE,NM,West,Mountain,White men,24,38,48
+Race and gender,SEXBYRACE,NM,West,Mountain,White women,25,45,46
+Race and gender,SEXBYRACE,NM,West,Mountain,Black men,1,N/A,N/A
+Race and gender,SEXBYRACE,NM,West,Mountain,Black women,0,N/A,N/A
+Race and gender,SEXBYRACE,NM,West,Mountain,Latino men,17,45,39
+Race and gender,SEXBYRACE,NM,West,Mountain,Latino women,23,61,28
+Race and gender,SEXBYRACE,NM,West,Mountain,Others,10,54,32
+Education,EDUC12R,NM,West,Mountain,High school or less,17,49,42
+Education,EDUC12R,NM,West,Mountain,Some college,34,43,43
+Education,EDUC12R,NM,West,Mountain,College graduate,28,47,41
+Education,EDUC12R,NM,West,Mountain,Postgraduate,21,57,32
+Are you a college graduate?,EDUCCOLL,NM,West,Mountain,Yes,49,51,37
+Are you a college graduate?,EDUCCOLL,NM,West,Mountain,No,51,45,43
+Education and race,EDUCWHITE,NM,West,Mountain,White college graduates,29,51,38
+Education and race,EDUCWHITE,NM,West,Mountain,Whites no degree,21,30,60
+Education and race,EDUCWHITE,NM,West,Mountain,Non-whites college grads,20,52,36
+Education and race,EDUCWHITE,NM,West,Mountain,Non-whites no degree,31,56,30
+Education among whites by sex,EDUCWHITEBYSEX,NM,West,Mountain,White college-grad women,14,55,37
+Education among whites by sex,EDUCWHITEBYSEX,NM,West,Mountain,White non-college women,11,34,57
+Education among whites by sex,EDUCWHITEBYSEX,NM,West,Mountain,White college-grad men,15,47,38
+Education among whites by sex,EDUCWHITEBYSEX,NM,West,Mountain,White non-college men,10,25,64
+Education among whites by sex,EDUCWHITEBYSEX,NM,West,Mountain,Non-whites,50,54,33
+Income,INCOME16GEN,NM,West,Mountain,"Under $30,000",25,54,30
+Income,INCOME16GEN,NM,West,Mountain,"$30K-$49,999",20,50,38
+Income,INCOME16GEN,NM,West,Mountain,"$50K-$99,999",30,44,46
+Income,INCOME16GEN,NM,West,Mountain,"$100K-$199,999",21,47,43
+Income,INCOME16GEN,NM,West,Mountain,"$200K-$249,999",2,N/A,N/A
+Income,INCOME16GEN,NM,West,Mountain,"$250,000 or more",2,N/A,N/A
+Income,INCOME3,NM,West,Mountain,Under $50K,45,52,33
+Income,INCOME3,NM,West,Mountain,$50K-$100K,30,44,46
+Income,INCOME3,NM,West,Mountain,$100K or more,25,47,43
+Income,INC50K,NM,West,Mountain,Under $50K,45,52,33
+Income,INC50K,NM,West,Mountain,$50K or more,55,45,45
+Income,INC100K,NM,West,Mountain,Under $100K,75,49,38
+Income,INC100K,NM,West,Mountain,$100K or more,25,47,43
+Party ID,PARTY,NM,West,Mountain,Democrats,41,85,8
+Party ID,PARTY,NM,West,Mountain,Republicans,27,6,86
+Party ID,PARTY,NM,West,Mountain,Independents,32,37,42
+Party by gender,PARTYGENDER,NM,West,Mountain,Democratic men,16,82,10
+Party by gender,PARTYGENDER,NM,West,Mountain,Democratic women,25,88,6
+Party by gender,PARTYGENDER,NM,West,Mountain,Republican men,12,6,84
+Party by gender,PARTYGENDER,NM,West,Mountain,Republican women,15,6,88
+Party by gender,PARTYGENDER,NM,West,Mountain,Independent men,19,30,47
+Party by gender,PARTYGENDER,NM,West,Mountain,Independent women,13,46,34
+Ideology,PHIL3,NM,West,Mountain,Liberal,29,82,9
+Ideology,PHIL3,NM,West,Mountain,Moderate,38,51,33
+Ideology,PHIL3,NM,West,Mountain,Conservative,34,15,75
+Marital status,MARRIED,NM,West,Mountain,Married,54,41,47
+Marital status,MARRIED,NM,West,Mountain,Unmarried,46,57,30
+Marital status by gender,SEXWED,NM,West,Mountain,Married men,26,36,52
+Marital status by gender,SEXWED,NM,West,Mountain,Married women,27,45,43
+Marital status by gender,SEXWED,NM,West,Mountain,Unmarried men,22,45,39
+Marital status by gender,SEXWED,NM,West,Mountain,Unmarried women,24,69,21
+When did you decide presidential vote?,TIME16,NM,West,Mountain,Last few days,10,40,50
+When did you decide presidential vote?,TIME16,NM,West,Mountain,Last week,4,N/A,N/A
+When did you decide presidential vote?,TIME16,NM,West,Mountain,In October,14,34,37
+When did you decide presidential vote?,TIME16,NM,West,Mountain,In September,12,N/A,N/A
+When did you decide presidential vote?,TIME16,NM,West,Mountain,Before September,58,53,39
+When did you decide presidential vote?,TIME16WEEK,NM,West,Mountain,In the last week,14,41,46
+When did you decide presidential vote?,TIME16WEEK,NM,West,Mountain,Before that,84,49,39
+When did you decide presidential vote?,TIME16MONTH,NM,West,Mountain,In the last month,28,37,41
+When did you decide presidential vote?,TIME16MONTH,NM,West,Mountain,Before that,70,52,40
+Opinion of presidential candidate you voted for,DESCRIBP12,NM,West,Mountain,Strongly favor ,43,52,39
+Opinion of presidential candidate you voted for,DESCRIBP12,NM,West,Mountain,Have reservations,27,56,36
+Opinion of presidential candidate you voted for,DESCRIBP12,NM,West,Mountain,Dislike opponents,28,35,44
+Most important issue facing the country,ISSUE16,NM,West,Mountain,Foreign policy,14,55,37
+Most important issue facing the country,ISSUE16,NM,West,Mountain,Immigration,11,38,55
+Most important issue facing the country,ISSUE16,NM,West,Mountain,Economy,55,50,37
+Most important issue facing the country,ISSUE16,NM,West,Mountain,Terrorism,16,38,48
+Which candidate quality mattered most?,QLT16,NM,West,Mountain,Cares about me,14,50,34
+Which candidate quality mattered most?,QLT16,NM,West,Mountain,Can bring change,33,17,77
+Which candidate quality mattered most?,QLT16,NM,West,Mountain,Right experience,23,88,8
+Which candidate quality mattered most?,QLT16,NM,West,Mountain,Good judgment,25,49,28
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,NM,West,Mountain,Offered legal status,82,56,31
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,NM,West,Mountain,Deported to home country,15,10,83
+View of U.S. wall along the entire Mexican border,IMMWALL,NM,West,Mountain,Support,38,11,84
+View of U.S. wall along the entire Mexican border,IMMWALL,NM,West,Mountain,Oppose,59,72,12
+Do you think immigrants to the U.S. today:,IMMBETTER,NM,West,Mountain,Help the country,65,66,19
+Do you think immigrants to the U.S. today:,IMMBETTER,NM,West,Mountain,Hurt the country,24,13,80
+How do things work in the U.S. today?,RACEFACTOR,NM,West,Mountain,Whites are favored,41,75,12
+How do things work in the U.S. today?,RACEFACTOR,NM,West,Mountain,Minorities are favored,20,11,80
+How do things work in the U.S. today?,RACEFACTOR,NM,West,Mountain,No group is favored,36,41,46
+Feelings about the federal government,GOVTANGR16,NM,West,Mountain,Enthusiastic,4,N/A,N/A
+Feelings about the federal government,GOVTANGR16,NM,West,Mountain,Satisfied,27,80,13
+Feelings about the federal government,GOVTANGR16,NM,West,Mountain,Dissatisfied,41,44,40
+Feelings about the federal government,GOVTANGR16,NM,West,Mountain,Angry,28,16,70
+Feelings about the federal government,GOVTANGR16B,NM,West,Mountain,Enthusiastic/Satisfied,31,83,11
+Feelings about the federal government,GOVTANGR16B,NM,West,Mountain,Dissatisfied/Angry,68,33,52
+Opinion of Barack Obama as president,OBAMA4,NM,West,Mountain,Strongly approve,35,87,2
+Opinion of Barack Obama as president,OBAMA4,NM,West,Mountain,Somewhat approve,22,62,21
+Opinion of Barack Obama as president,OBAMA4,NM,West,Mountain,Somewhat disapprove,10,15,62
+Opinion of Barack Obama as president,OBAMA4,NM,West,Mountain,Strongly disapprove,32,4,90
+Opinion of Barack Obama as president,OBAMA2,NM,West,Mountain,Approve,57,78,9
+Opinion of Barack Obama as president,OBAMA2,NM,West,Mountain,Disapprove,42,7,83
+Opinion of Hillary Clinton,FAVHCLIN16,NM,West,Mountain,Favorable,46,92,2
+Opinion of Hillary Clinton,FAVHCLIN16,NM,West,Mountain,Unfavorable,53,10,74
+Opinion of Donald Trump,FAVTRUMP,NM,West,Mountain,Favorable,36,6,91
+Opinion of Donald Trump,FAVTRUMP,NM,West,Mountain,Unfavorable,63,72,11
+Opinion of Clinton and Trump,FAVPRES16,NM,West,Mountain,Both favorable,3,N/A,N/A
+Opinion of Clinton and Trump,FAVPRES16,NM,West,Mountain,Only Clinton favorable,43,94,0
+Opinion of Clinton and Trump,FAVPRES16,NM,West,Mountain,Only Trump favorable,33,1,97
+Opinion of Clinton and Trump,FAVPRES16,NM,West,Mountain,Both unfavorable,20,25,35
+Opinion of Gary Johnson,FAVJOHNSON,NM,West,Mountain,Favorable,46,47,32
+Opinion of Gary Johnson,FAVJOHNSON,NM,West,Mountain,Unfavorable,47,49,47
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,NM,West,Mountain,Yes,39,94,3
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,NM,West,Mountain,No,60,18,64
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,NM,West,Mountain,Yes,33,3,92
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,NM,West,Mountain,No,65,72,12
+Which candidate is honest?,HONEST16,NM,West,Mountain,Both are,2,N/A,N/A
+Which candidate is honest?,HONEST16,NM,West,Mountain,Only Clinton is,37,98,0
+Which candidate is honest?,HONEST16,NM,West,Mountain,Only Trump is,31,1,95
+Which candidate is honest?,HONEST16,NM,West,Mountain,Neither is,28,38,28
+Does Clinton have the temperament to be president?,TEMPCLINTON,NM,West,Mountain,Yes,53,87,7
+Does Clinton have the temperament to be president?,TEMPCLINTON,NM,West,Mountain,No,45,5,77
+Does Trump have the temperament to be president?,TEMPTRUMP,NM,West,Mountain,Yes,34,3,94
+Does Trump have the temperament to be president?,TEMPTRUMP,NM,West,Mountain,No,65,72,11
+Which candidate has the right temperament?,TEMPERAMENT16,NM,West,Mountain,Both do,4,N/A,N/A
+Which candidate has the right temperament?,TEMPERAMENT16,NM,West,Mountain,Only Clinton does,50,92,2
+Which candidate has the right temperament?,TEMPERAMENT16,NM,West,Mountain,Only Trump does,30,1,98
+Which candidate has the right temperament?,TEMPERAMENT16,NM,West,Mountain,Neither does,16,11,37
+Is Clinton qualified to serve as president?,QUALCLINTON,NM,West,Mountain,Yes,52,86,4
+Is Clinton qualified to serve as president?,QUALCLINTON,NM,West,Mountain,No,47,6,80
+Is Trump qualified to serve as president?,QUALTRUMP,NM,West,Mountain,Yes,38,4,92
+Is Trump qualified to serve as president?,QUALTRUMP,NM,West,Mountain,No,60,76,8
+Who is qualified to serve as president?,QUALIFIED16,NM,West,Mountain,Both are,3,N/A,N/A
+Who is qualified to serve as president?,QUALIFIED16,NM,West,Mountain,Only Clinton is,49,90,1
+Who is qualified to serve as president?,QUALIFIED16,NM,West,Mountain,Only Trump is,35,3,95
+Who is qualified to serve as president?,QUALIFIED16,NM,West,Mountain,Neither is,12,15,37
+Who would better handle the economy?,HANDLEECON16,NM,West,Mountain,Clinton,50,90,1
+Who would better handle the economy?,HANDLEECON16,NM,West,Mountain,Trump,44,3,89
+Who would better handle foreign policy?,HANDLEFP16,NM,West,Mountain,Clinton,55,83,6
+Who would better handle foreign policy?,HANDLEFP16,NM,West,Mountain,Trump,40,4,91
+Does Clinton's use of private email bother you:,CLINTONEMAIL,NM,West,Mountain,A lot,44,12,74
+Does Clinton's use of private email bother you:,CLINTONEMAIL,NM,West,Mountain,Some,21,63,19
+Does Clinton's use of private email bother you:,CLINTONEMAIL,NM,West,Mountain,Not much,15,86,4
+Does Clinton's use of private email bother you:,CLINTONEMAIL,NM,West,Mountain,Not at all,18,88,6
+Does Clinton's use of private email bother you?,CLINTONEMAILB,NM,West,Mountain,Yes,65,28,56
+Does Clinton's use of private email bother you?,CLINTONEMAILB,NM,West,Mountain,No,34,87,5
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NM,West,Mountain,A lot,53,79,8
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NM,West,Mountain,Some,17,24,58
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NM,West,Mountain,Not much,12,N/A,N/A
+Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NM,West,Mountain,Not at all,16,10,85
+Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,NM,West,Mountain,Yes,70,65,20
+Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,NM,West,Mountain,No,28,7,85
+Condition of national economy,NEC,NM,West,Mountain,Excellent,3,N/A,N/A
+Condition of national economy,NEC,NM,West,Mountain,Good,33,85,10
+Condition of national economy,NEC,NM,West,Mountain,Not good,37,41,42
+Condition of national economy,NEC,NM,West,Mountain,Poor,27,10,75
+Condition of national economy,NEC2,NM,West,Mountain,Good,36,85,10
+Condition of national economy,NEC2,NM,West,Mountain,Poor,64,28,56
+Life for the next generation of Americans will be:,LIFE,NM,West,Mountain,Better than today,41,57,37
+Life for the next generation of Americans will be:,LIFE,NM,West,Mountain,Worse than today,25,33,53
+Life for the next generation of Americans will be:,LIFE,NM,West,Mountain,About the same,30,52,31
+Vote for president in a two-way race,2WAYPRES16,NM,West,Mountain,Clinton,50,95,0
+Vote for president in a two-way race,2WAYPRES16,NM,West,Mountain,Trump,39,0,93
+Vote for president in a two-way race,2WAYPRES16,NM,West,Mountain,Would not vote,10,10,22
+Area type,SIZEPLC3,NM,West,Mountain,Urban area,51,57,31
+Area type,SIZEPLC3,NM,West,Mountain,Suburban area,17,42,45
+Area type,SIZEPLC3,NM,West,Mountain,Rural area,32,38,51
+Region,GEOCOD,NM,West,Mountain,Little TX / East,14,23,65
+Region,GEOCOD,NM,West,Mountain,N. Central,15,69,19
+Region,GEOCOD,NM,West,Mountain,Albuquerque Area,50,51,38
+Region,GEOCOD,NM,West,Mountain,West,21,44,43

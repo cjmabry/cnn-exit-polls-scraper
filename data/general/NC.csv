@@ -1,0 +1,202 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Gender,SEX,NC,South,South Atlantic,Male,46,39,56
+Gender,SEX,NC,South,South Atlantic,Female,54,53,45
+Age,AGE,NC,South,South Atlantic,18-29,18,58,35
+Age,AGE,NC,South,South Atlantic,30-44,26,50,46
+Age,AGE,NC,South,South Atlantic,45-64,38,44,55
+Age,AGE,NC,South,South Atlantic,65 and older,18,37,60
+Age,AGE65,NC,South,South Atlantic,18-24,10,59,35
+Age,AGE65,NC,South,South Atlantic,25-29,8,56,35
+Age,AGE65,NC,South,South Atlantic,30-39,17,50,45
+Age,AGE65,NC,South,South Atlantic,40-49,19,45,53
+Age,AGE65,NC,South,South Atlantic,50-64,27,45,54
+Age,AGE65,NC,South,South Atlantic,65 and older,18,37,60
+Age,AGE45,NC,South,South Atlantic,18-44,44,53,41
+Age,AGE45,NC,South,South Atlantic,45 and older,56,42,57
+Race,RACE,NC,South,South Atlantic,White,70,33,63
+Race,RACE,NC,South,South Atlantic,Black,20,90,8
+Race,RACE,NC,South,South Atlantic,Latino,5,59,39
+Race,RACE,NC,South,South Atlantic,Asian,1,N/A,N/A
+Race,RACE,NC,South,South Atlantic,Other race,3,57,40
+Race,RACE2B,NC,South,South Atlantic,White,70,33,63
+Race,RACE2B,NC,South,South Atlantic,Non-white,30,80,18
+Race and gender,SEXBYRACE,NC,South,South Atlantic,White men,33,27,68
+Race and gender,SEXBYRACE,NC,South,South Atlantic,White women,37,38,60
+Race and gender,SEXBYRACE,NC,South,South Atlantic,Black men,9,82,14
+Race and gender,SEXBYRACE,NC,South,South Atlantic,Black women,11,95,3
+Race and gender,SEXBYRACE,NC,South,South Atlantic,Latino men,2,N/A,N/A
+Race and gender,SEXBYRACE,NC,South,South Atlantic,Latino women,3,71,27
+Race and gender,SEXBYRACE,NC,South,South Atlantic,Others,4,59,39
+Education,EDUC12R,NC,South,South Atlantic,High school or less,18,45,53
+Education,EDUC12R,NC,South,South Atlantic,Some college,32,43,52
+Education,EDUC12R,NC,South,South Atlantic,College graduate,33,48,50
+Education,EDUC12R,NC,South,South Atlantic,Postgraduate,17,53,44
+Are you a college graduate?,EDUCCOLL,NC,South,South Atlantic,Yes,50,50,48
+Are you a college graduate?,EDUCCOLL,NC,South,South Atlantic,No,50,43,52
+Education and race,EDUCWHITE,NC,South,South Atlantic,White college graduates,37,40,58
+Education and race,EDUCWHITE,NC,South,South Atlantic,Whites no degree,33,25,69
+Education and race,EDUCWHITE,NC,South,South Atlantic,Non-whites college grads,13,80,17
+Education and race,EDUCWHITE,NC,South,South Atlantic,Non-whites no degree,17,79,19
+Education among whites by sex,EDUCWHITEBYSEX,NC,South,South Atlantic,White college-grad women,19,46,52
+Education among whites by sex,EDUCWHITEBYSEX,NC,South,South Atlantic,White non-college women,18,29,67
+Education among whites by sex,EDUCWHITEBYSEX,NC,South,South Atlantic,White college-grad men,18,33,65
+Education among whites by sex,EDUCWHITEBYSEX,NC,South,South Atlantic,White non-college men,16,21,71
+Education among whites by sex,EDUCWHITEBYSEX,NC,South,South Atlantic,Non-whites,30,80,18
+Income,INCOME16GEN,NC,South,South Atlantic,"Under $30,000",19,57,36
+Income,INCOME16GEN,NC,South,South Atlantic,"$30K-$49,999",19,56,40
+Income,INCOME16GEN,NC,South,South Atlantic,"$50K-$99,999",32,49,49
+Income,INCOME16GEN,NC,South,South Atlantic,"$100K-$199,999",23,37,62
+Income,INCOME16GEN,NC,South,South Atlantic,"$200K-$249,999",4,N/A,N/A
+Income,INCOME16GEN,NC,South,South Atlantic,"$250,000 or more",3,N/A,N/A
+Income,INCOME3,NC,South,South Atlantic,Under $50K,38,56,38
+Income,INCOME3,NC,South,South Atlantic,$50K-$100K,32,49,49
+Income,INCOME3,NC,South,South Atlantic,$100K or more,30,39,60
+Income,INC50K,NC,South,South Atlantic,Under $50K,38,56,38
+Income,INC50K,NC,South,South Atlantic,$50K or more,62,44,54
+Income,INC100K,NC,South,South Atlantic,Under $100K,70,53,43
+Income,INC100K,NC,South,South Atlantic,$100K or more,30,39,60
+Party ID,PARTY,NC,South,South Atlantic,Democrats,36,91,8
+Party ID,PARTY,NC,South,South Atlantic,Republicans,31,4,94
+Party ID,PARTY,NC,South,South Atlantic,Independents,33,39,54
+Party by gender,PARTYGENDER,NC,South,South Atlantic,Democratic men,12,89,10
+Party by gender,PARTYGENDER,NC,South,South Atlantic,Democratic women,23,92,7
+Party by gender,PARTYGENDER,NC,South,South Atlantic,Republican men,16,5,94
+Party by gender,PARTYGENDER,NC,South,South Atlantic,Republican women,16,4,95
+Party by gender,PARTYGENDER,NC,South,South Atlantic,Independent men,18,34,56
+Party by gender,PARTYGENDER,NC,South,South Atlantic,Independent women,15,44,51
+Ideology,PHIL3,NC,South,South Atlantic,Liberal,23,87,8
+Ideology,PHIL3,NC,South,South Atlantic,Moderate,35,58,37
+Ideology,PHIL3,NC,South,South Atlantic,Conservative,43,15,83
+White born-again or evangelical Christian?,WHTEVANG,NC,South,South Atlantic,Yes,38,17,81
+White born-again or evangelical Christian?,WHTEVANG,NC,South,South Atlantic,No,62,65,32
+Marital status,MARRIED,NC,South,South Atlantic,Married,61,40,59
+Marital status,MARRIED,NC,South,South Atlantic,Unmarried,39,56,38
+Marital status by gender,SEXWED,NC,South,South Atlantic,Married men,30,32,66
+Marital status by gender,SEXWED,NC,South,South Atlantic,Married women,31,47,51
+Marital status by gender,SEXWED,NC,South,South Atlantic,Unmarried men,17,48,43
+Marital status by gender,SEXWED,NC,South,South Atlantic,Unmarried women,21,62,33
+Parent?,CHILD12,NC,South,South Atlantic,Yes,36,50,48
+Parent?,CHILD12,NC,South,South Atlantic,No,64,46,51
+Parents by gender,PARENTS,NC,South,South Atlantic,Fathers,18,38,61
+Parents by gender,PARENTS,NC,South,South Atlantic,Mothers,18,61,35
+Parents by gender,PARENTS,NC,South,South Atlantic,Men without children,29,38,56
+Parents by gender,PARENTS,NC,South,South Atlantic,Women without children,36,52,47
+Married with children?,MARCHILD,NC,South,South Atlantic,Yes,27,44,54
+Married with children?,MARCHILD,NC,South,South Atlantic,No,73,49,48
+Served in the U.S. military,VETVOTER,NC,South,South Atlantic,Veterans,15,33,58
+Served in the U.S. military,VETVOTER,NC,South,South Atlantic,Non-veterans,85,48,49
+When did you decide presidential vote?,TIME16,NC,South,South Atlantic,Last few days,5,44,49
+When did you decide presidential vote?,TIME16,NC,South,South Atlantic,Last week,3,N/A,N/A
+When did you decide presidential vote?,TIME16,NC,South,South Atlantic,In October,18,33,61
+When did you decide presidential vote?,TIME16,NC,South,South Atlantic,In September,13,57,42
+When did you decide presidential vote?,TIME16,NC,South,South Atlantic,Before September,59,51,48
+When did you decide presidential vote?,TIME16WEEK,NC,South,South Atlantic,In the last week,7,41,49
+When did you decide presidential vote?,TIME16WEEK,NC,South,South Atlantic,Before that,90,48,50
+When did you decide presidential vote?,TIME16MONTH,NC,South,South Atlantic,In the last month,25,35,57
+When did you decide presidential vote?,TIME16MONTH,NC,South,South Atlantic,Before that,72,52,47
+Opinion of presidential candidate you voted for,DESCRIBP12,NC,South,South Atlantic,Strongly favor ,41,52,46
+Opinion of presidential candidate you voted for,DESCRIBP12,NC,South,South Atlantic,Have reservations,28,51,48
+Opinion of presidential candidate you voted for,DESCRIBP12,NC,South,South Atlantic,Dislike opponents,29,38,55
+Most important issue facing the country,ISSUE16,NC,South,South Atlantic,Foreign policy,14,58,39
+Most important issue facing the country,ISSUE16,NC,South,South Atlantic,Immigration,10,29,70
+Most important issue facing the country,ISSUE16,NC,South,South Atlantic,Economy,55,53,44
+Most important issue facing the country,ISSUE16,NC,South,South Atlantic,Terrorism,18,35,64
+Which candidate quality mattered most?,QLT16,NC,South,South Atlantic,Cares about me,17,57,40
+Which candidate quality mattered most?,QLT16,NC,South,South Atlantic,Can bring change,38,9,89
+Which candidate quality mattered most?,QLT16,NC,South,South Atlantic,Right experience,20,91,7
+Which candidate quality mattered most?,QLT16,NC,South,South Atlantic,Good judgment,21,69,26
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,NC,South,South Atlantic,Offered legal status,69,61,36
+Illegal immigrants working in the U.S. should be:,IMMDEPORT,NC,South,South Atlantic,Deported to home country,25,15,80
+Do you think immigrants to the U.S. today:,IMMBETTER,NC,South,South Atlantic,Help the country,58,69,28
+Do you think immigrants to the U.S. today:,IMMBETTER,NC,South,South Atlantic,Hurt the country,29,14,85
+Does the country's criminal justice system:,FAIRJUSTICE,NC,South,South Atlantic,Treat all fairly,41,23,73
+Does the country's criminal justice system:,FAIRJUSTICE,NC,South,South Atlantic,Treat blacks unfairly,47,74,22
+How do things work in the U.S. today?,RACEFACTOR,NC,South,South Atlantic,Whites are favored,33,85,14
+How do things work in the U.S. today?,RACEFACTOR,NC,South,South Atlantic,Minorities are favored,25,8,91
+How do things work in the U.S. today?,RACEFACTOR,NC,South,South Atlantic,No group is favored,33,44,50
+Effect of international trade,TRADE16,NC,South,South Atlantic,Creates U.S. jobs,38,63,34
+Effect of international trade,TRADE16,NC,South,South Atlantic,Takes away U.S. jobs,39,25,71
+Effect of international trade,TRADE16,NC,South,South Atlantic,Does not affect jobs,14,67,28
+Feelings about the federal government,GOVTANGR16,NC,South,South Atlantic,Enthusiastic,3,N/A,N/A
+Feelings about the federal government,GOVTANGR16,NC,South,South Atlantic,Satisfied,22,88,12
+Feelings about the federal government,GOVTANGR16,NC,South,South Atlantic,Dissatisfied,48,43,54
+Feelings about the federal government,GOVTANGR16,NC,South,South Atlantic,Angry,27,19,77
+Feelings about the federal government,GOVTANGR16B,NC,South,South Atlantic,Enthusiastic/Satisfied,25,88,12
+Feelings about the federal government,GOVTANGR16B,NC,South,South Atlantic,Dissatisfied/Angry,74,34,62
+Opinion of Barack Obama as president,OBAMA4,NC,South,South Atlantic,Strongly approve,33,96,2
+Opinion of Barack Obama as president,OBAMA4,NC,South,South Atlantic,Somewhat approve,18,70,22
+Opinion of Barack Obama as president,OBAMA4,NC,South,South Atlantic,Somewhat disapprove,12,16,82
+Opinion of Barack Obama as president,OBAMA4,NC,South,South Atlantic,Strongly disapprove,36,2,98
+Opinion of Barack Obama as president,OBAMA2,NC,South,South Atlantic,Approve,51,87,9
+Opinion of Barack Obama as president,OBAMA2,NC,South,South Atlantic,Disapprove,49,5,94
+Opinion of Hillary Clinton,FAVHCLIN16,NC,South,South Atlantic,Favorable,43,96,3
+Opinion of Hillary Clinton,FAVHCLIN16,NC,South,South Atlantic,Unfavorable,55,9,89
+Opinion of Donald Trump,FAVTRUMP,NC,South,South Atlantic,Favorable,41,2,97
+Opinion of Donald Trump,FAVTRUMP,NC,South,South Atlantic,Unfavorable,58,79,17
+Opinion of Clinton and Trump,FAVPRES16,NC,South,South Atlantic,Both favorable,1,N/A,N/A
+Opinion of Clinton and Trump,FAVPRES16,NC,South,South Atlantic,Only Clinton favorable,42,98,1
+Opinion of Clinton and Trump,FAVPRES16,NC,South,South Atlantic,Only Trump favorable,40,1,98
+Opinion of Clinton and Trump,FAVPRES16,NC,South,South Atlantic,Both unfavorable,15,28,63
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,NC,South,South Atlantic,Yes,39,98,2
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,NC,South,South Atlantic,No,60,14,82
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,NC,South,South Atlantic,Yes,41,6,94
+Is Donald Trump honest and trustworthy?,TRUMPHONEST,NC,South,South Atlantic,No,58,78,18
+Which candidate is honest?,HONEST16,NC,South,South Atlantic,Both are,3,N/A,N/A
+Which candidate is honest?,HONEST16,NC,South,South Atlantic,Only Clinton is,36,100,0
+Which candidate is honest?,HONEST16,NC,South,South Atlantic,Only Trump is,38,1,99
+Which candidate is honest?,HONEST16,NC,South,South Atlantic,Neither is,21,38,49
+Is Clinton qualified to serve as president?,QUALCLINTON,NC,South,South Atlantic,Yes,50,91,7
+Is Clinton qualified to serve as president?,QUALCLINTON,NC,South,South Atlantic,No,50,4,93
+Is Trump qualified to serve as president?,QUALTRUMP,NC,South,South Atlantic,Yes,44,2,96
+Is Trump qualified to serve as president?,QUALTRUMP,NC,South,South Atlantic,No,56,83,13
+Who is qualified to serve as president?,QUALIFIED16,NC,South,South Atlantic,Both are,4,N/A,N/A
+Who is qualified to serve as president?,QUALIFIED16,NC,South,South Atlantic,Only Clinton is,46,97,2
+Who is qualified to serve as president?,QUALIFIED16,NC,South,South Atlantic,Only Trump is,40,2,98
+Who is qualified to serve as president?,QUALIFIED16,NC,South,South Atlantic,Neither is,10,15,70
+Does Clinton have the temperament to be president?,TEMPCLINTON,NC,South,South Atlantic,Yes,52,89,9
+Does Clinton have the temperament to be president?,TEMPCLINTON,NC,South,South Atlantic,No,47,2,94
+Does Trump have the temperament to be president?,TEMPTRUMP,NC,South,South Atlantic,Yes,41,3,95
+Does Trump have the temperament to be president?,TEMPTRUMP,NC,South,South Atlantic,No,58,80,16
+Which candidate has the right temperament?,TEMPERAMENT16,NC,South,South Atlantic,Both do,5,N/A,N/A
+Which candidate has the right temperament?,TEMPERAMENT16,NC,South,South Atlantic,Only Clinton does,47,97,2
+Which candidate has the right temperament?,TEMPERAMENT16,NC,South,South Atlantic,Only Trump does,36,1,99
+Which candidate has the right temperament?,TEMPERAMENT16,NC,South,South Atlantic,Neither does,11,5,78
+Who would better handle the economy?,HANDLEECON16,NC,South,South Atlantic,Clinton,46,96,2
+Who would better handle the economy?,HANDLEECON16,NC,South,South Atlantic,Trump,50,3,96
+Who would better handle foreign policy?,HANDLEFP16,NC,South,South Atlantic,Clinton,51,89,8
+Who would better handle foreign policy?,HANDLEFP16,NC,South,South Atlantic,Trump,45,1,98
+Condition of national economy,NEC,NC,South,South Atlantic,Excellent,3,N/A,N/A
+Condition of national economy,NEC,NC,South,South Atlantic,Good,32,79,19
+Condition of national economy,NEC,NC,South,South Atlantic,Not good,40,38,57
+Condition of national economy,NEC,NC,South,South Atlantic,Poor,24,16,83
+Condition of national economy,NEC2,NC,South,South Atlantic,Good,35,80,19
+Condition of national economy,NEC2,NC,South,South Atlantic,Poor,64,29,67
+Life for the next generation of Americans will be:,LIFE,NC,South,South Atlantic,Better than today,28,64,33
+Life for the next generation of Americans will be:,LIFE,NC,South,South Atlantic,Worse than today,35,27,70
+Life for the next generation of Americans will be:,LIFE,NC,South,South Atlantic,About the same,30,57,36
+How do you feel about H.B. 2?,HB2,NC,South,South Atlantic,Favor,29,24,76
+How do you feel about H.B. 2?,HB2,NC,South,South Atlantic,Oppose,65,59,38
+Which best describes you?,MOVETONC14,NC,South,South Atlantic,Moved to N.C. since 2006,11,47,48
+Which best describes you?,MOVETONC14,NC,South,South Atlantic,Moved to N.C. before 2006,36,55,44
+Which best describes you?,MOVETONC14,NC,South,South Atlantic,Born in N.C.,52,44,55
+Which better describes you?,BORNINNC14,NC,South,South Atlantic,Born in North Carolina,52,44,55
+Which better describes you?,BORNINNC14,NC,South,South Atlantic,Moved to North Carolina,47,53,45
+Did any campaign contact you?,GOTV16,NC,South,South Atlantic,Only Clinton,13,91,8
+Did any campaign contact you?,GOTV16,NC,South,South Atlantic,Only Trump,9,8,92
+Did any campaign contact you?,GOTV16,NC,South,South Atlantic,Both,13,41,47
+Did any campaign contact you?,GOTV16,NC,South,South Atlantic,Neither,62,46,53
+Were you contacted by the Clinton campaign?,GOTVCLINTON,NC,South,South Atlantic,Yes,27,66,28
+Were you contacted by the Clinton campaign?,GOTVCLINTON,NC,South,South Atlantic,No,71,41,58
+Were you contacted by the Trump campaign?,GOTVTRUMP,NC,South,South Atlantic,Yes,22,28,65
+Were you contacted by the Trump campaign?,GOTVTRUMP,NC,South,South Atlantic,No,75,54,45
+Vote for president in a two-way race,2WAYPRES16,NC,South,South Atlantic,Clinton,46,97,1
+Vote for president in a two-way race,2WAYPRES16,NC,South,South Atlantic,Trump,50,1,98
+Vote for president in a two-way race,2WAYPRES16,NC,South,South Atlantic,Would not vote,3,N/A,N/A
+Area type,SIZEPLC3,NC,South,South Atlantic,Urban area,37,61,35
+Area type,SIZEPLC3,NC,South,South Atlantic,Suburban area,38,37,60
+Area type,SIZEPLC3,NC,South,South Atlantic,Rural area,24,40,58
+Region,GEOCOD,NC,South,South Atlantic,East,24,45,51
+Region,GEOCOD,NC,South,South Atlantic,Raleigh-Durham,18,61,36
+Region,GEOCOD,NC,South,South Atlantic,Charlotte Area,18,51,46
+Region,GEOCOD,NC,South,South Atlantic,Piedmont / Central,21,44,53
+Region,GEOCOD,NC,South,South Atlantic,West,19,35,63
