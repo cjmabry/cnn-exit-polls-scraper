@@ -1,0 +1,101 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Vote by Gender,SEX,KS,Midwest,West North Central,Men,50,29,69
+Vote by Gender,SEX,KS,Midwest,West North Central,Women,50,47,51
+Vote by Age,AGE,KS,Midwest,West North Central,18-29,17,41,54
+Vote by Age,AGE,KS,Midwest,West North Central,30-44,24,39,59
+Vote by Age,AGE,KS,Midwest,West North Central,45-64,42,36,63
+Vote by Age,AGE,KS,Midwest,West North Central,65 and Older,17,38,60
+Vote by Age,AGE65,KS,Midwest,West North Central,18-24,9,N/A,N/A
+Vote by Age,AGE65,KS,Midwest,West North Central,25-29,7,N/A,N/A
+Vote by Age,AGE65,KS,Midwest,West North Central,30-39,17,44,53
+Vote by Age,AGE65,KS,Midwest,West North Central,40-49,18,30,70
+Vote by Age,AGE65,KS,Midwest,West North Central,50-64,32,37,60
+Vote by Age,AGE65,KS,Midwest,West North Central,65 and Older,17,38,60
+Vote by Race,RACE,KS,Midwest,West North Central,White,87,33,64
+Vote by Race,RACE,KS,Midwest,West North Central,African-American,5,N/A,N/A
+Vote by Race,RACE,KS,Midwest,West North Central,Latino,5,N/A,N/A
+Vote by Race,RACE,KS,Midwest,West North Central,Asian,1,N/A,N/A
+Vote by Race,RACE,KS,Midwest,West North Central,Other,2,N/A,N/A
+Vote by Gender and Race,SEXBYRACE,KS,Midwest,West North Central,White Men,44,24,74
+Vote by Gender and Race,SEXBYRACE,KS,Midwest,West North Central,White Women,43,43,54
+Vote by Gender and Race,SEXBYRACE,KS,Midwest,West North Central,Black Men,2,N/A,N/A
+Vote by Gender and Race,SEXBYRACE,KS,Midwest,West North Central,Black Women,3,N/A,N/A
+Vote by Gender and Race,SEXBYRACE,KS,Midwest,West North Central,Latino Men,3,N/A,N/A
+Vote by Gender and Race,SEXBYRACE,KS,Midwest,West North Central,Latino Women,2,N/A,N/A
+Vote by Gender and Race,SEXBYRACE,KS,Midwest,West North Central,All Others,2,N/A,N/A
+Vote by Ideology,PHIL3,KS,Midwest,West North Central,Liberal,17,88,6
+Vote by Ideology,PHIL3,KS,Midwest,West North Central,Moderate,44,43,55
+Vote by Ideology,PHIL3,KS,Midwest,West North Central,Conservative,39,9,90
+Vote by Party ID,PARTY,KS,Midwest,West North Central,Democratic,27,88,10
+Vote by Party ID,PARTY,KS,Midwest,West North Central,Republican,48,6,93
+Vote by Party ID,PARTY,KS,Midwest,West North Central,Independent,24,43,51
+Vote by Education,EDUC10,KS,Midwest,West North Central,No High School,3,N/A,N/A
+Vote by Education,EDUC10,KS,Midwest,West North Central,High School Graduate,23,44,54
+Vote by Education,EDUC10,KS,Midwest,West North Central,Some College,28,38,59
+Vote by Education,EDUC10,KS,Midwest,West North Central,College Graduate,29,33,64
+Vote by Education,EDUC10,KS,Midwest,West North Central,Postgraduate,17,36,61
+Are You a College Graduate?,EDUCCOLL,KS,Midwest,West North Central,Yes,46,34,63
+Are You a College Graduate?,EDUCCOLL,KS,Midwest,West North Central,No,54,41,57
+Did You Attend College?,EDUCHS,KS,Midwest,West North Central,Yes,75,36,62
+Did You Attend College?,EDUCHS,KS,Midwest,West North Central,No,25,44,54
+Vote by Income,INCOME3,KS,Midwest,West North Central,Less Than $50K,39,43,54
+Vote by Income,INCOME3,KS,Midwest,West North Central,$50-100K,34,42,56
+Vote by Income,INCOME3,KS,Midwest,West North Central,$100K or More,27,25,73
+Vote by Income,INC50K,KS,Midwest,West North Central,Less Than $50K,39,43,54
+Vote by Income,INC50K,KS,Midwest,West North Central,$50K or More,61,34,63
+Vote by Income,INC100K,KS,Midwest,West North Central,Less Than $100K,73,42,55
+Vote by Income,INC100K,KS,Midwest,West North Central,$100K or More,27,25,73
+How Often Do You Attend Religious Services?,ATTEND,KS,Midwest,West North Central,More Than Weekly,17,N/A,N/A
+How Often Do You Attend Religious Services?,ATTEND,KS,Midwest,West North Central,Weekly,36,25,74
+How Often Do You Attend Religious Services?,ATTEND,KS,Midwest,West North Central,Monthly,13,N/A,N/A
+How Often Do You Attend Religious Services?,ATTEND,KS,Midwest,West North Central,Few Times a Year,21,51,48
+How Often Do You Attend Religious Services?,ATTEND,KS,Midwest,West North Central,Never,12,N/A,N/A
+How Often Do You Attend Religious Services?,ATTEND2,KS,Midwest,West North Central,Weekly,52,25,74
+How Often Do You Attend Religious Services?,ATTEND2,KS,Midwest,West North Central,Occasionally,35,46,51
+How Often Do You Attend Religious Services?,ATTEND2,KS,Midwest,West North Central,Never,12,N/A,N/A
+Are You White Born-Again Christian?,WHTEVANG,KS,Midwest,West North Central,Yes,33,20,79
+Are You White Born-Again Christian?,WHTEVANG,KS,Midwest,West North Central,No,67,45,53
+Most Important Issue Facing Country,ISSUE12,KS,Midwest,West North Central,Foreign Policy,4,N/A,N/A
+Most Important Issue Facing Country,ISSUE12,KS,Midwest,West North Central,Deficit,16,N/A,N/A
+Most Important Issue Facing Country,ISSUE12,KS,Midwest,West North Central,Economy,59,35,62
+Most Important Issue Facing Country,ISSUE12,KS,Midwest,West North Central,Health Care,19,58,40
+Who Is More In Touch With People Like You?,INTOUCH12,KS,Midwest,West North Central,Obama,38,91,7
+Who Is More In Touch With People Like You?,INTOUCH12,KS,Midwest,West North Central,Romney,58,1,98
+Who Would Better Handle Economy?,HANDLEECON12,KS,Midwest,West North Central,Obama,34,98,2
+Who Would Better Handle Economy?,HANDLEECON12,KS,Midwest,West North Central,Romney,62,3,96
+Opinion of Government,GOVTDO10,KS,Midwest,West North Central,Government Should Do More,30,72,26
+Opinion of Government,GOVTDO10,KS,Midwest,West North Central,Government Doing Too Much,65,17,80
+Your Family's Financial Situation,FINSIT,KS,Midwest,West North Central,Better,20,67,31
+Your Family's Financial Situation,FINSIT,KS,Midwest,West North Central,Worse,35,9,89
+Your Family's Financial Situation,FINSIT,KS,Midwest,West North Central,Same,44,45,52
+Opinion of Barack Obama,FAVOBAMA2,KS,Midwest,West North Central,Favorable,39,88,12
+Opinion of Barack Obama,FAVOBAMA2,KS,Midwest,West North Central,Unfavorable,60,3,94
+Opinion of Mitt Romney,FAVROMN2,KS,Midwest,West North Central,Favorable,59,6,94
+Opinion of Mitt Romney,FAVROMN2,KS,Midwest,West North Central,Unfavorable,39,82,14
+Opinion of Presidential Candidate You Voted For,DESCRIBP12,KS,Midwest,West North Central,Strongly Favor,58,37,62
+Opinion of Presidential Candidate You Voted For,DESCRIBP12,KS,Midwest,West North Central,Have Reservations,26,37,62
+Opinion of Presidential Candidate You Voted For,DESCRIBP12,KS,Midwest,West North Central,Dislike Opponent,15,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,KS,Midwest,West North Central,Just Today,6,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,KS,Midwest,West North Central,Last Few Days,7,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,KS,Midwest,West North Central,In October,8,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,KS,Midwest,West North Central,In September,8,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,KS,Midwest,West North Central,Before That,70,37,62
+When Did You Decide Presidential Vote?,TIME12FEWD,KS,Midwest,West North Central,Today/Last Few Days,13,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12FEWD,KS,Midwest,West North Central,Before That,86,36,62
+When Did You Decide Presidential Vote?,TIME12MTH,KS,Midwest,West North Central,In October or November,22,39,54
+When Did You Decide Presidential Vote?,TIME12MTH,KS,Midwest,West North Central,Before That,78,36,63
+Vote by Marital Status,MARRIED,KS,Midwest,West North Central,Married,68,34,64
+Vote by Marital Status,MARRIED,KS,Midwest,West North Central,Unmarried,32,45,51
+Vote by Gender and Marital Status,SEXWED,KS,Midwest,West North Central,Married Men,34,26,72
+Vote by Gender and Marital Status,SEXWED,KS,Midwest,West North Central,Married Women,35,42,56
+Vote by Gender and Marital Status,SEXWED,KS,Midwest,West North Central,Unmarried Men,17,34,63
+Vote by Gender and Marital Status,SEXWED,KS,Midwest,West North Central,Unmarried Women,15,58,39
+How Brownback is Handling Job as Governor,BROWNBACK2,KS,Midwest,West North Central,Approve,55,18,81
+How Brownback is Handling Job as Governor,BROWNBACK2,KS,Midwest,West North Central,Disapprove,35,60,37
+Vote by Size of Place,SIZEPLC3,KS,Midwest,West North Central,Urban,26,56,42
+Vote by Size of Place,SIZEPLC3,KS,Midwest,West North Central,Suburban,33,38,59
+Vote by Size of Place,SIZEPLC3,KS,Midwest,West North Central,Rural,41,26,71
+Vote by Region,GEOCOD,KS,Midwest,West North Central,K.C./Topeka Area,40,48,50
+Vote by Region,GEOCOD,KS,Midwest,West North Central,Eastern Kansas,15,N/A,N/A
+Vote by Region,GEOCOD,KS,Midwest,West North Central,Wichita Area,24,38,59
+Vote by Region,GEOCOD,KS,Midwest,West North Central,Western Kansas,21,27,71

@@ -1,0 +1,101 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Vote by Gender,SEX,AL,South,East South Central,Men,45,33,66
+Vote by Gender,SEX,AL,South,East South Central,Women,55,44,56
+Vote by Age,AGE,AL,South,East South Central,18-29,18,48,52
+Vote by Age,AGE,AL,South,East South Central,30-44,27,44,54
+Vote by Age,AGE,AL,South,East South Central,45-64,41,35,65
+Vote by Age,AGE,AL,South,East South Central,65 and Older,15,31,69
+Vote by Age,AGE65,AL,South,East South Central,18-24,10,47,52
+Vote by Age,AGE65,AL,South,East South Central,25-29,7,N/A,N/A
+Vote by Age,AGE65,AL,South,East South Central,30-39,16,50,47
+Vote by Age,AGE65,AL,South,East South Central,40-49,22,33,66
+Vote by Age,AGE65,AL,South,East South Central,50-64,30,36,63
+Vote by Age,AGE65,AL,South,East South Central,65 and Older,15,31,69
+Vote by Race,RACE,AL,South,East South Central,White,68,15,84
+Vote by Race,RACE,AL,South,East South Central,African-American,28,95,4
+Vote by Race,RACE,AL,South,East South Central,Latino,2,N/A,N/A
+Vote by Race,RACE,AL,South,East South Central,Asian,0,N/A,N/A
+Vote by Race,RACE,AL,South,East South Central,Other,2,N/A,N/A
+Vote by Gender and Race,SEXBYRACE,AL,South,East South Central,White Men,34,14,84
+Vote by Gender and Race,SEXBYRACE,AL,South,East South Central,White Women,34,16,83
+Vote by Gender and Race,SEXBYRACE,AL,South,East South Central,Black Men,10,96,4
+Vote by Gender and Race,SEXBYRACE,AL,South,East South Central,Black Women,18,95,4
+Vote by Gender and Race,SEXBYRACE,AL,South,East South Central,Latino Men,1,N/A,N/A
+Vote by Gender and Race,SEXBYRACE,AL,South,East South Central,Latino Women,1,N/A,N/A
+Vote by Gender and Race,SEXBYRACE,AL,South,East South Central,All Others,2,N/A,N/A
+Vote by Ideology,PHIL3,AL,South,East South Central,Liberal,16,82,17
+Vote by Ideology,PHIL3,AL,South,East South Central,Moderate,37,47,52
+Vote by Ideology,PHIL3,AL,South,East South Central,Conservative,47,11,88
+Vote by Party ID,PARTY,AL,South,East South Central,Democratic,34,90,9
+Vote by Party ID,PARTY,AL,South,East South Central,Republican,43,1,98
+Vote by Party ID,PARTY,AL,South,East South Central,Independent,24,23,75
+Vote by Education,EDUC10,AL,South,East South Central,No High School,3,N/A,N/A
+Vote by Education,EDUC10,AL,South,East South Central,High School Graduate,21,40,60
+Vote by Education,EDUC10,AL,South,East South Central,Some College,31,30,69
+Vote by Education,EDUC10,AL,South,East South Central,College Graduate,30,34,65
+Vote by Education,EDUC10,AL,South,East South Central,Postgraduate,14,46,53
+Are You a College Graduate?,EDUCCOLL,AL,South,East South Central,Yes,44,38,62
+Are You a College Graduate?,EDUCCOLL,AL,South,East South Central,No,56,35,64
+Did You Attend College?,EDUCHS,AL,South,East South Central,Yes,75,35,65
+Did You Attend College?,EDUCHS,AL,South,East South Central,No,25,41,58
+Vote by Income,INCOME3,AL,South,East South Central,Less Than $50K,47,45,54
+Vote by Income,INCOME3,AL,South,East South Central,$50-100K,32,30,70
+Vote by Income,INCOME3,AL,South,East South Central,$100K or More,22,30,70
+Vote by Income,INC50K,AL,South,East South Central,Less Than $50K,47,45,54
+Vote by Income,INC50K,AL,South,East South Central,$50K or More,53,30,70
+Vote by Income,INC100K,AL,South,East South Central,Less Than $100K,78,39,60
+Vote by Income,INC100K,AL,South,East South Central,$100K or More,22,30,70
+How Often Do You Attend Religious Services?,ATTEND,AL,South,East South Central,More Than Weekly,26,38,61
+How Often Do You Attend Religious Services?,ATTEND,AL,South,East South Central,Weekly,34,32,68
+How Often Do You Attend Religious Services?,ATTEND,AL,South,East South Central,Monthly,16,41,58
+How Often Do You Attend Religious Services?,ATTEND,AL,South,East South Central,Few Times a Year,15,N/A,N/A
+How Often Do You Attend Religious Services?,ATTEND,AL,South,East South Central,Never,7,N/A,N/A
+How Often Do You Attend Religious Services?,ATTEND2,AL,South,East South Central,Weekly,60,35,65
+How Often Do You Attend Religious Services?,ATTEND2,AL,South,East South Central,Occasionally,31,39,59
+How Often Do You Attend Religious Services?,ATTEND2,AL,South,East South Central,Never,7,N/A,N/A
+Are You White Born-Again Christian?,WHTEVANG,AL,South,East South Central,Yes,47,10,90
+Are You White Born-Again Christian?,WHTEVANG,AL,South,East South Central,No,53,60,38
+Most Important Issue Facing Country,ISSUE12,AL,South,East South Central,Foreign Policy,4,N/A,N/A
+Most Important Issue Facing Country,ISSUE12,AL,South,East South Central,Deficit,18,16,83
+Most Important Issue Facing Country,ISSUE12,AL,South,East South Central,Economy,61,38,61
+Most Important Issue Facing Country,ISSUE12,AL,South,East South Central,Health Care,15,64,35
+Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,AL,South,East South Central,Offered Legal Status,61,51,48
+Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,AL,South,East South Central,Deported,35,11,88
+Who Is More In Touch With People Like You?,INTOUCH12,AL,South,East South Central,Obama,42,90,8
+Who Is More In Touch With People Like You?,INTOUCH12,AL,South,East South Central,Romney,56,1,99
+Who Would Better Handle Economy?,HANDLEECON12,AL,South,East South Central,Obama,39,95,4
+Who Would Better Handle Economy?,HANDLEECON12,AL,South,East South Central,Romney,59,1,98
+Opinion of Government,GOVTDO10,AL,South,East South Central,Government Should Do More,39,73,25
+Opinion of Government,GOVTDO10,AL,South,East South Central,Government Doing Too Much,59,12,87
+Your Family's Financial Situation,FINSIT,AL,South,East South Central,Better,29,85,15
+Your Family's Financial Situation,FINSIT,AL,South,East South Central,Worse,41,5,95
+Your Family's Financial Situation,FINSIT,AL,South,East South Central,Same,29,47,51
+Opinion of Barack Obama,FAVOBAMA2,AL,South,East South Central,Favorable,43,92,6
+Opinion of Barack Obama,FAVOBAMA2,AL,South,East South Central,Unfavorable,56,2,97
+Opinion of Mitt Romney,FAVROMN2,AL,South,East South Central,Favorable,57,5,95
+Opinion of Mitt Romney,FAVROMN2,AL,South,East South Central,Unfavorable,42,89,9
+Opinion of Presidential Candidate You Voted For,DESCRIBP12,AL,South,East South Central,Strongly Favor,77,47,52
+Opinion of Presidential Candidate You Voted For,DESCRIBP12,AL,South,East South Central,Have Reservations,14,N/A,N/A
+Opinion of Presidential Candidate You Voted For,DESCRIBP12,AL,South,East South Central,Dislike Opponent,7,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,AL,South,East South Central,Just Today,3,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,AL,South,East South Central,Last Few Days,5,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,AL,South,East South Central,In October,4,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,AL,South,East South Central,In September,6,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,AL,South,East South Central,Before That,82,40,59
+When Did You Decide Presidential Vote?,TIME12FEWD,AL,South,East South Central,Today/Last Few Days,7,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12FEWD,AL,South,East South Central,Before That,93,39,60
+When Did You Decide Presidential Vote?,TIME12MTH,AL,South,East South Central,In October or November,11,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12MTH,AL,South,East South Central,Before That,88,39,60
+Vote by Marital Status,MARRIED,AL,South,East South Central,Married,65,30,69
+Vote by Marital Status,MARRIED,AL,South,East South Central,Unmarried,35,55,44
+Vote by Gender and Marital Status,SEXWED,AL,South,East South Central,Married Men,31,24,75
+Vote by Gender and Marital Status,SEXWED,AL,South,East South Central,Married Women,34,34,65
+Vote by Gender and Marital Status,SEXWED,AL,South,East South Central,Unmarried Men,14,49,50
+Vote by Gender and Marital Status,SEXWED,AL,South,East South Central,Unmarried Women,21,59,41
+Vote by Size of Place,SIZEPLC3,AL,South,East South Central,Urban,32,38,61
+Vote by Size of Place,SIZEPLC3,AL,South,East South Central,Suburban,41,33,66
+Vote by Size of Place,SIZEPLC3,AL,South,East South Central,Rural,27,48,51
+Vote by Region,GEOCOD,AL,South,East South Central,Northern Alabama,22,33,67
+Vote by Region,GEOCOD,AL,South,East South Central,North Central Alabama,26,27,72
+Vote by Region,GEOCOD,AL,South,East South Central,Birmingham/South Central ,30,55,43
+Vote by Region,GEOCOD,AL,South,East South Central,Southern Alabama,22,37,62

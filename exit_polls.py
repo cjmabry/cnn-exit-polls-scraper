@@ -221,5 +221,5 @@ def saveToCSV(response, state, year):
 
 
 
-# getGeneralsForAllStates()
-getGeneralsForStateAndYear('OH', 2012)
+getGeneralsForAllStates()
+# getGeneralsForStateAndYear('OH', 2012)

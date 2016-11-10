@@ -1,0 +1,114 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Vote by Gender,SEX,MO,Midwest,West North Central,Men,45,43,54
+Vote by Gender,SEX,MO,Midwest,West North Central,Women,55,45,53
+Vote by Age,AGE,MO,Midwest,West North Central,18-29,18,58,39
+Vote by Age,AGE,MO,Midwest,West North Central,30-44,27,42,55
+Vote by Age,AGE,MO,Midwest,West North Central,45-64,39,44,55
+Vote by Age,AGE,MO,Midwest,West North Central,65 and Older,16,33,66
+Vote by Age,AGE65,MO,Midwest,West North Central,18-24,9,53,42
+Vote by Age,AGE65,MO,Midwest,West North Central,25-29,9,63,35
+Vote by Age,AGE65,MO,Midwest,West North Central,30-39,16,42,55
+Vote by Age,AGE65,MO,Midwest,West North Central,40-49,22,45,54
+Vote by Age,AGE65,MO,Midwest,West North Central,50-64,28,42,56
+Vote by Age,AGE65,MO,Midwest,West North Central,65 and Older,16,33,66
+Vote by Race,RACE,MO,Midwest,West North Central,White,78,32,65
+Vote by Race,RACE,MO,Midwest,West North Central,African-American,16,94,6
+Vote by Race,RACE,MO,Midwest,West North Central,Latino,3,N/A,N/A
+Vote by Race,RACE,MO,Midwest,West North Central,Asian,1,N/A,N/A
+Vote by Race,RACE,MO,Midwest,West North Central,Other,2,N/A,N/A
+Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,White Men,35,31,66
+Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,White Women,43,34,65
+Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,Black Men,7,93,7
+Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,Black Women,9,95,5
+Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,Latino Men,2,N/A,N/A
+Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,Latino Women,1,N/A,N/A
+Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,All Others,3,N/A,N/A
+Vote by Ideology,PHIL3,MO,Midwest,West North Central,Liberal,20,81,16
+Vote by Ideology,PHIL3,MO,Midwest,West North Central,Moderate,41,53,44
+Vote by Ideology,PHIL3,MO,Midwest,West North Central,Conservative,39,15,84
+Vote by Party ID,PARTY,MO,Midwest,West North Central,Democratic,37,90,10
+Vote by Party ID,PARTY,MO,Midwest,West North Central,Republican,35,4,96
+Vote by Party ID,PARTY,MO,Midwest,West North Central,Independent,28,35,59
+Vote by Education,EDUC10,MO,Midwest,West North Central,No High School,5,N/A,N/A
+Vote by Education,EDUC10,MO,Midwest,West North Central,High School Graduate,24,44,55
+Vote by Education,EDUC10,MO,Midwest,West North Central,Some College,32,43,55
+Vote by Education,EDUC10,MO,Midwest,West North Central,College Graduate,23,40,57
+Vote by Education,EDUC10,MO,Midwest,West North Central,Postgraduate,16,46,51
+Are You a College Graduate?,EDUCCOLL,MO,Midwest,West North Central,Yes,39,43,55
+Are You a College Graduate?,EDUCCOLL,MO,Midwest,West North Central,No,61,45,54
+Did You Attend College?,EDUCHS,MO,Midwest,West North Central,Yes,71,43,55
+Did You Attend College?,EDUCHS,MO,Midwest,West North Central,No,29,47,52
+Vote by Income,INCOME3,MO,Midwest,West North Central,Less Than $50K,48,52,45
+Vote by Income,INCOME3,MO,Midwest,West North Central,$50-100K,32,39,59
+Vote by Income,INCOME3,MO,Midwest,West North Central,$100K or More,20,38,61
+Vote by Income,INC50K,MO,Midwest,West North Central,Less Than $50K,48,52,45
+Vote by Income,INC50K,MO,Midwest,West North Central,$50K or More,52,39,60
+Vote by Income,INC100K,MO,Midwest,West North Central,Less Than $100K,80,47,51
+Vote by Income,INC100K,MO,Midwest,West North Central,$100K or More,20,38,61
+Are You White Born-Again Christian?,WHTEVANG,MO,Midwest,West North Central,Yes,37,22,76
+Are You White Born-Again Christian?,WHTEVANG,MO,Midwest,West North Central,No,63,60,37
+Abortion Should Be...,ABORTION,MO,Midwest,West North Central,Always Legal,24,76,20
+Abortion Should Be...,ABORTION,MO,Midwest,West North Central,Mostly Legal,29,60,38
+Abortion Should Be...,ABORTION,MO,Midwest,West North Central,Mostly Illegal,29,23,76
+Abortion Should Be...,ABORTION,MO,Midwest,West North Central,Always Illegal,15,20,79
+Abortion Should Be...,ABORT2,MO,Midwest,West North Central,Legal,53,67,30
+Abortion Should Be...,ABORT2,MO,Midwest,West North Central,Illegal,44,22,77
+Most Important Issue Facing Country,ISSUE12,MO,Midwest,West North Central,Foreign Policy,4,N/A,N/A
+Most Important Issue Facing Country,ISSUE12,MO,Midwest,West North Central,Deficit,14,26,72
+Most Important Issue Facing Country,ISSUE12,MO,Midwest,West North Central,Economy,59,39,59
+Most Important Issue Facing Country,ISSUE12,MO,Midwest,West North Central,Health Care,21,66,34
+Most Important Candidate Quality,QLT12,MO,Midwest,West North Central,Shares My Values,34,28,69
+Most Important Candidate Quality,QLT12,MO,Midwest,West North Central,Strong Leader,18,38,60
+Most Important Candidate Quality,QLT12,MO,Midwest,West North Central,Cares About People,19,68,30
+Most Important Candidate Quality,QLT12,MO,Midwest,West North Central,Vision for Future,26,39,58
+Opinion of Government,GOVTDO10,MO,Midwest,West North Central,Government Should Do More,41,74,25
+Opinion of Government,GOVTDO10,MO,Midwest,West North Central,Government Doing Too Much,56,17,79
+National Economic Conditions,NEC,MO,Midwest,West North Central,Excellent,2,N/A,N/A
+National Economic Conditions,NEC,MO,Midwest,West North Central,Good,16,82,17
+National Economic Conditions,NEC,MO,Midwest,West North Central,Not So Good,45,50,48
+National Economic Conditions,NEC,MO,Midwest,West North Central,Poor,36,8,89
+National Economic Conditions,NEC2,MO,Midwest,West North Central,Excellent/Good,18,83,17
+National Economic Conditions,NEC2,MO,Midwest,West North Central,Not So Good/Poor,82,31,66
+Opinion of Barack Obama,FAVOBAMA2,MO,Midwest,West North Central,Favorable,43,92,7
+Opinion of Barack Obama,FAVOBAMA2,MO,Midwest,West North Central,Unfavorable,56,3,94
+Opinion of Mitt Romney,FAVROMN2,MO,Midwest,West North Central,Favorable,56,6,93
+Opinion of Mitt Romney,FAVROMN2,MO,Midwest,West North Central,Unfavorable,43,87,8
+Opinion of Presidential Candidate You Voted For,DESCRIBP12,MO,Midwest,West North Central,Strongly Favor,67,53,46
+Opinion of Presidential Candidate You Voted For,DESCRIBP12,MO,Midwest,West North Central,Have Reservations,23,38,62
+Opinion of Presidential Candidate You Voted For,DESCRIBP12,MO,Midwest,West North Central,Dislike Opponent,9,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,MO,Midwest,West North Central,Just Today,6,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,MO,Midwest,West North Central,Last Few Days,7,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,MO,Midwest,West North Central,In October,7,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,MO,Midwest,West North Central,In September,7,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,MO,Midwest,West North Central,Before That,72,41,58
+When Did You Decide Presidential Vote?,TIME12FEWD,MO,Midwest,West North Central,Today/Last Few Days,14,49,44
+When Did You Decide Presidential Vote?,TIME12FEWD,MO,Midwest,West North Central,Before That,86,40,58
+When Did You Decide Presidential Vote?,TIME12MTH,MO,Midwest,West North Central,In October or November,21,44,49
+When Did You Decide Presidential Vote?,TIME12MTH,MO,Midwest,West North Central,Before That,79,41,58
+Vote by Marital Status,MARRIED,MO,Midwest,West North Central,Married,64,36,62
+Vote by Marital Status,MARRIED,MO,Midwest,West North Central,Unmarried,36,56,41
+Vote by Gender and Marital Status,SEXWED,MO,Midwest,West North Central,Married Men,30,38,59
+Vote by Gender and Marital Status,SEXWED,MO,Midwest,West North Central,Married Women,33,34,65
+Vote by Gender and Marital Status,SEXWED,MO,Midwest,West North Central,Unmarried Men,14,50,48
+Vote by Gender and Marital Status,SEXWED,MO,Midwest,West North Central,Unmarried Women,22,61,37
+Any Children Under 18 Living in Your Home?,CHILD12,MO,Midwest,West North Central,Yes,38,46,51
+Any Children Under 18 Living in Your Home?,CHILD12,MO,Midwest,West North Central,No,62,42,56
+Vote by Marital Status and Children,MARCHILD,MO,Midwest,West North Central,Married With Children,26,40,57
+Vote by Marital Status and Children,MARCHILD,MO,Midwest,West North Central,All Others,74,45,53
+Vote by Gender and Children in Household,PARENTS,MO,Midwest,West North Central,Fathers,16,48,49
+Vote by Gender and Children in Household,PARENTS,MO,Midwest,West North Central,Mothers,22,46,53
+Vote by Gender and Children in Household,PARENTS,MO,Midwest,West North Central,Men With No Children,28,40,57
+Vote by Gender and Children in Household,PARENTS,MO,Midwest,West North Central,Women With No Children,34,44,54
+Vote for Senate,SENMO12,MO,Midwest,West North Central,McCaskill,55,80,19
+Vote for Senate,SENMO12,MO,Midwest,West North Central,Akin,39,1,98
+Vote for Senate,SENMO12,MO,Midwest,West North Central,Dine,6,11,71
+Vote for Governor,GOVMO12,MO,Midwest,West North Central,Nixon,55,76,23
+Vote for Governor,GOVMO12,MO,Midwest,West North Central,Spence,43,4,95
+Vote by Size of Place,SIZEPLC3,MO,Midwest,West North Central,Urban,23,64,34
+Vote by Size of Place,SIZEPLC3,MO,Midwest,West North Central,Suburban,43,46,52
+Vote by Size of Place,SIZEPLC3,MO,Midwest,West North Central,Rural,34,29,69
+Vote by Region,GEOCOD,MO,Midwest,West North Central,St. Louis City and County,24,62,37
+Vote by Region,GEOCOD,MO,Midwest,West North Central,East Central Missouri,15,39,59
+Vote by Region,GEOCOD,MO,Midwest,West North Central,Kansas City Area,20,51,47
+Vote by Region,GEOCOD,MO,Midwest,West North Central,Northern Missouri,15,37,62
+Vote by Region,GEOCOD,MO,Midwest,West North Central,Southern Missouri,25,30,68

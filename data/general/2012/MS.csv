@@ -1,0 +1,100 @@
+question,pollname,state,region,subregion,answer,percent,dem,rep
+Vote by Gender,SEX,MS,South,East South Central,Men,45,40,58
+Vote by Gender,SEX,MS,South,East South Central,Women,55,46,53
+Vote by Age,AGE,MS,South,East South Central,18-29,19,55,43
+Vote by Age,AGE,MS,South,East South Central,30-44,29,44,54
+Vote by Age,AGE,MS,South,East South Central,45-64,39,45,55
+Vote by Age,AGE,MS,South,East South Central,65 and Older,14,22,78
+Vote by Age,AGE65,MS,South,East South Central,18-24,11,N/A,N/A
+Vote by Age,AGE65,MS,South,East South Central,25-29,8,N/A,N/A
+Vote by Age,AGE65,MS,South,East South Central,30-39,18,47,49
+Vote by Age,AGE65,MS,South,East South Central,40-49,21,42,58
+Vote by Age,AGE65,MS,South,East South Central,50-64,29,45,54
+Vote by Age,AGE65,MS,South,East South Central,65 and Older,14,22,78
+Vote by Race,RACE,MS,South,East South Central,White,59,10,89
+Vote by Race,RACE,MS,South,East South Central,African-American,36,96,4
+Vote by Race,RACE,MS,South,East South Central,Latino,3,N/A,N/A
+Vote by Race,RACE,MS,South,East South Central,Asian,0,N/A,N/A
+Vote by Race,RACE,MS,South,East South Central,Other,1,N/A,N/A
+Vote by Gender and Race,SEXBYRACE,MS,South,East South Central,White Men,28,9,88
+Vote by Gender and Race,SEXBYRACE,MS,South,East South Central,White Women,31,11,89
+Vote by Gender and Race,SEXBYRACE,MS,South,East South Central,Black Men,15,95,5
+Vote by Gender and Race,SEXBYRACE,MS,South,East South Central,Black Women,21,96,3
+Vote by Gender and Race,SEXBYRACE,MS,South,East South Central,Latino Men,1,N/A,N/A
+Vote by Gender and Race,SEXBYRACE,MS,South,East South Central,Latino Women,3,N/A,N/A
+Vote by Gender and Race,SEXBYRACE,MS,South,East South Central,All Others,1,N/A,N/A
+Vote by Ideology,PHIL3,MS,South,East South Central,Liberal,15,83,15
+Vote by Ideology,PHIL3,MS,South,East South Central,Moderate,34,56,42
+Vote by Ideology,PHIL3,MS,South,East South Central,Conservative,51,18,81
+Vote by Party ID,PARTY,MS,South,East South Central,Democratic,39,92,8
+Vote by Party ID,PARTY,MS,South,East South Central,Republican,43,4,96
+Vote by Party ID,PARTY,MS,South,East South Central,Independent,18,30,64
+Vote by Education,EDUC10,MS,South,East South Central,No High School,5,N/A,N/A
+Vote by Education,EDUC10,MS,South,East South Central,High School Graduate,31,47,52
+Vote by Education,EDUC10,MS,South,East South Central,Some College,25,46,54
+Vote by Education,EDUC10,MS,South,East South Central,College Graduate,26,38,60
+Vote by Education,EDUC10,MS,South,East South Central,Postgraduate,13,33,62
+Are You a College Graduate?,EDUCCOLL,MS,South,East South Central,Yes,39,36,61
+Are You a College Graduate?,EDUCCOLL,MS,South,East South Central,No,61,47,53
+Did You Attend College?,EDUCHS,MS,South,East South Central,Yes,64,40,58
+Did You Attend College?,EDUCHS,MS,South,East South Central,No,36,48,51
+Vote by Income,INCOME3,MS,South,East South Central,Less Than $50K,52,54,45
+Vote by Income,INCOME3,MS,South,East South Central,$50-100K,29,30,68
+Vote by Income,INCOME3,MS,South,East South Central,$100K or More,19,23,76
+Vote by Income,INC50K,MS,South,East South Central,Less Than $50K,52,54,45
+Vote by Income,INC50K,MS,South,East South Central,$50K or More,48,27,71
+Vote by Income,INC100K,MS,South,East South Central,Less Than $100K,81,46,53
+Vote by Income,INC100K,MS,South,East South Central,$100K or More,19,23,76
+How Often Do You Attend Religious Services?,ATTEND,MS,South,East South Central,More Than Weekly,35,30,69
+How Often Do You Attend Religious Services?,ATTEND,MS,South,East South Central,Weekly,31,43,57
+How Often Do You Attend Religious Services?,ATTEND,MS,South,East South Central,Monthly,15,57,43
+How Often Do You Attend Religious Services?,ATTEND,MS,South,East South Central,Few Times a Year,14,N/A,N/A
+How Often Do You Attend Religious Services?,ATTEND,MS,South,East South Central,Never,4,N/A,N/A
+How Often Do You Attend Religious Services?,ATTEND2,MS,South,East South Central,Weekly,66,36,64
+How Often Do You Attend Religious Services?,ATTEND2,MS,South,East South Central,Occasionally,28,47,53
+How Often Do You Attend Religious Services?,ATTEND2,MS,South,East South Central,Never,4,N/A,N/A
+Are You White Born-Again Christian?,WHTEVANG,MS,South,East South Central,Yes,50,5,95
+Are You White Born-Again Christian?,WHTEVANG,MS,South,East South Central,No,50,73,25
+Most Important Issue Facing Country,ISSUE12,MS,South,East South Central,Foreign Policy,3,N/A,N/A
+Most Important Issue Facing Country,ISSUE12,MS,South,East South Central,Deficit,18,32,66
+Most Important Issue Facing Country,ISSUE12,MS,South,East South Central,Economy,56,32,67
+Most Important Issue Facing Country,ISSUE12,MS,South,East South Central,Health Care,20,66,33
+Who Is More In Touch With People Like You?,INTOUCH12,MS,South,East South Central,Obama,37,96,4
+Who Is More In Touch With People Like You?,INTOUCH12,MS,South,East South Central,Romney,60,5,95
+Who Would Better Handle Economy?,HANDLEECON12,MS,South,East South Central,Obama,37,96,3
+Who Would Better Handle Economy?,HANDLEECON12,MS,South,East South Central,Romney,60,4,95
+Opinion of Government,GOVTDO10,MS,South,East South Central,Government Should Do More,42,69,31
+Opinion of Government,GOVTDO10,MS,South,East South Central,Government Doing Too Much,55,16,82
+Your Family's Financial Situation,FINSIT,MS,South,East South Central,Better,26,73,26
+Your Family's Financial Situation,FINSIT,MS,South,East South Central,Worse,39,12,86
+Your Family's Financial Situation,FINSIT,MS,South,East South Central,Same,34,44,54
+Opinion of Barack Obama,FAVOBAMA2,MS,South,East South Central,Favorable,40,93,6
+Opinion of Barack Obama,FAVOBAMA2,MS,South,East South Central,Unfavorable,59,4,94
+Opinion of Mitt Romney,FAVROMN2,MS,South,East South Central,Favorable,59,6,94
+Opinion of Mitt Romney,FAVROMN2,MS,South,East South Central,Unfavorable,35,91,7
+Opinion of Presidential Candidate You Voted For,DESCRIBP12,MS,South,East South Central,Strongly Favor,77,44,55
+Opinion of Presidential Candidate You Voted For,DESCRIBP12,MS,South,East South Central,Have Reservations,17,22,78
+Opinion of Presidential Candidate You Voted For,DESCRIBP12,MS,South,East South Central,Dislike Opponent,4,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,MS,South,East South Central,Just Today,6,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,MS,South,East South Central,Last Few Days,5,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,MS,South,East South Central,In October,3,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,MS,South,East South Central,In September,5,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12,MS,South,East South Central,Before That,81,38,61
+When Did You Decide Presidential Vote?,TIME12FEWD,MS,South,East South Central,Today/Last Few Days,10,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12FEWD,MS,South,East South Central,Before That,89,37,62
+When Did You Decide Presidential Vote?,TIME12MTH,MS,South,East South Central,In October or November,13,N/A,N/A
+When Did You Decide Presidential Vote?,TIME12MTH,MS,South,East South Central,Before That,86,37,61
+Vote by Marital Status,MARRIED,MS,South,East South Central,Married,66,32,67
+Vote by Marital Status,MARRIED,MS,South,East South Central,Unmarried,34,60,40
+Vote by Gender and Marital Status,SEXWED,MS,South,East South Central,Married Men,30,29,68
+Vote by Gender and Marital Status,SEXWED,MS,South,East South Central,Married Women,35,35,65
+Vote by Gender and Marital Status,SEXWED,MS,South,East South Central,Unmarried Men,14,58,41
+Vote by Gender and Marital Status,SEXWED,MS,South,East South Central,Unmarried Women,21,60,39
+Vote for Senate,SENMS12,MS,South,East South Central,Gore,41,93,6
+Vote for Senate,SENMS12,MS,South,East South Central,Wicker,57,7,93
+Vote by Size of Place,SIZEPLC3,MS,South,East South Central,Urban,6,N/A,N/A
+Vote by Size of Place,SIZEPLC3,MS,South,East South Central,Suburban,26,45,54
+Vote by Size of Place,SIZEPLC3,MS,South,East South Central,Rural,68,39,60
+Vote by Region,GEOCOD,MS,South,East South Central,Jackson/Mississippi Delta,28,63,36
+Vote by Region,GEOCOD,MS,South,East South Central,Southeastern Mississippi,40,33,66
+Vote by Region,GEOCOD,MS,South,East South Central,Northeastern Mississippi,32,39,60
