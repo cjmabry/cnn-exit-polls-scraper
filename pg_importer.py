@@ -1,5 +1,7 @@
 import psycopg2
 import os
+import unicodecsv as csv
+# import csv
 
 
 
@@ -30,6 +32,7 @@ def main():
             cursor = pgConn.cursor()
             cursor.execute("delete from temp;")
             importFile = open(fileDir + '/' + year + '/' + filename, "r+", encoding='utf-8')
+            # importFile = open(fileDir + '/' + year + '/' + filename, "r+")
             cursor.copy_from(importFile, 'temp', sep = ',')
             cursor.commit()
 

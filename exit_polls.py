@@ -182,7 +182,7 @@ def saveToCSV(response, state, year):
         d = {}
 
         with open(filename, 'wb') as f:
-            csv_file = csv.writer(f)
+            csv_file = csv.writer(f, dialect='excel', encoding='utf-8')
             csv_file.writerow(['year','question','pollname','state','region','subregion','answer','percent','dem','rep'])
 
             for item in data['polls']:
