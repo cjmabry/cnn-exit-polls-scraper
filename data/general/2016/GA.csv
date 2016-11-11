@@ -15,16 +15,16 @@
 2016,Race,RACE,GA,South,South Atlantic,White,60,21,75
 2016,Race,RACE,GA,South,South Atlantic,Black,30,89,9
 2016,Race,RACE,GA,South,South Atlantic,Latino,4,67,27
-2016,Race,RACE,GA,South,South Atlantic,Asian,3,N/A,N/A
-2016,Race,RACE,GA,South,South Atlantic,Other race,2,N/A,N/A
+2016,Race,RACE,GA,South,South Atlantic,Asian,3,,
+2016,Race,RACE,GA,South,South Atlantic,Other race,2,,
 2016,Race,RACE2B,GA,South,South Atlantic,White,60,21,75
 2016,Race,RACE2B,GA,South,South Atlantic,Non-white,40,83,14
 2016,Race and gender,SEXBYRACE,GA,South,South Atlantic,White men,30,16,80
 2016,Race and gender,SEXBYRACE,GA,South,South Atlantic,White women,31,26,70
 2016,Race and gender,SEXBYRACE,GA,South,South Atlantic,Black men,12,83,15
 2016,Race and gender,SEXBYRACE,GA,South,South Atlantic,Black women,19,94,5
-2016,Race and gender,SEXBYRACE,GA,South,South Atlantic,Latino men,2,N/A,N/A
-2016,Race and gender,SEXBYRACE,GA,South,South Atlantic,Latino women,2,N/A,N/A
+2016,Race and gender,SEXBYRACE,GA,South,South Atlantic,Latino men,2,,
+2016,Race and gender,SEXBYRACE,GA,South,South Atlantic,Latino women,2,,
 2016,Race and gender,SEXBYRACE,GA,South,South Atlantic,Others,5,63,36
 2016,Education,EDUC12R,GA,South,South Atlantic,High school or less,19,39,57
 2016,Education,EDUC12R,GA,South,South Atlantic,Some college,31,46,51
@@ -45,8 +45,8 @@
 2016,Income,INCOME16GEN,GA,South,South Atlantic,"$30K-$49,999",20,40,53
 2016,Income,INCOME16GEN,GA,South,South Atlantic,"$50K-$99,999",33,49,49
 2016,Income,INCOME16GEN,GA,South,South Atlantic,"$100K-$199,999",21,41,57
-2016,Income,INCOME16GEN,GA,South,South Atlantic,"$200K-$249,999",4,N/A,N/A
-2016,Income,INCOME16GEN,GA,South,South Atlantic,"$250,000 or more",6,N/A,N/A
+2016,Income,INCOME16GEN,GA,South,South Atlantic,"$200K-$249,999",4,,
+2016,Income,INCOME16GEN,GA,South,South Atlantic,"$250,000 or more",6,,
 2016,Income,INCOME3,GA,South,South Atlantic,Under $50K,36,47,48
 2016,Income,INCOME3,GA,South,South Atlantic,$50K-$100K,33,49,49
 2016,Income,INCOME3,GA,South,South Atlantic,$100K or more,32,42,56
@@ -75,7 +75,7 @@
 2016,Marital status by gender,SEXWED,GA,South,South Atlantic,Unmarried men,15,47,51
 2016,Marital status by gender,SEXWED,GA,South,South Atlantic,Unmarried women,26,64,32
 2016,When did you decide presidential vote?,TIME16,GA,South,South Atlantic,Last few days,5,43,46
-2016,When did you decide presidential vote?,TIME16,GA,South,South Atlantic,Last week,4,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,GA,South,South Atlantic,Last week,4,,
 2016,When did you decide presidential vote?,TIME16,GA,South,South Atlantic,In October,10,42,49
 2016,When did you decide presidential vote?,TIME16,GA,South,South Atlantic,In September,13,52,45
 2016,When did you decide presidential vote?,TIME16,GA,South,South Atlantic,Before September,66,44,55
@@ -99,7 +99,7 @@
 2016,How do things work in the U.S. today?,RACEFACTOR,GA,South,South Atlantic,Whites are favored,39,85,12
 2016,How do things work in the U.S. today?,RACEFACTOR,GA,South,South Atlantic,Minorities are favored,25,11,88
 2016,How do things work in the U.S. today?,RACEFACTOR,GA,South,South Atlantic,No group is favored,32,33,62
-2016,Feelings about the federal government,GOVTANGR16,GA,South,South Atlantic,Enthusiastic,5,N/A,N/A
+2016,Feelings about the federal government,GOVTANGR16,GA,South,South Atlantic,Enthusiastic,5,,
 2016,Feelings about the federal government,GOVTANGR16,GA,South,South Atlantic,Satisfied,26,81,15
 2016,Feelings about the federal government,GOVTANGR16,GA,South,South Atlantic,Dissatisfied,41,41,55
 2016,Feelings about the federal government,GOVTANGR16,GA,South,South Atlantic,Angry,26,16,80
@@ -115,7 +115,7 @@
 2016,Opinion of Hillary Clinton,FAVHCLIN16,GA,South,South Atlantic,Unfavorable,56,6,90
 2016,Opinion of Donald Trump,FAVTRUMP,GA,South,South Atlantic,Favorable,45,2,97
 2016,Opinion of Donald Trump,FAVTRUMP,GA,South,South Atlantic,Unfavorable,54,81,16
-2016,Opinion of Clinton and Trump,FAVPRES16,GA,South,South Atlantic,Both favorable,2,N/A,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,GA,South,South Atlantic,Both favorable,2,,
 2016,Opinion of Clinton and Trump,FAVPRES16,GA,South,South Atlantic,Only Clinton favorable,41,99,1
 2016,Opinion of Clinton and Trump,FAVPRES16,GA,South,South Atlantic,Only Trump favorable,43,1,98
 2016,Opinion of Clinton and Trump,FAVPRES16,GA,South,South Atlantic,Both unfavorable,13,24,63
@@ -123,7 +123,7 @@
 2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,GA,South,South Atlantic,No,59,16,80
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,GA,South,South Atlantic,Yes,40,1,97
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,GA,South,South Atlantic,No,56,81,16
-2016,Which candidate is honest?,HONEST16,GA,South,South Atlantic,Both are,1,N/A,N/A
+2016,Which candidate is honest?,HONEST16,GA,South,South Atlantic,Both are,1,,
 2016,Which candidate is honest?,HONEST16,GA,South,South Atlantic,Only Clinton is,37,98,1
 2016,Which candidate is honest?,HONEST16,GA,South,South Atlantic,Only Trump is,39,1,98
 2016,Which candidate is honest?,HONEST16,GA,South,South Atlantic,Neither is,19,47,45
@@ -131,15 +131,15 @@
 2016,Is Clinton qualified to serve as president?,QUALCLINTON,GA,South,South Atlantic,No,49,5,90
 2016,Is Trump qualified to serve as president?,QUALTRUMP,GA,South,South Atlantic,Yes,42,3,95
 2016,Is Trump qualified to serve as president?,QUALTRUMP,GA,South,South Atlantic,No,58,81,15
-2016,Who is qualified to serve as president?,QUALIFIED16,GA,South,South Atlantic,Both are,5,N/A,N/A
+2016,Who is qualified to serve as president?,QUALIFIED16,GA,South,South Atlantic,Both are,5,,
 2016,Who is qualified to serve as president?,QUALIFIED16,GA,South,South Atlantic,Only Clinton is,45,97,2
-2016,Who is qualified to serve as president?,QUALIFIED16,GA,South,South Atlantic,Only Trump is,37,N/A,98
+2016,Who is qualified to serve as president?,QUALIFIED16,GA,South,South Atlantic,Only Trump is,37,,98
 2016,Who is qualified to serve as president?,QUALIFIED16,GA,South,South Atlantic,Neither is,12,21,65
 2016,Does Clinton have the temperament to be president?,TEMPCLINTON,GA,South,South Atlantic,Yes,52,87,10
 2016,Does Clinton have the temperament to be president?,TEMPCLINTON,GA,South,South Atlantic,No,46,4,93
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,GA,South,South Atlantic,Yes,42,4,96
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,GA,South,South Atlantic,No,56,80,14
-2016,Which candidate has the right temperament?,TEMPERAMENT16,GA,South,South Atlantic,Both do,5,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,GA,South,South Atlantic,Both do,5,,
 2016,Which candidate has the right temperament?,TEMPERAMENT16,GA,South,South Atlantic,Only Clinton does,47,94,2
 2016,Which candidate has the right temperament?,TEMPERAMENT16,GA,South,South Atlantic,Only Trump does,36,1,99
 2016,Which candidate has the right temperament?,TEMPERAMENT16,GA,South,South Atlantic,Neither does,10,17,71
@@ -155,7 +155,7 @@
 2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,GA,South,South Atlantic,Not at all,21,10,89
 2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,GA,South,South Atlantic,Yes,65,65,30
 2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,GA,South,South Atlantic,No,34,9,90
-2016,Condition of national economy,NEC,GA,South,South Atlantic,Excellent,5,N/A,N/A
+2016,Condition of national economy,NEC,GA,South,South Atlantic,Excellent,5,,
 2016,Condition of national economy,NEC,GA,South,South Atlantic,Good,36,82,13
 2016,Condition of national economy,NEC,GA,South,South Atlantic,Not good,34,29,66
 2016,Condition of national economy,NEC,GA,South,South Atlantic,Poor,24,13,86
@@ -169,7 +169,7 @@
 2016,Life for the next generation of Americans will be:,LIFE,GA,South,South Atlantic,About the same,28,54,43
 2016,Vote for president in a two-way race,2WAYPRES16,GA,South,South Atlantic,Clinton,47,97,1
 2016,Vote for president in a two-way race,2WAYPRES16,GA,South,South Atlantic,Trump,48,1,98
-2016,Vote for president in a two-way race,2WAYPRES16,GA,South,South Atlantic,Would not vote,4,N/A,N/A
+2016,Vote for president in a two-way race,2WAYPRES16,GA,South,South Atlantic,Would not vote,4,,
 2016,Area type,SIZEPLC3,GA,South,South Atlantic,Urban area,18,68,29
 2016,Area type,SIZEPLC3,GA,South,South Atlantic,Suburban area,58,46,51
 2016,Area type,SIZEPLC3,GA,South,South Atlantic,Rural area,23,29,67

@@ -12,23 +12,23 @@
 2012,Vote by Age,AGE65,MO,Midwest,West North Central,65 and Older,16,33,66
 2012,Vote by Race,RACE,MO,Midwest,West North Central,White,78,32,65
 2012,Vote by Race,RACE,MO,Midwest,West North Central,African-American,16,94,6
-2012,Vote by Race,RACE,MO,Midwest,West North Central,Latino,3,N/A,N/A
-2012,Vote by Race,RACE,MO,Midwest,West North Central,Asian,1,N/A,N/A
-2012,Vote by Race,RACE,MO,Midwest,West North Central,Other,2,N/A,N/A
+2012,Vote by Race,RACE,MO,Midwest,West North Central,Latino,3,,
+2012,Vote by Race,RACE,MO,Midwest,West North Central,Asian,1,,
+2012,Vote by Race,RACE,MO,Midwest,West North Central,Other,2,,
 2012,Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,White Men,35,31,66
 2012,Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,White Women,43,34,65
 2012,Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,Black Men,7,93,7
 2012,Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,Black Women,9,95,5
-2012,Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,Latino Men,2,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,Latino Women,1,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,All Others,3,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,Latino Men,2,,
+2012,Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,Latino Women,1,,
+2012,Vote by Gender and Race,SEXBYRACE,MO,Midwest,West North Central,All Others,3,,
 2012,Vote by Ideology,PHIL3,MO,Midwest,West North Central,Liberal,20,81,16
 2012,Vote by Ideology,PHIL3,MO,Midwest,West North Central,Moderate,41,53,44
 2012,Vote by Ideology,PHIL3,MO,Midwest,West North Central,Conservative,39,15,84
 2012,Vote by Party ID,PARTY,MO,Midwest,West North Central,Democratic,37,90,10
 2012,Vote by Party ID,PARTY,MO,Midwest,West North Central,Republican,35,4,96
 2012,Vote by Party ID,PARTY,MO,Midwest,West North Central,Independent,28,35,59
-2012,Vote by Education,EDUC10,MO,Midwest,West North Central,No High School,5,N/A,N/A
+2012,Vote by Education,EDUC10,MO,Midwest,West North Central,No High School,5,,
 2012,Vote by Education,EDUC10,MO,Midwest,West North Central,High School Graduate,24,44,55
 2012,Vote by Education,EDUC10,MO,Midwest,West North Central,Some College,32,43,55
 2012,Vote by Education,EDUC10,MO,Midwest,West North Central,College Graduate,23,40,57
@@ -52,7 +52,7 @@
 2012,Abortion Should Be...,ABORTION,MO,Midwest,West North Central,Always Illegal,15,20,79
 2012,Abortion Should Be...,ABORT2,MO,Midwest,West North Central,Legal,53,67,30
 2012,Abortion Should Be...,ABORT2,MO,Midwest,West North Central,Illegal,44,22,77
-2012,Most Important Issue Facing Country,ISSUE12,MO,Midwest,West North Central,Foreign Policy,4,N/A,N/A
+2012,Most Important Issue Facing Country,ISSUE12,MO,Midwest,West North Central,Foreign Policy,4,,
 2012,Most Important Issue Facing Country,ISSUE12,MO,Midwest,West North Central,Deficit,14,26,72
 2012,Most Important Issue Facing Country,ISSUE12,MO,Midwest,West North Central,Economy,59,39,59
 2012,Most Important Issue Facing Country,ISSUE12,MO,Midwest,West North Central,Health Care,21,66,34
@@ -62,7 +62,7 @@
 2012,Most Important Candidate Quality,QLT12,MO,Midwest,West North Central,Vision for Future,26,39,58
 2012,Opinion of Government,GOVTDO10,MO,Midwest,West North Central,Government Should Do More,41,74,25
 2012,Opinion of Government,GOVTDO10,MO,Midwest,West North Central,Government Doing Too Much,56,17,79
-2012,National Economic Conditions,NEC,MO,Midwest,West North Central,Excellent,2,N/A,N/A
+2012,National Economic Conditions,NEC,MO,Midwest,West North Central,Excellent,2,,
 2012,National Economic Conditions,NEC,MO,Midwest,West North Central,Good,16,82,17
 2012,National Economic Conditions,NEC,MO,Midwest,West North Central,Not So Good,45,50,48
 2012,National Economic Conditions,NEC,MO,Midwest,West North Central,Poor,36,8,89
@@ -74,11 +74,11 @@
 2012,Opinion of Mitt Romney,FAVROMN2,MO,Midwest,West North Central,Unfavorable,43,87,8
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,MO,Midwest,West North Central,Strongly Favor,67,53,46
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,MO,Midwest,West North Central,Have Reservations,23,38,62
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,MO,Midwest,West North Central,Dislike Opponent,9,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,MO,Midwest,West North Central,Just Today,6,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,MO,Midwest,West North Central,Last Few Days,7,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,MO,Midwest,West North Central,In October,7,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,MO,Midwest,West North Central,In September,7,N/A,N/A
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,MO,Midwest,West North Central,Dislike Opponent,9,,
+2012,When Did You Decide Presidential Vote?,TIME12,MO,Midwest,West North Central,Just Today,6,,
+2012,When Did You Decide Presidential Vote?,TIME12,MO,Midwest,West North Central,Last Few Days,7,,
+2012,When Did You Decide Presidential Vote?,TIME12,MO,Midwest,West North Central,In October,7,,
+2012,When Did You Decide Presidential Vote?,TIME12,MO,Midwest,West North Central,In September,7,,
 2012,When Did You Decide Presidential Vote?,TIME12,MO,Midwest,West North Central,Before That,72,41,58
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,MO,Midwest,West North Central,Today/Last Few Days,14,49,44
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,MO,Midwest,West North Central,Before That,86,40,58

@@ -4,8 +4,8 @@
 2016,Age,AGE,CO,West,Mountain,30-44,26,46,45
 2016,Age,AGE,CO,West,Mountain,45-64,38,49,45
 2016,Age,AGE,CO,West,Mountain,65 and older,17,49,48
-2016,Age,AGE65,CO,West,Mountain,18-24,11,N/A,N/A
-2016,Age,AGE65,CO,West,Mountain,25-29,8,N/A,N/A
+2016,Age,AGE65,CO,West,Mountain,18-24,11,,
+2016,Age,AGE65,CO,West,Mountain,25-29,8,,
 2016,Age,AGE65,CO,West,Mountain,30-39,17,48,42
 2016,Age,AGE65,CO,West,Mountain,40-49,19,43,50
 2016,Age,AGE65,CO,West,Mountain,50-64,29,51,43
@@ -13,19 +13,19 @@
 2016,Age,AGE45,CO,West,Mountain,18-44,45,48,41
 2016,Age,AGE45,CO,West,Mountain,45 and older,55,49,46
 2016,Race,RACE,CO,West,Mountain,White,78,45,47
-2016,Race,RACE,CO,West,Mountain,Black,4,N/A,N/A
+2016,Race,RACE,CO,West,Mountain,Black,4,,
 2016,Race,RACE,CO,West,Mountain,Latino,12,67,30
-2016,Race,RACE,CO,West,Mountain,Asian,3,N/A,N/A
-2016,Race,RACE,CO,West,Mountain,Other race,4,N/A,N/A
+2016,Race,RACE,CO,West,Mountain,Asian,3,,
+2016,Race,RACE,CO,West,Mountain,Other race,4,,
 2016,Race,RACE2B,CO,West,Mountain,White,78,45,47
 2016,Race,RACE2B,CO,West,Mountain,Non-white,22,62,31
 2016,Race and gender,SEXBYRACE,CO,West,Mountain,White men,38,38,50
 2016,Race and gender,SEXBYRACE,CO,West,Mountain,White women,40,50,44
-2016,Race and gender,SEXBYRACE,CO,West,Mountain,Black men,2,N/A,N/A
-2016,Race and gender,SEXBYRACE,CO,West,Mountain,Black women,2,N/A,N/A
-2016,Race and gender,SEXBYRACE,CO,West,Mountain,Latino men,6,N/A,N/A
-2016,Race and gender,SEXBYRACE,CO,West,Mountain,Latino women,5,N/A,N/A
-2016,Race and gender,SEXBYRACE,CO,West,Mountain,Others,7,N/A,N/A
+2016,Race and gender,SEXBYRACE,CO,West,Mountain,Black men,2,,
+2016,Race and gender,SEXBYRACE,CO,West,Mountain,Black women,2,,
+2016,Race and gender,SEXBYRACE,CO,West,Mountain,Latino men,6,,
+2016,Race and gender,SEXBYRACE,CO,West,Mountain,Latino women,5,,
+2016,Race and gender,SEXBYRACE,CO,West,Mountain,Others,7,,
 2016,Education,EDUC12R,CO,West,Mountain,High school or less,19,40,51
 2016,Education,EDUC12R,CO,West,Mountain,Some college,27,43,49
 2016,Education,EDUC12R,CO,West,Mountain,College graduate,34,48,43
@@ -45,8 +45,8 @@
 2016,Income,INCOME16GEN,CO,West,Mountain,"$30K-$49,999",22,46,43
 2016,Income,INCOME16GEN,CO,West,Mountain,"$50K-$99,999",32,52,44
 2016,Income,INCOME16GEN,CO,West,Mountain,"$100K-$199,999",23,49,42
-2016,Income,INCOME16GEN,CO,West,Mountain,"$200K-$249,999",4,N/A,N/A
-2016,Income,INCOME16GEN,CO,West,Mountain,"$250,000 or more",6,N/A,N/A
+2016,Income,INCOME16GEN,CO,West,Mountain,"$200K-$249,999",4,,
+2016,Income,INCOME16GEN,CO,West,Mountain,"$250,000 or more",6,,
 2016,Income,INCOME3,CO,West,Mountain,Under $50K,36,46,41
 2016,Income,INCOME3,CO,West,Mountain,$50K-$100K,32,52,44
 2016,Income,INCOME3,CO,West,Mountain,$100K or more,33,51,41
@@ -66,12 +66,12 @@
 2016,Ideology,PHIL3,CO,West,Mountain,Liberal,28,85,10
 2016,Ideology,PHIL3,CO,West,Mountain,Moderate,37,53,36
 2016,Ideology,PHIL3,CO,West,Mountain,Conservative,35,16,80
-2016,When did you decide presidential vote?,TIME16,CO,West,Mountain,Last few days,N/A,N/A,N/A
-2016,When did you decide presidential vote?,TIME16,CO,West,Mountain,Last week,6,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,CO,West,Mountain,Last few days,N/A,,
+2016,When did you decide presidential vote?,TIME16,CO,West,Mountain,Last week,6,,
 2016,When did you decide presidential vote?,TIME16,CO,West,Mountain,In October,17,35,50
 2016,When did you decide presidential vote?,TIME16,CO,West,Mountain,In September,12,42,48
 2016,When did you decide presidential vote?,TIME16,CO,West,Mountain,Before September,63,54,41
-2016,When did you decide presidential vote?,TIME16WEEK,CO,West,Mountain,In the last week,6,N/A,N/A
+2016,When did you decide presidential vote?,TIME16WEEK,CO,West,Mountain,In the last week,6,,
 2016,When did you decide presidential vote?,TIME16WEEK,CO,West,Mountain,Before that,91,49,43
 2016,When did you decide presidential vote?,TIME16MONTH,CO,West,Mountain,In the last month,22,37,48
 2016,When did you decide presidential vote?,TIME16MONTH,CO,West,Mountain,Before that,75,52,42
@@ -95,7 +95,7 @@
 2016,How do things work in the U.S. today?,RACEFACTOR,CO,West,Mountain,Whites are favored,34,82,10
 2016,How do things work in the U.S. today?,RACEFACTOR,CO,West,Mountain,Minorities are favored,20,12,83
 2016,How do things work in the U.S. today?,RACEFACTOR,CO,West,Mountain,No group is favored,39,39,51
-2016,Feelings about the federal government,GOVTANGR16,CO,West,Mountain,Enthusiastic,4,N/A,N/A
+2016,Feelings about the federal government,GOVTANGR16,CO,West,Mountain,Enthusiastic,4,,
 2016,Feelings about the federal government,GOVTANGR16,CO,West,Mountain,Satisfied,25,85,13
 2016,Feelings about the federal government,GOVTANGR16,CO,West,Mountain,Dissatisfied,37,44,46
 2016,Feelings about the federal government,GOVTANGR16,CO,West,Mountain,Angry,32,20,70
@@ -111,15 +111,15 @@
 2016,Opinion of Hillary Clinton,FAVHCLIN16,CO,West,Mountain,Unfavorable,54,10,78
 2016,Opinion of Donald Trump,FAVTRUMP,CO,West,Mountain,Favorable,37,3,97
 2016,Opinion of Donald Trump,FAVTRUMP,CO,West,Mountain,Unfavorable,62,76,12
-2016,Opinion of Clinton and Trump,FAVPRES16,CO,West,Mountain,Both favorable,2,N/A,N/A
-2016,Opinion of Clinton and Trump,FAVPRES16,CO,West,Mountain,Only Clinton favorable,42,97,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,CO,West,Mountain,Both favorable,2,,
+2016,Opinion of Clinton and Trump,FAVPRES16,CO,West,Mountain,Only Clinton favorable,42,97,
 2016,Opinion of Clinton and Trump,FAVPRES16,CO,West,Mountain,Only Trump favorable,35,2,98
 2016,Opinion of Clinton and Trump,FAVPRES16,CO,West,Mountain,Both unfavorable,19,27,40
 2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,CO,West,Mountain,Yes,38,97,1
 2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,CO,West,Mountain,No,60,18,71
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,CO,West,Mountain,Yes,35,3,94
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,CO,West,Mountain,No,64,73,16
-2016,Which candidate is honest?,HONEST16,CO,West,Mountain,Both are,1,N/A,N/A
+2016,Which candidate is honest?,HONEST16,CO,West,Mountain,Both are,1,,
 2016,Which candidate is honest?,HONEST16,CO,West,Mountain,Only Clinton is,36,99,0
 2016,Which candidate is honest?,HONEST16,CO,West,Mountain,Only Trump is,33,1,96
 2016,Which candidate is honest?,HONEST16,CO,West,Mountain,Neither is,27,38,39
@@ -127,7 +127,7 @@
 2016,Does Clinton have the temperament to be president?,TEMPCLINTON,CO,West,Mountain,No,41,5,89
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,CO,West,Mountain,Yes,36,2,96
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,CO,West,Mountain,No,63,76,13
-2016,Which candidate has the right temperament?,TEMPERAMENT16,CO,West,Mountain,Both do,5,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,CO,West,Mountain,Both do,5,,
 2016,Which candidate has the right temperament?,TEMPERAMENT16,CO,West,Mountain,Only Clinton does,53,87,3
 2016,Which candidate has the right temperament?,TEMPERAMENT16,CO,West,Mountain,Only Trump does,31,1,97
 2016,Which candidate has the right temperament?,TEMPERAMENT16,CO,West,Mountain,Neither does,10,15,63
@@ -135,7 +135,7 @@
 2016,Is Clinton qualified to serve as president?,QUALCLINTON,CO,West,Mountain,No,43,3,88
 2016,Is Trump qualified to serve as president?,QUALTRUMP,CO,West,Mountain,Yes,38,3,95
 2016,Is Trump qualified to serve as president?,QUALTRUMP,CO,West,Mountain,No,61,78,11
-2016,Who is qualified to serve as president?,QUALIFIED16,CO,West,Mountain,Both are,5,N/A,N/A
+2016,Who is qualified to serve as president?,QUALIFIED16,CO,West,Mountain,Both are,5,,
 2016,Who is qualified to serve as president?,QUALIFIED16,CO,West,Mountain,Only Clinton is,51,92,2
 2016,Who is qualified to serve as president?,QUALIFIED16,CO,West,Mountain,Only Trump is,33,1,98
 2016,Who is qualified to serve as president?,QUALIFIED16,CO,West,Mountain,Neither is,10,8,57
@@ -143,7 +143,7 @@
 2016,Who would better handle the economy?,HANDLEECON16,CO,West,Mountain,Trump,46,3,93
 2016,Who would better handle foreign policy?,HANDLEFP16,CO,West,Mountain,Clinton,55,85,8
 2016,Who would better handle foreign policy?,HANDLEFP16,CO,West,Mountain,Trump,41,3,94
-2016,Condition of national economy,NEC,CO,West,Mountain,Excellent,4,N/A,N/A
+2016,Condition of national economy,NEC,CO,West,Mountain,Excellent,4,,
 2016,Condition of national economy,NEC,CO,West,Mountain,Good,40,84,10
 2016,Condition of national economy,NEC,CO,West,Mountain,Not good,29,27,63
 2016,Condition of national economy,NEC,CO,West,Mountain,Poor,27,14,78
@@ -159,7 +159,7 @@
 2016,Which better describes you?,BORNINCO14,CO,West,Mountain,Moved to Colorado,62,50,43
 2016,Vote for president in a two-way race,2WAYPRES16,CO,West,Mountain,Clinton,50,95,0
 2016,Vote for president in a two-way race,2WAYPRES16,CO,West,Mountain,Trump,43,0,97
-2016,Vote for president in a two-way race,2WAYPRES16,CO,West,Mountain,Would not vote,6,N/A,N/A
+2016,Vote for president in a two-way race,2WAYPRES16,CO,West,Mountain,Would not vote,6,,
 2016,Area type,SIZEPLC3,CO,West,Mountain,Urban area,39,53,39
 2016,Area type,SIZEPLC3,CO,West,Mountain,Suburban area,49,48,44
 2016,Area type,SIZEPLC3,CO,West,Mountain,Rural area,12,37,57

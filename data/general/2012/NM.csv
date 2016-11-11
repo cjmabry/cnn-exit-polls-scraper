@@ -11,14 +11,14 @@
 2012,Vote by Age,AGE65,NM,West,Mountain,50-64,31,50,46
 2012,Vote by Age,AGE65,NM,West,Mountain,65 and Older,20,53,46
 2012,Vote by Race,RACE,NM,West,Mountain,White,51,41,56
-2012,Vote by Race,RACE,NM,West,Mountain,African-American,2,N/A,N/A
+2012,Vote by Race,RACE,NM,West,Mountain,African-American,2,,
 2012,Vote by Race,RACE,NM,West,Mountain,Latino,37,65,29
-2012,Vote by Race,RACE,NM,West,Mountain,Asian,1,N/A,N/A
+2012,Vote by Race,RACE,NM,West,Mountain,Asian,1,,
 2012,Vote by Race,RACE,NM,West,Mountain,Other,10,65,31
 2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,White Men,24,39,56
 2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,White Women,26,43,55
-2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,Black Men,1,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,Black Women,1,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,Black Men,1,,
+2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,Black Women,1,,
 2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,Latino Men,17,63,31
 2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,Latino Women,21,67,27
 2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,All Others,11,64,32
@@ -54,13 +54,13 @@
 2012,How Often Do You Attend Religious Services?,ATTEND2,NM,West,Mountain,Never,22,73,19
 2012,Vote by Religion,REL5,NM,West,Mountain,Protestant,45,35,60
 2012,Vote by Religion,REL5,NM,West,Mountain,Catholic,28,64,32
-2012,Vote by Religion,REL5,NM,West,Mountain,Jewish,2,N/A,N/A
-2012,Vote by Religion,REL5,NM,West,Mountain,Other,9,N/A,N/A
+2012,Vote by Religion,REL5,NM,West,Mountain,Jewish,2,,
+2012,Vote by Religion,REL5,NM,West,Mountain,Other,9,,
 2012,Vote by Religion,REL5,NM,West,Mountain,None,16,71,25
 2012,Vote by Religion and Race,WHITEREL,NM,West,Mountain,White Protestant,29,29,70
-2012,Vote by Religion and Race,WHITEREL,NM,West,Mountain,White Catholic,7,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,NM,West,Mountain,White Jewish,2,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,NM,West,Mountain,Whites/Other Religion,5,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,NM,West,Mountain,White Catholic,7,,
+2012,Vote by Religion and Race,WHITEREL,NM,West,Mountain,White Jewish,2,,
+2012,Vote by Religion and Race,WHITEREL,NM,West,Mountain,Whites/Other Religion,5,,
 2012,Vote by Religion and Race,WHITEREL,NM,West,Mountain,Whites/No Religion,9,66,31
 2012,Vote by Religion and Race,WHITEREL,NM,West,Mountain,Non-white,49,64,29
 2012,Vote by Religion and Church Attendance,ATTREL,NM,West,Mountain,Protestant/Attend Weekly,11,21,77
@@ -76,7 +76,7 @@
 2012,Most Important Candidate Quality,QLT12,NM,West,Mountain,Strong Leader,16,54,45
 2012,Most Important Candidate Quality,QLT12,NM,West,Mountain,Cares About People,20,81,16
 2012,Most Important Candidate Quality,QLT12,NM,West,Mountain,Vision for Future,32,47,47
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,NM,West,Mountain,Housing Market,6,N/A,N/A
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,NM,West,Mountain,Housing Market,6,,
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,NM,West,Mountain,Unemployment,33,58,39
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,NM,West,Mountain,Taxes,16,29,61
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,NM,West,Mountain,Rising Prices,41,53,44
@@ -94,7 +94,7 @@
 2012,Who Would Better Handle Economy?,HANDLEECON12,NM,West,Mountain,Romney,45,6,90
 2012,Opinion of Government,GOVTDO10,NM,West,Mountain,Government Should Do More,37,87,12
 2012,Opinion of Government,GOVTDO10,NM,West,Mountain,Government Doing Too Much,58,28,65
-2012,National Economic Conditions,NEC,NM,West,Mountain,Excellent,3,N/A,N/A
+2012,National Economic Conditions,NEC,NM,West,Mountain,Excellent,3,,
 2012,National Economic Conditions,NEC,NM,West,Mountain,Good,22,89,9
 2012,National Economic Conditions,NEC,NM,West,Mountain,Not So Good,40,63,34
 2012,National Economic Conditions,NEC,NM,West,Mountain,Poor,35,15,77
@@ -104,7 +104,7 @@
 2012,U.S. Economic Conditions Are...,ECONBETT,NM,West,Mountain,Getting Worse,34,10,85
 2012,U.S. Economic Conditions Are...,ECONBETT,NM,West,Mountain,Staying About the Same,30,55,38
 2012,U.S. Economic Conditions Are...,ECONDIR,NM,West,Mountain,Getting Better,35,91,7
-2012,U.S. Economic Conditions Are...,ECONDIR,NM,West,Mountain,Good and Staying the Same,5,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,NM,West,Mountain,Good and Staying the Same,5,,
 2012,U.S. Economic Conditions Are...,ECONDIR,NM,West,Mountain,Poor and Staying the Same,25,48,43
 2012,U.S. Economic Conditions Are...,ECONDIR,NM,West,Mountain,Getting Worse,34,10,85
 2012,Your Family's Financial Situation,FINSIT,NM,West,Mountain,Better,22,82,14
@@ -119,10 +119,10 @@
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NM,West,Mountain,Strongly Favor,65,60,36
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NM,West,Mountain,Have Reservations,20,38,57
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NM,West,Mountain,Dislike Opponent,12,32,57
-2012,When Did You Decide Presidential Vote?,TIME12,NM,West,Mountain,Just Today,4,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,NM,West,Mountain,Last Few Days,6,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,NM,West,Mountain,Just Today,4,,
+2012,When Did You Decide Presidential Vote?,TIME12,NM,West,Mountain,Last Few Days,6,,
 2012,When Did You Decide Presidential Vote?,TIME12,NM,West,Mountain,In October,11,48,42
-2012,When Did You Decide Presidential Vote?,TIME12,NM,West,Mountain,In September,7,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,NM,West,Mountain,In September,7,,
 2012,When Did You Decide Presidential Vote?,TIME12,NM,West,Mountain,Before That,71,52,45
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,NM,West,Mountain,Today/Last Few Days,10,59,36
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,NM,West,Mountain,Before That,89,51,44
@@ -143,7 +143,7 @@
 2012,Vote by Gender and Children in Household,PARENTS,NM,West,Mountain,Men With No Children,33,55,38
 2012,Vote by Gender and Children in Household,PARENTS,NM,West,Mountain,Women With No Children,32,52,46
 2012,Were You Born in the United States?,BORNUSA,NM,West,Mountain,Yes,96,52,43
-2012,Were You Born in the United States?,BORNUSA,NM,West,Mountain,No,4,N/A,N/A
+2012,Were You Born in the United States?,BORNUSA,NM,West,Mountain,No,4,,
 2012,Vote for Senate,SENNM12,NM,West,Mountain,Heinrich,51,90,7
 2012,Vote for Senate,SENNM12,NM,West,Mountain,Wilson,45,12,85
 2012,Vote by Size of Place,SIZEPLC3,NM,West,Mountain,Urban,44,58,36

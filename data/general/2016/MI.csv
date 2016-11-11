@@ -15,16 +15,16 @@
 2016,Race,RACE,MI,Midwest,East North Central,White,75,36,57
 2016,Race,RACE,MI,Midwest,East North Central,Black,15,92,6
 2016,Race,RACE,MI,Midwest,East North Central,Latino,5,59,38
-2016,Race,RACE,MI,Midwest,East North Central,Asian,2,N/A,N/A
-2016,Race,RACE,MI,Midwest,East North Central,Other race,3,N/A,N/A
+2016,Race,RACE,MI,Midwest,East North Central,Asian,2,,
+2016,Race,RACE,MI,Midwest,East North Central,Other race,3,,
 2016,Race,RACE2B,MI,Midwest,East North Central,White,75,36,57
 2016,Race,RACE2B,MI,Midwest,East North Central,Non-white,25,80,17
 2016,Race and gender,SEXBYRACE,MI,Midwest,East North Central,White men,36,29,64
 2016,Race and gender,SEXBYRACE,MI,Midwest,East North Central,White women,40,43,51
 2016,Race and gender,SEXBYRACE,MI,Midwest,East North Central,Black men,7,88,9
 2016,Race and gender,SEXBYRACE,MI,Midwest,East North Central,Black women,8,96,3
-2016,Race and gender,SEXBYRACE,MI,Midwest,East North Central,Latino men,3,N/A,N/A
-2016,Race and gender,SEXBYRACE,MI,Midwest,East North Central,Latino women,2,N/A,N/A
+2016,Race and gender,SEXBYRACE,MI,Midwest,East North Central,Latino men,3,,
+2016,Race and gender,SEXBYRACE,MI,Midwest,East North Central,Latino women,2,,
 2016,Race and gender,SEXBYRACE,MI,Midwest,East North Central,Others,5,63,32
 2016,Education,EDUC12R,MI,Midwest,East North Central,High school or less,20,46,49
 2016,Education,EDUC12R,MI,Midwest,East North Central,Some college,38,45,49
@@ -45,8 +45,8 @@
 2016,Income,INCOME16GEN,MI,Midwest,East North Central,"$30K-$49,999",22,44,52
 2016,Income,INCOME16GEN,MI,Midwest,East North Central,"$50K-$99,999",35,43,51
 2016,Income,INCOME16GEN,MI,Midwest,East North Central,"$100K-$199,999",17,43,51
-2016,Income,INCOME16GEN,MI,Midwest,East North Central,"$200K-$249,999",1,N/A,N/A
-2016,Income,INCOME16GEN,MI,Midwest,East North Central,"$250,000 or more",2,N/A,N/A
+2016,Income,INCOME16GEN,MI,Midwest,East North Central,"$200K-$249,999",1,,
+2016,Income,INCOME16GEN,MI,Midwest,East North Central,"$250,000 or more",2,,
 2016,Income,INCOME3,MI,Midwest,East North Central,Under $50K,45,53,42
 2016,Income,INCOME3,MI,Midwest,East North Central,$50K-$100K,35,43,51
 2016,Income,INCOME3,MI,Midwest,East North Central,$100K or more,21,43,51
@@ -70,8 +70,8 @@
 2016,Union household?,UNIONHH12,MI,Midwest,East North Central,No,72,48,47
 2016,Religion,REL5,MI,Midwest,East North Central,Protestant,49,39,55
 2016,Religion,REL5,MI,Midwest,East North Central,Catholic,24,39,57
-2016,Religion,REL5,MI,Midwest,East North Central,Jewish,2,N/A,N/A
-2016,Religion,REL5,MI,Midwest,East North Central,Another religion,10,N/A,N/A
+2016,Religion,REL5,MI,Midwest,East North Central,Jewish,2,,
+2016,Religion,REL5,MI,Midwest,East North Central,Another religion,10,,
 2016,Religion,REL5,MI,Midwest,East North Central,No religion,16,59,30
 2016,How often do you attend religious services?,ATTEND16,MI,Midwest,East North Central,Weekly or more,34,39,57
 2016,How often do you attend religious services?,ATTEND16,MI,Midwest,East North Central,Monthly,16,44,50
@@ -87,10 +87,10 @@
 2016,Marital status by gender,SEXWED,MI,Midwest,East North Central,Married women,27,44,49
 2016,Marital status by gender,SEXWED,MI,Midwest,East North Central,Unmarried men,19,54,37
 2016,Marital status by gender,SEXWED,MI,Midwest,East North Central,Unmarried women,22,62,34
-2016,When did you decide presidential vote?,TIME16,MI,Midwest,East North Central,Last few days,9,N/A,N/A
-2016,When did you decide presidential vote?,TIME16,MI,Midwest,East North Central,Last week,4,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,MI,Midwest,East North Central,Last few days,9,,
+2016,When did you decide presidential vote?,TIME16,MI,Midwest,East North Central,Last week,4,,
 2016,When did you decide presidential vote?,TIME16,MI,Midwest,East North Central,In October,13,35,55
-2016,When did you decide presidential vote?,TIME16,MI,Midwest,East North Central,In September,11,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,MI,Midwest,East North Central,In September,11,,
 2016,When did you decide presidential vote?,TIME16,MI,Midwest,East North Central,Before September,61,52,46
 2016,When did you decide presidential vote?,TIME16WEEK,MI,Midwest,East North Central,In the last week,13,39,50
 2016,When did you decide presidential vote?,TIME16WEEK,MI,Midwest,East North Central,Before that,84,48,48
@@ -113,7 +113,7 @@
 2016,Do you think immigrants to the U.S. today:,IMMBETTER,MI,Midwest,East North Central,Hurt the country,34,23,73
 2016,Effect of international trade,TRADE16,MI,Midwest,East North Central,Creates U.S. jobs,31,65,31
 2016,Effect of international trade,TRADE16,MI,Midwest,East North Central,Takes away U.S. jobs,50,36,58
-2016,Effect of international trade,TRADE16,MI,Midwest,East North Central,Does not affect jobs,12,N/A,N/A
+2016,Effect of international trade,TRADE16,MI,Midwest,East North Central,Does not affect jobs,12,,
 2016,Does the country's criminal justice system:,FAIRJUSTICE,MI,Midwest,East North Central,Treat all fairly,48,25,68
 2016,Does the country's criminal justice system:,FAIRJUSTICE,MI,Midwest,East North Central,Treat blacks unfairly,44,78,17
 2016,How do things work in the U.S. today?,RACEFACTOR,MI,Midwest,East North Central,Whites are favored,40,86,8
@@ -122,7 +122,7 @@
 2016,View on Obamacare,HEALTHCARE16,MI,Midwest,East North Central,Did not go far enough,30,73,18
 2016,View on Obamacare,HEALTHCARE16,MI,Midwest,East North Central,Was about right,20,89,8
 2016,View on Obamacare,HEALTHCARE16,MI,Midwest,East North Central,Went too far,44,14,79
-2016,Feelings about the federal government,GOVTANGR16,MI,Midwest,East North Central,Enthusiastic,4,N/A,N/A
+2016,Feelings about the federal government,GOVTANGR16,MI,Midwest,East North Central,Enthusiastic,4,,
 2016,Feelings about the federal government,GOVTANGR16,MI,Midwest,East North Central,Satisfied,23,72,23
 2016,Feelings about the federal government,GOVTANGR16,MI,Midwest,East North Central,Dissatisfied,46,45,50
 2016,Feelings about the federal government,GOVTANGR16,MI,Midwest,East North Central,Angry,24,21,71
@@ -132,7 +132,7 @@
 2016,Opinion of government,GOVTDO10,MI,Midwest,East North Central,Government doing too much,50,23,71
 2016,Opinion of Barack Obama as president,OBAMA4,MI,Midwest,East North Central,Strongly approve,35,96,3
 2016,Opinion of Barack Obama as president,OBAMA4,MI,Midwest,East North Central,Somewhat approve,19,58,27
-2016,Opinion of Barack Obama as president,OBAMA4,MI,Midwest,East North Central,Somewhat disapprove,13,N/A,N/A
+2016,Opinion of Barack Obama as president,OBAMA4,MI,Midwest,East North Central,Somewhat disapprove,13,,
 2016,Opinion of Barack Obama as president,OBAMA4,MI,Midwest,East North Central,Strongly disapprove,32,3,95
 2016,Opinion of Barack Obama as president,OBAMA2,MI,Midwest,East North Central,Approve,54,82,11
 2016,Opinion of Barack Obama as president,OBAMA2,MI,Midwest,East North Central,Disapprove,45,6,91
@@ -143,7 +143,7 @@
 2016,Opinion of Hillary Clinton,FAVHCLIN16,MI,Midwest,East North Central,Unfavorable,56,11,81
 2016,Opinion of Donald Trump,FAVTRUMP,MI,Midwest,East North Central,Favorable,39,4,94
 2016,Opinion of Donald Trump,FAVTRUMP,MI,Midwest,East North Central,Unfavorable,59,75,17
-2016,Opinion of Clinton and Trump,FAVPRES16,MI,Midwest,East North Central,Both favorable,2,N/A,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,MI,Midwest,East North Central,Both favorable,2,,
 2016,Opinion of Clinton and Trump,FAVPRES16,MI,Midwest,East North Central,Only Clinton favorable,40,99,1
 2016,Opinion of Clinton and Trump,FAVPRES16,MI,Midwest,East North Central,Only Trump favorable,36,1,98
 2016,Opinion of Clinton and Trump,FAVPRES16,MI,Midwest,East North Central,Both unfavorable,20,29,50
@@ -151,15 +151,15 @@
 2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,MI,Midwest,East North Central,No,64,21,72
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,MI,Midwest,East North Central,Yes,35,4,95
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,MI,Midwest,East North Central,No,63,72,20
-2016,Which candidate is honest?,HONEST16,MI,Midwest,East North Central,Both are,2,N/A,N/A
-2016,Which candidate is honest?,HONEST16,MI,Midwest,East North Central,Only Clinton is,32,99,N/A
+2016,Which candidate is honest?,HONEST16,MI,Midwest,East North Central,Both are,2,,
+2016,Which candidate is honest?,HONEST16,MI,Midwest,East North Central,Only Clinton is,32,99,
 2016,Which candidate is honest?,HONEST16,MI,Midwest,East North Central,Only Trump is,33,1,98
 2016,Which candidate is honest?,HONEST16,MI,Midwest,East North Central,Neither is,30,43,42
 2016,Does Clinton have the temperament to be president?,TEMPCLINTON,MI,Midwest,East North Central,Yes,52,85,11
 2016,Does Clinton have the temperament to be president?,TEMPCLINTON,MI,Midwest,East North Central,No,46,4,89
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,MI,Midwest,East North Central,Yes,38,4,95
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,MI,Midwest,East North Central,No,61,75,17
-2016,Which candidate has the right temperament?,TEMPERAMENT16,MI,Midwest,East North Central,Both do,5,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,MI,Midwest,East North Central,Both do,5,,
 2016,Which candidate has the right temperament?,TEMPERAMENT16,MI,Midwest,East North Central,Only Clinton does,47,92,4
 2016,Which candidate has the right temperament?,TEMPERAMENT16,MI,Midwest,East North Central,Only Trump does,32,0,99
 2016,Which candidate has the right temperament?,TEMPERAMENT16,MI,Midwest,East North Central,Neither does,14,14,63
@@ -167,7 +167,7 @@
 2016,Is Clinton qualified to serve as president?,QUALCLINTON,MI,Midwest,East North Central,No,48,5,88
 2016,Is Trump qualified to serve as president?,QUALTRUMP,MI,Midwest,East North Central,Yes,40,5,93
 2016,Is Trump qualified to serve as president?,QUALTRUMP,MI,Midwest,East North Central,No,59,74,17
-2016,Who is qualified to serve as president?,QUALIFIED16,MI,Midwest,East North Central,Both are,6,N/A,N/A
+2016,Who is qualified to serve as president?,QUALIFIED16,MI,Midwest,East North Central,Both are,6,,
 2016,Who is qualified to serve as president?,QUALIFIED16,MI,Midwest,East North Central,Only Clinton is,44,94,2
 2016,Who is qualified to serve as president?,QUALIFIED16,MI,Midwest,East North Central,Only Trump is,33,0,98
 2016,Who is qualified to serve as president?,QUALIFIED16,MI,Midwest,East North Central,Neither is,15,15,63
@@ -195,7 +195,7 @@
 2016,Which candidate attacked unfairly?,UNFAIR16,MI,Midwest,East North Central,Only Clinton did,21,2,94
 2016,Which candidate attacked unfairly?,UNFAIR16,MI,Midwest,East North Central,Only Trump did,38,91,6
 2016,Which candidate attacked unfairly?,UNFAIR16,MI,Midwest,East North Central,Neither did,19,38,49
-2016,Condition of national economy,NEC,MI,Midwest,East North Central,Excellent,3,N/A,N/A
+2016,Condition of national economy,NEC,MI,Midwest,East North Central,Excellent,3,,
 2016,Condition of national economy,NEC,MI,Midwest,East North Central,Good,38,74,20
 2016,Condition of national economy,NEC,MI,Midwest,East North Central,Not good,40,35,61
 2016,Condition of national economy,NEC,MI,Midwest,East North Central,Poor,19,17,76
@@ -214,7 +214,7 @@
 2016,Life for the next generation of Americans will be:,LIFE,MI,Midwest,East North Central,About the same,31,53,39
 2016,Vote for president in a two-way race,2WAYPRES16,MI,Midwest,East North Central,Clinton,48,96,1
 2016,Vote for president in a two-way race,2WAYPRES16,MI,Midwest,East North Central,Trump,44,1,97
-2016,Vote for president in a two-way race,2WAYPRES16,MI,Midwest,East North Central,Would not vote,7,N/A,N/A
+2016,Vote for president in a two-way race,2WAYPRES16,MI,Midwest,East North Central,Would not vote,7,,
 2016,Area type,SIZEPLC3,MI,Midwest,East North Central,Urban area,23,71,24
 2016,Area type,SIZEPLC3,MI,Midwest,East North Central,Suburban area,50,42,53
 2016,Area type,SIZEPLC3,MI,Midwest,East North Central,Rural area,27,38,56

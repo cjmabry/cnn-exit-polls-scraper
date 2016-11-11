@@ -11,24 +11,24 @@
 2012,Vote by Age,AGE65,ME,Northeast,New England,50-64,34,58,40
 2012,Vote by Age,AGE65,ME,Northeast,New England,65 and Older,19,55,43
 2012,Vote by Race,RACE,ME,Northeast,New England,White,96,57,40
-2012,Vote by Race,RACE,ME,Northeast,New England,African-American,1,N/A,N/A
-2012,Vote by Race,RACE,ME,Northeast,New England,Latino,1,N/A,N/A
-2012,Vote by Race,RACE,ME,Northeast,New England,Asian,0,N/A,N/A
-2012,Vote by Race,RACE,ME,Northeast,New England,Other,2,N/A,N/A
+2012,Vote by Race,RACE,ME,Northeast,New England,African-American,1,,
+2012,Vote by Race,RACE,ME,Northeast,New England,Latino,1,,
+2012,Vote by Race,RACE,ME,Northeast,New England,Asian,0,,
+2012,Vote by Race,RACE,ME,Northeast,New England,Other,2,,
 2012,Vote by Gender and Race,SEXBYRACE,ME,Northeast,New England,White Men,45,49,47
 2012,Vote by Gender and Race,SEXBYRACE,ME,Northeast,New England,White Women,51,64,34
-2012,Vote by Gender and Race,SEXBYRACE,ME,Northeast,New England,Black Men,1,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,ME,Northeast,New England,Black Women,0,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,ME,Northeast,New England,Latino Men,1,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,ME,Northeast,New England,Latino Women,1,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,ME,Northeast,New England,All Others,2,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,ME,Northeast,New England,Black Men,1,,
+2012,Vote by Gender and Race,SEXBYRACE,ME,Northeast,New England,Black Women,0,,
+2012,Vote by Gender and Race,SEXBYRACE,ME,Northeast,New England,Latino Men,1,,
+2012,Vote by Gender and Race,SEXBYRACE,ME,Northeast,New England,Latino Women,1,,
+2012,Vote by Gender and Race,SEXBYRACE,ME,Northeast,New England,All Others,2,,
 2012,Vote by Ideology,PHIL3,ME,Northeast,New England,Liberal,29,88,9
 2012,Vote by Ideology,PHIL3,ME,Northeast,New England,Moderate,43,61,36
 2012,Vote by Ideology,PHIL3,ME,Northeast,New England,Conservative,27,19,78
 2012,Vote by Party ID,PARTY,ME,Northeast,New England,Democratic,32,93,6
 2012,Vote by Party ID,PARTY,ME,Northeast,New England,Republican,27,9,89
 2012,Vote by Party ID,PARTY,ME,Northeast,New England,Independent,41,61,33
-2012,Vote by Education,EDUC10,ME,Northeast,New England,No High School,3,N/A,N/A
+2012,Vote by Education,EDUC10,ME,Northeast,New England,No High School,3,,
 2012,Vote by Education,EDUC10,ME,Northeast,New England,High School Graduate,24,51,46
 2012,Vote by Education,EDUC10,ME,Northeast,New England,Some College,25,54,42
 2012,Vote by Education,EDUC10,ME,Northeast,New England,College Graduate,29,56,42
@@ -44,9 +44,9 @@
 2012,Vote by Income,INC50K,ME,Northeast,New England,$50K or More,51,56,42
 2012,Vote by Income,INC100K,ME,Northeast,New England,Less Than $100K,81,57,39
 2012,Vote by Income,INC100K,ME,Northeast,New England,$100K or More,19,57,41
-2012,How Often Do You Attend Religious Services?,ATTEND,ME,Northeast,New England,More Than Weekly,6,N/A,N/A
+2012,How Often Do You Attend Religious Services?,ATTEND,ME,Northeast,New England,More Than Weekly,6,,
 2012,How Often Do You Attend Religious Services?,ATTEND,ME,Northeast,New England,Weekly,14,46,52
-2012,How Often Do You Attend Religious Services?,ATTEND,ME,Northeast,New England,Monthly,8,N/A,N/A
+2012,How Often Do You Attend Religious Services?,ATTEND,ME,Northeast,New England,Monthly,8,,
 2012,How Often Do You Attend Religious Services?,ATTEND,ME,Northeast,New England,Few Times a Year,32,56,42
 2012,How Often Do You Attend Religious Services?,ATTEND,ME,Northeast,New England,Never,39,71,25
 2012,How Often Do You Attend Religious Services?,ATTEND2,ME,Northeast,New England,Weekly,20,44,53
@@ -54,21 +54,21 @@
 2012,How Often Do You Attend Religious Services?,ATTEND2,ME,Northeast,New England,Never,39,71,25
 2012,Vote by Religion,REL5,ME,Northeast,New England,Protestant,46,50,48
 2012,Vote by Religion,REL5,ME,Northeast,New England,Catholic,20,56,41
-2012,Vote by Religion,REL5,ME,Northeast,New England,Jewish,1,N/A,N/A
+2012,Vote by Religion,REL5,ME,Northeast,New England,Jewish,1,,
 2012,Vote by Religion,REL5,ME,Northeast,New England,Other,9,73,23
 2012,Vote by Religion,REL5,ME,Northeast,New England,None,24,75,20
 2012,Vote by Religion and Race,WHITEREL,ME,Northeast,New England,White Protestant,45,50,49
 2012,Vote by Religion and Race,WHITEREL,ME,Northeast,New England,White Catholic,20,55,42
-2012,Vote by Religion and Race,WHITEREL,ME,Northeast,New England,White Jewish,1,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,ME,Northeast,New England,Whites/Other Religion,8,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,ME,Northeast,New England,White Jewish,1,,
+2012,Vote by Religion and Race,WHITEREL,ME,Northeast,New England,Whites/Other Religion,8,,
 2012,Vote by Religion and Race,WHITEREL,ME,Northeast,New England,Whites/No Religion,22,74,21
-2012,Vote by Religion and Race,WHITEREL,ME,Northeast,New England,Non-white,4,N/A,N/A
-2012,Vote by Religion and Church Attendance,ATTREL,ME,Northeast,New England,Protestant/Attend Weekly,9,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,ME,Northeast,New England,Non-white,4,,
+2012,Vote by Religion and Church Attendance,ATTREL,ME,Northeast,New England,Protestant/Attend Weekly,9,,
 2012,Vote by Religion and Church Attendance,ATTREL,ME,Northeast,New England,Protestant/Not Weekly ,21,54,45
-2012,Vote by Religion and Church Attendance,ATTREL,ME,Northeast,New England,Catholic/Attend Weekly,4,N/A,N/A
+2012,Vote by Religion and Church Attendance,ATTREL,ME,Northeast,New England,Catholic/Attend Weekly,4,,
 2012,Vote by Religion and Church Attendance,ATTREL,ME,Northeast,New England,Catholic/Not Weekly,15,61,36
 2012,Vote by Religion and Church Attendance,ATTREL,ME,Northeast,New England,All Others,50,66,31
-2012,Most Important Issue Facing Country,ISSUE12,ME,Northeast,New England,Foreign Policy,5,N/A,N/A
+2012,Most Important Issue Facing Country,ISSUE12,ME,Northeast,New England,Foreign Policy,5,,
 2012,Most Important Issue Facing Country,ISSUE12,ME,Northeast,New England,Deficit,16,36,58
 2012,Most Important Issue Facing Country,ISSUE12,ME,Northeast,New England,Economy,56,52,45
 2012,Most Important Issue Facing Country,ISSUE12,ME,Northeast,New England,Health Care,21,83,15
@@ -76,7 +76,7 @@
 2012,Most Important Candidate Quality,QLT12,ME,Northeast,New England,Strong Leader,16,48,51
 2012,Most Important Candidate Quality,QLT12,ME,Northeast,New England,Cares About People,21,77,19
 2012,Most Important Candidate Quality,QLT12,ME,Northeast,New England,Vision for Future,28,49,49
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,ME,Northeast,New England,Housing Market,5,N/A,N/A
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,ME,Northeast,New England,Housing Market,5,,
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,ME,Northeast,New England,Unemployment,31,62,34
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,ME,Northeast,New England,Taxes,20,48,50
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,ME,Northeast,New England,Rising Prices,42,61,36
@@ -86,7 +86,7 @@
 2012,Who Would Better Handle Economy?,HANDLEECON12,ME,Northeast,New England,Romney,39,6,91
 2012,Opinion of Government,GOVTDO10,ME,Northeast,New England,Government Should Do More,46,80,17
 2012,Opinion of Government,GOVTDO10,ME,Northeast,New England,Government Doing Too Much,51,31,66
-2012,National Economic Conditions,NEC,ME,Northeast,New England,Excellent,1,N/A,N/A
+2012,National Economic Conditions,NEC,ME,Northeast,New England,Excellent,1,,
 2012,National Economic Conditions,NEC,ME,Northeast,New England,Good,17,92,8
 2012,National Economic Conditions,NEC,ME,Northeast,New England,Not So Good,53,61,36
 2012,National Economic Conditions,NEC,ME,Northeast,New England,Poor,28,22,74
@@ -96,7 +96,7 @@
 2012,U.S. Economic Conditions Are...,ECONBETT,ME,Northeast,New England,Getting Worse,33,18,79
 2012,U.S. Economic Conditions Are...,ECONBETT,ME,Northeast,New England,Staying About the Same,31,51,44
 2012,U.S. Economic Conditions Are...,ECONDIR,ME,Northeast,New England,Getting Better,36,92,7
-2012,U.S. Economic Conditions Are...,ECONDIR,ME,Northeast,New England,Good and Staying the Same,3,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,ME,Northeast,New England,Good and Staying the Same,3,,
 2012,U.S. Economic Conditions Are...,ECONDIR,ME,Northeast,New England,Poor and Staying the Same,28,48,46
 2012,U.S. Economic Conditions Are...,ECONDIR,ME,Northeast,New England,Getting Worse,33,18,79
 2012,Your Family's Financial Situation,FINSIT,ME,Northeast,New England,Better,21,80,16
@@ -109,10 +109,10 @@
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,ME,Northeast,New England,Strongly Favor,59,66,32
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,ME,Northeast,New England,Have Reservations,28,49,49
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,ME,Northeast,New England,Dislike Opponent,12,53,35
-2012,When Did You Decide Presidential Vote?,TIME12,ME,Northeast,New England,Just Today,8,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,ME,Northeast,New England,Last Few Days,8,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,ME,Northeast,New England,In October,6,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,ME,Northeast,New England,In September,7,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,ME,Northeast,New England,Just Today,8,,
+2012,When Did You Decide Presidential Vote?,TIME12,ME,Northeast,New England,Last Few Days,8,,
+2012,When Did You Decide Presidential Vote?,TIME12,ME,Northeast,New England,In October,6,,
+2012,When Did You Decide Presidential Vote?,TIME12,ME,Northeast,New England,In September,7,,
 2012,When Did You Decide Presidential Vote?,TIME12,ME,Northeast,New England,Before That,70,59,39
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,ME,Northeast,New England,Today/Last Few Days,16,45,46
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,ME,Northeast,New England,Before That,83,57,41
@@ -139,7 +139,7 @@
 2012,Vote for Senate,SENME12,ME,Northeast,New England,King,53,78,19
 2012,Vote on Question 1,QUES1ME,ME,Northeast,New England,Yes,55,81,16
 2012,Vote on Question 1,QUES1ME,ME,Northeast,New England,No,45,28,69
-2012,Vote by Size of Place,SIZEPLC3,ME,Northeast,New England,Urban,3,N/A,N/A
+2012,Vote by Size of Place,SIZEPLC3,ME,Northeast,New England,Urban,3,,
 2012,Vote by Size of Place,SIZEPLC3,ME,Northeast,New England,Suburban,32,60,38
 2012,Vote by Size of Place,SIZEPLC3,ME,Northeast,New England,Rural,65,55,42
 2012,Vote by Region,GEOCOD,ME,Northeast,New England,Congressional District 1,52,61,36

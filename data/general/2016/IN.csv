@@ -14,18 +14,18 @@
 2016,Age,AGE45,IN,Midwest,East North Central,45 and older,53,35,61
 2016,Race,RACE,IN,Midwest,East North Central,White,83,32,64
 2016,Race,RACE,IN,Midwest,East North Central,Black,9,83,12
-2016,Race,RACE,IN,Midwest,East North Central,Latino,5,N/A,N/A
-2016,Race,RACE,IN,Midwest,East North Central,Asian,1,N/A,N/A
-2016,Race,RACE,IN,Midwest,East North Central,Other race,2,N/A,N/A
+2016,Race,RACE,IN,Midwest,East North Central,Latino,5,,
+2016,Race,RACE,IN,Midwest,East North Central,Asian,1,,
+2016,Race,RACE,IN,Midwest,East North Central,Other race,2,,
 2016,Race,RACE2B,IN,Midwest,East North Central,White,83,32,64
 2016,Race,RACE2B,IN,Midwest,East North Central,Non-white,17,69,27
 2016,Race and gender,SEXBYRACE,IN,Midwest,East North Central,White men,41,27,68
 2016,Race and gender,SEXBYRACE,IN,Midwest,East North Central,White women,42,35,60
-2016,Race and gender,SEXBYRACE,IN,Midwest,East North Central,Black men,4,N/A,N/A
+2016,Race and gender,SEXBYRACE,IN,Midwest,East North Central,Black men,4,,
 2016,Race and gender,SEXBYRACE,IN,Midwest,East North Central,Black women,5,88,8
-2016,Race and gender,SEXBYRACE,IN,Midwest,East North Central,Latino men,3,N/A,N/A
-2016,Race and gender,SEXBYRACE,IN,Midwest,East North Central,Latino women,3,N/A,N/A
-2016,Race and gender,SEXBYRACE,IN,Midwest,East North Central,Others,3,N/A,N/A
+2016,Race and gender,SEXBYRACE,IN,Midwest,East North Central,Latino men,3,,
+2016,Race and gender,SEXBYRACE,IN,Midwest,East North Central,Latino women,3,,
+2016,Race and gender,SEXBYRACE,IN,Midwest,East North Central,Others,3,,
 2016,Education,EDUC12R,IN,Midwest,East North Central,High school or less,20,30,66
 2016,Education,EDUC12R,IN,Midwest,East North Central,Some college,33,34,61
 2016,Education,EDUC12R,IN,Midwest,East North Central,College graduate,32,38,56
@@ -45,8 +45,8 @@
 2016,Income,INCOME16GEN,IN,Midwest,East North Central,"$30K-$49,999",21,38,53
 2016,Income,INCOME16GEN,IN,Midwest,East North Central,"$50K-$99,999",35,33,63
 2016,Income,INCOME16GEN,IN,Midwest,East North Central,"$100K-$199,999",22,31,63
-2016,Income,INCOME16GEN,IN,Midwest,East North Central,"$200K-$249,999",3,N/A,N/A
-2016,Income,INCOME16GEN,IN,Midwest,East North Central,"$250,000 or more",3,N/A,N/A
+2016,Income,INCOME16GEN,IN,Midwest,East North Central,"$200K-$249,999",3,,
+2016,Income,INCOME16GEN,IN,Midwest,East North Central,"$250,000 or more",3,,
 2016,Income,INCOME3,IN,Midwest,East North Central,Under $50K,37,40,52
 2016,Income,INCOME3,IN,Midwest,East North Central,$50K-$100K,35,33,63
 2016,Income,INCOME3,IN,Midwest,East North Central,$100K or more,28,34,62
@@ -75,9 +75,9 @@
 2016,Marital status by gender,SEXWED,IN,Midwest,East North Central,Unmarried men,16,41,54
 2016,Marital status by gender,SEXWED,IN,Midwest,East North Central,Unmarried women,21,48,45
 2016,When did you decide presidential vote?,TIME16,IN,Midwest,East North Central,Last few days,15,33,49
-2016,When did you decide presidential vote?,TIME16,IN,Midwest,East North Central,Last week,6,N/A,N/A
-2016,When did you decide presidential vote?,TIME16,IN,Midwest,East North Central,In October,7,N/A,N/A
-2016,When did you decide presidential vote?,TIME16,IN,Midwest,East North Central,In September,7,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,IN,Midwest,East North Central,Last week,6,,
+2016,When did you decide presidential vote?,TIME16,IN,Midwest,East North Central,In October,7,,
+2016,When did you decide presidential vote?,TIME16,IN,Midwest,East North Central,In September,7,,
 2016,When did you decide presidential vote?,TIME16,IN,Midwest,East North Central,Before September,63,37,60
 2016,When did you decide presidential vote?,TIME16WEEK,IN,Midwest,East North Central,In the last week,21,36,51
 2016,When did you decide presidential vote?,TIME16WEEK,IN,Midwest,East North Central,Before that,78,35,61
@@ -87,7 +87,7 @@
 2016,Opinion of presidential candidate you voted for,DESCRIBP12,IN,Midwest,East North Central,Have reservations,32,41,55
 2016,Opinion of presidential candidate you voted for,DESCRIBP12,IN,Midwest,East North Central,Dislike opponents,21,36,56
 2016,Most important issue facing the country,ISSUE16,IN,Midwest,East North Central,Foreign policy,13,45,48
-2016,Most important issue facing the country,ISSUE16,IN,Midwest,East North Central,Immigration,13,N/A,N/A
+2016,Most important issue facing the country,ISSUE16,IN,Midwest,East North Central,Immigration,13,,
 2016,Most important issue facing the country,ISSUE16,IN,Midwest,East North Central,Economy,54,38,54
 2016,Most important issue facing the country,ISSUE16,IN,Midwest,East North Central,Terrorism,17,28,68
 2016,Which candidate quality mattered most?,QLT16,IN,Midwest,East North Central,Cares about me,20,52,45
@@ -99,7 +99,7 @@
 2016,How do things work in the U.S. today?,RACEFACTOR,IN,Midwest,East North Central,Whites are favored,29,73,22
 2016,How do things work in the U.S. today?,RACEFACTOR,IN,Midwest,East North Central,Minorities are favored,35,15,82
 2016,How do things work in the U.S. today?,RACEFACTOR,IN,Midwest,East North Central,No group is favored,33,32,62
-2016,Feelings about the federal government,GOVTANGR16,IN,Midwest,East North Central,Enthusiastic,4,N/A,N/A
+2016,Feelings about the federal government,GOVTANGR16,IN,Midwest,East North Central,Enthusiastic,4,,
 2016,Feelings about the federal government,GOVTANGR16,IN,Midwest,East North Central,Satisfied,24,70,29
 2016,Feelings about the federal government,GOVTANGR16,IN,Midwest,East North Central,Dissatisfied,49,32,63
 2016,Feelings about the federal government,GOVTANGR16,IN,Midwest,East North Central,Angry,20,10,84
@@ -115,7 +115,7 @@
 2016,Opinion of Hillary Clinton,FAVHCLIN16,IN,Midwest,East North Central,Unfavorable,71,11,81
 2016,Opinion of Donald Trump,FAVTRUMP,IN,Midwest,East North Central,Favorable,46,6,94
 2016,Opinion of Donald Trump,FAVTRUMP,IN,Midwest,East North Central,Unfavorable,52,61,27
-2016,Opinion of Clinton and Trump,FAVPRES16,IN,Midwest,East North Central,Both favorable,1,N/A,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,IN,Midwest,East North Central,Both favorable,1,,
 2016,Opinion of Clinton and Trump,FAVPRES16,IN,Midwest,East North Central,Only Clinton favorable,26,98,1
 2016,Opinion of Clinton and Trump,FAVPRES16,IN,Midwest,East North Central,Only Trump favorable,45,4,96
 2016,Opinion of Clinton and Trump,FAVPRES16,IN,Midwest,East North Central,Both unfavorable,26,22,54
@@ -125,7 +125,7 @@
 2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,IN,Midwest,East North Central,No,72,18,77
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,IN,Midwest,East North Central,Yes,42,7,93
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,IN,Midwest,East North Central,No,56,63,30
-2016,Which candidate is honest?,HONEST16,IN,Midwest,East North Central,Both are,4,N/A,N/A
+2016,Which candidate is honest?,HONEST16,IN,Midwest,East North Central,Both are,4,,
 2016,Which candidate is honest?,HONEST16,IN,Midwest,East North Central,Only Clinton is,23,99,1
 2016,Which candidate is honest?,HONEST16,IN,Midwest,East North Central,Only Trump is,38,2,98
 2016,Which candidate is honest?,HONEST16,IN,Midwest,East North Central,Neither is,33,37,51
@@ -133,7 +133,7 @@
 2016,Is Clinton qualified to serve as president?,QUALCLINTON,IN,Midwest,East North Central,No,63,4,90
 2016,Is Trump qualified to serve as president?,QUALTRUMP,IN,Midwest,East North Central,Yes,50,4,96
 2016,Is Trump qualified to serve as president?,QUALTRUMP,IN,Midwest,East North Central,No,49,65,22
-2016,Who is qualified to serve as president?,QUALIFIED16,IN,Midwest,East North Central,Both are,3,N/A,N/A
+2016,Who is qualified to serve as president?,QUALIFIED16,IN,Midwest,East North Central,Both are,3,,
 2016,Who is qualified to serve as president?,QUALIFIED16,IN,Midwest,East North Central,Only Clinton is,33,90,1
 2016,Who is qualified to serve as president?,QUALIFIED16,IN,Midwest,East North Central,Only Trump is,46,2,98
 2016,Who is qualified to serve as president?,QUALIFIED16,IN,Midwest,East North Central,Neither is,16,12,67
@@ -141,11 +141,11 @@
 2016,Does Clinton have the temperament to be president?,TEMPCLINTON,IN,Midwest,East North Central,No,55,5,91
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,IN,Midwest,East North Central,Yes,42,5,95
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,IN,Midwest,East North Central,No,56,64,29
-2016,Which candidate has the right temperament?,TEMPERAMENT16,IN,Midwest,East North Central,Both do,6,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,IN,Midwest,East North Central,Both do,6,,
 2016,Which candidate has the right temperament?,TEMPERAMENT16,IN,Midwest,East North Central,Only Clinton does,37,91,4
 2016,Which candidate has the right temperament?,TEMPERAMENT16,IN,Midwest,East North Central,Only Trump does,37,3,97
 2016,Which candidate has the right temperament?,TEMPERAMENT16,IN,Midwest,East North Central,Neither does,18,9,80
-2016,Condition of national economy,NEC,IN,Midwest,East North Central,Excellent,5,N/A,N/A
+2016,Condition of national economy,NEC,IN,Midwest,East North Central,Excellent,5,,
 2016,Condition of national economy,NEC,IN,Midwest,East North Central,Good,30,75,21
 2016,Condition of national economy,NEC,IN,Midwest,East North Central,Not good,49,23,72
 2016,Condition of national economy,NEC,IN,Midwest,East North Central,Poor,15,7,91
@@ -159,7 +159,7 @@
 2016,Life for the next generation of Americans will be:,LIFE,IN,Midwest,East North Central,About the same,30,48,42
 2016,Vote for president in a two-way race,2WAYPRES16,IN,Midwest,East North Central,Clinton,40,95,3
 2016,Vote for president in a two-way race,2WAYPRES16,IN,Midwest,East North Central,Trump,55,2,95
-2016,Vote for president in a two-way race,2WAYPRES16,IN,Midwest,East North Central,Would not vote,4,N/A,N/A
+2016,Vote for president in a two-way race,2WAYPRES16,IN,Midwest,East North Central,Would not vote,4,,
 2016,Area type,SIZEPLC3,IN,Midwest,East North Central,Urban area,33,46,50
 2016,Area type,SIZEPLC3,IN,Midwest,East North Central,Suburban area,46,36,59
 2016,Area type,SIZEPLC3,IN,Midwest,East North Central,Rural area,21,30,65

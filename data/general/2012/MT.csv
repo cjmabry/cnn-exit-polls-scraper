@@ -11,16 +11,16 @@
 2012,Vote by Age,AGE65,MT,West,Mountain,50-64,32,45,53
 2012,Vote by Age,AGE65,MT,West,Mountain,65 and Older,21,40,58
 2012,Vote by Race,RACE,MT,West,Mountain,White,89,38,59
-2012,Vote by Race,RACE,MT,West,Mountain,African-American,0,N/A,N/A
-2012,Vote by Race,RACE,MT,West,Mountain,Latino,4,N/A,N/A
-2012,Vote by Race,RACE,MT,West,Mountain,Asian,0,N/A,N/A
+2012,Vote by Race,RACE,MT,West,Mountain,African-American,0,,
+2012,Vote by Race,RACE,MT,West,Mountain,Latino,4,,
+2012,Vote by Race,RACE,MT,West,Mountain,Asian,0,,
 2012,Vote by Race,RACE,MT,West,Mountain,Other,6,74,23
 2012,Vote by Gender and Race,SEXBYRACE,MT,West,Mountain,White Men,43,32,64
 2012,Vote by Gender and Race,SEXBYRACE,MT,West,Mountain,White Women,46,44,54
-2012,Vote by Gender and Race,SEXBYRACE,MT,West,Mountain,Black Men,0,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,MT,West,Mountain,Black Women,0,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,MT,West,Mountain,Latino Men,2,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,MT,West,Mountain,Latino Women,2,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,MT,West,Mountain,Black Men,0,,
+2012,Vote by Gender and Race,SEXBYRACE,MT,West,Mountain,Black Women,0,,
+2012,Vote by Gender and Race,SEXBYRACE,MT,West,Mountain,Latino Men,2,,
+2012,Vote by Gender and Race,SEXBYRACE,MT,West,Mountain,Latino Women,2,,
 2012,Vote by Gender and Race,SEXBYRACE,MT,West,Mountain,All Others,7,73,24
 2012,Vote by Ideology,PHIL3,MT,West,Mountain,Liberal,19,84,12
 2012,Vote by Ideology,PHIL3,MT,West,Mountain,Moderate,41,54,43
@@ -28,7 +28,7 @@
 2012,Vote by Party ID,PARTY,MT,West,Mountain,Democratic,26,92,7
 2012,Vote by Party ID,PARTY,MT,West,Mountain,Republican,33,4,96
 2012,Vote by Party ID,PARTY,MT,West,Mountain,Independent,41,40,53
-2012,Vote by Education,EDUC10,MT,West,Mountain,No High School,3,N/A,N/A
+2012,Vote by Education,EDUC10,MT,West,Mountain,No High School,3,,
 2012,Vote by Education,EDUC10,MT,West,Mountain,High School Graduate,21,33,63
 2012,Vote by Education,EDUC10,MT,West,Mountain,Some College,32,38,59
 2012,Vote by Education,EDUC10,MT,West,Mountain,College Graduate,28,43,55
@@ -44,7 +44,7 @@
 2012,Vote by Income,INC50K,MT,West,Mountain,$50K or More,54,39,59
 2012,Vote by Income,INC100K,MT,West,Mountain,Less Than $100K,83,43,54
 2012,Vote by Income,INC100K,MT,West,Mountain,$100K or More,17,40,59
-2012,Most Important Issue Facing Country,ISSUE12,MT,West,Mountain,Foreign Policy,4,N/A,N/A
+2012,Most Important Issue Facing Country,ISSUE12,MT,West,Mountain,Foreign Policy,4,,
 2012,Most Important Issue Facing Country,ISSUE12,MT,West,Mountain,Deficit,18,28,70
 2012,Most Important Issue Facing Country,ISSUE12,MT,West,Mountain,Economy,54,35,62
 2012,Most Important Issue Facing Country,ISSUE12,MT,West,Mountain,Health Care,20,70,28
@@ -52,7 +52,7 @@
 2012,Most Important Candidate Quality,QLT12,MT,West,Mountain,Strong Leader,15,30,69
 2012,Most Important Candidate Quality,QLT12,MT,West,Mountain,Cares About People,16,76,22
 2012,Most Important Candidate Quality,QLT12,MT,West,Mountain,Vision for Future,33,40,59
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,MT,West,Mountain,Housing Market,6,N/A,N/A
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,MT,West,Mountain,Housing Market,6,,
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,MT,West,Mountain,Unemployment,30,40,58
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,MT,West,Mountain,Taxes,18,26,72
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,MT,West,Mountain,Rising Prices,43,42,52
@@ -62,7 +62,7 @@
 2012,Who Would Better Handle Economy?,HANDLEECON12,MT,West,Mountain,Romney,56,2,95
 2012,Opinion of Government,GOVTDO10,MT,West,Mountain,Government Should Do More,30,81,18
 2012,Opinion of Government,GOVTDO10,MT,West,Mountain,Government Doing Too Much,62,16,81
-2012,National Economic Conditions,NEC,MT,West,Mountain,Excellent,2,N/A,N/A
+2012,National Economic Conditions,NEC,MT,West,Mountain,Excellent,2,,
 2012,National Economic Conditions,NEC,MT,West,Mountain,Good,16,75,24
 2012,National Economic Conditions,NEC,MT,West,Mountain,Not So Good,43,53,42
 2012,National Economic Conditions,NEC,MT,West,Mountain,Poor,39,10,87
@@ -72,7 +72,7 @@
 2012,U.S. Economic Conditions Are...,ECONBETT,MT,West,Mountain,Getting Worse,33,7,90
 2012,U.S. Economic Conditions Are...,ECONBETT,MT,West,Mountain,Staying About the Same,33,30,66
 2012,U.S. Economic Conditions Are...,ECONDIR,MT,West,Mountain,Getting Better,33,84,13
-2012,U.S. Economic Conditions Are...,ECONDIR,MT,West,Mountain,Good and Staying the Same,3,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,MT,West,Mountain,Good and Staying the Same,3,,
 2012,U.S. Economic Conditions Are...,ECONDIR,MT,West,Mountain,Poor and Staying the Same,30,26,70
 2012,U.S. Economic Conditions Are...,ECONDIR,MT,West,Mountain,Getting Worse,33,7,90
 2012,Your Family's Financial Situation,FINSIT,MT,West,Mountain,Better,23,72,25
@@ -85,10 +85,10 @@
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,MT,West,Mountain,Strongly Favor,58,45,53
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,MT,West,Mountain,Have Reservations,24,40,60
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,MT,West,Mountain,Dislike Opponent,16,28,60
-2012,When Did You Decide Presidential Vote?,TIME12,MT,West,Mountain,Just Today,4,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,MT,West,Mountain,Last Few Days,4,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,MT,West,Mountain,In October,11,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,MT,West,Mountain,In September,9,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,MT,West,Mountain,Just Today,4,,
+2012,When Did You Decide Presidential Vote?,TIME12,MT,West,Mountain,Last Few Days,4,,
+2012,When Did You Decide Presidential Vote?,TIME12,MT,West,Mountain,In October,11,,
+2012,When Did You Decide Presidential Vote?,TIME12,MT,West,Mountain,In September,9,,
 2012,When Did You Decide Presidential Vote?,TIME12,MT,West,Mountain,Before That,72,42,56
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,MT,West,Mountain,Today/Last Few Days,7,46,49
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,MT,West,Mountain,Before That,92,41,56

@@ -13,19 +13,19 @@
 2016,Age,AGE45,UT,West,Mountain,18-44,55,31,38
 2016,Age,AGE45,UT,West,Mountain,45 and older,45,28,53
 2016,Race,RACE,UT,West,Mountain,White,86,25,47
-2016,Race,RACE,UT,West,Mountain,Black,0,N/A,N/A
+2016,Race,RACE,UT,West,Mountain,Black,0,,
 2016,Race,RACE,UT,West,Mountain,Latino,9,63,24
-2016,Race,RACE,UT,West,Mountain,Asian,1,N/A,N/A
-2016,Race,RACE,UT,West,Mountain,Other race,3,N/A,N/A
+2016,Race,RACE,UT,West,Mountain,Asian,1,,
+2016,Race,RACE,UT,West,Mountain,Other race,3,,
 2016,Race,RACE2B,UT,West,Mountain,White,86,25,47
 2016,Race,RACE2B,UT,West,Mountain,Non-white,14,61,25
 2016,Race and gender,SEXBYRACE,UT,West,Mountain,White men,42,21,53
 2016,Race and gender,SEXBYRACE,UT,West,Mountain,White women,44,29,42
-2016,Race and gender,SEXBYRACE,UT,West,Mountain,Black men,0,N/A,N/A
-2016,Race and gender,SEXBYRACE,UT,West,Mountain,Black women,0,N/A,N/A
-2016,Race and gender,SEXBYRACE,UT,West,Mountain,Latino men,5,N/A,N/A
-2016,Race and gender,SEXBYRACE,UT,West,Mountain,Latino women,5,N/A,N/A
-2016,Race and gender,SEXBYRACE,UT,West,Mountain,Others,4,N/A,N/A
+2016,Race and gender,SEXBYRACE,UT,West,Mountain,Black men,0,,
+2016,Race and gender,SEXBYRACE,UT,West,Mountain,Black women,0,,
+2016,Race and gender,SEXBYRACE,UT,West,Mountain,Latino men,5,,
+2016,Race and gender,SEXBYRACE,UT,West,Mountain,Latino women,5,,
+2016,Race and gender,SEXBYRACE,UT,West,Mountain,Others,4,,
 2016,Education,EDUC12R,UT,West,Mountain,High school or less,12,35,51
 2016,Education,EDUC12R,UT,West,Mountain,Some college,36,27,51
 2016,Education,EDUC12R,UT,West,Mountain,College graduate,33,27,38
@@ -34,8 +34,8 @@
 2016,Are you a college graduate?,EDUCCOLL,UT,West,Mountain,No,49,29,51
 2016,Education and race,EDUCWHITE,UT,West,Mountain,White college graduates,46,29,38
 2016,Education and race,EDUCWHITE,UT,West,Mountain,Whites no degree,40,21,57
-2016,Education and race,EDUCWHITE,UT,West,Mountain,Non-whites college grads,5,N/A,N/A
-2016,Education and race,EDUCWHITE,UT,West,Mountain,Non-whites no degree,8,N/A,N/A
+2016,Education and race,EDUCWHITE,UT,West,Mountain,Non-whites college grads,5,,
+2016,Education and race,EDUCWHITE,UT,West,Mountain,Non-whites no degree,8,,
 2016,Education among whites by sex,EDUCWHITEBYSEX,UT,West,Mountain,White college-grad women,23,35,33
 2016,Education among whites by sex,EDUCWHITEBYSEX,UT,West,Mountain,White non-college women,21,23,52
 2016,Education among whites by sex,EDUCWHITEBYSEX,UT,West,Mountain,White college-grad men,23,22,43
@@ -44,7 +44,7 @@
 2016,Party ID,PARTY,UT,West,Mountain,Democrats,23,83,8
 2016,Party ID,PARTY,UT,West,Mountain,Republicans,44,6,65
 2016,Party ID,PARTY,UT,West,Mountain,Independents,34,26,41
-2016,Party by gender,PARTYGENDER,UT,West,Mountain,Democratic men,9,N/A,N/A
+2016,Party by gender,PARTYGENDER,UT,West,Mountain,Democratic men,9,,
 2016,Party by gender,PARTYGENDER,UT,West,Mountain,Democratic women,13,87,8
 2016,Party by gender,PARTYGENDER,UT,West,Mountain,Republican men,22,7,70
 2016,Party by gender,PARTYGENDER,UT,West,Mountain,Republican women,21,5,60
@@ -55,12 +55,12 @@
 2016,Ideology,PHIL3,UT,West,Mountain,Conservative,45,4,67
 2016,Religion,REL4,UT,West,Mountain,Mormon,62,14,51
 2016,Religion,REL4,UT,West,Mountain,Protestant/Christian,18,49,39
-2016,Religion,REL4,UT,West,Mountain,Other religion,3,N/A,N/A
+2016,Religion,REL4,UT,West,Mountain,Other religion,3,,
 2016,Religion,REL4,UT,West,Mountain,No religion,17,57,30
 2016,Religion,MORMON,UT,West,Mountain,Mormon,62,14,51
 2016,Religion,MORMON,UT,West,Mountain,Other religion,38,54,33
 2016,When did you decide presidential vote?,TIME16,UT,West,Mountain,Last few days,14,15,44
-2016,When did you decide presidential vote?,TIME16,UT,West,Mountain,Last week,7,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,UT,West,Mountain,Last week,7,,
 2016,When did you decide presidential vote?,TIME16,UT,West,Mountain,In October,22,11,40
 2016,When did you decide presidential vote?,TIME16,UT,West,Mountain,In September,12,29,49
 2016,When did you decide presidential vote?,TIME16,UT,West,Mountain,Before September,43,43,49
@@ -75,7 +75,7 @@
 2016,Most important issue facing the country,ISSUE16,UT,West,Mountain,Immigration,13,27,60
 2016,Most important issue facing the country,ISSUE16,UT,West,Mountain,Economy,54,26,46
 2016,Most important issue facing the country,ISSUE16,UT,West,Mountain,Terrorism,13,21,51
-2016,Which candidate quality mattered most?,QLT16,UT,West,Mountain,Cares about me,9,N/A,N/A
+2016,Which candidate quality mattered most?,QLT16,UT,West,Mountain,Cares about me,9,,
 2016,Which candidate quality mattered most?,QLT16,UT,West,Mountain,Can bring change,40,7,79
 2016,Which candidate quality mattered most?,QLT16,UT,West,Mountain,Right experience,17,78,13
 2016,Which candidate quality mattered most?,QLT16,UT,West,Mountain,Good judgment,30,29,18
@@ -83,7 +83,7 @@
 2016,Opinion of Hillary Clinton,FAVHCLIN16,UT,West,Mountain,Unfavorable,72,5,60
 2016,Opinion of Donald Trump,FAVTRUMP,UT,West,Mountain,Favorable,33,1,95
 2016,Opinion of Donald Trump,FAVTRUMP,UT,West,Mountain,Unfavorable,64,44,18
-2016,Opinion of Clinton and Trump,FAVPRES16,UT,West,Mountain,Both favorable,0,N/A,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,UT,West,Mountain,Both favorable,0,,
 2016,Opinion of Clinton and Trump,FAVPRES16,UT,West,Mountain,Only Clinton favorable,26,94,1
 2016,Opinion of Clinton and Trump,FAVPRES16,UT,West,Mountain,Only Trump favorable,33,1,96
 2016,Opinion of Clinton and Trump,FAVPRES16,UT,West,Mountain,Both unfavorable,38,9,29
@@ -91,7 +91,7 @@
 2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,UT,West,Mountain,No,76,10,57
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,UT,West,Mountain,Yes,32,1,95
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,UT,West,Mountain,No,65,44,18
-2016,Which candidate is honest?,HONEST16,UT,West,Mountain,Both are,0,N/A,N/A
+2016,Which candidate is honest?,HONEST16,UT,West,Mountain,Both are,0,,
 2016,Which candidate is honest?,HONEST16,UT,West,Mountain,Only Clinton is,22,91,1
 2016,Which candidate is honest?,HONEST16,UT,West,Mountain,Only Trump is,31,1,95
 2016,Which candidate is honest?,HONEST16,UT,West,Mountain,Neither is,42,18,28

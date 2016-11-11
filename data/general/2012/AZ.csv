@@ -11,24 +11,24 @@
 2012,Vote by Age,AGE65,AZ,West,Mountain,50-64,23,36,64
 2012,Vote by Age,AGE65,AZ,West,Mountain,65 and Older,12,29,71
 2012,Vote by Race,RACE,AZ,West,Mountain,White,74,32,66
-2012,Vote by Race,RACE,AZ,West,Mountain,African-American,4,N/A,N/A
+2012,Vote by Race,RACE,AZ,West,Mountain,African-American,4,,
 2012,Vote by Race,RACE,AZ,West,Mountain,Latino,18,74,25
-2012,Vote by Race,RACE,AZ,West,Mountain,Asian,2,N/A,N/A
-2012,Vote by Race,RACE,AZ,West,Mountain,Other,2,N/A,N/A
+2012,Vote by Race,RACE,AZ,West,Mountain,Asian,2,,
+2012,Vote by Race,RACE,AZ,West,Mountain,Other,2,,
 2012,Vote by Gender and Race,SEXBYRACE,AZ,West,Mountain,White Men,37,30,67
 2012,Vote by Gender and Race,SEXBYRACE,AZ,West,Mountain,White Women,37,35,65
-2012,Vote by Gender and Race,SEXBYRACE,AZ,West,Mountain,Black Men,2,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,AZ,West,Mountain,Black Women,2,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,AZ,West,Mountain,Black Men,2,,
+2012,Vote by Gender and Race,SEXBYRACE,AZ,West,Mountain,Black Women,2,,
 2012,Vote by Gender and Race,SEXBYRACE,AZ,West,Mountain,Latino Men,8,71,27
 2012,Vote by Gender and Race,SEXBYRACE,AZ,West,Mountain,Latino Women,10,77,22
-2012,Vote by Gender and Race,SEXBYRACE,AZ,West,Mountain,All Others,4,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,AZ,West,Mountain,All Others,4,,
 2012,Vote by Ideology,PHIL3,AZ,West,Mountain,Liberal,19,86,12
 2012,Vote by Ideology,PHIL3,AZ,West,Mountain,Moderate,42,51,46
 2012,Vote by Ideology,PHIL3,AZ,West,Mountain,Conservative,39,12,87
 2012,Vote by Party ID,PARTY,AZ,West,Mountain,Democratic,26,87,12
 2012,Vote by Party ID,PARTY,AZ,West,Mountain,Republican,35,7,93
 2012,Vote by Party ID,PARTY,AZ,West,Mountain,Independent,39,45,51
-2012,Vote by Education,EDUC10,AZ,West,Mountain,No High School,2,N/A,N/A
+2012,Vote by Education,EDUC10,AZ,West,Mountain,No High School,2,,
 2012,Vote by Education,EDUC10,AZ,West,Mountain,High School Graduate,19,46,54
 2012,Vote by Education,EDUC10,AZ,West,Mountain,Some College,36,42,56
 2012,Vote by Education,EDUC10,AZ,West,Mountain,College Graduate,29,36,63
@@ -44,42 +44,42 @@
 2012,Vote by Income,INC50K,AZ,West,Mountain,$50K or More,55,42,56
 2012,Vote by Income,INC100K,AZ,West,Mountain,Less Than $100K,77,44,54
 2012,Vote by Income,INC100K,AZ,West,Mountain,$100K or More,23,43,56
-2012,How Often Do You Attend Religious Services?,ATTEND,AZ,West,Mountain,More Than Weekly,10,N/A,N/A
-2012,How Often Do You Attend Religious Services?,ATTEND,AZ,West,Mountain,Weekly,23,N/A,N/A
-2012,How Often Do You Attend Religious Services?,ATTEND,AZ,West,Mountain,Monthly,12,N/A,N/A
-2012,How Often Do You Attend Religious Services?,ATTEND,AZ,West,Mountain,Few Times a Year,29,N/A,N/A
-2012,How Often Do You Attend Religious Services?,ATTEND,AZ,West,Mountain,Never,27,N/A,N/A
+2012,How Often Do You Attend Religious Services?,ATTEND,AZ,West,Mountain,More Than Weekly,10,,
+2012,How Often Do You Attend Religious Services?,ATTEND,AZ,West,Mountain,Weekly,23,,
+2012,How Often Do You Attend Religious Services?,ATTEND,AZ,West,Mountain,Monthly,12,,
+2012,How Often Do You Attend Religious Services?,ATTEND,AZ,West,Mountain,Few Times a Year,29,,
+2012,How Often Do You Attend Religious Services?,ATTEND,AZ,West,Mountain,Never,27,,
 2012,How Often Do You Attend Religious Services?,ATTEND2,AZ,West,Mountain,Weekly,32,17,80
 2012,How Often Do You Attend Religious Services?,ATTEND2,AZ,West,Mountain,Occasionally,40,36,63
-2012,How Often Do You Attend Religious Services?,ATTEND2,AZ,West,Mountain,Never,27,N/A,N/A
+2012,How Often Do You Attend Religious Services?,ATTEND2,AZ,West,Mountain,Never,27,,
 2012,Vote by Religion,REL5,AZ,West,Mountain,Protestant,53,29,70
 2012,Vote by Religion,REL5,AZ,West,Mountain,Catholic,20,50,50
-2012,Vote by Religion,REL5,AZ,West,Mountain,Jewish,1,N/A,N/A
-2012,Vote by Religion,REL5,AZ,West,Mountain,Other,7,N/A,N/A
-2012,Vote by Religion,REL5,AZ,West,Mountain,None,19,N/A,N/A
+2012,Vote by Religion,REL5,AZ,West,Mountain,Jewish,1,,
+2012,Vote by Religion,REL5,AZ,West,Mountain,Other,7,,
+2012,Vote by Religion,REL5,AZ,West,Mountain,None,19,,
 2012,Vote by Religion and Race,WHITEREL,AZ,West,Mountain,White Protestant,44,20,79
-2012,Vote by Religion and Race,WHITEREL,AZ,West,Mountain,White Catholic,13,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,AZ,West,Mountain,White Jewish,1,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,AZ,West,Mountain,Whites/Other Religion,4,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,AZ,West,Mountain,Whites/No Religion,15,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,AZ,West,Mountain,White Catholic,13,,
+2012,Vote by Religion and Race,WHITEREL,AZ,West,Mountain,White Jewish,1,,
+2012,Vote by Religion and Race,WHITEREL,AZ,West,Mountain,Whites/Other Religion,4,,
+2012,Vote by Religion and Race,WHITEREL,AZ,West,Mountain,Whites/No Religion,15,,
 2012,Vote by Religion and Race,WHITEREL,AZ,West,Mountain,Non-white,24,71,27
-2012,Vote by Religion and Church Attendance,ATTREL,AZ,West,Mountain,Protestant/Attend Weekly,8,N/A,N/A
-2012,Vote by Religion and Church Attendance,ATTREL,AZ,West,Mountain,Protestant/Not Weekly ,15,N/A,N/A
-2012,Vote by Religion and Church Attendance,ATTREL,AZ,West,Mountain,Catholic/Attend Weekly,8,N/A,N/A
-2012,Vote by Religion and Church Attendance,ATTREL,AZ,West,Mountain,Catholic/Not Weekly,11,N/A,N/A
+2012,Vote by Religion and Church Attendance,ATTREL,AZ,West,Mountain,Protestant/Attend Weekly,8,,
+2012,Vote by Religion and Church Attendance,ATTREL,AZ,West,Mountain,Protestant/Not Weekly ,15,,
+2012,Vote by Religion and Church Attendance,ATTREL,AZ,West,Mountain,Catholic/Attend Weekly,8,,
+2012,Vote by Religion and Church Attendance,ATTREL,AZ,West,Mountain,Catholic/Not Weekly,11,,
 2012,Vote by Religion and Church Attendance,ATTREL,AZ,West,Mountain,All Others,58,45,53
-2012,Are You White Born-Again Christian?,WHTEVANG,AZ,West,Mountain,Yes,21,N/A,N/A
+2012,Are You White Born-Again Christian?,WHTEVANG,AZ,West,Mountain,Yes,21,,
 2012,Are You White Born-Again Christian?,WHTEVANG,AZ,West,Mountain,No,79,43,56
-2012,Abortion Should Be...,ABORTION,AZ,West,Mountain,Always Legal,26,N/A,N/A
+2012,Abortion Should Be...,ABORTION,AZ,West,Mountain,Always Legal,26,,
 2012,Abortion Should Be...,ABORTION,AZ,West,Mountain,Mostly Legal,37,43,54
-2012,Abortion Should Be...,ABORTION,AZ,West,Mountain,Mostly Illegal,27,N/A,N/A
-2012,Abortion Should Be...,ABORTION,AZ,West,Mountain,Always Illegal,8,N/A,N/A
+2012,Abortion Should Be...,ABORTION,AZ,West,Mountain,Mostly Illegal,27,,
+2012,Abortion Should Be...,ABORTION,AZ,West,Mountain,Always Illegal,8,,
 2012,Abortion Should Be...,ABORT2,AZ,West,Mountain,Legal,64,51,48
 2012,Abortion Should Be...,ABORT2,AZ,West,Mountain,Illegal,35,10,89
-2012,Opinion of Tea Party Movement,TEAPARTY12,AZ,West,Mountain,Support,21,N/A,N/A
+2012,Opinion of Tea Party Movement,TEAPARTY12,AZ,West,Mountain,Support,21,,
 2012,Opinion of Tea Party Movement,TEAPARTY12,AZ,West,Mountain,Neutral,50,28,71
 2012,Opinion of Tea Party Movement,TEAPARTY12,AZ,West,Mountain,Oppose,22,85,14
-2012,Most Important Issue Facing Country,ISSUE12,AZ,West,Mountain,Foreign Policy,7,N/A,N/A
+2012,Most Important Issue Facing Country,ISSUE12,AZ,West,Mountain,Foreign Policy,7,,
 2012,Most Important Issue Facing Country,ISSUE12,AZ,West,Mountain,Deficit,19,20,72
 2012,Most Important Issue Facing Country,ISSUE12,AZ,West,Mountain,Economy,58,43,57
 2012,Most Important Issue Facing Country,ISSUE12,AZ,West,Mountain,Health Care,13,75,25
@@ -87,43 +87,43 @@
 2012,Most Important Candidate Quality,QLT12,AZ,West,Mountain,Strong Leader,17,31,67
 2012,Most Important Candidate Quality,QLT12,AZ,West,Mountain,Cares About People,19,77,17
 2012,Most Important Candidate Quality,QLT12,AZ,West,Mountain,Vision for Future,34,44,55
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,AZ,West,Mountain,Housing Market,7,N/A,N/A
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,AZ,West,Mountain,Housing Market,7,,
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,AZ,West,Mountain,Unemployment,34,43,57
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,AZ,West,Mountain,Taxes,10,N/A,N/A
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,AZ,West,Mountain,Taxes,10,,
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,AZ,West,Mountain,Rising Prices,45,43,52
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,AZ,West,Mountain,Expanded,23,N/A,N/A
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,AZ,West,Mountain,Kept As Is,13,N/A,N/A
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,AZ,West,Mountain,Repealed In Part,22,N/A,N/A
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,AZ,West,Mountain,Repealed Completely,35,N/A,N/A
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,AZ,West,Mountain,Expanded,23,,
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,AZ,West,Mountain,Kept As Is,13,,
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,AZ,West,Mountain,Repealed In Part,22,,
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,AZ,West,Mountain,Repealed Completely,35,,
 2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,AZ,West,Mountain,No,36,89,8
 2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,AZ,West,Mountain,Yes,57,9,88
-2012,Income Tax Rates Should Be...,TAXINC12,AZ,West,Mountain,Increased For All,7,N/A,N/A
+2012,Income Tax Rates Should Be...,TAXINC12,AZ,West,Mountain,Increased For All,7,,
 2012,Income Tax Rates Should Be...,TAXINC12,AZ,West,Mountain,Increased for $250K+,46,60,35
 2012,Income Tax Rates Should Be...,TAXINC12,AZ,West,Mountain,Not Increased,45,22,77
 2012,Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,AZ,West,Mountain,Offered Legal Status,61,51,47
-2012,Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,AZ,West,Mountain,Deported,33,N/A,N/A
+2012,Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,AZ,West,Mountain,Deported,33,,
 2012,Who Is More In Touch With People Like You?,INTOUCH12,AZ,West,Mountain,Obama,50,83,15
-2012,Who Is More In Touch With People Like You?,INTOUCH12,AZ,West,Mountain,Romney,45,N/A,100
-2012,Who Would Better Handle Economy?,HANDLEECON12,AZ,West,Mountain,Obama,39,98,N/A
+2012,Who Is More In Touch With People Like You?,INTOUCH12,AZ,West,Mountain,Romney,45,,100
+2012,Who Would Better Handle Economy?,HANDLEECON12,AZ,West,Mountain,Obama,39,98,
 2012,Who Would Better Handle Economy?,HANDLEECON12,AZ,West,Mountain,Romney,58,4,94
 2012,Who Would Better Handle Medicare?,HANDLEMED12,AZ,West,Mountain,Obama,40,96,2
 2012,Who Would Better Handle Medicare?,HANDLEMED12,AZ,West,Mountain,Romney,53,1,98
-2012,Who Would Better Handle Deficit?,HANDLEDEF12,AZ,West,Mountain,Obama,39,98,N/A
+2012,Who Would Better Handle Deficit?,HANDLEDEF12,AZ,West,Mountain,Obama,39,98,
 2012,Who Would Better Handle Deficit?,HANDLEDEF12,AZ,West,Mountain,Romney,59,4,94
 2012,Opinion of Government,GOVTDO10,AZ,West,Mountain,Government Should Do More,38,88,12
 2012,Opinion of Government,GOVTDO10,AZ,West,Mountain,Government Doing Too Much,58,20,80
-2012,National Economic Conditions,NEC,AZ,West,Mountain,Excellent,0,N/A,N/A
-2012,National Economic Conditions,NEC,AZ,West,Mountain,Good,13,N/A,N/A
+2012,National Economic Conditions,NEC,AZ,West,Mountain,Excellent,0,,
+2012,National Economic Conditions,NEC,AZ,West,Mountain,Good,13,,
 2012,National Economic Conditions,NEC,AZ,West,Mountain,Not So Good,44,52,46
 2012,National Economic Conditions,NEC,AZ,West,Mountain,Poor,42,17,77
-2012,National Economic Conditions,NEC2,AZ,West,Mountain,Excellent/Good,13,N/A,N/A
+2012,National Economic Conditions,NEC2,AZ,West,Mountain,Excellent/Good,13,,
 2012,National Economic Conditions,NEC2,AZ,West,Mountain,Not So Good/Poor,86,35,61
 2012,U.S. Economic Conditions Are...,ECONBETT,AZ,West,Mountain,Getting Better,39,89,9
 2012,U.S. Economic Conditions Are...,ECONBETT,AZ,West,Mountain,Getting Worse,26,4,96
-2012,U.S. Economic Conditions Are...,ECONBETT,AZ,West,Mountain,Staying About the Same,30,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONBETT,AZ,West,Mountain,Staying About the Same,30,,
 2012,U.S. Economic Conditions Are...,ECONDIR,AZ,West,Mountain,Getting Better,39,89,9
-2012,U.S. Economic Conditions Are...,ECONDIR,AZ,West,Mountain,Good and Staying the Same,1,N/A,N/A
-2012,U.S. Economic Conditions Are...,ECONDIR,AZ,West,Mountain,Poor and Staying the Same,29,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,AZ,West,Mountain,Good and Staying the Same,1,,
+2012,U.S. Economic Conditions Are...,ECONDIR,AZ,West,Mountain,Poor and Staying the Same,29,,
 2012,U.S. Economic Conditions Are...,ECONDIR,AZ,West,Mountain,Getting Worse,26,4,96
 2012,Your Family's Financial Situation,FINSIT,AZ,West,Mountain,Better,32,92,8
 2012,Your Family's Financial Situation,FINSIT,AZ,West,Mountain,Worse,39,7,92
@@ -136,15 +136,15 @@
 2012,U.S. Economic System Generally...,ECONFAIR,AZ,West,Mountain,Is Fair to Most Americans,46,17,83
 2012,Should Taxes Be Raised To Help Cut Deficit?,TAXDEF,AZ,West,Mountain,Yes,33,84,16
 2012,Should Taxes Be Raised To Help Cut Deficit?,TAXDEF,AZ,West,Mountain,No,65,20,75
-2012,Opinion of Obama Administration,OBAMANG,AZ,West,Mountain,Enthusiastic,17,N/A,N/A
-2012,Opinion of Obama Administration,OBAMANG,AZ,West,Mountain,Satisfied,24,N/A,N/A
+2012,Opinion of Obama Administration,OBAMANG,AZ,West,Mountain,Enthusiastic,17,,
+2012,Opinion of Obama Administration,OBAMANG,AZ,West,Mountain,Satisfied,24,,
 2012,Opinion of Obama Administration,OBAMANG,AZ,West,Mountain,Dissatisfied,38,13,81
-2012,Opinion of Obama Administration,OBAMANG,AZ,West,Mountain,Angry,20,N/A,N/A
+2012,Opinion of Obama Administration,OBAMANG,AZ,West,Mountain,Angry,20,,
 2012,Opinion of Obama Administration,OBAMANG2,AZ,West,Mountain,Enthusiastic/Satisfied,41,89,10
 2012,Opinion of Obama Administration,OBAMANG2,AZ,West,Mountain,Dissatisfied/Angry,58,8,88
 2012,How Obama is Handling His Job As President,OBAMA4,AZ,West,Mountain,Strongly Approve,22,93,3
-2012,How Obama is Handling His Job As President,OBAMA4,AZ,West,Mountain,Somewhat Approve,21,N/A,N/A
-2012,How Obama is Handling His Job As President,OBAMA4,AZ,West,Mountain,Somewhat Disapprove,10,N/A,N/A
+2012,How Obama is Handling His Job As President,OBAMA4,AZ,West,Mountain,Somewhat Approve,21,,
+2012,How Obama is Handling His Job As President,OBAMA4,AZ,West,Mountain,Somewhat Disapprove,10,,
 2012,How Obama is Handling His Job As President,OBAMA4,AZ,West,Mountain,Strongly Disapprove,46,0,98
 2012,How Obama is Handling His Job As President,OBAMA2,AZ,West,Mountain,Approve,43,91,7
 2012,How Obama is Handling His Job As President,OBAMA2,AZ,West,Mountain,Disapprove,56,3,94
@@ -152,31 +152,31 @@
 2012,Opinion of Barack Obama,FAVOBAMA2,AZ,West,Mountain,Unfavorable,44,1,98
 2012,Opinion of Mitt Romney,FAVROMN2,AZ,West,Mountain,Favorable,51,4,96
 2012,Opinion of Mitt Romney,FAVROMN2,AZ,West,Mountain,Unfavorable,44,95,2
-2012,Do Obama Policies Generally Favor...,OBAMARICH,AZ,West,Mountain,Rich,14,N/A,N/A
+2012,Do Obama Policies Generally Favor...,OBAMARICH,AZ,West,Mountain,Rich,14,,
 2012,Do Obama Policies Generally Favor...,OBAMARICH,AZ,West,Mountain,Middle Class,44,87,12
-2012,Do Obama Policies Generally Favor...,OBAMARICH,AZ,West,Mountain,Poor,29,N/A,N/A
+2012,Do Obama Policies Generally Favor...,OBAMARICH,AZ,West,Mountain,Poor,29,,
 2012,Would Romney Policies Generally Favor...,ROMNRICH,AZ,West,Mountain,Rich,48,85,13
 2012,Would Romney Policies Generally Favor...,ROMNRICH,AZ,West,Mountain,Middle Class,39,15,83
-2012,Would Romney Policies Generally Favor...,ROMNRICH,AZ,West,Mountain,Poor,4,N/A,N/A
+2012,Would Romney Policies Generally Favor...,ROMNRICH,AZ,West,Mountain,Poor,4,,
 2012,Trust Obama to Handle International Crisis?,INTLOBAMA,AZ,West,Mountain,Yes,47,84,13
 2012,Trust Obama to Handle International Crisis?,INTLOBAMA,AZ,West,Mountain,No,53,3,94
 2012,Trust Romney to Handle International Crisis?,INTLROMNEY,AZ,West,Mountain,Yes,60,13,85
 2012,Trust Romney to Handle International Crisis?,INTLROMNEY,AZ,West,Mountain,No,35,86,10
-2012,Who Do You Trust To Handle International Crisis?,INTL12,AZ,West,Mountain,Only Obama,29,100,N/A
-2012,Who Do You Trust To Handle International Crisis?,INTL12,AZ,West,Mountain,Only Romney,45,N/A,100
-2012,Who Do You Trust To Handle International Crisis?,INTL12,AZ,West,Mountain,Both,15,N/A,N/A
-2012,Who Do You Trust To Handle International Crisis?,INTL12,AZ,West,Mountain,Neither,6,N/A,N/A
+2012,Who Do You Trust To Handle International Crisis?,INTL12,AZ,West,Mountain,Only Obama,29,100,
+2012,Who Do You Trust To Handle International Crisis?,INTL12,AZ,West,Mountain,Only Romney,45,,100
+2012,Who Do You Trust To Handle International Crisis?,INTL12,AZ,West,Mountain,Both,15,,
+2012,Who Do You Trust To Handle International Crisis?,INTL12,AZ,West,Mountain,Neither,6,,
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,AZ,West,Mountain,Strongly Favor,52,39,60
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,AZ,West,Mountain,Have Reservations,26,N/A,N/A
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,AZ,West,Mountain,Dislike Opponent,19,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,AZ,West,Mountain,Just Today,1,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,AZ,West,Mountain,Last Few Days,5,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,AZ,West,Mountain,In October,11,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,AZ,West,Mountain,In September,9,N/A,N/A
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,AZ,West,Mountain,Have Reservations,26,,
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,AZ,West,Mountain,Dislike Opponent,19,,
+2012,When Did You Decide Presidential Vote?,TIME12,AZ,West,Mountain,Just Today,1,,
+2012,When Did You Decide Presidential Vote?,TIME12,AZ,West,Mountain,Last Few Days,5,,
+2012,When Did You Decide Presidential Vote?,TIME12,AZ,West,Mountain,In October,11,,
+2012,When Did You Decide Presidential Vote?,TIME12,AZ,West,Mountain,In September,9,,
 2012,When Did You Decide Presidential Vote?,TIME12,AZ,West,Mountain,Before That,74,47,53
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,AZ,West,Mountain,Today/Last Few Days,6,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,AZ,West,Mountain,Today/Last Few Days,6,,
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,AZ,West,Mountain,Before That,93,48,52
-2012,When Did You Decide Presidential Vote?,TIME12MTH,AZ,West,Mountain,In October or November,16,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12MTH,AZ,West,Mountain,In October or November,16,,
 2012,When Did You Decide Presidential Vote?,TIME12MTH,AZ,West,Mountain,Before That,82,47,53
 2012,Vote by Marital Status,MARRIED,AZ,West,Mountain,Married,55,32,67
 2012,Vote by Marital Status,MARRIED,AZ,West,Mountain,Unmarried,45,58,40
@@ -192,22 +192,22 @@
 2012,Vote by Gender and Children in Household,PARENTS,AZ,West,Mountain,Mothers,15,59,41
 2012,Vote by Gender and Children in Household,PARENTS,AZ,West,Mountain,Men With No Children,32,44,55
 2012,Vote by Gender and Children in Household,PARENTS,AZ,West,Mountain,Women With No Children,34,41,59
-2012,Is Anyone in Household a Union Member?,UNIONHH12,AZ,West,Mountain,Yes,11,N/A,N/A
+2012,Is Anyone in Household a Union Member?,UNIONHH12,AZ,West,Mountain,Yes,11,,
 2012,Is Anyone in Household a Union Member?,UNIONHH12,AZ,West,Mountain,No,89,50,48
 2012,Do You Work Full-Time For Pay?,WORK,AZ,West,Mountain,Yes,66,51,48
 2012,Do You Work Full-Time For Pay?,WORK,AZ,West,Mountain,No,34,42,56
 2012,Should Same-Sex Marriages Be Legal in Your State?,SAMESEXM12,AZ,West,Mountain,Yes,57,55,44
 2012,Should Same-Sex Marriages Be Legal in Your State?,SAMESEXM12,AZ,West,Mountain,No,42,10,88
-2012,"Are You Gay, Lesbian or Bisexual?",GAY,AZ,West,Mountain,Yes,7,N/A,N/A
+2012,"Are You Gay, Lesbian or Bisexual?",GAY,AZ,West,Mountain,Yes,7,,
 2012,"Are You Gay, Lesbian or Bisexual?",GAY,AZ,West,Mountain,No,93,42,56
-2012,Importance of Obama's Response to Hurricane,BREAK12,AZ,West,Mountain,Most Important Factor,14,N/A,N/A
-2012,Importance of Obama's Response to Hurricane,BREAK12,AZ,West,Mountain,An Important Factor,28,N/A,N/A
-2012,Importance of Obama's Response to Hurricane,BREAK12,AZ,West,Mountain,Minor Factor,23,N/A,N/A
-2012,Importance of Obama's Response to Hurricane,BREAK12,AZ,West,Mountain,Not a Factor At All,32,N/A,N/A
-2012,Obama's Hurricane Response Important to You?,BREAK12A,AZ,West,Mountain,Yes,41,N/A,N/A
-2012,Obama's Hurricane Response Important to You?,BREAK12A,AZ,West,Mountain,No,55,N/A,N/A
-2012,Obama's Hurricane Response a Factor in Your Vote?,BREAK12B,AZ,West,Mountain,Yes,64,N/A,N/A
-2012,Obama's Hurricane Response a Factor in Your Vote?,BREAK12B,AZ,West,Mountain,No,32,N/A,N/A
+2012,Importance of Obama's Response to Hurricane,BREAK12,AZ,West,Mountain,Most Important Factor,14,,
+2012,Importance of Obama's Response to Hurricane,BREAK12,AZ,West,Mountain,An Important Factor,28,,
+2012,Importance of Obama's Response to Hurricane,BREAK12,AZ,West,Mountain,Minor Factor,23,,
+2012,Importance of Obama's Response to Hurricane,BREAK12,AZ,West,Mountain,Not a Factor At All,32,,
+2012,Obama's Hurricane Response Important to You?,BREAK12A,AZ,West,Mountain,Yes,41,,
+2012,Obama's Hurricane Response Important to You?,BREAK12A,AZ,West,Mountain,No,55,,
+2012,Obama's Hurricane Response a Factor in Your Vote?,BREAK12B,AZ,West,Mountain,Yes,64,,
+2012,Obama's Hurricane Response a Factor in Your Vote?,BREAK12B,AZ,West,Mountain,No,32,,
 2012,Vote for Senate,SENAZ12,AZ,West,Mountain,Carmona,45,89,10
 2012,Vote for Senate,SENAZ12,AZ,West,Mountain,Flake,50,4,95
 2012,Vote by Size of Place,SIZEPLC3,AZ,West,Mountain,Urban,50,52,46

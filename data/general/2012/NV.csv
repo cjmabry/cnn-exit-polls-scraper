@@ -46,13 +46,13 @@
 2012,Vote by Income,INC100K,NV,West,Mountain,$100K or More,22,37,61
 2012,Vote by Religion,REL5,NV,West,Mountain,Protestant,42,43,57
 2012,Vote by Religion,REL5,NV,West,Mountain,Catholic,26,51,46
-2012,Vote by Religion,REL5,NV,West,Mountain,Jewish,3,N/A,N/A
-2012,Vote by Religion,REL5,NV,West,Mountain,Other,6,N/A,N/A
+2012,Vote by Religion,REL5,NV,West,Mountain,Jewish,3,,
+2012,Vote by Religion,REL5,NV,West,Mountain,Other,6,,
 2012,Vote by Religion,REL5,NV,West,Mountain,None,23,65,33
 2012,Vote by Religion and Race,WHITEREL,NV,West,Mountain,White Protestant,26,33,67
 2012,Vote by Religion and Race,WHITEREL,NV,West,Mountain,White Catholic,15,38,58
-2012,Vote by Religion and Race,WHITEREL,NV,West,Mountain,White Jewish,3,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,NV,West,Mountain,Whites/Other Religion,4,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,NV,West,Mountain,White Jewish,3,,
+2012,Vote by Religion and Race,WHITEREL,NV,West,Mountain,Whites/Other Religion,4,,
 2012,Vote by Religion and Race,WHITEREL,NV,West,Mountain,Whites/No Religion,16,59,40
 2012,Vote by Religion and Race,WHITEREL,NV,West,Mountain,Non-white,36,70,29
 2012,Are You White Born-Again Christian?,WHTEVANG,NV,West,Mountain,Yes,18,28,69
@@ -60,7 +60,7 @@
 2012,Abortion Should Be...,ABORTION,NV,West,Mountain,Always Legal,33,73,26
 2012,Abortion Should Be...,ABORTION,NV,West,Mountain,Mostly Legal,30,54,44
 2012,Abortion Should Be...,ABORTION,NV,West,Mountain,Mostly Illegal,20,34,65
-2012,Abortion Should Be...,ABORTION,NV,West,Mountain,Always Illegal,10,N/A,N/A
+2012,Abortion Should Be...,ABORTION,NV,West,Mountain,Always Illegal,10,,
 2012,Abortion Should Be...,ABORT2,NV,West,Mountain,Legal,63,64,35
 2012,Abortion Should Be...,ABORT2,NV,West,Mountain,Illegal,30,33,66
 2012,Most Important Issue Facing Country,ISSUE12,NV,West,Mountain,Foreign Policy,4,54,35
@@ -94,7 +94,7 @@
 2012,Who Would Better Handle Medicare?,HANDLEMED12,NV,West,Mountain,Romney,41,2,96
 2012,Opinion of Government,GOVTDO10,NV,West,Mountain,Government Should Do More,42,85,10
 2012,Opinion of Government,GOVTDO10,NV,West,Mountain,Government Doing Too Much,51,24,75
-2012,National Economic Conditions,NEC,NV,West,Mountain,Excellent,1,N/A,N/A
+2012,National Economic Conditions,NEC,NV,West,Mountain,Excellent,1,,
 2012,National Economic Conditions,NEC,NV,West,Mountain,Good,23,96,4
 2012,National Economic Conditions,NEC,NV,West,Mountain,Not So Good,34,64,32
 2012,National Economic Conditions,NEC,NV,West,Mountain,Poor,40,14,83
@@ -104,7 +104,7 @@
 2012,U.S. Economic Conditions Are...,ECONBETT,NV,West,Mountain,Getting Worse,29,4,93
 2012,U.S. Economic Conditions Are...,ECONBETT,NV,West,Mountain,Staying About the Same,30,43,53
 2012,U.S. Economic Conditions Are...,ECONDIR,NV,West,Mountain,Getting Better,40,94,5
-2012,U.S. Economic Conditions Are...,ECONDIR,NV,West,Mountain,Good and Staying the Same,5,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,NV,West,Mountain,Good and Staying the Same,5,,
 2012,U.S. Economic Conditions Are...,ECONDIR,NV,West,Mountain,Poor and Staying the Same,25,32,64
 2012,U.S. Economic Conditions Are...,ECONDIR,NV,West,Mountain,Getting Worse,29,4,93
 2012,Your Family's Financial Situation,FINSIT,NV,West,Mountain,Better,28,84,8
@@ -127,12 +127,12 @@
 2012,Do Obama Policies Generally Favor...,OBAMARICH,NV,West,Mountain,Poor,30,25,74
 2012,Would Romney Policies Generally Favor...,ROMNRICH,NV,West,Mountain,Rich,56,90,9
 2012,Would Romney Policies Generally Favor...,ROMNRICH,NV,West,Mountain,Middle Class,33,4,95
-2012,Would Romney Policies Generally Favor...,ROMNRICH,NV,West,Mountain,Poor,1,N/A,N/A
+2012,Would Romney Policies Generally Favor...,ROMNRICH,NV,West,Mountain,Poor,1,,
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NV,West,Mountain,Strongly Favor,68,53,45
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NV,West,Mountain,Have Reservations,16,53,43
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NV,West,Mountain,Dislike Opponent,15,41,54
-2012,When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,Just Today,2,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,Last Few Days,3,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,Just Today,2,,
+2012,When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,Last Few Days,3,,
 2012,When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,In October,11,54,44
 2012,When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,In September,9,64,34
 2012,When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,Before That,73,51,45

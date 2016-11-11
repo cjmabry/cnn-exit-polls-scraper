@@ -13,19 +13,19 @@
 2016,Age,AGE45,MN,Midwest,West North Central,18-44,46,50,40
 2016,Age,AGE45,MN,Midwest,West North Central,45 and older,54,44,51
 2016,Race,RACE,MN,Midwest,West North Central,White,87,43,50
-2016,Race,RACE,MN,Midwest,West North Central,Black,4,N/A,N/A
-2016,Race,RACE,MN,Midwest,West North Central,Latino,4,N/A,N/A
-2016,Race,RACE,MN,Midwest,West North Central,Asian,2,N/A,N/A
-2016,Race,RACE,MN,Midwest,West North Central,Other race,3,N/A,N/A
+2016,Race,RACE,MN,Midwest,West North Central,Black,4,,
+2016,Race,RACE,MN,Midwest,West North Central,Latino,4,,
+2016,Race,RACE,MN,Midwest,West North Central,Asian,2,,
+2016,Race,RACE,MN,Midwest,West North Central,Other race,3,,
 2016,Race,RACE2B,MN,Midwest,West North Central,White,87,43,50
 2016,Race,RACE2B,MN,Midwest,West North Central,Non-white,13,71,22
 2016,Race and gender,SEXBYRACE,MN,Midwest,West North Central,White men,41,39,53
 2016,Race and gender,SEXBYRACE,MN,Midwest,West North Central,White women,46,46,47
-2016,Race and gender,SEXBYRACE,MN,Midwest,West North Central,Black men,2,N/A,N/A
-2016,Race and gender,SEXBYRACE,MN,Midwest,West North Central,Black women,2,N/A,N/A
-2016,Race and gender,SEXBYRACE,MN,Midwest,West North Central,Latino men,2,N/A,N/A
-2016,Race and gender,SEXBYRACE,MN,Midwest,West North Central,Latino women,2,N/A,N/A
-2016,Race and gender,SEXBYRACE,MN,Midwest,West North Central,Others,5,N/A,N/A
+2016,Race and gender,SEXBYRACE,MN,Midwest,West North Central,Black men,2,,
+2016,Race and gender,SEXBYRACE,MN,Midwest,West North Central,Black women,2,,
+2016,Race and gender,SEXBYRACE,MN,Midwest,West North Central,Latino men,2,,
+2016,Race and gender,SEXBYRACE,MN,Midwest,West North Central,Latino women,2,,
+2016,Race and gender,SEXBYRACE,MN,Midwest,West North Central,Others,5,,
 2016,Education,EDUC12R,MN,Midwest,West North Central,High school or less,12,38,55
 2016,Education,EDUC12R,MN,Midwest,West North Central,Some college,32,38,55
 2016,Education,EDUC12R,MN,Midwest,West North Central,College graduate,36,47,45
@@ -45,8 +45,8 @@
 2016,Income,INCOME16GEN,MN,Midwest,West North Central,"$30K-$49,999",15,45,45
 2016,Income,INCOME16GEN,MN,Midwest,West North Central,"$50K-$99,999",34,45,48
 2016,Income,INCOME16GEN,MN,Midwest,West North Central,"$100K-$199,999",26,51,40
-2016,Income,INCOME16GEN,MN,Midwest,West North Central,"$200K-$249,999",5,N/A,N/A
-2016,Income,INCOME16GEN,MN,Midwest,West North Central,"$250,000 or more",7,N/A,N/A
+2016,Income,INCOME16GEN,MN,Midwest,West North Central,"$200K-$249,999",5,,
+2016,Income,INCOME16GEN,MN,Midwest,West North Central,"$250,000 or more",7,,
 2016,Income,INCOME3,MN,Midwest,West North Central,Under $50K,29,45,45
 2016,Income,INCOME3,MN,Midwest,West North Central,$50K-$100K,34,45,48
 2016,Income,INCOME3,MN,Midwest,West North Central,$100K or more,37,52,41
@@ -73,9 +73,9 @@
 2016,Marital status by gender,SEXWED,MN,Midwest,West North Central,Unmarried men,17,44,48
 2016,Marital status by gender,SEXWED,MN,Midwest,West North Central,Unmarried women,20,52,40
 2016,When did you decide presidential vote?,TIME16,MN,Midwest,West North Central,Last few days,13,35,48
-2016,When did you decide presidential vote?,TIME16,MN,Midwest,West North Central,Last week,7,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,MN,Midwest,West North Central,Last week,7,,
 2016,When did you decide presidential vote?,TIME16,MN,Midwest,West North Central,In October,9,37,47
-2016,When did you decide presidential vote?,TIME16,MN,Midwest,West North Central,In September,8,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,MN,Midwest,West North Central,In September,8,,
 2016,When did you decide presidential vote?,TIME16,MN,Midwest,West North Central,Before September,63,56,40
 2016,When did you decide presidential vote?,TIME16WEEK,MN,Midwest,West North Central,In the last week,20,31,53
 2016,When did you decide presidential vote?,TIME16WEEK,MN,Midwest,West North Central,Before that,79,53,42
@@ -101,7 +101,7 @@
 2016,Opinion of Hillary Clinton,FAVHCLIN16,MN,Midwest,West North Central,Unfavorable,55,10,78
 2016,Opinion of Donald Trump,FAVTRUMP,MN,Midwest,West North Central,Favorable,35,3,96
 2016,Opinion of Donald Trump,FAVTRUMP,MN,Midwest,West North Central,Unfavorable,64,73,16
-2016,Opinion of Clinton and Trump,FAVPRES16,MN,Midwest,West North Central,Both favorable,2,N/A,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,MN,Midwest,West North Central,Both favorable,2,,
 2016,Opinion of Clinton and Trump,FAVPRES16,MN,Midwest,West North Central,Only Clinton favorable,42,98,0
 2016,Opinion of Clinton and Trump,FAVPRES16,MN,Midwest,West North Central,Only Trump favorable,33,1,99
 2016,Opinion of Clinton and Trump,FAVPRES16,MN,Midwest,West North Central,Both unfavorable,22,25,45
@@ -109,7 +109,7 @@
 2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,MN,Midwest,West North Central,No,63,22,66
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,MN,Midwest,West North Central,Yes,30,4,94
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,MN,Midwest,West North Central,No,67,67,22
-2016,Which candidate is honest?,HONEST16,MN,Midwest,West North Central,Both are,2,N/A,N/A
+2016,Which candidate is honest?,HONEST16,MN,Midwest,West North Central,Both are,2,,
 2016,Which candidate is honest?,HONEST16,MN,Midwest,West North Central,Only Clinton is,32,97,1
 2016,Which candidate is honest?,HONEST16,MN,Midwest,West North Central,Only Trump is,28,1,98
 2016,Which candidate is honest?,HONEST16,MN,Midwest,West North Central,Neither is,35,39,41
@@ -117,7 +117,7 @@
 2016,Does Clinton have the temperament to be president?,TEMPCLINTON,MN,Midwest,West North Central,No,42,5,83
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,MN,Midwest,West North Central,Yes,30,4,95
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,MN,Midwest,West North Central,No,67,68,21
-2016,Which candidate has the right temperament?,TEMPERAMENT16,MN,Midwest,West North Central,Both do,5,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,MN,Midwest,West North Central,Both do,5,,
 2016,Which candidate has the right temperament?,TEMPERAMENT16,MN,Midwest,West North Central,Only Clinton does,51,87,7
 2016,Which candidate has the right temperament?,TEMPERAMENT16,MN,Midwest,West North Central,Only Trump does,24,1,97
 2016,Which candidate has the right temperament?,TEMPERAMENT16,MN,Midwest,West North Central,Neither does,17,11,63

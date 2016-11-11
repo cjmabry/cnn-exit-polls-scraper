@@ -5,7 +5,7 @@
 2016,Age,AGE,NY,Northeast,Middle Atlantic,45-64,39,53,43
 2016,Age,AGE,NY,Northeast,Middle Atlantic,65 and older,18,53,44
 2016,Age,AGE65,NY,Northeast,Middle Atlantic,18-24,9,72,26
-2016,Age,AGE65,NY,Northeast,Middle Atlantic,25-29,8,N/A,N/A
+2016,Age,AGE65,NY,Northeast,Middle Atlantic,25-29,8,,
 2016,Age,AGE65,NY,Northeast,Middle Atlantic,30-39,16,65,30
 2016,Age,AGE65,NY,Northeast,Middle Atlantic,40-49,18,58,40
 2016,Age,AGE65,NY,Northeast,Middle Atlantic,50-64,31,52,44
@@ -15,17 +15,17 @@
 2016,Race,RACE,NY,Northeast,Middle Atlantic,White,65,45,51
 2016,Race,RACE,NY,Northeast,Middle Atlantic,Black,21,92,6
 2016,Race,RACE,NY,Northeast,Middle Atlantic,Latino,9,74,23
-2016,Race,RACE,NY,Northeast,Middle Atlantic,Asian,2,N/A,N/A
-2016,Race,RACE,NY,Northeast,Middle Atlantic,Other race,3,N/A,N/A
+2016,Race,RACE,NY,Northeast,Middle Atlantic,Asian,2,,
+2016,Race,RACE,NY,Northeast,Middle Atlantic,Other race,3,,
 2016,Race,RACE2B,NY,Northeast,Middle Atlantic,White,65,45,51
 2016,Race,RACE2B,NY,Northeast,Middle Atlantic,Non-white,35,85,13
 2016,Race and gender,SEXBYRACE,NY,Northeast,Middle Atlantic,White men,30,36,59
 2016,Race and gender,SEXBYRACE,NY,Northeast,Middle Atlantic,White women,35,52,44
 2016,Race and gender,SEXBYRACE,NY,Northeast,Middle Atlantic,Black men,8,94,5
 2016,Race and gender,SEXBYRACE,NY,Northeast,Middle Atlantic,Black women,13,91,7
-2016,Race and gender,SEXBYRACE,NY,Northeast,Middle Atlantic,Latino men,4,N/A,N/A
-2016,Race and gender,SEXBYRACE,NY,Northeast,Middle Atlantic,Latino women,5,N/A,N/A
-2016,Race and gender,SEXBYRACE,NY,Northeast,Middle Atlantic,Others,5,N/A,N/A
+2016,Race and gender,SEXBYRACE,NY,Northeast,Middle Atlantic,Latino men,4,,
+2016,Race and gender,SEXBYRACE,NY,Northeast,Middle Atlantic,Latino women,5,,
+2016,Race and gender,SEXBYRACE,NY,Northeast,Middle Atlantic,Others,5,,
 2016,Education,EDUC12R,NY,Northeast,Middle Atlantic,High school or less,16,50,47
 2016,Education,EDUC12R,NY,Northeast,Middle Atlantic,Some college,29,54,42
 2016,Education,EDUC12R,NY,Northeast,Middle Atlantic,College graduate,33,62,35
@@ -41,12 +41,12 @@
 2016,Education among whites by sex,EDUCWHITEBYSEX,NY,Northeast,Middle Atlantic,White college-grad men,16,47,49
 2016,Education among whites by sex,EDUCWHITEBYSEX,NY,Northeast,Middle Atlantic,White non-college men,14,25,71
 2016,Education among whites by sex,EDUCWHITEBYSEX,NY,Northeast,Middle Atlantic,Non-whites,35,85,13
-2016,Income,INCOME16GEN,NY,Northeast,Middle Atlantic,"Under $30,000",14,N/A,N/A
+2016,Income,INCOME16GEN,NY,Northeast,Middle Atlantic,"Under $30,000",14,,
 2016,Income,INCOME16GEN,NY,Northeast,Middle Atlantic,"$30K-$49,999",21,69,28
 2016,Income,INCOME16GEN,NY,Northeast,Middle Atlantic,"$50K-$99,999",34,61,37
 2016,Income,INCOME16GEN,NY,Northeast,Middle Atlantic,"$100K-$199,999",23,60,36
-2016,Income,INCOME16GEN,NY,Northeast,Middle Atlantic,"$200K-$249,999",4,N/A,N/A
-2016,Income,INCOME16GEN,NY,Northeast,Middle Atlantic,"$250,000 or more",5,N/A,N/A
+2016,Income,INCOME16GEN,NY,Northeast,Middle Atlantic,"$200K-$249,999",4,,
+2016,Income,INCOME16GEN,NY,Northeast,Middle Atlantic,"$250,000 or more",5,,
 2016,Income,INC50K,NY,Northeast,Middle Atlantic,Under $50K,35,68,30
 2016,Income,INC50K,NY,Northeast,Middle Atlantic,$50K or more,65,58,38
 2016,Income,INC100K,NY,Northeast,Middle Atlantic,Under $100K,69,65,33
@@ -70,189 +70,189 @@
 2016,Marital status,MARRIED,NY,Northeast,Middle Atlantic,Unmarried,46,66,30
 2016,Marital status by gender,SEXWED,NY,Northeast,Middle Atlantic,Married men,28,47,49
 2016,Marital status by gender,SEXWED,NY,Northeast,Middle Atlantic,Married women,26,60,38
-2016,Marital status by gender,SEXWED,NY,Northeast,Middle Atlantic,Unmarried men,18,N/A,N/A
+2016,Marital status by gender,SEXWED,NY,Northeast,Middle Atlantic,Unmarried men,18,,
 2016,Marital status by gender,SEXWED,NY,Northeast,Middle Atlantic,Unmarried women,28,74,23
-2016,White born-again or evangelical Christian?,WHTEVANG,NY,Northeast,Middle Atlantic,Yes,12,N/A,N/A
+2016,White born-again or evangelical Christian?,WHTEVANG,NY,Northeast,Middle Atlantic,Yes,12,,
 2016,White born-again or evangelical Christian?,WHTEVANG,NY,Northeast,Middle Atlantic,No,88,59,38
 2016,Religion,REL5,NY,Northeast,Middle Atlantic,Protestant,33,50,48
 2016,Religion,REL5,NY,Northeast,Middle Atlantic,Catholic,38,55,43
-2016,Religion,REL5,NY,Northeast,Middle Atlantic,Jewish,6,N/A,N/A
-2016,Religion,REL5,NY,Northeast,Middle Atlantic,Another religion,8,N/A,N/A
-2016,Religion,REL5,NY,Northeast,Middle Atlantic,No religion,15,N/A,N/A
-2016,How often do you attend religious services?,ATTEND16,NY,Northeast,Middle Atlantic,Weekly or more,31,N/A,N/A
-2016,How often do you attend religious services?,ATTEND16,NY,Northeast,Middle Atlantic,Monthly,15,N/A,N/A
-2016,How often do you attend religious services?,ATTEND16,NY,Northeast,Middle Atlantic,Few times a year,34,N/A,N/A
-2016,How often do you attend religious services?,ATTEND16,NY,Northeast,Middle Atlantic,Never,20,N/A,N/A
+2016,Religion,REL5,NY,Northeast,Middle Atlantic,Jewish,6,,
+2016,Religion,REL5,NY,Northeast,Middle Atlantic,Another religion,8,,
+2016,Religion,REL5,NY,Northeast,Middle Atlantic,No religion,15,,
+2016,How often do you attend religious services?,ATTEND16,NY,Northeast,Middle Atlantic,Weekly or more,31,,
+2016,How often do you attend religious services?,ATTEND16,NY,Northeast,Middle Atlantic,Monthly,15,,
+2016,How often do you attend religious services?,ATTEND16,NY,Northeast,Middle Atlantic,Few times a year,34,,
+2016,How often do you attend religious services?,ATTEND16,NY,Northeast,Middle Atlantic,Never,20,,
 2016,How often do you attend religious services?,ATTEND16B,NY,Northeast,Middle Atlantic,Monthly or more,46,55,45
 2016,How often do you attend religious services?,ATTEND16B,NY,Northeast,Middle Atlantic,Less often than that,54,54,42
 2016,Union household?,UNIONHH12,NY,Northeast,Middle Atlantic,Yes,41,63,32
 2016,Union household?,UNIONHH12,NY,Northeast,Middle Atlantic,No,59,62,37
-2016,Served in the U.S. military,VETVOTER,NY,Northeast,Middle Atlantic,Veterans,7,N/A,N/A
+2016,Served in the U.S. military,VETVOTER,NY,Northeast,Middle Atlantic,Veterans,7,,
 2016,Served in the U.S. military,VETVOTER,NY,Northeast,Middle Atlantic,Non-veterans,93,65,32
 2016,Were you born a U.S. citizen?,BORNCITIZEN,NY,Northeast,Middle Atlantic,Yes,83,58,39
-2016,Were you born a U.S. citizen?,BORNCITIZEN,NY,Northeast,Middle Atlantic,No,17,N/A,N/A
-2016,First-time voter?,FTVOTER,NY,Northeast,Middle Atlantic,Yes,12,N/A,N/A
+2016,Were you born a U.S. citizen?,BORNCITIZEN,NY,Northeast,Middle Atlantic,No,17,,
+2016,First-time voter?,FTVOTER,NY,Northeast,Middle Atlantic,Yes,12,,
 2016,First-time voter?,FTVOTER,NY,Northeast,Middle Atlantic,No,88,61,34
-2016,When did you decide presidential vote?,TIME16,NY,Northeast,Middle Atlantic,Last few days,12,N/A,N/A
-2016,When did you decide presidential vote?,TIME16,NY,Northeast,Middle Atlantic,Last week,5,N/A,N/A
-2016,When did you decide presidential vote?,TIME16,NY,Northeast,Middle Atlantic,In October,9,N/A,N/A
-2016,When did you decide presidential vote?,TIME16,NY,Northeast,Middle Atlantic,In September,8,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,NY,Northeast,Middle Atlantic,Last few days,12,,
+2016,When did you decide presidential vote?,TIME16,NY,Northeast,Middle Atlantic,Last week,5,,
+2016,When did you decide presidential vote?,TIME16,NY,Northeast,Middle Atlantic,In October,9,,
+2016,When did you decide presidential vote?,TIME16,NY,Northeast,Middle Atlantic,In September,8,,
 2016,When did you decide presidential vote?,TIME16,NY,Northeast,Middle Atlantic,Before September,66,68,31
-2016,When did you decide presidential vote?,TIME16WEEK,NY,Northeast,Middle Atlantic,In the last week,17,N/A,N/A
+2016,When did you decide presidential vote?,TIME16WEEK,NY,Northeast,Middle Atlantic,In the last week,17,,
 2016,When did you decide presidential vote?,TIME16WEEK,NY,Northeast,Middle Atlantic,Before that,83,65,34
-2016,When did you decide presidential vote?,TIME16MONTH,NY,Northeast,Middle Atlantic,In the last month,26,N/A,N/A
+2016,When did you decide presidential vote?,TIME16MONTH,NY,Northeast,Middle Atlantic,In the last month,26,,
 2016,When did you decide presidential vote?,TIME16MONTH,NY,Northeast,Middle Atlantic,Before that,74,67,31
 2016,Opinion of presidential candidate you voted for,DESCRIBP12,NY,Northeast,Middle Atlantic,Strongly favor ,46,62,37
-2016,Opinion of presidential candidate you voted for,DESCRIBP12,NY,Northeast,Middle Atlantic,Have reservations,30,N/A,N/A
-2016,Opinion of presidential candidate you voted for,DESCRIBP12,NY,Northeast,Middle Atlantic,Dislike opponents,22,N/A,N/A
-2016,Most important issue facing the country,ISSUE16,NY,Northeast,Middle Atlantic,Foreign policy,15,N/A,N/A
-2016,Most important issue facing the country,ISSUE16,NY,Northeast,Middle Atlantic,Immigration,11,N/A,N/A
+2016,Opinion of presidential candidate you voted for,DESCRIBP12,NY,Northeast,Middle Atlantic,Have reservations,30,,
+2016,Opinion of presidential candidate you voted for,DESCRIBP12,NY,Northeast,Middle Atlantic,Dislike opponents,22,,
+2016,Most important issue facing the country,ISSUE16,NY,Northeast,Middle Atlantic,Foreign policy,15,,
+2016,Most important issue facing the country,ISSUE16,NY,Northeast,Middle Atlantic,Immigration,11,,
 2016,Most important issue facing the country,ISSUE16,NY,Northeast,Middle Atlantic,Economy,55,62,33
-2016,Most important issue facing the country,ISSUE16,NY,Northeast,Middle Atlantic,Terrorism,15,N/A,N/A
+2016,Most important issue facing the country,ISSUE16,NY,Northeast,Middle Atlantic,Terrorism,15,,
 2016,Which candidate quality mattered most?,QLT16,NY,Northeast,Middle Atlantic,Cares about me,18,68,27
 2016,Which candidate quality mattered most?,QLT16,NY,Northeast,Middle Atlantic,Can bring change,37,22,72
 2016,Which candidate quality mattered most?,QLT16,NY,Northeast,Middle Atlantic,Right experience,25,95,5
 2016,Which candidate quality mattered most?,QLT16,NY,Northeast,Middle Atlantic,Good judgment,18,90,7
 2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,NY,Northeast,Middle Atlantic,Offered legal status,79,66,31
-2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,NY,Northeast,Middle Atlantic,Deported to home country,18,N/A,N/A
-2016,View of U.S. wall along the entire Mexican border,IMMWALL,NY,Northeast,Middle Atlantic,Support,32,N/A,N/A
+2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,NY,Northeast,Middle Atlantic,Deported to home country,18,,
+2016,View of U.S. wall along the entire Mexican border,IMMWALL,NY,Northeast,Middle Atlantic,Support,32,,
 2016,View of U.S. wall along the entire Mexican border,IMMWALL,NY,Northeast,Middle Atlantic,Oppose,65,91,6
 2016,Effect of international trade,TRADE16,NY,Northeast,Middle Atlantic,Creates U.S. jobs,39,66,32
 2016,Effect of international trade,TRADE16,NY,Northeast,Middle Atlantic,Takes away U.S. jobs,46,42,56
-2016,Effect of international trade,TRADE16,NY,Northeast,Middle Atlantic,Does not affect jobs,7,N/A,N/A
-2016,How is the fight against ISIS going?,ISIS16,NY,Northeast,Middle Atlantic,Very well,7,N/A,N/A
+2016,Effect of international trade,TRADE16,NY,Northeast,Middle Atlantic,Does not affect jobs,7,,
+2016,How is the fight against ISIS going?,ISIS16,NY,Northeast,Middle Atlantic,Very well,7,,
 2016,How is the fight against ISIS going?,ISIS16,NY,Northeast,Middle Atlantic,Somewhat well,40,90,9
-2016,How is the fight against ISIS going?,ISIS16,NY,Northeast,Middle Atlantic,Somewhat badly,27,N/A,N/A
-2016,How is the fight against ISIS going?,ISIS16,NY,Northeast,Middle Atlantic,Very badly,23,N/A,N/A
+2016,How is the fight against ISIS going?,ISIS16,NY,Northeast,Middle Atlantic,Somewhat badly,27,,
+2016,How is the fight against ISIS going?,ISIS16,NY,Northeast,Middle Atlantic,Very badly,23,,
 2016,How is the fight against ISIS going?,ISIS16B,NY,Northeast,Middle Atlantic,Well,48,92,8
 2016,How is the fight against ISIS going?,ISIS16B,NY,Northeast,Middle Atlantic,Badly,50,33,62
-2016,"In your vote, were Supreme Court appointments:",SUPREME16,NY,Northeast,Middle Atlantic,The most important factor,22,N/A,N/A
+2016,"In your vote, were Supreme Court appointments:",SUPREME16,NY,Northeast,Middle Atlantic,The most important factor,22,,
 2016,"In your vote, were Supreme Court appointments:",SUPREME16,NY,Northeast,Middle Atlantic,An important factor,46,48,48
-2016,"In your vote, were Supreme Court appointments:",SUPREME16,NY,Northeast,Middle Atlantic,A minor factor,14,N/A,N/A
-2016,"In your vote, were Supreme Court appointments:",SUPREME16,NY,Northeast,Middle Atlantic,Not a factor at all,17,N/A,N/A
+2016,"In your vote, were Supreme Court appointments:",SUPREME16,NY,Northeast,Middle Atlantic,A minor factor,14,,
+2016,"In your vote, were Supreme Court appointments:",SUPREME16,NY,Northeast,Middle Atlantic,Not a factor at all,17,,
 2016,"In your vote, were Supreme Court appointments:",SUPREME16B,NY,Northeast,Middle Atlantic,Important,68,52,45
-2016,"In your vote, were Supreme Court appointments:",SUPREME16B,NY,Northeast,Middle Atlantic,Not important,31,N/A,N/A
+2016,"In your vote, were Supreme Court appointments:",SUPREME16B,NY,Northeast,Middle Atlantic,Not important,31,,
 2016,Does the country's criminal justice system:,FAIRJUSTICE,NY,Northeast,Middle Atlantic,Treat all fairly,43,28,70
 2016,Does the country's criminal justice system:,FAIRJUSTICE,NY,Northeast,Middle Atlantic,Treat blacks unfairly,49,79,18
-2016,View on Obamacare,HEALTHCARE16,NY,Northeast,Middle Atlantic,Did not go far enough,34,N/A,N/A
-2016,View on Obamacare,HEALTHCARE16,NY,Northeast,Middle Atlantic,Was about right,24,N/A,N/A
+2016,View on Obamacare,HEALTHCARE16,NY,Northeast,Middle Atlantic,Did not go far enough,34,,
+2016,View on Obamacare,HEALTHCARE16,NY,Northeast,Middle Atlantic,Was about right,24,,
 2016,View on Obamacare,HEALTHCARE16,NY,Northeast,Middle Atlantic,Went too far,39,18,78
-2016,Feelings about the federal government,GOVTANGR16,NY,Northeast,Middle Atlantic,Enthusiastic,9,N/A,N/A
-2016,Feelings about the federal government,GOVTANGR16,NY,Northeast,Middle Atlantic,Satisfied,27,N/A,N/A
+2016,Feelings about the federal government,GOVTANGR16,NY,Northeast,Middle Atlantic,Enthusiastic,9,,
+2016,Feelings about the federal government,GOVTANGR16,NY,Northeast,Middle Atlantic,Satisfied,27,,
 2016,Feelings about the federal government,GOVTANGR16,NY,Northeast,Middle Atlantic,Dissatisfied,43,55,37
-2016,Feelings about the federal government,GOVTANGR16,NY,Northeast,Middle Atlantic,Angry,21,N/A,N/A
+2016,Feelings about the federal government,GOVTANGR16,NY,Northeast,Middle Atlantic,Angry,21,,
 2016,Feelings about the federal government,GOVTANGR16B,NY,Northeast,Middle Atlantic,Enthusiastic/Satisfied,36,89,11
 2016,Feelings about the federal government,GOVTANGR16B,NY,Northeast,Middle Atlantic,Dissatisfied/Angry,63,44,49
 2016,Opinion of government,GOVTDO10,NY,Northeast,Middle Atlantic,Government should do more,60,72,24
 2016,Opinion of government,GOVTDO10,NY,Northeast,Middle Atlantic,Government doing too much,34,21,77
 2016,Opinion of Barack Obama as president,OBAMA4,NY,Northeast,Middle Atlantic,Strongly approve,47,94,3
-2016,Opinion of Barack Obama as president,OBAMA4,NY,Northeast,Middle Atlantic,Somewhat approve,19,N/A,N/A
-2016,Opinion of Barack Obama as president,OBAMA4,NY,Northeast,Middle Atlantic,Somewhat disapprove,13,N/A,N/A
-2016,Opinion of Barack Obama as president,OBAMA4,NY,Northeast,Middle Atlantic,Strongly disapprove,21,N/A,N/A
+2016,Opinion of Barack Obama as president,OBAMA4,NY,Northeast,Middle Atlantic,Somewhat approve,19,,
+2016,Opinion of Barack Obama as president,OBAMA4,NY,Northeast,Middle Atlantic,Somewhat disapprove,13,,
+2016,Opinion of Barack Obama as president,OBAMA4,NY,Northeast,Middle Atlantic,Strongly disapprove,21,,
 2016,Opinion of Barack Obama as president,OBAMA2,NY,Northeast,Middle Atlantic,Approve,66,91,6
 2016,Opinion of Barack Obama as president,OBAMA2,NY,Northeast,Middle Atlantic,Disapprove,34,9,88
 2016,Should the next president:,OBAMAPLCY16,NY,Northeast,Middle Atlantic,Continue Obama's policies,39,93,7
 2016,Should the next president:,OBAMAPLCY16,NY,Northeast,Middle Atlantic,Be more conservative,37,17,79
-2016,Should the next president:,OBAMAPLCY16,NY,Northeast,Middle Atlantic,Be more liberal,18,N/A,N/A
+2016,Should the next president:,OBAMAPLCY16,NY,Northeast,Middle Atlantic,Be more liberal,18,,
 2016,Opinion of Hillary Clinton,FAVHCLIN16,NY,Northeast,Middle Atlantic,Favorable,57,97,3
 2016,Opinion of Hillary Clinton,FAVHCLIN16,NY,Northeast,Middle Atlantic,Unfavorable,42,17,76
-2016,Opinion of Donald Trump,FAVTRUMP,NY,Northeast,Middle Atlantic,Favorable,28,N/A,N/A
+2016,Opinion of Donald Trump,FAVTRUMP,NY,Northeast,Middle Atlantic,Favorable,28,,
 2016,Opinion of Donald Trump,FAVTRUMP,NY,Northeast,Middle Atlantic,Unfavorable,68,87,8
-2016,Opinion of Clinton and Trump,FAVPRES16,NY,Northeast,Middle Atlantic,Both favorable,2,N/A,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,NY,Northeast,Middle Atlantic,Both favorable,2,,
 2016,Opinion of Clinton and Trump,FAVPRES16,NY,Northeast,Middle Atlantic,Only Clinton favorable,55,98,2
-2016,Opinion of Clinton and Trump,FAVPRES16,NY,Northeast,Middle Atlantic,Only Trump favorable,26,N/A,N/A
-2016,Opinion of Clinton and Trump,FAVPRES16,NY,Northeast,Middle Atlantic,Both unfavorable,14,N/A,N/A
-2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,NY,Northeast,Middle Atlantic,Yes,41,100,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,NY,Northeast,Middle Atlantic,Only Trump favorable,26,,
+2016,Opinion of Clinton and Trump,FAVPRES16,NY,Northeast,Middle Atlantic,Both unfavorable,14,,
+2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,NY,Northeast,Middle Atlantic,Yes,41,100,
 2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,NY,Northeast,Middle Atlantic,No,54,27,65
-2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,NY,Northeast,Middle Atlantic,Yes,28,N/A,N/A
+2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,NY,Northeast,Middle Atlantic,Yes,28,,
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,NY,Northeast,Middle Atlantic,No,70,81,14
-2016,Which candidate is honest?,HONEST16,NY,Northeast,Middle Atlantic,Both are,1,N/A,N/A
-2016,Which candidate is honest?,HONEST16,NY,Northeast,Middle Atlantic,Only Clinton is,40,100,N/A
-2016,Which candidate is honest?,HONEST16,NY,Northeast,Middle Atlantic,Only Trump is,27,N/A,N/A
-2016,Which candidate is honest?,HONEST16,NY,Northeast,Middle Atlantic,Neither is,28,N/A,N/A
+2016,Which candidate is honest?,HONEST16,NY,Northeast,Middle Atlantic,Both are,1,,
+2016,Which candidate is honest?,HONEST16,NY,Northeast,Middle Atlantic,Only Clinton is,40,100,
+2016,Which candidate is honest?,HONEST16,NY,Northeast,Middle Atlantic,Only Trump is,27,,
+2016,Which candidate is honest?,HONEST16,NY,Northeast,Middle Atlantic,Neither is,28,,
 2016,Is Clinton qualified to serve as president?,QUALCLINTON,NY,Northeast,Middle Atlantic,Yes,56,90,9
 2016,Is Clinton qualified to serve as president?,QUALCLINTON,NY,Northeast,Middle Atlantic,No,41,6,87
 2016,Is Trump qualified to serve as president?,QUALTRUMP,NY,Northeast,Middle Atlantic,Yes,35,3,95
 2016,Is Trump qualified to serve as president?,QUALTRUMP,NY,Northeast,Middle Atlantic,No,64,82,14
-2016,Who is qualified to serve as president?,QUALIFIED16,NY,Northeast,Middle Atlantic,Both are,3,N/A,N/A
+2016,Who is qualified to serve as president?,QUALIFIED16,NY,Northeast,Middle Atlantic,Both are,3,,
 2016,Who is qualified to serve as president?,QUALIFIED16,NY,Northeast,Middle Atlantic,Only Clinton is,53,94,5
-2016,Who is qualified to serve as president?,QUALIFIED16,NY,Northeast,Middle Atlantic,Only Trump is,32,N/A,N/A
-2016,Who is qualified to serve as president?,QUALIFIED16,NY,Northeast,Middle Atlantic,Neither is,11,N/A,N/A
+2016,Who is qualified to serve as president?,QUALIFIED16,NY,Northeast,Middle Atlantic,Only Trump is,32,,
+2016,Who is qualified to serve as president?,QUALIFIED16,NY,Northeast,Middle Atlantic,Neither is,11,,
 2016,Does Clinton have the temperament to be president?,TEMPCLINTON,NY,Northeast,Middle Atlantic,Yes,62,89,6
-2016,Does Clinton have the temperament to be president?,TEMPCLINTON,NY,Northeast,Middle Atlantic,No,35,N/A,N/A
-2016,Does Trump have the temperament to be president?,TEMPTRUMP,NY,Northeast,Middle Atlantic,Yes,31,N/A,N/A
+2016,Does Clinton have the temperament to be president?,TEMPCLINTON,NY,Northeast,Middle Atlantic,No,35,,
+2016,Does Trump have the temperament to be president?,TEMPTRUMP,NY,Northeast,Middle Atlantic,Yes,31,,
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,NY,Northeast,Middle Atlantic,No,67,85,9
-2016,Which candidate has the right temperament?,TEMPERAMENT16,NY,Northeast,Middle Atlantic,Both do,3,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,NY,Northeast,Middle Atlantic,Both do,3,,
 2016,Which candidate has the right temperament?,TEMPERAMENT16,NY,Northeast,Middle Atlantic,Only Clinton does,59,92,3
-2016,Which candidate has the right temperament?,TEMPERAMENT16,NY,Northeast,Middle Atlantic,Only Trump does,28,N/A,N/A
-2016,Which candidate has the right temperament?,TEMPERAMENT16,NY,Northeast,Middle Atlantic,Neither does,7,N/A,N/A
-2016,How would you feel if Clinton wins?,CLINTONWINGEN,NY,Northeast,Middle Atlantic,Excited,24,N/A,N/A
-2016,How would you feel if Clinton wins?,CLINTONWINGEN,NY,Northeast,Middle Atlantic,Optimistic,33,N/A,N/A
-2016,How would you feel if Clinton wins?,CLINTONWINGEN,NY,Northeast,Middle Atlantic,Concerned,16,N/A,N/A
-2016,How would you feel if Clinton wins?,CLINTONWINGEN,NY,Northeast,Middle Atlantic,Scared,24,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,NY,Northeast,Middle Atlantic,Only Trump does,28,,
+2016,Which candidate has the right temperament?,TEMPERAMENT16,NY,Northeast,Middle Atlantic,Neither does,7,,
+2016,How would you feel if Clinton wins?,CLINTONWINGEN,NY,Northeast,Middle Atlantic,Excited,24,,
+2016,How would you feel if Clinton wins?,CLINTONWINGEN,NY,Northeast,Middle Atlantic,Optimistic,33,,
+2016,How would you feel if Clinton wins?,CLINTONWINGEN,NY,Northeast,Middle Atlantic,Concerned,16,,
+2016,How would you feel if Clinton wins?,CLINTONWINGEN,NY,Northeast,Middle Atlantic,Scared,24,,
 2016,How would you feel if Clinton wins?,CLINTONWINGENB,NY,Northeast,Middle Atlantic,Positive,56,98,1
 2016,How would you feel if Clinton wins?,CLINTONWINGENB,NY,Northeast,Middle Atlantic,Negative,40,13,84
-2016,How would you feel if Trump wins?,TRUMPWINGEN,NY,Northeast,Middle Atlantic,Excited,12,N/A,N/A
-2016,How would you feel if Trump wins?,TRUMPWINGEN,NY,Northeast,Middle Atlantic,Optimistic,20,N/A,N/A
-2016,How would you feel if Trump wins?,TRUMPWINGEN,NY,Northeast,Middle Atlantic,Concerned,15,N/A,N/A
+2016,How would you feel if Trump wins?,TRUMPWINGEN,NY,Northeast,Middle Atlantic,Excited,12,,
+2016,How would you feel if Trump wins?,TRUMPWINGEN,NY,Northeast,Middle Atlantic,Optimistic,20,,
+2016,How would you feel if Trump wins?,TRUMPWINGEN,NY,Northeast,Middle Atlantic,Concerned,15,,
 2016,How would you feel if Trump wins?,TRUMPWINGEN,NY,Northeast,Middle Atlantic,Scared,47,96,1
-2016,How would you feel if Trump wins?,TRUMPWINGENB,NY,Northeast,Middle Atlantic,Positive,32,N/A,N/A
+2016,How would you feel if Trump wins?,TRUMPWINGENB,NY,Northeast,Middle Atlantic,Positive,32,,
 2016,How would you feel if Trump wins?,TRUMPWINGENB,NY,Northeast,Middle Atlantic,Negative,62,94,3
 2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,NY,Northeast,Middle Atlantic,A lot,39,7,90
-2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,NY,Northeast,Middle Atlantic,Some,21,N/A,N/A
-2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,NY,Northeast,Middle Atlantic,Not much,23,N/A,N/A
-2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,NY,Northeast,Middle Atlantic,Not at all,16,N/A,N/A
+2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,NY,Northeast,Middle Atlantic,Some,21,,
+2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,NY,Northeast,Middle Atlantic,Not much,23,,
+2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,NY,Northeast,Middle Atlantic,Not at all,16,,
 2016,Does Clinton's use of private email bother you?,CLINTONEMAILB,NY,Northeast,Middle Atlantic,Yes,60,30,67
 2016,Does Clinton's use of private email bother you?,CLINTONEMAILB,NY,Northeast,Middle Atlantic,No,38,94,4
 2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NY,Northeast,Middle Atlantic,A lot,47,94,4
-2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NY,Northeast,Middle Atlantic,Some,23,N/A,N/A
-2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NY,Northeast,Middle Atlantic,Not much,18,N/A,N/A
-2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NY,Northeast,Middle Atlantic,Not at all,11,N/A,N/A
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NY,Northeast,Middle Atlantic,Some,23,,
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NY,Northeast,Middle Atlantic,Not much,18,,
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NY,Northeast,Middle Atlantic,Not at all,11,,
 2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,NY,Northeast,Middle Atlantic,Yes,70,74,24
-2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,NY,Northeast,Middle Atlantic,No,29,N/A,N/A
-2016,Who would better handle the economy?,HANDLEECON16,NY,Northeast,Middle Atlantic,Clinton,60,98,N/A
+2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,NY,Northeast,Middle Atlantic,No,29,,
+2016,Who would better handle the economy?,HANDLEECON16,NY,Northeast,Middle Atlantic,Clinton,60,98,
 2016,Who would better handle the economy?,HANDLEECON16,NY,Northeast,Middle Atlantic,Trump,35,3,97
 2016,Who would better handle foreign policy?,HANDLEFP16,NY,Northeast,Middle Atlantic,Clinton,63,93,5
-2016,Who would better handle foreign policy?,HANDLEFP16,NY,Northeast,Middle Atlantic,Trump,34,N/A,N/A
+2016,Who would better handle foreign policy?,HANDLEFP16,NY,Northeast,Middle Atlantic,Trump,34,,
 2016,Who would be a better commander in chief?,CHIEF16,NY,Northeast,Middle Atlantic,Clinton,64,96,1
-2016,Who would be a better commander in chief?,CHIEF16,NY,Northeast,Middle Atlantic,Trump,34,N/A,N/A
+2016,Who would be a better commander in chief?,CHIEF16,NY,Northeast,Middle Atlantic,Trump,34,,
 2016,Opinion of the Democratic Party,FAVDEM2,NY,Northeast,Middle Atlantic,Favorable,54,96,4
 2016,Opinion of the Democratic Party,FAVDEM2,NY,Northeast,Middle Atlantic,Unfavorable,43,19,75
-2016,Opinion of the Republican Party,FAVREP2,NY,Northeast,Middle Atlantic,Favorable,34,N/A,N/A
+2016,Opinion of the Republican Party,FAVREP2,NY,Northeast,Middle Atlantic,Favorable,34,,
 2016,Opinion of the Republican Party,FAVREP2,NY,Northeast,Middle Atlantic,Unfavorable,64,89,7
-2016,Condition of national economy,NEC,NY,Northeast,Middle Atlantic,Excellent,3,N/A,N/A
+2016,Condition of national economy,NEC,NY,Northeast,Middle Atlantic,Excellent,3,,
 2016,Condition of national economy,NEC,NY,Northeast,Middle Atlantic,Good,34,91,8
 2016,Condition of national economy,NEC,NY,Northeast,Middle Atlantic,Not good,49,46,46
-2016,Condition of national economy,NEC,NY,Northeast,Middle Atlantic,Poor,14,N/A,N/A
+2016,Condition of national economy,NEC,NY,Northeast,Middle Atlantic,Poor,14,,
 2016,Condition of national economy,NEC2,NY,Northeast,Middle Atlantic,Good,37,91,7
 2016,Condition of national economy,NEC2,NY,Northeast,Middle Atlantic,Poor,62,42,52
-2016,Financial situation compared to four years ago:,FINSIT,NY,Northeast,Middle Atlantic,Better today,28,N/A,N/A
-2016,Financial situation compared to four years ago:,FINSIT,NY,Northeast,Middle Atlantic,Worse today,27,N/A,N/A
+2016,Financial situation compared to four years ago:,FINSIT,NY,Northeast,Middle Atlantic,Better today,28,,
+2016,Financial situation compared to four years ago:,FINSIT,NY,Northeast,Middle Atlantic,Worse today,27,,
 2016,Financial situation compared to four years ago:,FINSIT,NY,Northeast,Middle Atlantic,About the same,44,70,29
 2016,Direction of the country,TRACK,NY,Northeast,Middle Atlantic,Right direction,41,90,9
 2016,Direction of the country,TRACK,NY,Northeast,Middle Atlantic,Wrong track,57,29,68
 2016,Life for the next generation of Americans will be:,LIFE,NY,Northeast,Middle Atlantic,Better than today,45,66,31
-2016,Life for the next generation of Americans will be:,LIFE,NY,Northeast,Middle Atlantic,Worse than today,28,N/A,N/A
-2016,Life for the next generation of Americans will be:,LIFE,NY,Northeast,Middle Atlantic,About the same,23,N/A,N/A
+2016,Life for the next generation of Americans will be:,LIFE,NY,Northeast,Middle Atlantic,Worse than today,28,,
+2016,Life for the next generation of Americans will be:,LIFE,NY,Northeast,Middle Atlantic,About the same,23,,
 2016,Vote for president in a two-way race,2WAYPRES16,NY,Northeast,Middle Atlantic,Clinton,54,98,1
 2016,Vote for president in a two-way race,2WAYPRES16,NY,Northeast,Middle Atlantic,Trump,42,0,97
-2016,Vote for president in a two-way race,2WAYPRES16,NY,Northeast,Middle Atlantic,Would not vote,3,N/A,N/A
+2016,Vote for president in a two-way race,2WAYPRES16,NY,Northeast,Middle Atlantic,Would not vote,3,,
 2016,How confident are you in the vote count?,COUNTACC,NY,Northeast,Middle Atlantic,Very confident,48,75,24
-2016,How confident are you in the vote count?,COUNTACC,NY,Northeast,Middle Atlantic,Somewhat confident,35,N/A,N/A
-2016,How confident are you in the vote count?,COUNTACC,NY,Northeast,Middle Atlantic,Not very confident,11,N/A,N/A
-2016,How confident are you in the vote count?,COUNTACC,NY,Northeast,Middle Atlantic,Not at all confident,4,N/A,N/A
+2016,How confident are you in the vote count?,COUNTACC,NY,Northeast,Middle Atlantic,Somewhat confident,35,,
+2016,How confident are you in the vote count?,COUNTACC,NY,Northeast,Middle Atlantic,Not very confident,11,,
+2016,How confident are you in the vote count?,COUNTACC,NY,Northeast,Middle Atlantic,Not at all confident,4,,
 2016,Are you confident in the vote count?,COUNT2,NY,Northeast,Middle Atlantic,Confident,83,62,37
-2016,Are you confident in the vote count?,COUNT2,NY,Northeast,Middle Atlantic,Not confident,15,N/A,N/A
-2016,"Are you gay, lesbian, bisexual or transgender?",LGBT,NY,Northeast,Middle Atlantic,Yes,5,N/A,N/A
+2016,Are you confident in the vote count?,COUNT2,NY,Northeast,Middle Atlantic,Not confident,15,,
+2016,"Are you gay, lesbian, bisexual or transgender?",LGBT,NY,Northeast,Middle Atlantic,Yes,5,,
 2016,"Are you gay, lesbian, bisexual or transgender?",LGBT,NY,Northeast,Middle Atlantic,No,95,53,44
-2016,Importance of debates to your vote,BREAK12,NY,Northeast,Middle Atlantic,Most important factor,27,N/A,N/A
+2016,Importance of debates to your vote,BREAK12,NY,Northeast,Middle Atlantic,Most important factor,27,,
 2016,Importance of debates to your vote,BREAK12,NY,Northeast,Middle Atlantic,An important factor,40,66,33
-2016,Importance of debates to your vote,BREAK12,NY,Northeast,Middle Atlantic,A minor factor,16,N/A,N/A
-2016,Importance of debates to your vote,BREAK12,NY,Northeast,Middle Atlantic,Not a factor,13,N/A,N/A
+2016,Importance of debates to your vote,BREAK12,NY,Northeast,Middle Atlantic,A minor factor,16,,
+2016,Importance of debates to your vote,BREAK12,NY,Northeast,Middle Atlantic,Not a factor,13,,
 2016,Importance of debates to your vote,BREAK12A,NY,Northeast,Middle Atlantic,Important,67,66,32
-2016,Importance of debates to your vote,BREAK12A,NY,Northeast,Middle Atlantic,Not important,30,N/A,N/A
+2016,Importance of debates to your vote,BREAK12A,NY,Northeast,Middle Atlantic,Not important,30,,
 2016,Were debates a factor in your vote?,BREAK12B,NY,Northeast,Middle Atlantic,Yes,83,65,32
-2016,Were debates a factor in your vote?,BREAK12B,NY,Northeast,Middle Atlantic,No,13,N/A,N/A
+2016,Were debates a factor in your vote?,BREAK12B,NY,Northeast,Middle Atlantic,No,13,,
 2016,Area type,SIZEPLC3,NY,Northeast,Middle Atlantic,Urban area,45,75,22
 2016,Area type,SIZEPLC3,NY,Northeast,Middle Atlantic,Suburban area,40,48,48
 2016,Area type,SIZEPLC3,NY,Northeast,Middle Atlantic,Rural area,15,37,57

@@ -15,16 +15,16 @@
 2016,Race,RACE,VA,South,South Atlantic,White,67,35,59
 2016,Race,RACE,VA,South,South Atlantic,Black,21,88,9
 2016,Race,RACE,VA,South,South Atlantic,Latino,6,65,30
-2016,Race,RACE,VA,South,South Atlantic,Asian,3,N/A,N/A
-2016,Race,RACE,VA,South,South Atlantic,Other race,3,N/A,N/A
+2016,Race,RACE,VA,South,South Atlantic,Asian,3,,
+2016,Race,RACE,VA,South,South Atlantic,Other race,3,,
 2016,Race,RACE2B,VA,South,South Atlantic,White,67,35,59
 2016,Race,RACE2B,VA,South,South Atlantic,Non-white,33,79,17
 2016,Race and gender,SEXBYRACE,VA,South,South Atlantic,White men,32,29,65
 2016,Race and gender,SEXBYRACE,VA,South,South Atlantic,White women,35,41,54
 2016,Race and gender,SEXBYRACE,VA,South,South Atlantic,Black men,9,84,13
 2016,Race and gender,SEXBYRACE,VA,South,South Atlantic,Black women,12,91,7
-2016,Race and gender,SEXBYRACE,VA,South,South Atlantic,Latino men,3,N/A,N/A
-2016,Race and gender,SEXBYRACE,VA,South,South Atlantic,Latino women,3,N/A,N/A
+2016,Race and gender,SEXBYRACE,VA,South,South Atlantic,Latino men,3,,
+2016,Race and gender,SEXBYRACE,VA,South,South Atlantic,Latino women,3,,
 2016,Race and gender,SEXBYRACE,VA,South,South Atlantic,Others,6,62,30
 2016,Education,EDUC12R,VA,South,South Atlantic,High school or less,14,44,52
 2016,Education,EDUC12R,VA,South,South Atlantic,Some college,31,44,51
@@ -45,8 +45,8 @@
 2016,Income,INCOME16GEN,VA,South,South Atlantic,"$30K-$49,999",17,53,41
 2016,Income,INCOME16GEN,VA,South,South Atlantic,"$50K-$99,999",30,47,49
 2016,Income,INCOME16GEN,VA,South,South Atlantic,"$100K-$199,999",26,50,45
-2016,Income,INCOME16GEN,VA,South,South Atlantic,"$200K-$249,999",5,N/A,N/A
-2016,Income,INCOME16GEN,VA,South,South Atlantic,"$250,000 or more",8,N/A,N/A
+2016,Income,INCOME16GEN,VA,South,South Atlantic,"$200K-$249,999",5,,
+2016,Income,INCOME16GEN,VA,South,South Atlantic,"$250,000 or more",8,,
 2016,Income,INCOME3,VA,South,South Atlantic,Under $50K,30,53,41
 2016,Income,INCOME3,VA,South,South Atlantic,$50K-$100K,30,47,49
 2016,Income,INCOME3,VA,South,South Atlantic,$100K or more,40,51,44
@@ -84,10 +84,10 @@
 2016,Served in the U.S. military,VETVOTER,VA,South,South Atlantic,Non-veterans,85,52,43
 2016,Does anyone in your household own a gun?,GUNOWNER12,VA,South,South Atlantic,Yes,50,36,59
 2016,Does anyone in your household own a gun?,GUNOWNER12,VA,South,South Atlantic,No,50,68,28
-2016,When did you decide presidential vote?,TIME16,VA,South,South Atlantic,Last few days,10,N/A,N/A
-2016,When did you decide presidential vote?,TIME16,VA,South,South Atlantic,Last week,4,N/A,N/A
-2016,When did you decide presidential vote?,TIME16,VA,South,South Atlantic,In October,10,N/A,N/A
-2016,When did you decide presidential vote?,TIME16,VA,South,South Atlantic,In September,9,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,VA,South,South Atlantic,Last few days,10,,
+2016,When did you decide presidential vote?,TIME16,VA,South,South Atlantic,Last week,4,,
+2016,When did you decide presidential vote?,TIME16,VA,South,South Atlantic,In October,10,,
+2016,When did you decide presidential vote?,TIME16,VA,South,South Atlantic,In September,9,,
 2016,When did you decide presidential vote?,TIME16,VA,South,South Atlantic,Before September,66,53,44
 2016,When did you decide presidential vote?,TIME16WEEK,VA,South,South Atlantic,In the last week,14,45,42
 2016,When did you decide presidential vote?,TIME16WEEK,VA,South,South Atlantic,Before that,85,51,46
@@ -110,7 +110,7 @@
 2016,Do you think immigrants to the U.S. today:,IMMBETTER,VA,South,South Atlantic,Hurt the country,35,18,80
 2016,Effect of international trade,TRADE16,VA,South,South Atlantic,Creates U.S. jobs,41,65,30
 2016,Effect of international trade,TRADE16,VA,South,South Atlantic,Takes away U.S. jobs,46,37,59
-2016,Effect of international trade,TRADE16,VA,South,South Atlantic,Does not affect jobs,10,N/A,N/A
+2016,Effect of international trade,TRADE16,VA,South,South Atlantic,Does not affect jobs,10,,
 2016,Does the country's criminal justice system:,FAIRJUSTICE,VA,South,South Atlantic,Treat all fairly,45,21,75
 2016,Does the country's criminal justice system:,FAIRJUSTICE,VA,South,South Atlantic,Treat blacks unfairly,48,83,13
 2016,How do things work in the U.S. today?,RACEFACTOR,VA,South,South Atlantic,Whites are favored,44,82,13
@@ -121,7 +121,7 @@
 2016,View on Obamacare,HEALTHCARE16,VA,South,South Atlantic,Went too far,47,14,80
 2016,Views on stricter gun control measures,GUN16,VA,South,South Atlantic,Support,56,79,17
 2016,Views on stricter gun control measures,GUN16,VA,South,South Atlantic,Oppose,41,16,78
-2016,Feelings about the federal government,GOVTANGR16,VA,South,South Atlantic,Enthusiastic,6,N/A,N/A
+2016,Feelings about the federal government,GOVTANGR16,VA,South,South Atlantic,Enthusiastic,6,,
 2016,Feelings about the federal government,GOVTANGR16,VA,South,South Atlantic,Satisfied,30,78,18
 2016,Feelings about the federal government,GOVTANGR16,VA,South,South Atlantic,Dissatisfied,42,41,52
 2016,Feelings about the federal government,GOVTANGR16,VA,South,South Atlantic,Angry,20,14,79
@@ -129,7 +129,7 @@
 2016,Feelings about the federal government,GOVTANGR16B,VA,South,South Atlantic,Dissatisfied/Angry,62,32,60
 2016,Opinion of Barack Obama as president,OBAMA4,VA,South,South Atlantic,Strongly approve,38,95,3
 2016,Opinion of Barack Obama as president,OBAMA4,VA,South,South Atlantic,Somewhat approve,17,64,21
-2016,Opinion of Barack Obama as president,OBAMA4,VA,South,South Atlantic,Somewhat disapprove,13,N/A,N/A
+2016,Opinion of Barack Obama as president,OBAMA4,VA,South,South Atlantic,Somewhat disapprove,13,,
 2016,Opinion of Barack Obama as president,OBAMA4,VA,South,South Atlantic,Strongly disapprove,32,2,96
 2016,Opinion of Barack Obama as president,OBAMA2,VA,South,South Atlantic,Approve,54,86,8
 2016,Opinion of Barack Obama as president,OBAMA2,VA,South,South Atlantic,Disapprove,45,8,89
@@ -140,7 +140,7 @@
 2016,Opinion of Hillary Clinton,FAVHCLIN16,VA,South,South Atlantic,Unfavorable,54,11,82
 2016,Opinion of Donald Trump,FAVTRUMP,VA,South,South Atlantic,Favorable,37,3,96
 2016,Opinion of Donald Trump,FAVTRUMP,VA,South,South Atlantic,Unfavorable,61,80,13
-2016,Opinion of Clinton and Trump,FAVPRES16,VA,South,South Atlantic,Both favorable,1,N/A,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,VA,South,South Atlantic,Both favorable,1,,
 2016,Opinion of Clinton and Trump,FAVPRES16,VA,South,South Atlantic,Only Clinton favorable,45,98,1
 2016,Opinion of Clinton and Trump,FAVPRES16,VA,South,South Atlantic,Only Trump favorable,36,1,99
 2016,Opinion of Clinton and Trump,FAVPRES16,VA,South,South Atlantic,Both unfavorable,17,32,44
@@ -150,7 +150,7 @@
 2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,VA,South,South Atlantic,No,58,17,73
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,VA,South,South Atlantic,Yes,35,5,93
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,VA,South,South Atlantic,No,62,74,18
-2016,Which candidate is honest?,HONEST16,VA,South,South Atlantic,Both are,2,N/A,N/A
+2016,Which candidate is honest?,HONEST16,VA,South,South Atlantic,Both are,2,,
 2016,Which candidate is honest?,HONEST16,VA,South,South Atlantic,Only Clinton is,37,96,4
 2016,Which candidate is honest?,HONEST16,VA,South,South Atlantic,Only Trump is,33,2,97
 2016,Which candidate is honest?,HONEST16,VA,South,South Atlantic,Neither is,24,39,40
@@ -158,18 +158,18 @@
 2016,Is Clinton qualified to serve as president?,QUALCLINTON,VA,South,South Atlantic,No,47,5,90
 2016,Is Trump qualified to serve as president?,QUALTRUMP,VA,South,South Atlantic,Yes,36,3,97
 2016,Is Trump qualified to serve as president?,QUALTRUMP,VA,South,South Atlantic,No,62,80,14
-2016,Who is qualified to serve as president?,QUALIFIED16,VA,South,South Atlantic,Both are,2,N/A,N/A
+2016,Who is qualified to serve as president?,QUALIFIED16,VA,South,South Atlantic,Both are,2,,
 2016,Who is qualified to serve as president?,QUALIFIED16,VA,South,South Atlantic,Only Clinton is,50,95,2
 2016,Who is qualified to serve as president?,QUALIFIED16,VA,South,South Atlantic,Only Trump is,35,2,98
-2016,Who is qualified to serve as president?,QUALIFIED16,VA,South,South Atlantic,Neither is,12,N/A,N/A
+2016,Who is qualified to serve as president?,QUALIFIED16,VA,South,South Atlantic,Neither is,12,,
 2016,Does Clinton have the temperament to be president?,TEMPCLINTON,VA,South,South Atlantic,Yes,54,84,12
 2016,Does Clinton have the temperament to be president?,TEMPCLINTON,VA,South,South Atlantic,No,43,4,87
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,VA,South,South Atlantic,Yes,34,2,95
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,VA,South,South Atlantic,No,63,75,17
-2016,Which candidate has the right temperament?,TEMPERAMENT16,VA,South,South Atlantic,Both do,3,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,VA,South,South Atlantic,Both do,3,,
 2016,Which candidate has the right temperament?,TEMPERAMENT16,VA,South,South Atlantic,Only Clinton does,51,88,7
 2016,Which candidate has the right temperament?,TEMPERAMENT16,VA,South,South Atlantic,Only Trump does,31,2,96
-2016,Which candidate has the right temperament?,TEMPERAMENT16,VA,South,South Atlantic,Neither does,11,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,VA,South,South Atlantic,Neither does,11,,
 2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,VA,South,South Atlantic,A lot,43,6,88
 2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,VA,South,South Atlantic,Some,19,76,16
 2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,VA,South,South Atlantic,Not much,20,90,8
@@ -179,7 +179,7 @@
 2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,VA,South,South Atlantic,A lot,52,85,9
 2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,VA,South,South Atlantic,Some,20,24,71
 2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,VA,South,South Atlantic,Not much,15,7,90
-2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,VA,South,South Atlantic,Not at all,11,N/A,N/A
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,VA,South,South Atlantic,Not at all,11,,
 2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,VA,South,South Atlantic,Yes,72,68,26
 2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,VA,South,South Atlantic,No,26,6,92
 2016,Who would better handle the economy?,HANDLEECON16,VA,South,South Atlantic,Clinton,51,93,2
@@ -188,7 +188,7 @@
 2016,Who would better handle foreign policy?,HANDLEFP16,VA,South,South Atlantic,Trump,37,2,95
 2016,Who would be a better commander in chief?,CHIEF16,VA,South,South Atlantic,Clinton,56,88,7
 2016,Who would be a better commander in chief?,CHIEF16,VA,South,South Atlantic,Trump,42,2,96
-2016,Condition of national economy,NEC,VA,South,South Atlantic,Excellent,4,N/A,N/A
+2016,Condition of national economy,NEC,VA,South,South Atlantic,Excellent,4,,
 2016,Condition of national economy,NEC,VA,South,South Atlantic,Good,38,79,16
 2016,Condition of national economy,NEC,VA,South,South Atlantic,Not good,42,32,60
 2016,Condition of national economy,NEC,VA,South,South Atlantic,Poor,15,7,88
@@ -202,14 +202,14 @@
 2016,Life for the next generation of Americans will be:,LIFE,VA,South,South Atlantic,Better than today,46,62,36
 2016,Life for the next generation of Americans will be:,LIFE,VA,South,South Atlantic,Worse than today,24,25,70
 2016,Life for the next generation of Americans will be:,LIFE,VA,South,South Atlantic,About the same,28,59,35
-2016,Which best describes you?,MOVETOVA14,VA,South,South Atlantic,Moved to VA since 2006,14,N/A,N/A
+2016,Which best describes you?,MOVETOVA14,VA,South,South Atlantic,Moved to VA since 2006,14,,
 2016,Which best describes you?,MOVETOVA14,VA,South,South Atlantic,Moved to VA before 2006,43,53,42
 2016,Which best describes you?,MOVETOVA14,VA,South,South Atlantic,Born in Virginia,43,44,52
 2016,Which better describes you?,BORNINVA14,VA,South,South Atlantic,Born in Virginia,43,44,52
 2016,Which better describes you?,BORNINVA14,VA,South,South Atlantic,Moved to Virginia,56,56,39
 2016,Vote for president in a two-way race,2WAYPRES16,VA,South,South Atlantic,Clinton,52,95,2
 2016,Vote for president in a two-way race,2WAYPRES16,VA,South,South Atlantic,Trump,42,0,98
-2016,Vote for president in a two-way race,2WAYPRES16,VA,South,South Atlantic,Would not vote,5,N/A,N/A
+2016,Vote for president in a two-way race,2WAYPRES16,VA,South,South Atlantic,Would not vote,5,,
 2016,Area type,SIZEPLC3,VA,South,South Atlantic,Urban area,30,59,34
 2016,Area type,SIZEPLC3,VA,South,South Atlantic,Suburban area,51,47,48
 2016,Area type,SIZEPLC3,VA,South,South Atlantic,Rural area,19,41,56

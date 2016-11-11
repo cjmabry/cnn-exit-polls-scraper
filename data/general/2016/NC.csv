@@ -15,7 +15,7 @@
 2016,Race,RACE,NC,South,South Atlantic,White,70,33,63
 2016,Race,RACE,NC,South,South Atlantic,Black,20,90,8
 2016,Race,RACE,NC,South,South Atlantic,Latino,5,59,39
-2016,Race,RACE,NC,South,South Atlantic,Asian,1,N/A,N/A
+2016,Race,RACE,NC,South,South Atlantic,Asian,1,,
 2016,Race,RACE,NC,South,South Atlantic,Other race,3,57,40
 2016,Race,RACE2B,NC,South,South Atlantic,White,70,33,63
 2016,Race,RACE2B,NC,South,South Atlantic,Non-white,30,80,18
@@ -23,7 +23,7 @@
 2016,Race and gender,SEXBYRACE,NC,South,South Atlantic,White women,37,38,60
 2016,Race and gender,SEXBYRACE,NC,South,South Atlantic,Black men,9,82,14
 2016,Race and gender,SEXBYRACE,NC,South,South Atlantic,Black women,11,95,3
-2016,Race and gender,SEXBYRACE,NC,South,South Atlantic,Latino men,2,N/A,N/A
+2016,Race and gender,SEXBYRACE,NC,South,South Atlantic,Latino men,2,,
 2016,Race and gender,SEXBYRACE,NC,South,South Atlantic,Latino women,3,71,27
 2016,Race and gender,SEXBYRACE,NC,South,South Atlantic,Others,4,59,39
 2016,Education,EDUC12R,NC,South,South Atlantic,High school or less,18,45,53
@@ -45,8 +45,8 @@
 2016,Income,INCOME16GEN,NC,South,South Atlantic,"$30K-$49,999",19,56,40
 2016,Income,INCOME16GEN,NC,South,South Atlantic,"$50K-$99,999",32,49,49
 2016,Income,INCOME16GEN,NC,South,South Atlantic,"$100K-$199,999",23,37,62
-2016,Income,INCOME16GEN,NC,South,South Atlantic,"$200K-$249,999",4,N/A,N/A
-2016,Income,INCOME16GEN,NC,South,South Atlantic,"$250,000 or more",3,N/A,N/A
+2016,Income,INCOME16GEN,NC,South,South Atlantic,"$200K-$249,999",4,,
+2016,Income,INCOME16GEN,NC,South,South Atlantic,"$250,000 or more",3,,
 2016,Income,INCOME3,NC,South,South Atlantic,Under $50K,38,56,38
 2016,Income,INCOME3,NC,South,South Atlantic,$50K-$100K,32,49,49
 2016,Income,INCOME3,NC,South,South Atlantic,$100K or more,30,39,60
@@ -85,7 +85,7 @@
 2016,Served in the U.S. military,VETVOTER,NC,South,South Atlantic,Veterans,15,33,58
 2016,Served in the U.S. military,VETVOTER,NC,South,South Atlantic,Non-veterans,85,48,49
 2016,When did you decide presidential vote?,TIME16,NC,South,South Atlantic,Last few days,5,44,49
-2016,When did you decide presidential vote?,TIME16,NC,South,South Atlantic,Last week,3,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,NC,South,South Atlantic,Last week,3,,
 2016,When did you decide presidential vote?,TIME16,NC,South,South Atlantic,In October,18,33,61
 2016,When did you decide presidential vote?,TIME16,NC,South,South Atlantic,In September,13,57,42
 2016,When did you decide presidential vote?,TIME16,NC,South,South Atlantic,Before September,59,51,48
@@ -116,7 +116,7 @@
 2016,Effect of international trade,TRADE16,NC,South,South Atlantic,Creates U.S. jobs,38,63,34
 2016,Effect of international trade,TRADE16,NC,South,South Atlantic,Takes away U.S. jobs,39,25,71
 2016,Effect of international trade,TRADE16,NC,South,South Atlantic,Does not affect jobs,14,67,28
-2016,Feelings about the federal government,GOVTANGR16,NC,South,South Atlantic,Enthusiastic,3,N/A,N/A
+2016,Feelings about the federal government,GOVTANGR16,NC,South,South Atlantic,Enthusiastic,3,,
 2016,Feelings about the federal government,GOVTANGR16,NC,South,South Atlantic,Satisfied,22,88,12
 2016,Feelings about the federal government,GOVTANGR16,NC,South,South Atlantic,Dissatisfied,48,43,54
 2016,Feelings about the federal government,GOVTANGR16,NC,South,South Atlantic,Angry,27,19,77
@@ -132,7 +132,7 @@
 2016,Opinion of Hillary Clinton,FAVHCLIN16,NC,South,South Atlantic,Unfavorable,55,9,89
 2016,Opinion of Donald Trump,FAVTRUMP,NC,South,South Atlantic,Favorable,41,2,97
 2016,Opinion of Donald Trump,FAVTRUMP,NC,South,South Atlantic,Unfavorable,58,79,17
-2016,Opinion of Clinton and Trump,FAVPRES16,NC,South,South Atlantic,Both favorable,1,N/A,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,NC,South,South Atlantic,Both favorable,1,,
 2016,Opinion of Clinton and Trump,FAVPRES16,NC,South,South Atlantic,Only Clinton favorable,42,98,1
 2016,Opinion of Clinton and Trump,FAVPRES16,NC,South,South Atlantic,Only Trump favorable,40,1,98
 2016,Opinion of Clinton and Trump,FAVPRES16,NC,South,South Atlantic,Both unfavorable,15,28,63
@@ -140,7 +140,7 @@
 2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,NC,South,South Atlantic,No,60,14,82
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,NC,South,South Atlantic,Yes,41,6,94
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,NC,South,South Atlantic,No,58,78,18
-2016,Which candidate is honest?,HONEST16,NC,South,South Atlantic,Both are,3,N/A,N/A
+2016,Which candidate is honest?,HONEST16,NC,South,South Atlantic,Both are,3,,
 2016,Which candidate is honest?,HONEST16,NC,South,South Atlantic,Only Clinton is,36,100,0
 2016,Which candidate is honest?,HONEST16,NC,South,South Atlantic,Only Trump is,38,1,99
 2016,Which candidate is honest?,HONEST16,NC,South,South Atlantic,Neither is,21,38,49
@@ -148,7 +148,7 @@
 2016,Is Clinton qualified to serve as president?,QUALCLINTON,NC,South,South Atlantic,No,50,4,93
 2016,Is Trump qualified to serve as president?,QUALTRUMP,NC,South,South Atlantic,Yes,44,2,96
 2016,Is Trump qualified to serve as president?,QUALTRUMP,NC,South,South Atlantic,No,56,83,13
-2016,Who is qualified to serve as president?,QUALIFIED16,NC,South,South Atlantic,Both are,4,N/A,N/A
+2016,Who is qualified to serve as president?,QUALIFIED16,NC,South,South Atlantic,Both are,4,,
 2016,Who is qualified to serve as president?,QUALIFIED16,NC,South,South Atlantic,Only Clinton is,46,97,2
 2016,Who is qualified to serve as president?,QUALIFIED16,NC,South,South Atlantic,Only Trump is,40,2,98
 2016,Who is qualified to serve as president?,QUALIFIED16,NC,South,South Atlantic,Neither is,10,15,70
@@ -156,7 +156,7 @@
 2016,Does Clinton have the temperament to be president?,TEMPCLINTON,NC,South,South Atlantic,No,47,2,94
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,NC,South,South Atlantic,Yes,41,3,95
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,NC,South,South Atlantic,No,58,80,16
-2016,Which candidate has the right temperament?,TEMPERAMENT16,NC,South,South Atlantic,Both do,5,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,NC,South,South Atlantic,Both do,5,,
 2016,Which candidate has the right temperament?,TEMPERAMENT16,NC,South,South Atlantic,Only Clinton does,47,97,2
 2016,Which candidate has the right temperament?,TEMPERAMENT16,NC,South,South Atlantic,Only Trump does,36,1,99
 2016,Which candidate has the right temperament?,TEMPERAMENT16,NC,South,South Atlantic,Neither does,11,5,78
@@ -164,7 +164,7 @@
 2016,Who would better handle the economy?,HANDLEECON16,NC,South,South Atlantic,Trump,50,3,96
 2016,Who would better handle foreign policy?,HANDLEFP16,NC,South,South Atlantic,Clinton,51,89,8
 2016,Who would better handle foreign policy?,HANDLEFP16,NC,South,South Atlantic,Trump,45,1,98
-2016,Condition of national economy,NEC,NC,South,South Atlantic,Excellent,3,N/A,N/A
+2016,Condition of national economy,NEC,NC,South,South Atlantic,Excellent,3,,
 2016,Condition of national economy,NEC,NC,South,South Atlantic,Good,32,79,19
 2016,Condition of national economy,NEC,NC,South,South Atlantic,Not good,40,38,57
 2016,Condition of national economy,NEC,NC,South,South Atlantic,Poor,24,16,83
@@ -190,7 +190,7 @@
 2016,Were you contacted by the Trump campaign?,GOTVTRUMP,NC,South,South Atlantic,No,75,54,45
 2016,Vote for president in a two-way race,2WAYPRES16,NC,South,South Atlantic,Clinton,46,97,1
 2016,Vote for president in a two-way race,2WAYPRES16,NC,South,South Atlantic,Trump,50,1,98
-2016,Vote for president in a two-way race,2WAYPRES16,NC,South,South Atlantic,Would not vote,3,N/A,N/A
+2016,Vote for president in a two-way race,2WAYPRES16,NC,South,South Atlantic,Would not vote,3,,
 2016,Area type,SIZEPLC3,NC,South,South Atlantic,Urban area,37,61,35
 2016,Area type,SIZEPLC3,NC,South,South Atlantic,Suburban area,38,37,60
 2016,Area type,SIZEPLC3,NC,South,South Atlantic,Rural area,24,40,58

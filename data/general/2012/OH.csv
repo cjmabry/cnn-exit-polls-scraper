@@ -13,15 +13,15 @@
 2012,Vote by Race,RACE,OH,Midwest,East North Central,White,79,41,57
 2012,Vote by Race,RACE,OH,Midwest,East North Central,African-American,15,96,3
 2012,Vote by Race,RACE,OH,Midwest,East North Central,Latino,3,54,42
-2012,Vote by Race,RACE,OH,Midwest,East North Central,Asian,1,N/A,N/A
-2012,Vote by Race,RACE,OH,Midwest,East North Central,Other,2,N/A,N/A
+2012,Vote by Race,RACE,OH,Midwest,East North Central,Asian,1,,
+2012,Vote by Race,RACE,OH,Midwest,East North Central,Other,2,,
 2012,Vote by Gender and Race,SEXBYRACE,OH,Midwest,East North Central,White Men,38,36,62
 2012,Vote by Gender and Race,SEXBYRACE,OH,Midwest,East North Central,White Women,41,46,53
 2012,Vote by Gender and Race,SEXBYRACE,OH,Midwest,East North Central,Black Men,7,95,4
 2012,Vote by Gender and Race,SEXBYRACE,OH,Midwest,East North Central,Black Women,8,97,3
-2012,Vote by Gender and Race,SEXBYRACE,OH,Midwest,East North Central,Latino Men,2,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,OH,Midwest,East North Central,Latino Women,2,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,OH,Midwest,East North Central,All Others,2,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,OH,Midwest,East North Central,Latino Men,2,,
+2012,Vote by Gender and Race,SEXBYRACE,OH,Midwest,East North Central,Latino Women,2,,
+2012,Vote by Gender and Race,SEXBYRACE,OH,Midwest,East North Central,All Others,2,,
 2012,Vote by Ideology,PHIL3,OH,Midwest,East North Central,Liberal,22,88,10
 2012,Vote by Ideology,PHIL3,OH,Midwest,East North Central,Moderate,42,57,41
 2012,Vote by Ideology,PHIL3,OH,Midwest,East North Central,Conservative,35,18,81
@@ -46,13 +46,13 @@
 2012,Vote by Income,INC100K,OH,Midwest,East North Central,$100K or More,21,40,59
 2012,Vote by Religion,REL5,OH,Midwest,East North Central,Protestant,54,48,51
 2012,Vote by Religion,REL5,OH,Midwest,East North Central,Catholic,26,44,55
-2012,Vote by Religion,REL5,OH,Midwest,East North Central,Jewish,1,N/A,N/A
-2012,Vote by Religion,REL5,OH,Midwest,East North Central,Other,7,N/A,N/A
+2012,Vote by Religion,REL5,OH,Midwest,East North Central,Jewish,1,,
+2012,Vote by Religion,REL5,OH,Midwest,East North Central,Other,7,,
 2012,Vote by Religion,REL5,OH,Midwest,East North Central,None,12,70,23
 2012,Vote by Religion and Race,WHITEREL,OH,Midwest,East North Central,White Protestant,43,38,61
 2012,Vote by Religion and Race,WHITEREL,OH,Midwest,East North Central,White Catholic,22,43,56
-2012,Vote by Religion and Race,WHITEREL,OH,Midwest,East North Central,White Jewish,1,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,OH,Midwest,East North Central,Whites/Other Religion,4,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,OH,Midwest,East North Central,White Jewish,1,,
+2012,Vote by Religion and Race,WHITEREL,OH,Midwest,East North Central,Whites/Other Religion,4,,
 2012,Vote by Religion and Race,WHITEREL,OH,Midwest,East North Central,Whites/No Religion,9,62,28
 2012,Vote by Religion and Race,WHITEREL,OH,Midwest,East North Central,Non-white,22,82,17
 2012,Are You White Born-Again Christian?,WHTEVANG,OH,Midwest,East North Central,Yes,31,30,69
@@ -63,7 +63,7 @@
 2012,Abortion Should Be...,ABORTION,OH,Midwest,East North Central,Always Illegal,12,18,81
 2012,Abortion Should Be...,ABORT2,OH,Midwest,East North Central,Legal,55,71,28
 2012,Abortion Should Be...,ABORT2,OH,Midwest,East North Central,Illegal,39,22,76
-2012,Most Important Issue Facing Country,ISSUE12,OH,Midwest,East North Central,Foreign Policy,4,N/A,N/A
+2012,Most Important Issue Facing Country,ISSUE12,OH,Midwest,East North Central,Foreign Policy,4,,
 2012,Most Important Issue Facing Country,ISSUE12,OH,Midwest,East North Central,Deficit,14,27,71
 2012,Most Important Issue Facing Country,ISSUE12,OH,Midwest,East North Central,Economy,59,48,50
 2012,Most Important Issue Facing Country,ISSUE12,OH,Midwest,East North Central,Health Care,20,73,25
@@ -71,7 +71,7 @@
 2012,Most Important Candidate Quality,QLT12,OH,Midwest,East North Central,Strong Leader,18,41,58
 2012,Most Important Candidate Quality,QLT12,OH,Midwest,East North Central,Cares About People,22,84,15
 2012,Most Important Candidate Quality,QLT12,OH,Midwest,East North Central,Vision for Future,28,44,53
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,OH,Midwest,East North Central,Housing Market,6,N/A,N/A
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,OH,Midwest,East North Central,Housing Market,6,,
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,OH,Midwest,East North Central,Unemployment,32,51,46
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,OH,Midwest,East North Central,Taxes,18,33,66
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,OH,Midwest,East North Central,Rising Prices,41,55,44
@@ -92,7 +92,7 @@
 2012,Who Would Better Handle Medicare?,HANDLEMED12,OH,Midwest,East North Central,Romney,46,1,98
 2012,Opinion of Government,GOVTDO10,OH,Midwest,East North Central,Government Should Do More,39,82,16
 2012,Opinion of Government,GOVTDO10,OH,Midwest,East North Central,Government Doing Too Much,56,27,71
-2012,National Economic Conditions,NEC,OH,Midwest,East North Central,Excellent,2,N/A,N/A
+2012,National Economic Conditions,NEC,OH,Midwest,East North Central,Excellent,2,,
 2012,National Economic Conditions,NEC,OH,Midwest,East North Central,Good,23,93,6
 2012,National Economic Conditions,NEC,OH,Midwest,East North Central,Not So Good,42,51,46
 2012,National Economic Conditions,NEC,OH,Midwest,East North Central,Poor,31,11,88
@@ -102,7 +102,7 @@
 2012,U.S. Economic Conditions Are...,ECONBETT,OH,Midwest,East North Central,Getting Worse,34,6,91
 2012,U.S. Economic Conditions Are...,ECONBETT,OH,Midwest,East North Central,Staying About the Same,29,44,55
 2012,U.S. Economic Conditions Are...,ECONDIR,OH,Midwest,East North Central,Getting Better,36,95,4
-2012,U.S. Economic Conditions Are...,ECONDIR,OH,Midwest,East North Central,Good and Staying the Same,5,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,OH,Midwest,East North Central,Good and Staying the Same,5,,
 2012,U.S. Economic Conditions Are...,ECONDIR,OH,Midwest,East North Central,Poor and Staying the Same,24,38,61
 2012,U.S. Economic Conditions Are...,ECONDIR,OH,Midwest,East North Central,Getting Worse,34,6,91
 2012,Your Family's Financial Situation,FINSIT,OH,Midwest,East North Central,Better,25,83,15
@@ -125,14 +125,14 @@
 2012,Do Obama Policies Generally Favor...,OBAMARICH,OH,Midwest,East North Central,Poor,36,23,75
 2012,Would Romney Policies Generally Favor...,ROMNRICH,OH,Midwest,East North Central,Rich,56,87,12
 2012,Would Romney Policies Generally Favor...,ROMNRICH,OH,Midwest,East North Central,Middle Class,35,2,96
-2012,Would Romney Policies Generally Favor...,ROMNRICH,OH,Midwest,East North Central,Poor,1,N/A,N/A
+2012,Would Romney Policies Generally Favor...,ROMNRICH,OH,Midwest,East North Central,Poor,1,,
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,OH,Midwest,East North Central,Strongly Favor,67,56,44
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,OH,Midwest,East North Central,Have Reservations,23,41,57
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,OH,Midwest,East North Central,Dislike Opponent,9,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,OH,Midwest,East North Central,Just Today,5,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,OH,Midwest,East North Central,Last Few Days,5,N/A,N/A
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,OH,Midwest,East North Central,Dislike Opponent,9,,
+2012,When Did You Decide Presidential Vote?,TIME12,OH,Midwest,East North Central,Just Today,5,,
+2012,When Did You Decide Presidential Vote?,TIME12,OH,Midwest,East North Central,Last Few Days,5,,
 2012,When Did You Decide Presidential Vote?,TIME12,OH,Midwest,East North Central,In October,12,49,49
-2012,When Did You Decide Presidential Vote?,TIME12,OH,Midwest,East North Central,In September,8,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,OH,Midwest,East North Central,In September,8,,
 2012,When Did You Decide Presidential Vote?,TIME12,OH,Midwest,East North Central,Before That,68,51,47
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,OH,Midwest,East North Central,Today/Last Few Days,10,42,53
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,OH,Midwest,East North Central,Before That,89,51,47
@@ -162,7 +162,7 @@
 2012,Vote by Gender and Children in Household,PARENTS,OH,Midwest,East North Central,Women With No Children,33,54,44
 2012,Is Anyone in Household a Union Member?,UNIONHH12,OH,Midwest,East North Central,Yes,22,60,37
 2012,Is Anyone in Household a Union Member?,UNIONHH12,OH,Midwest,East North Central,No,78,48,50
-2012,Anyone in Your Household Work in Auto Industry?,AUTOHH,OH,Midwest,East North Central,Yes,9,N/A,N/A
+2012,Anyone in Your Household Work in Auto Industry?,AUTOHH,OH,Midwest,East North Central,Yes,9,,
 2012,Anyone in Your Household Work in Auto Industry?,AUTOHH,OH,Midwest,East North Central,No,90,48,50
 2012,Federal Government Aid to U.S. Automakers,AUTOBAIL12,OH,Midwest,East North Central,Approve,60,74,25
 2012,Federal Government Aid to U.S. Automakers,AUTOBAIL12,OH,Midwest,East North Central,Disapprove,36,10,88

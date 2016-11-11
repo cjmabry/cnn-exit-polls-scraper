@@ -13,16 +13,16 @@
 2016,Age,AGE45,NM,West,Mountain,18-44,45,49,34
 2016,Age,AGE45,NM,West,Mountain,45 and older,55,48,45
 2016,Race,RACE,NM,West,Mountain,White,49,42,47
-2016,Race,RACE,NM,West,Mountain,Black,1,N/A,N/A
+2016,Race,RACE,NM,West,Mountain,Black,1,,
 2016,Race,RACE,NM,West,Mountain,Latino,40,54,33
-2016,Race,RACE,NM,West,Mountain,Asian,1,N/A,N/A
+2016,Race,RACE,NM,West,Mountain,Asian,1,,
 2016,Race,RACE,NM,West,Mountain,Other race,9,53,33
 2016,Race,RACE2B,NM,West,Mountain,White,49,42,47
 2016,Race,RACE2B,NM,West,Mountain,Non-white,51,55,32
 2016,Race and gender,SEXBYRACE,NM,West,Mountain,White men,24,38,48
 2016,Race and gender,SEXBYRACE,NM,West,Mountain,White women,25,45,46
-2016,Race and gender,SEXBYRACE,NM,West,Mountain,Black men,1,N/A,N/A
-2016,Race and gender,SEXBYRACE,NM,West,Mountain,Black women,0,N/A,N/A
+2016,Race and gender,SEXBYRACE,NM,West,Mountain,Black men,1,,
+2016,Race and gender,SEXBYRACE,NM,West,Mountain,Black women,0,,
 2016,Race and gender,SEXBYRACE,NM,West,Mountain,Latino men,17,45,39
 2016,Race and gender,SEXBYRACE,NM,West,Mountain,Latino women,23,61,28
 2016,Race and gender,SEXBYRACE,NM,West,Mountain,Others,10,54,32
@@ -45,8 +45,8 @@
 2016,Income,INCOME16GEN,NM,West,Mountain,"$30K-$49,999",20,50,38
 2016,Income,INCOME16GEN,NM,West,Mountain,"$50K-$99,999",30,44,46
 2016,Income,INCOME16GEN,NM,West,Mountain,"$100K-$199,999",21,47,43
-2016,Income,INCOME16GEN,NM,West,Mountain,"$200K-$249,999",2,N/A,N/A
-2016,Income,INCOME16GEN,NM,West,Mountain,"$250,000 or more",2,N/A,N/A
+2016,Income,INCOME16GEN,NM,West,Mountain,"$200K-$249,999",2,,
+2016,Income,INCOME16GEN,NM,West,Mountain,"$250,000 or more",2,,
 2016,Income,INCOME3,NM,West,Mountain,Under $50K,45,52,33
 2016,Income,INCOME3,NM,West,Mountain,$50K-$100K,30,44,46
 2016,Income,INCOME3,NM,West,Mountain,$100K or more,25,47,43
@@ -73,9 +73,9 @@
 2016,Marital status by gender,SEXWED,NM,West,Mountain,Unmarried men,22,45,39
 2016,Marital status by gender,SEXWED,NM,West,Mountain,Unmarried women,24,69,21
 2016,When did you decide presidential vote?,TIME16,NM,West,Mountain,Last few days,10,40,50
-2016,When did you decide presidential vote?,TIME16,NM,West,Mountain,Last week,4,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,NM,West,Mountain,Last week,4,,
 2016,When did you decide presidential vote?,TIME16,NM,West,Mountain,In October,14,34,37
-2016,When did you decide presidential vote?,TIME16,NM,West,Mountain,In September,12,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,NM,West,Mountain,In September,12,,
 2016,When did you decide presidential vote?,TIME16,NM,West,Mountain,Before September,58,53,39
 2016,When did you decide presidential vote?,TIME16WEEK,NM,West,Mountain,In the last week,14,41,46
 2016,When did you decide presidential vote?,TIME16WEEK,NM,West,Mountain,Before that,84,49,39
@@ -101,7 +101,7 @@
 2016,How do things work in the U.S. today?,RACEFACTOR,NM,West,Mountain,Whites are favored,41,75,12
 2016,How do things work in the U.S. today?,RACEFACTOR,NM,West,Mountain,Minorities are favored,20,11,80
 2016,How do things work in the U.S. today?,RACEFACTOR,NM,West,Mountain,No group is favored,36,41,46
-2016,Feelings about the federal government,GOVTANGR16,NM,West,Mountain,Enthusiastic,4,N/A,N/A
+2016,Feelings about the federal government,GOVTANGR16,NM,West,Mountain,Enthusiastic,4,,
 2016,Feelings about the federal government,GOVTANGR16,NM,West,Mountain,Satisfied,27,80,13
 2016,Feelings about the federal government,GOVTANGR16,NM,West,Mountain,Dissatisfied,41,44,40
 2016,Feelings about the federal government,GOVTANGR16,NM,West,Mountain,Angry,28,16,70
@@ -117,7 +117,7 @@
 2016,Opinion of Hillary Clinton,FAVHCLIN16,NM,West,Mountain,Unfavorable,53,10,74
 2016,Opinion of Donald Trump,FAVTRUMP,NM,West,Mountain,Favorable,36,6,91
 2016,Opinion of Donald Trump,FAVTRUMP,NM,West,Mountain,Unfavorable,63,72,11
-2016,Opinion of Clinton and Trump,FAVPRES16,NM,West,Mountain,Both favorable,3,N/A,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,NM,West,Mountain,Both favorable,3,,
 2016,Opinion of Clinton and Trump,FAVPRES16,NM,West,Mountain,Only Clinton favorable,43,94,0
 2016,Opinion of Clinton and Trump,FAVPRES16,NM,West,Mountain,Only Trump favorable,33,1,97
 2016,Opinion of Clinton and Trump,FAVPRES16,NM,West,Mountain,Both unfavorable,20,25,35
@@ -127,7 +127,7 @@
 2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,NM,West,Mountain,No,60,18,64
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,NM,West,Mountain,Yes,33,3,92
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,NM,West,Mountain,No,65,72,12
-2016,Which candidate is honest?,HONEST16,NM,West,Mountain,Both are,2,N/A,N/A
+2016,Which candidate is honest?,HONEST16,NM,West,Mountain,Both are,2,,
 2016,Which candidate is honest?,HONEST16,NM,West,Mountain,Only Clinton is,37,98,0
 2016,Which candidate is honest?,HONEST16,NM,West,Mountain,Only Trump is,31,1,95
 2016,Which candidate is honest?,HONEST16,NM,West,Mountain,Neither is,28,38,28
@@ -135,7 +135,7 @@
 2016,Does Clinton have the temperament to be president?,TEMPCLINTON,NM,West,Mountain,No,45,5,77
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,NM,West,Mountain,Yes,34,3,94
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,NM,West,Mountain,No,65,72,11
-2016,Which candidate has the right temperament?,TEMPERAMENT16,NM,West,Mountain,Both do,4,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,NM,West,Mountain,Both do,4,,
 2016,Which candidate has the right temperament?,TEMPERAMENT16,NM,West,Mountain,Only Clinton does,50,92,2
 2016,Which candidate has the right temperament?,TEMPERAMENT16,NM,West,Mountain,Only Trump does,30,1,98
 2016,Which candidate has the right temperament?,TEMPERAMENT16,NM,West,Mountain,Neither does,16,11,37
@@ -143,7 +143,7 @@
 2016,Is Clinton qualified to serve as president?,QUALCLINTON,NM,West,Mountain,No,47,6,80
 2016,Is Trump qualified to serve as president?,QUALTRUMP,NM,West,Mountain,Yes,38,4,92
 2016,Is Trump qualified to serve as president?,QUALTRUMP,NM,West,Mountain,No,60,76,8
-2016,Who is qualified to serve as president?,QUALIFIED16,NM,West,Mountain,Both are,3,N/A,N/A
+2016,Who is qualified to serve as president?,QUALIFIED16,NM,West,Mountain,Both are,3,,
 2016,Who is qualified to serve as president?,QUALIFIED16,NM,West,Mountain,Only Clinton is,49,90,1
 2016,Who is qualified to serve as president?,QUALIFIED16,NM,West,Mountain,Only Trump is,35,3,95
 2016,Who is qualified to serve as president?,QUALIFIED16,NM,West,Mountain,Neither is,12,15,37
@@ -159,11 +159,11 @@
 2016,Does Clinton's use of private email bother you?,CLINTONEMAILB,NM,West,Mountain,No,34,87,5
 2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NM,West,Mountain,A lot,53,79,8
 2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NM,West,Mountain,Some,17,24,58
-2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NM,West,Mountain,Not much,12,N/A,N/A
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NM,West,Mountain,Not much,12,,
 2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,NM,West,Mountain,Not at all,16,10,85
 2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,NM,West,Mountain,Yes,70,65,20
 2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,NM,West,Mountain,No,28,7,85
-2016,Condition of national economy,NEC,NM,West,Mountain,Excellent,3,N/A,N/A
+2016,Condition of national economy,NEC,NM,West,Mountain,Excellent,3,,
 2016,Condition of national economy,NEC,NM,West,Mountain,Good,33,85,10
 2016,Condition of national economy,NEC,NM,West,Mountain,Not good,37,41,42
 2016,Condition of national economy,NEC,NM,West,Mountain,Poor,27,10,75

@@ -14,13 +14,13 @@
 2012,Vote by Race,RACE,VA,South,South Atlantic,African-American,20,93,6
 2012,Vote by Race,RACE,VA,South,South Atlantic,Latino,5,64,33
 2012,Vote by Race,RACE,VA,South,South Atlantic,Asian,3,66,32
-2012,Vote by Race,RACE,VA,South,South Atlantic,Other,2,N/A,N/A
+2012,Vote by Race,RACE,VA,South,South Atlantic,Other,2,,
 2012,Vote by Gender and Race,SEXBYRACE,VA,South,South Atlantic,White Men,34,34,64
 2012,Vote by Gender and Race,SEXBYRACE,VA,South,South Atlantic,White Women,37,40,59
 2012,Vote by Gender and Race,SEXBYRACE,VA,South,South Atlantic,Black Men,8,91,9
 2012,Vote by Gender and Race,SEXBYRACE,VA,South,South Atlantic,Black Women,11,95,4
-2012,Vote by Gender and Race,SEXBYRACE,VA,South,South Atlantic,Latino Men,2,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,VA,South,South Atlantic,Latino Women,2,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,VA,South,South Atlantic,Latino Men,2,,
+2012,Vote by Gender and Race,SEXBYRACE,VA,South,South Atlantic,Latino Women,2,,
 2012,Vote by Gender and Race,SEXBYRACE,VA,South,South Atlantic,All Others,5,63,36
 2012,Vote by Ideology,PHIL3,VA,South,South Atlantic,Liberal,24,92,7
 2012,Vote by Ideology,PHIL3,VA,South,South Atlantic,Moderate,45,56,42
@@ -28,7 +28,7 @@
 2012,Vote by Party ID,PARTY,VA,South,South Atlantic,Democratic,39,94,6
 2012,Vote by Party ID,PARTY,VA,South,South Atlantic,Republican,32,5,94
 2012,Vote by Party ID,PARTY,VA,South,South Atlantic,Independent,29,43,54
-2012,Vote by Education,EDUC10,VA,South,South Atlantic,No High School,2,N/A,N/A
+2012,Vote by Education,EDUC10,VA,South,South Atlantic,No High School,2,,
 2012,Vote by Education,EDUC10,VA,South,South Atlantic,High School Graduate,18,49,50
 2012,Vote by Education,EDUC10,VA,South,South Atlantic,Some College,25,47,51
 2012,Vote by Education,EDUC10,VA,South,South Atlantic,College Graduate,30,48,50
@@ -54,29 +54,29 @@
 2012,How Often Do You Attend Religious Services?,ATTEND2,VA,South,South Atlantic,Never,17,64,36
 2012,Vote by Religion,REL5,VA,South,South Atlantic,Protestant,61,45,54
 2012,Vote by Religion,REL5,VA,South,South Atlantic,Catholic,15,45,55
-2012,Vote by Religion,REL5,VA,South,South Atlantic,Jewish,3,N/A,N/A
+2012,Vote by Religion,REL5,VA,South,South Atlantic,Jewish,3,,
 2012,Vote by Religion,REL5,VA,South,South Atlantic,Other,12,78,22
 2012,Vote by Religion,REL5,VA,South,South Atlantic,None,10,76,22
 2012,Vote by Religion and Race,WHITEREL,VA,South,South Atlantic,White Protestant,43,27,72
 2012,Vote by Religion and Race,WHITEREL,VA,South,South Atlantic,White Catholic,11,35,65
-2012,Vote by Religion and Race,WHITEREL,VA,South,South Atlantic,White Jewish,2,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,VA,South,South Atlantic,Whites/Other Religion,7,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,VA,South,South Atlantic,Whites/No Religion,7,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,VA,South,South Atlantic,White Jewish,2,,
+2012,Vote by Religion and Race,WHITEREL,VA,South,South Atlantic,Whites/Other Religion,7,,
+2012,Vote by Religion and Race,WHITEREL,VA,South,South Atlantic,Whites/No Religion,7,,
 2012,Vote by Religion and Race,WHITEREL,VA,South,South Atlantic,Non-white,30,88,12
 2012,Vote by Religion and Church Attendance,ATTREL,VA,South,South Atlantic,Protestant/Attend Weekly,15,34,66
 2012,Vote by Religion and Church Attendance,ATTREL,VA,South,South Atlantic,Protestant/Not Weekly ,16,36,63
-2012,Vote by Religion and Church Attendance,ATTREL,VA,South,South Atlantic,Catholic/Attend Weekly,7,N/A,N/A
-2012,Vote by Religion and Church Attendance,ATTREL,VA,South,South Atlantic,Catholic/Not Weekly,8,N/A,N/A
+2012,Vote by Religion and Church Attendance,ATTREL,VA,South,South Atlantic,Catholic/Attend Weekly,7,,
+2012,Vote by Religion and Church Attendance,ATTREL,VA,South,South Atlantic,Catholic/Not Weekly,8,,
 2012,Vote by Religion and Church Attendance,ATTREL,VA,South,South Atlantic,All Others,54,66,34
 2012,Are You White Born-Again Christian?,WHTEVANG,VA,South,South Atlantic,Yes,23,17,83
 2012,Are You White Born-Again Christian?,WHTEVANG,VA,South,South Atlantic,No,77,64,35
 2012,Abortion Should Be...,ABORTION,VA,South,South Atlantic,Always Legal,31,85,14
 2012,Abortion Should Be...,ABORTION,VA,South,South Atlantic,Mostly Legal,31,56,44
 2012,Abortion Should Be...,ABORTION,VA,South,South Atlantic,Mostly Illegal,22,23,77
-2012,Abortion Should Be...,ABORTION,VA,South,South Atlantic,Always Illegal,10,N/A,N/A
+2012,Abortion Should Be...,ABORTION,VA,South,South Atlantic,Always Illegal,10,,
 2012,Abortion Should Be...,ABORT2,VA,South,South Atlantic,Legal,63,70,29
 2012,Abortion Should Be...,ABORT2,VA,South,South Atlantic,Illegal,33,21,79
-2012,Most Important Issue Facing Country,ISSUE12,VA,South,South Atlantic,Foreign Policy,4,N/A,N/A
+2012,Most Important Issue Facing Country,ISSUE12,VA,South,South Atlantic,Foreign Policy,4,,
 2012,Most Important Issue Facing Country,ISSUE12,VA,South,South Atlantic,Deficit,14,28,69
 2012,Most Important Issue Facing Country,ISSUE12,VA,South,South Atlantic,Economy,62,46,52
 2012,Most Important Issue Facing Country,ISSUE12,VA,South,South Atlantic,Health Care,17,78,22
@@ -84,7 +84,7 @@
 2012,Most Important Candidate Quality,QLT12,VA,South,South Atlantic,Strong Leader,18,37,61
 2012,Most Important Candidate Quality,QLT12,VA,South,South Atlantic,Cares About People,22,82,17
 2012,Most Important Candidate Quality,QLT12,VA,South,South Atlantic,Vision for Future,30,44,54
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,VA,South,South Atlantic,Housing Market,8,N/A,N/A
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,VA,South,South Atlantic,Housing Market,8,,
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,VA,South,South Atlantic,Unemployment,45,54,45
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,VA,South,South Atlantic,Taxes,16,38,61
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,VA,South,South Atlantic,Rising Prices,28,51,47
@@ -105,7 +105,7 @@
 2012,Who Would Better Handle Medicare?,HANDLEMED12,VA,South,South Atlantic,Romney,44,2,98
 2012,Opinion of Government,GOVTDO10,VA,South,South Atlantic,Government Should Do More,45,83,16
 2012,Opinion of Government,GOVTDO10,VA,South,South Atlantic,Government Doing Too Much,51,19,78
-2012,National Economic Conditions,NEC,VA,South,South Atlantic,Excellent,3,N/A,N/A
+2012,National Economic Conditions,NEC,VA,South,South Atlantic,Excellent,3,,
 2012,National Economic Conditions,NEC,VA,South,South Atlantic,Good,27,92,6
 2012,National Economic Conditions,NEC,VA,South,South Atlantic,Not So Good,43,48,51
 2012,National Economic Conditions,NEC,VA,South,South Atlantic,Poor,27,6,92
@@ -115,7 +115,7 @@
 2012,U.S. Economic Conditions Are...,ECONBETT,VA,South,South Atlantic,Getting Worse,33,4,94
 2012,U.S. Economic Conditions Are...,ECONBETT,VA,South,South Atlantic,Staying About the Same,22,36,62
 2012,U.S. Economic Conditions Are...,ECONDIR,VA,South,South Atlantic,Getting Better,43,92,7
-2012,U.S. Economic Conditions Are...,ECONDIR,VA,South,South Atlantic,Good and Staying the Same,2,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,VA,South,South Atlantic,Good and Staying the Same,2,,
 2012,U.S. Economic Conditions Are...,ECONDIR,VA,South,South Atlantic,Poor and Staying the Same,20,28,70
 2012,U.S. Economic Conditions Are...,ECONDIR,VA,South,South Atlantic,Getting Worse,33,4,94
 2012,Your Family's Financial Situation,FINSIT,VA,South,South Atlantic,Better,28,85,13
@@ -133,19 +133,19 @@
 2012,Opinion of Barack Obama,FAVOBAMA2,VA,South,South Atlantic,Unfavorable,47,2,95
 2012,Opinion of Mitt Romney,FAVROMN2,VA,South,South Atlantic,Favorable,48,7,93
 2012,Opinion of Mitt Romney,FAVROMN2,VA,South,South Atlantic,Unfavorable,49,91,5
-2012,Do Obama Policies Generally Favor...,OBAMARICH,VA,South,South Atlantic,Rich,10,N/A,N/A
+2012,Do Obama Policies Generally Favor...,OBAMARICH,VA,South,South Atlantic,Rich,10,,
 2012,Do Obama Policies Generally Favor...,OBAMARICH,VA,South,South Atlantic,Middle Class,46,90,9
 2012,Do Obama Policies Generally Favor...,OBAMARICH,VA,South,South Atlantic,Poor,34,17,82
 2012,Would Romney Policies Generally Favor...,ROMNRICH,VA,South,South Atlantic,Rich,53,91,8
 2012,Would Romney Policies Generally Favor...,ROMNRICH,VA,South,South Atlantic,Middle Class,39,5,94
-2012,Would Romney Policies Generally Favor...,ROMNRICH,VA,South,South Atlantic,Poor,2,N/A,N/A
+2012,Would Romney Policies Generally Favor...,ROMNRICH,VA,South,South Atlantic,Poor,2,,
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,VA,South,South Atlantic,Strongly Favor,74,55,44
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,VA,South,South Atlantic,Have Reservations,20,38,61
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,VA,South,South Atlantic,Dislike Opponent,6,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,VA,South,South Atlantic,Just Today,4,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,VA,South,South Atlantic,Last Few Days,6,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,VA,South,South Atlantic,In October,5,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,VA,South,South Atlantic,In September,6,N/A,N/A
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,VA,South,South Atlantic,Dislike Opponent,6,,
+2012,When Did You Decide Presidential Vote?,TIME12,VA,South,South Atlantic,Just Today,4,,
+2012,When Did You Decide Presidential Vote?,TIME12,VA,South,South Atlantic,Last Few Days,6,,
+2012,When Did You Decide Presidential Vote?,TIME12,VA,South,South Atlantic,In October,5,,
+2012,When Did You Decide Presidential Vote?,TIME12,VA,South,South Atlantic,In September,6,,
 2012,When Did You Decide Presidential Vote?,TIME12,VA,South,South Atlantic,Before That,78,54,45
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,VA,South,South Atlantic,Today/Last Few Days,11,41,56
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,VA,South,South Atlantic,Before That,89,51,47

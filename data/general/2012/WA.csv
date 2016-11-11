@@ -4,31 +4,31 @@
 2012,Vote by Age,AGE,WA,West,Pacific,30-44,26,60,38
 2012,Vote by Age,AGE,WA,West,Pacific,45-64,36,50,49
 2012,Vote by Age,AGE,WA,West,Pacific,65 and Older,17,51,47
-2012,Vote by Age,AGE65,WA,West,Pacific,18-24,13,N/A,N/A
-2012,Vote by Age,AGE65,WA,West,Pacific,25-29,8,N/A,N/A
+2012,Vote by Age,AGE65,WA,West,Pacific,18-24,13,,
+2012,Vote by Age,AGE65,WA,West,Pacific,25-29,8,,
 2012,Vote by Age,AGE65,WA,West,Pacific,30-39,17,58,39
 2012,Vote by Age,AGE65,WA,West,Pacific,40-49,18,56,44
 2012,Vote by Age,AGE65,WA,West,Pacific,50-64,27,50,48
 2012,Vote by Age,AGE65,WA,West,Pacific,65 and Older,17,51,47
 2012,Vote by Race,RACE,WA,West,Pacific,White,76,53,46
-2012,Vote by Race,RACE,WA,West,Pacific,African-American,3,N/A,N/A
-2012,Vote by Race,RACE,WA,West,Pacific,Latino,10,N/A,N/A
-2012,Vote by Race,RACE,WA,West,Pacific,Asian,6,N/A,N/A
-2012,Vote by Race,RACE,WA,West,Pacific,Other,5,N/A,N/A
+2012,Vote by Race,RACE,WA,West,Pacific,African-American,3,,
+2012,Vote by Race,RACE,WA,West,Pacific,Latino,10,,
+2012,Vote by Race,RACE,WA,West,Pacific,Asian,6,,
+2012,Vote by Race,RACE,WA,West,Pacific,Other,5,,
 2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,White Men,35,50,47
 2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,White Women,40,55,44
-2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Black Men,2,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Black Women,1,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Latino Men,5,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Latino Women,5,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,All Others,12,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Black Men,2,,
+2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Black Women,1,,
+2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Latino Men,5,,
+2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Latino Women,5,,
+2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,All Others,12,,
 2012,Vote by Ideology,PHIL3,WA,West,Pacific,Liberal,31,93,5
 2012,Vote by Ideology,PHIL3,WA,West,Pacific,Moderate,34,59,40
 2012,Vote by Ideology,PHIL3,WA,West,Pacific,Conservative,35,19,78
 2012,Vote by Party ID,PARTY,WA,West,Pacific,Democratic,36,96,3
 2012,Vote by Party ID,PARTY,WA,West,Pacific,Republican,23,5,94
 2012,Vote by Party ID,PARTY,WA,West,Pacific,Independent,42,50,47
-2012,Vote by Education,EDUC10,WA,West,Pacific,No High School,3,N/A,N/A
+2012,Vote by Education,EDUC10,WA,West,Pacific,No High School,3,,
 2012,Vote by Education,EDUC10,WA,West,Pacific,High School Graduate,16,55,43
 2012,Vote by Education,EDUC10,WA,West,Pacific,Some College,33,53,45
 2012,Vote by Education,EDUC10,WA,West,Pacific,College Graduate,33,56,41
@@ -52,7 +52,7 @@
 2012,How Often Do You Attend Religious Services?,ATTEND2,WA,West,Pacific,Weekly,33,33,65
 2012,How Often Do You Attend Religious Services?,ATTEND2,WA,West,Pacific,Occasionally,38,58,41
 2012,How Often Do You Attend Religious Services?,ATTEND2,WA,West,Pacific,Never,29,77,19
-2012,Most Important Issue Facing Country,ISSUE12,WA,West,Pacific,Foreign Policy,7,N/A,N/A
+2012,Most Important Issue Facing Country,ISSUE12,WA,West,Pacific,Foreign Policy,7,,
 2012,Most Important Issue Facing Country,ISSUE12,WA,West,Pacific,Deficit,17,37,61
 2012,Most Important Issue Facing Country,ISSUE12,WA,West,Pacific,Economy,55,52,46
 2012,Most Important Issue Facing Country,ISSUE12,WA,West,Pacific,Health Care,18,85,15
@@ -76,7 +76,7 @@
 2012,Who Would Better Handle Economy?,HANDLEECON12,WA,West,Pacific,Romney,44,5,94
 2012,Opinion of Government,GOVTDO10,WA,West,Pacific,Government Should Do More,40,93,5
 2012,Opinion of Government,GOVTDO10,WA,West,Pacific,Government Doing Too Much,54,25,73
-2012,National Economic Conditions,NEC,WA,West,Pacific,Excellent,1,N/A,N/A
+2012,National Economic Conditions,NEC,WA,West,Pacific,Excellent,1,,
 2012,National Economic Conditions,NEC,WA,West,Pacific,Good,20,91,8
 2012,National Economic Conditions,NEC,WA,West,Pacific,Not So Good,42,66,32
 2012,National Economic Conditions,NEC,WA,West,Pacific,Poor,37,23,75
@@ -86,7 +86,7 @@
 2012,U.S. Economic Conditions Are...,ECONBETT,WA,West,Pacific,Getting Worse,22,14,84
 2012,U.S. Economic Conditions Are...,ECONBETT,WA,West,Pacific,Staying About the Same,35,40,59
 2012,U.S. Economic Conditions Are...,ECONDIR,WA,West,Pacific,Getting Better,41,91,6
-2012,U.S. Economic Conditions Are...,ECONDIR,WA,West,Pacific,Good and Staying the Same,4,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,WA,West,Pacific,Good and Staying the Same,4,,
 2012,U.S. Economic Conditions Are...,ECONDIR,WA,West,Pacific,Poor and Staying the Same,31,35,63
 2012,U.S. Economic Conditions Are...,ECONDIR,WA,West,Pacific,Getting Worse,22,14,84
 2012,Your Family's Financial Situation,FINSIT,WA,West,Pacific,Better,26,82,15
@@ -99,12 +99,12 @@
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,WA,West,Pacific,Strongly Favor,55,61,39
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,WA,West,Pacific,Have Reservations,25,53,46
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,WA,West,Pacific,Dislike Opponent,19,43,49
-2012,When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,Just Today,N/A,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,Last Few Days,1,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,Just Today,N/A,,
+2012,When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,Last Few Days,1,,
 2012,When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,In October,19,61,35
 2012,When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,In September,9,42,55
 2012,When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,Before That,69,56,42
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,WA,West,Pacific,Today/Last Few Days,1,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,WA,West,Pacific,Today/Last Few Days,1,,
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,WA,West,Pacific,Before That,96,56,42
 2012,When Did You Decide Presidential Vote?,TIME12MTH,WA,West,Pacific,In October or November,20,60,36
 2012,When Did You Decide Presidential Vote?,TIME12MTH,WA,West,Pacific,Before That,77,55,44

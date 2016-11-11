@@ -13,7 +13,7 @@
 2012,Vote by Race,RACE,FL,South,South Atlantic,White,67,37,61
 2012,Vote by Race,RACE,FL,South,South Atlantic,African-American,13,95,4
 2012,Vote by Race,RACE,FL,South,South Atlantic,Latino,17,60,39
-2012,Vote by Race,RACE,FL,South,South Atlantic,Asian,2,N/A,N/A
+2012,Vote by Race,RACE,FL,South,South Atlantic,Asian,2,,
 2012,Vote by Race,RACE,FL,South,South Atlantic,Other,2,59,39
 2012,Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,White Men,30,33,65
 2012,Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,White Women,37,41,58
@@ -52,7 +52,7 @@
 2012,Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,White Protestant,37,28,72
 2012,Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,White Catholic,14,38,62
 2012,Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,White Jewish,5,71,29
-2012,Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,Whites/Other Religion,3,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,Whites/Other Religion,3,,
 2012,Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,Whites/No Religion,9,61,35
 2012,Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,Non-white,32,75,24
 2012,Are You White Born-Again Christian?,WHTEVANG,FL,South,South Atlantic,Yes,24,21,79
@@ -86,7 +86,7 @@
 2012,Who Would Better Handle Medicare?,HANDLEMED12,FL,South,South Atlantic,Romney,46,4,96
 2012,Opinion of Government,GOVTDO10,FL,South,South Atlantic,Government Should Do More,40,80,19
 2012,Opinion of Government,GOVTDO10,FL,South,South Atlantic,Government Doing Too Much,50,27,72
-2012,National Economic Conditions,NEC,FL,South,South Atlantic,Excellent,4,N/A,N/A
+2012,National Economic Conditions,NEC,FL,South,South Atlantic,Excellent,4,,
 2012,National Economic Conditions,NEC,FL,South,South Atlantic,Good,20,91,7
 2012,National Economic Conditions,NEC,FL,South,South Atlantic,Not So Good,40,52,46
 2012,National Economic Conditions,NEC,FL,South,South Atlantic,Poor,35,11,88
@@ -96,7 +96,7 @@
 2012,U.S. Economic Conditions Are...,ECONBETT,FL,South,South Atlantic,Getting Worse,32,9,90
 2012,U.S. Economic Conditions Are...,ECONBETT,FL,South,South Atlantic,Staying About the Same,27,37,61
 2012,U.S. Economic Conditions Are...,ECONDIR,FL,South,South Atlantic,Getting Better,38,88,11
-2012,U.S. Economic Conditions Are...,ECONDIR,FL,South,South Atlantic,Good and Staying the Same,4,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,FL,South,South Atlantic,Good and Staying the Same,4,,
 2012,U.S. Economic Conditions Are...,ECONDIR,FL,South,South Atlantic,Poor and Staying the Same,24,30,68
 2012,U.S. Economic Conditions Are...,ECONDIR,FL,South,South Atlantic,Getting Worse,32,9,90
 2012,Your Family's Financial Situation,FINSIT,FL,South,South Atlantic,Better,25,89,10
@@ -121,20 +121,20 @@
 2012,Who Do You Trust To Handle International Crisis?,INTL12,FL,South,South Atlantic,Only Obama,42,98,1
 2012,Who Do You Trust To Handle International Crisis?,INTL12,FL,South,South Atlantic,Only Romney,41,0,100
 2012,Who Do You Trust To Handle International Crisis?,INTL12,FL,South,South Atlantic,Both,9,64,35
-2012,Who Do You Trust To Handle International Crisis?,INTL12,FL,South,South Atlantic,Neither,3,N/A,N/A
+2012,Who Do You Trust To Handle International Crisis?,INTL12,FL,South,South Atlantic,Neither,3,,
 2012,Do Obama Policies Generally Favor...,OBAMARICH,FL,South,South Atlantic,Rich,8,16,78
 2012,Do Obama Policies Generally Favor...,OBAMARICH,FL,South,South Atlantic,Middle Class,44,88,11
 2012,Do Obama Policies Generally Favor...,OBAMARICH,FL,South,South Atlantic,Poor,32,17,82
 2012,Would Romney Policies Generally Favor...,ROMNRICH,FL,South,South Atlantic,Rich,53,86,12
 2012,Would Romney Policies Generally Favor...,ROMNRICH,FL,South,South Atlantic,Middle Class,35,6,93
-2012,Would Romney Policies Generally Favor...,ROMNRICH,FL,South,South Atlantic,Poor,2,N/A,N/A
+2012,Would Romney Policies Generally Favor...,ROMNRICH,FL,South,South Atlantic,Poor,2,,
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,FL,South,South Atlantic,Strongly Favor,63,50,50
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,FL,South,South Atlantic,Have Reservations,22,47,51
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,FL,South,South Atlantic,Dislike Opponent,14,48,46
-2012,When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,Just Today,3,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,Last Few Days,4,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,Just Today,3,,
+2012,When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,Last Few Days,4,,
 2012,When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,In October,13,50,50
-2012,When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,In September,8,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,In September,8,,
 2012,When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,Before That,68,54,45
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,FL,South,South Atlantic,Today/Last Few Days,8,57,43
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,FL,South,South Atlantic,Before That,89,52,47

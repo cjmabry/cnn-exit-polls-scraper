@@ -13,13 +13,13 @@
 2012,Vote by Race,RACE,NC,South,South Atlantic,White,70,31,68
 2012,Vote by Race,RACE,NC,South,South Atlantic,African-American,23,96,4
 2012,Vote by Race,RACE,NC,South,South Atlantic,Latino,4,68,31
-2012,Vote by Race,RACE,NC,South,South Atlantic,Asian,1,N/A,N/A
+2012,Vote by Race,RACE,NC,South,South Atlantic,Asian,1,,
 2012,Vote by Race,RACE,NC,South,South Atlantic,Other,2,52,43
 2012,Vote by Gender and Race,SEXBYRACE,NC,South,South Atlantic,White Men,31,30,68
 2012,Vote by Gender and Race,SEXBYRACE,NC,South,South Atlantic,White Women,39,33,67
 2012,Vote by Gender and Race,SEXBYRACE,NC,South,South Atlantic,Black Men,9,92,8
 2012,Vote by Gender and Race,SEXBYRACE,NC,South,South Atlantic,Black Women,14,99,1
-2012,Vote by Gender and Race,SEXBYRACE,NC,South,South Atlantic,Latino Men,1,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,NC,South,South Atlantic,Latino Men,1,,
 2012,Vote by Gender and Race,SEXBYRACE,NC,South,South Atlantic,Latino Women,2,68,32
 2012,Vote by Gender and Race,SEXBYRACE,NC,South,South Atlantic,All Others,3,53,44
 2012,Vote by Ideology,PHIL3,NC,South,South Atlantic,Liberal,22,85,14
@@ -54,19 +54,19 @@
 2012,How Often Do You Attend Religious Services?,ATTEND2,NC,South,South Atlantic,Never,13,64,35
 2012,Vote by Religion,REL5,NC,South,South Atlantic,Protestant,69,45,55
 2012,Vote by Religion,REL5,NC,South,South Atlantic,Catholic,10,34,66
-2012,Vote by Religion,REL5,NC,South,South Atlantic,Jewish,1,N/A,N/A
+2012,Vote by Religion,REL5,NC,South,South Atlantic,Jewish,1,,
 2012,Vote by Religion,REL5,NC,South,South Atlantic,Other,7,70,27
 2012,Vote by Religion,REL5,NC,South,South Atlantic,None,13,74,26
 2012,Vote by Religion and Race,WHITEREL,NC,South,South Atlantic,White Protestant,48,27,72
 2012,Vote by Religion and Race,WHITEREL,NC,South,South Atlantic,White Catholic,8,29,71
-2012,Vote by Religion and Race,WHITEREL,NC,South,South Atlantic,White Jewish,1,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,NC,South,South Atlantic,Whites/Other Religion,4,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,NC,South,South Atlantic,White Jewish,1,,
+2012,Vote by Religion and Race,WHITEREL,NC,South,South Atlantic,Whites/Other Religion,4,,
 2012,Vote by Religion and Race,WHITEREL,NC,South,South Atlantic,Whites/No Religion,9,61,38
 2012,Vote by Religion and Race,WHITEREL,NC,South,South Atlantic,Non-white,30,88,12
 2012,Vote by Religion and Church Attendance,ATTREL,NC,South,South Atlantic,Protestant/Attend Weekly,23,35,64
 2012,Vote by Religion and Church Attendance,ATTREL,NC,South,South Atlantic,Protestant/Not Weekly ,20,43,57
-2012,Vote by Religion and Church Attendance,ATTREL,NC,South,South Atlantic,Catholic/Attend Weekly,5,N/A,N/A
-2012,Vote by Religion and Church Attendance,ATTREL,NC,South,South Atlantic,Catholic/Not Weekly,4,N/A,N/A
+2012,Vote by Religion and Church Attendance,ATTREL,NC,South,South Atlantic,Catholic/Attend Weekly,5,,
+2012,Vote by Religion and Church Attendance,ATTREL,NC,South,South Atlantic,Catholic/Not Weekly,4,,
 2012,Vote by Religion and Church Attendance,ATTREL,NC,South,South Atlantic,All Others,48,61,38
 2012,Are You White Born-Again Christian?,WHTEVANG,NC,South,South Atlantic,Yes,35,20,79
 2012,Are You White Born-Again Christian?,WHTEVANG,NC,South,South Atlantic,No,65,65,35
@@ -84,7 +84,7 @@
 2012,Most Important Candidate Quality,QLT12,NC,South,South Atlantic,Strong Leader,18,39,61
 2012,Most Important Candidate Quality,QLT12,NC,South,South Atlantic,Cares About People,20,77,22
 2012,Most Important Candidate Quality,QLT12,NC,South,South Atlantic,Vision for Future,30,40,59
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,NC,South,South Atlantic,Housing Market,6,N/A,N/A
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,NC,South,South Atlantic,Housing Market,6,,
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,NC,South,South Atlantic,Unemployment,31,52,47
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,NC,South,South Atlantic,Taxes,15,39,61
 2012,Biggest Economic Problem Facing People Like You,ECONISS12,NC,South,South Atlantic,Rising Prices,44,44,55
@@ -102,7 +102,7 @@
 2012,Who Would Better Handle Medicare?,HANDLEMED12,NC,South,South Atlantic,Romney,46,1,99
 2012,Opinion of Government,GOVTDO10,NC,South,South Atlantic,Government Should Do More,41,79,21
 2012,Opinion of Government,GOVTDO10,NC,South,South Atlantic,Government Doing Too Much,53,21,77
-2012,National Economic Conditions,NEC,NC,South,South Atlantic,Excellent,3,N/A,N/A
+2012,National Economic Conditions,NEC,NC,South,South Atlantic,Excellent,3,,
 2012,National Economic Conditions,NEC,NC,South,South Atlantic,Good,21,92,7
 2012,National Economic Conditions,NEC,NC,South,South Atlantic,Not So Good,37,61,38
 2012,National Economic Conditions,NEC,NC,South,South Atlantic,Poor,39,7,92
@@ -112,7 +112,7 @@
 2012,U.S. Economic Conditions Are...,ECONBETT,NC,South,South Atlantic,Getting Worse,33,7,93
 2012,U.S. Economic Conditions Are...,ECONBETT,NC,South,South Atlantic,Staying About the Same,28,33,66
 2012,U.S. Economic Conditions Are...,ECONDIR,NC,South,South Atlantic,Getting Better,38,93,6
-2012,U.S. Economic Conditions Are...,ECONDIR,NC,South,South Atlantic,Good and Staying the Same,4,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,NC,South,South Atlantic,Good and Staying the Same,4,,
 2012,U.S. Economic Conditions Are...,ECONDIR,NC,South,South Atlantic,Poor and Staying the Same,24,26,74
 2012,U.S. Economic Conditions Are...,ECONDIR,NC,South,South Atlantic,Getting Worse,33,7,93
 2012,Your Family's Financial Situation,FINSIT,NC,South,South Atlantic,Better,21,91,9
@@ -135,12 +135,12 @@
 2012,Do Obama Policies Generally Favor...,OBAMARICH,NC,South,South Atlantic,Poor,29,26,74
 2012,Would Romney Policies Generally Favor...,ROMNRICH,NC,South,South Atlantic,Rich,47,90,9
 2012,Would Romney Policies Generally Favor...,ROMNRICH,NC,South,South Atlantic,Middle Class,35,4,96
-2012,Would Romney Policies Generally Favor...,ROMNRICH,NC,South,South Atlantic,Poor,4,N/A,N/A
+2012,Would Romney Policies Generally Favor...,ROMNRICH,NC,South,South Atlantic,Poor,4,,
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NC,South,South Atlantic,Strongly Favor,66,55,45
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NC,South,South Atlantic,Have Reservations,18,37,61
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NC,South,South Atlantic,Dislike Opponent,13,28,69
-2012,When Did You Decide Presidential Vote?,TIME12,NC,South,South Atlantic,Just Today,2,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,NC,South,South Atlantic,Last Few Days,3,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,NC,South,South Atlantic,Just Today,2,,
+2012,When Did You Decide Presidential Vote?,TIME12,NC,South,South Atlantic,Last Few Days,3,,
 2012,When Did You Decide Presidential Vote?,TIME12,NC,South,South Atlantic,In October,11,42,56
 2012,When Did You Decide Presidential Vote?,TIME12,NC,South,South Atlantic,In September,10,40,58
 2012,When Did You Decide Presidential Vote?,TIME12,NC,South,South Atlantic,Before That,73,50,49
@@ -167,7 +167,7 @@
 2012,Anyone in Household Lost a Job In Last Four Years?,LAIDOFF4,NC,South,South Atlantic,Yes,34,47,51
 2012,Anyone in Household Lost a Job In Last Four Years?,LAIDOFF4,NC,South,South Atlantic,No,64,50,49
 2012,Which Best Describes You?,MOVETONC,NC,South,South Atlantic,Born in N.C.,50,44,55
-2012,Which Best Describes You?,MOVETONC,NC,South,South Atlantic,Moved to N.C. Since 2008,6,N/A,N/A
+2012,Which Best Describes You?,MOVETONC,NC,South,South Atlantic,Moved to N.C. Since 2008,6,,
 2012,Which Best Describes You?,MOVETONC,NC,South,South Atlantic,Moved to N.C. 2002-2007,13,62,38
 2012,Which Best Describes You?,MOVETONC,NC,South,South Atlantic,Moved to N.C. Before 2002,30,47,52
 2012,Were You Born in North Carolina?,BORNINNC,NC,South,South Atlantic,Yes,50,44,55

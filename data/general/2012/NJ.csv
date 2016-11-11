@@ -4,31 +4,31 @@
 2012,Vote by Age,AGE,NJ,Northeast,Middle Atlantic,30-44,24,59,40
 2012,Vote by Age,AGE,NJ,Northeast,Middle Atlantic,45-64,45,60,39
 2012,Vote by Age,AGE,NJ,Northeast,Middle Atlantic,65 and Older,15,48,52
-2012,Vote by Age,AGE65,NJ,Northeast,Middle Atlantic,18-24,8,N/A,N/A
-2012,Vote by Age,AGE65,NJ,Northeast,Middle Atlantic,25-29,8,N/A,N/A
-2012,Vote by Age,AGE65,NJ,Northeast,Middle Atlantic,30-39,14,N/A,N/A
+2012,Vote by Age,AGE65,NJ,Northeast,Middle Atlantic,18-24,8,,
+2012,Vote by Age,AGE65,NJ,Northeast,Middle Atlantic,25-29,8,,
+2012,Vote by Age,AGE65,NJ,Northeast,Middle Atlantic,30-39,14,,
 2012,Vote by Age,AGE65,NJ,Northeast,Middle Atlantic,40-49,21,66,34
 2012,Vote by Age,AGE65,NJ,Northeast,Middle Atlantic,50-64,34,57,41
 2012,Vote by Age,AGE65,NJ,Northeast,Middle Atlantic,65 and Older,15,48,52
 2012,Vote by Race,RACE,NJ,Northeast,Middle Atlantic,White,67,43,56
 2012,Vote by Race,RACE,NJ,Northeast,Middle Atlantic,African-American,18,96,4
-2012,Vote by Race,RACE,NJ,Northeast,Middle Atlantic,Latino,10,N/A,N/A
-2012,Vote by Race,RACE,NJ,Northeast,Middle Atlantic,Asian,3,N/A,N/A
-2012,Vote by Race,RACE,NJ,Northeast,Middle Atlantic,Other,2,N/A,N/A
+2012,Vote by Race,RACE,NJ,Northeast,Middle Atlantic,Latino,10,,
+2012,Vote by Race,RACE,NJ,Northeast,Middle Atlantic,Asian,3,,
+2012,Vote by Race,RACE,NJ,Northeast,Middle Atlantic,Other,2,,
 2012,Vote by Gender and Race,SEXBYRACE,NJ,Northeast,Middle Atlantic,White Men,35,44,54
 2012,Vote by Gender and Race,SEXBYRACE,NJ,Northeast,Middle Atlantic,White Women,32,42,58
-2012,Vote by Gender and Race,SEXBYRACE,NJ,Northeast,Middle Atlantic,Black Men,6,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,NJ,Northeast,Middle Atlantic,Black Men,6,,
 2012,Vote by Gender and Race,SEXBYRACE,NJ,Northeast,Middle Atlantic,Black Women,12,96,4
-2012,Vote by Gender and Race,SEXBYRACE,NJ,Northeast,Middle Atlantic,Latino Men,4,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,NJ,Northeast,Middle Atlantic,Latino Women,6,N/A,N/A
-2012,Vote by Gender and Race,SEXBYRACE,NJ,Northeast,Middle Atlantic,All Others,5,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,NJ,Northeast,Middle Atlantic,Latino Men,4,,
+2012,Vote by Gender and Race,SEXBYRACE,NJ,Northeast,Middle Atlantic,Latino Women,6,,
+2012,Vote by Gender and Race,SEXBYRACE,NJ,Northeast,Middle Atlantic,All Others,5,,
 2012,Vote by Ideology,PHIL3,NJ,Northeast,Middle Atlantic,Liberal,27,89,10
 2012,Vote by Ideology,PHIL3,NJ,Northeast,Middle Atlantic,Moderate,48,60,39
 2012,Vote by Ideology,PHIL3,NJ,Northeast,Middle Atlantic,Conservative,25,22,76
 2012,Vote by Party ID,PARTY,NJ,Northeast,Middle Atlantic,Democratic,44,95,5
 2012,Vote by Party ID,PARTY,NJ,Northeast,Middle Atlantic,Republican,26,11,88
 2012,Vote by Party ID,PARTY,NJ,Northeast,Middle Atlantic,Independent,30,48,49
-2012,Vote by Education,EDUC10,NJ,Northeast,Middle Atlantic,No High School,3,N/A,N/A
+2012,Vote by Education,EDUC10,NJ,Northeast,Middle Atlantic,No High School,3,,
 2012,Vote by Education,EDUC10,NJ,Northeast,Middle Atlantic,High School Graduate,18,50,46
 2012,Vote by Education,EDUC10,NJ,Northeast,Middle Atlantic,Some College,27,56,44
 2012,Vote by Education,EDUC10,NJ,Northeast,Middle Atlantic,College Graduate,32,59,40
@@ -44,177 +44,177 @@
 2012,Vote by Income,INC50K,NJ,Northeast,Middle Atlantic,$50K or More,74,58,41
 2012,Vote by Income,INC100K,NJ,Northeast,Middle Atlantic,Less Than $100K,62,58,41
 2012,Vote by Income,INC100K,NJ,Northeast,Middle Atlantic,$100K or More,38,61,38
-2012,How Often Do You Attend Religious Services?,ATTEND,NJ,Northeast,Middle Atlantic,More Than Weekly,12,N/A,N/A
-2012,How Often Do You Attend Religious Services?,ATTEND,NJ,Northeast,Middle Atlantic,Weekly,28,N/A,N/A
-2012,How Often Do You Attend Religious Services?,ATTEND,NJ,Northeast,Middle Atlantic,Monthly,18,N/A,N/A
-2012,How Often Do You Attend Religious Services?,ATTEND,NJ,Northeast,Middle Atlantic,Few Times a Year,28,N/A,N/A
-2012,How Often Do You Attend Religious Services?,ATTEND,NJ,Northeast,Middle Atlantic,Never,14,N/A,N/A
-2012,How Often Do You Attend Religious Services?,ATTEND2,NJ,Northeast,Middle Atlantic,Weekly,39,N/A,N/A
-2012,How Often Do You Attend Religious Services?,ATTEND2,NJ,Northeast,Middle Atlantic,Occasionally,46,N/A,N/A
-2012,How Often Do You Attend Religious Services?,ATTEND2,NJ,Northeast,Middle Atlantic,Never,14,N/A,N/A
+2012,How Often Do You Attend Religious Services?,ATTEND,NJ,Northeast,Middle Atlantic,More Than Weekly,12,,
+2012,How Often Do You Attend Religious Services?,ATTEND,NJ,Northeast,Middle Atlantic,Weekly,28,,
+2012,How Often Do You Attend Religious Services?,ATTEND,NJ,Northeast,Middle Atlantic,Monthly,18,,
+2012,How Often Do You Attend Religious Services?,ATTEND,NJ,Northeast,Middle Atlantic,Few Times a Year,28,,
+2012,How Often Do You Attend Religious Services?,ATTEND,NJ,Northeast,Middle Atlantic,Never,14,,
+2012,How Often Do You Attend Religious Services?,ATTEND2,NJ,Northeast,Middle Atlantic,Weekly,39,,
+2012,How Often Do You Attend Religious Services?,ATTEND2,NJ,Northeast,Middle Atlantic,Occasionally,46,,
+2012,How Often Do You Attend Religious Services?,ATTEND2,NJ,Northeast,Middle Atlantic,Never,14,,
 2012,Vote by Religion,REL5,NJ,Northeast,Middle Atlantic,Protestant,36,53,45
 2012,Vote by Religion,REL5,NJ,Northeast,Middle Atlantic,Catholic,48,45,53
-2012,Vote by Religion,REL5,NJ,Northeast,Middle Atlantic,Jewish,3,N/A,N/A
-2012,Vote by Religion,REL5,NJ,Northeast,Middle Atlantic,Other,5,N/A,N/A
-2012,Vote by Religion,REL5,NJ,Northeast,Middle Atlantic,None,8,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,NJ,Northeast,Middle Atlantic,White Protestant,21,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,NJ,Northeast,Middle Atlantic,White Catholic,40,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,NJ,Northeast,Middle Atlantic,White Jewish,3,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,NJ,Northeast,Middle Atlantic,Whites/Other Religion,2,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,NJ,Northeast,Middle Atlantic,Whites/No Religion,6,N/A,N/A
-2012,Vote by Religion and Race,WHITEREL,NJ,Northeast,Middle Atlantic,Non-white,28,N/A,N/A
-2012,Vote by Religion and Church Attendance,ATTREL,NJ,Northeast,Middle Atlantic,Protestant/Attend Weekly,5,N/A,N/A
-2012,Vote by Religion and Church Attendance,ATTREL,NJ,Northeast,Middle Atlantic,Protestant/Not Weekly ,13,N/A,N/A
-2012,Vote by Religion and Church Attendance,ATTREL,NJ,Northeast,Middle Atlantic,Catholic/Attend Weekly,20,N/A,N/A
-2012,Vote by Religion and Church Attendance,ATTREL,NJ,Northeast,Middle Atlantic,Catholic/Not Weekly,24,N/A,N/A
-2012,Vote by Religion and Church Attendance,ATTREL,NJ,Northeast,Middle Atlantic,All Others,37,N/A,N/A
-2012,Are You White Born-Again Christian?,WHTEVANG,NJ,Northeast,Middle Atlantic,Yes,9,N/A,N/A
+2012,Vote by Religion,REL5,NJ,Northeast,Middle Atlantic,Jewish,3,,
+2012,Vote by Religion,REL5,NJ,Northeast,Middle Atlantic,Other,5,,
+2012,Vote by Religion,REL5,NJ,Northeast,Middle Atlantic,None,8,,
+2012,Vote by Religion and Race,WHITEREL,NJ,Northeast,Middle Atlantic,White Protestant,21,,
+2012,Vote by Religion and Race,WHITEREL,NJ,Northeast,Middle Atlantic,White Catholic,40,,
+2012,Vote by Religion and Race,WHITEREL,NJ,Northeast,Middle Atlantic,White Jewish,3,,
+2012,Vote by Religion and Race,WHITEREL,NJ,Northeast,Middle Atlantic,Whites/Other Religion,2,,
+2012,Vote by Religion and Race,WHITEREL,NJ,Northeast,Middle Atlantic,Whites/No Religion,6,,
+2012,Vote by Religion and Race,WHITEREL,NJ,Northeast,Middle Atlantic,Non-white,28,,
+2012,Vote by Religion and Church Attendance,ATTREL,NJ,Northeast,Middle Atlantic,Protestant/Attend Weekly,5,,
+2012,Vote by Religion and Church Attendance,ATTREL,NJ,Northeast,Middle Atlantic,Protestant/Not Weekly ,13,,
+2012,Vote by Religion and Church Attendance,ATTREL,NJ,Northeast,Middle Atlantic,Catholic/Attend Weekly,20,,
+2012,Vote by Religion and Church Attendance,ATTREL,NJ,Northeast,Middle Atlantic,Catholic/Not Weekly,24,,
+2012,Vote by Religion and Church Attendance,ATTREL,NJ,Northeast,Middle Atlantic,All Others,37,,
+2012,Are You White Born-Again Christian?,WHTEVANG,NJ,Northeast,Middle Atlantic,Yes,9,,
 2012,Are You White Born-Again Christian?,WHTEVANG,NJ,Northeast,Middle Atlantic,No,91,58,42
-2012,Abortion Should Be...,ABORTION,NJ,Northeast,Middle Atlantic,Always Legal,40,N/A,N/A
-2012,Abortion Should Be...,ABORTION,NJ,Northeast,Middle Atlantic,Mostly Legal,31,N/A,N/A
-2012,Abortion Should Be...,ABORTION,NJ,Northeast,Middle Atlantic,Mostly Illegal,11,N/A,N/A
-2012,Abortion Should Be...,ABORTION,NJ,Northeast,Middle Atlantic,Always Illegal,14,N/A,N/A
+2012,Abortion Should Be...,ABORTION,NJ,Northeast,Middle Atlantic,Always Legal,40,,
+2012,Abortion Should Be...,ABORTION,NJ,Northeast,Middle Atlantic,Mostly Legal,31,,
+2012,Abortion Should Be...,ABORTION,NJ,Northeast,Middle Atlantic,Mostly Illegal,11,,
+2012,Abortion Should Be...,ABORTION,NJ,Northeast,Middle Atlantic,Always Illegal,14,,
 2012,Abortion Should Be...,ABORT2,NJ,Northeast,Middle Atlantic,Legal,71,62,38
-2012,Abortion Should Be...,ABORT2,NJ,Northeast,Middle Atlantic,Illegal,25,N/A,N/A
-2012,Opinion of Tea Party Movement,TEAPARTY12,NJ,Northeast,Middle Atlantic,Support,20,N/A,N/A
-2012,Opinion of Tea Party Movement,TEAPARTY12,NJ,Northeast,Middle Atlantic,Neutral,37,N/A,N/A
-2012,Opinion of Tea Party Movement,TEAPARTY12,NJ,Northeast,Middle Atlantic,Oppose,41,N/A,N/A
-2012,Most Important Issue Facing Country,ISSUE12,NJ,Northeast,Middle Atlantic,Foreign Policy,3,N/A,N/A
-2012,Most Important Issue Facing Country,ISSUE12,NJ,Northeast,Middle Atlantic,Deficit,10,N/A,N/A
+2012,Abortion Should Be...,ABORT2,NJ,Northeast,Middle Atlantic,Illegal,25,,
+2012,Opinion of Tea Party Movement,TEAPARTY12,NJ,Northeast,Middle Atlantic,Support,20,,
+2012,Opinion of Tea Party Movement,TEAPARTY12,NJ,Northeast,Middle Atlantic,Neutral,37,,
+2012,Opinion of Tea Party Movement,TEAPARTY12,NJ,Northeast,Middle Atlantic,Oppose,41,,
+2012,Most Important Issue Facing Country,ISSUE12,NJ,Northeast,Middle Atlantic,Foreign Policy,3,,
+2012,Most Important Issue Facing Country,ISSUE12,NJ,Northeast,Middle Atlantic,Deficit,10,,
 2012,Most Important Issue Facing Country,ISSUE12,NJ,Northeast,Middle Atlantic,Economy,67,61,39
-2012,Most Important Issue Facing Country,ISSUE12,NJ,Northeast,Middle Atlantic,Health Care,16,N/A,N/A
-2012,Most Important Candidate Quality,QLT12,NJ,Northeast,Middle Atlantic,Shares My Values,24,N/A,N/A
-2012,Most Important Candidate Quality,QLT12,NJ,Northeast,Middle Atlantic,Strong Leader,24,N/A,N/A
-2012,Most Important Candidate Quality,QLT12,NJ,Northeast,Middle Atlantic,Cares About People,23,N/A,N/A
-2012,Most Important Candidate Quality,QLT12,NJ,Northeast,Middle Atlantic,Vision for Future,27,N/A,N/A
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,NJ,Northeast,Middle Atlantic,Housing Market,3,N/A,N/A
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,NJ,Northeast,Middle Atlantic,Unemployment,55,N/A,N/A
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,NJ,Northeast,Middle Atlantic,Taxes,18,N/A,N/A
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,NJ,Northeast,Middle Atlantic,Rising Prices,19,N/A,N/A
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,NJ,Northeast,Middle Atlantic,Expanded,41,N/A,N/A
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,NJ,Northeast,Middle Atlantic,Kept As Is,19,N/A,N/A
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,NJ,Northeast,Middle Atlantic,Repealed In Part,21,N/A,N/A
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,NJ,Northeast,Middle Atlantic,Repealed Completely,13,N/A,N/A
-2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,NJ,Northeast,Middle Atlantic,No,59,N/A,N/A
-2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,NJ,Northeast,Middle Atlantic,Yes,35,N/A,N/A
-2012,Income Tax Rates Should Be...,TAXINC12,NJ,Northeast,Middle Atlantic,Increased For All,7,N/A,N/A
-2012,Income Tax Rates Should Be...,TAXINC12,NJ,Northeast,Middle Atlantic,Increased for $250K+,57,N/A,N/A
-2012,Income Tax Rates Should Be...,TAXINC12,NJ,Northeast,Middle Atlantic,Not Increased,33,N/A,N/A
+2012,Most Important Issue Facing Country,ISSUE12,NJ,Northeast,Middle Atlantic,Health Care,16,,
+2012,Most Important Candidate Quality,QLT12,NJ,Northeast,Middle Atlantic,Shares My Values,24,,
+2012,Most Important Candidate Quality,QLT12,NJ,Northeast,Middle Atlantic,Strong Leader,24,,
+2012,Most Important Candidate Quality,QLT12,NJ,Northeast,Middle Atlantic,Cares About People,23,,
+2012,Most Important Candidate Quality,QLT12,NJ,Northeast,Middle Atlantic,Vision for Future,27,,
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,NJ,Northeast,Middle Atlantic,Housing Market,3,,
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,NJ,Northeast,Middle Atlantic,Unemployment,55,,
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,NJ,Northeast,Middle Atlantic,Taxes,18,,
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,NJ,Northeast,Middle Atlantic,Rising Prices,19,,
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,NJ,Northeast,Middle Atlantic,Expanded,41,,
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,NJ,Northeast,Middle Atlantic,Kept As Is,19,,
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,NJ,Northeast,Middle Atlantic,Repealed In Part,21,,
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,NJ,Northeast,Middle Atlantic,Repealed Completely,13,,
+2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,NJ,Northeast,Middle Atlantic,No,59,,
+2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,NJ,Northeast,Middle Atlantic,Yes,35,,
+2012,Income Tax Rates Should Be...,TAXINC12,NJ,Northeast,Middle Atlantic,Increased For All,7,,
+2012,Income Tax Rates Should Be...,TAXINC12,NJ,Northeast,Middle Atlantic,Increased for $250K+,57,,
+2012,Income Tax Rates Should Be...,TAXINC12,NJ,Northeast,Middle Atlantic,Not Increased,33,,
 2012,Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,NJ,Northeast,Middle Atlantic,Offered Legal Status,81,61,39
-2012,Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,NJ,Northeast,Middle Atlantic,Deported,16,N/A,N/A
-2012,Who Is More In Touch With People Like You?,INTOUCH12,NJ,Northeast,Middle Atlantic,Obama,62,N/A,N/A
-2012,Who Is More In Touch With People Like You?,INTOUCH12,NJ,Northeast,Middle Atlantic,Romney,36,N/A,N/A
-2012,Who Would Better Handle Economy?,HANDLEECON12,NJ,Northeast,Middle Atlantic,Obama,56,N/A,N/A
-2012,Who Would Better Handle Economy?,HANDLEECON12,NJ,Northeast,Middle Atlantic,Romney,42,N/A,N/A
-2012,Who Would Better Handle Medicare?,HANDLEMED12,NJ,Northeast,Middle Atlantic,Obama,60,N/A,N/A
-2012,Who Would Better Handle Medicare?,HANDLEMED12,NJ,Northeast,Middle Atlantic,Romney,37,N/A,N/A
-2012,Who Would Better Handle Deficit?,HANDLEDEF12,NJ,Northeast,Middle Atlantic,Obama,55,N/A,N/A
-2012,Who Would Better Handle Deficit?,HANDLEDEF12,NJ,Northeast,Middle Atlantic,Romney,42,N/A,N/A
-2012,Opinion of Government,GOVTDO10,NJ,Northeast,Middle Atlantic,Government Should Do More,63,N/A,N/A
-2012,Opinion of Government,GOVTDO10,NJ,Northeast,Middle Atlantic,Government Doing Too Much,32,N/A,N/A
-2012,National Economic Conditions,NEC,NJ,Northeast,Middle Atlantic,Excellent,1,N/A,N/A
-2012,National Economic Conditions,NEC,NJ,Northeast,Middle Atlantic,Good,20,N/A,N/A
-2012,National Economic Conditions,NEC,NJ,Northeast,Middle Atlantic,Not So Good,52,N/A,N/A
-2012,National Economic Conditions,NEC,NJ,Northeast,Middle Atlantic,Poor,26,N/A,N/A
-2012,National Economic Conditions,NEC2,NJ,Northeast,Middle Atlantic,Excellent/Good,22,N/A,N/A
+2012,Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,NJ,Northeast,Middle Atlantic,Deported,16,,
+2012,Who Is More In Touch With People Like You?,INTOUCH12,NJ,Northeast,Middle Atlantic,Obama,62,,
+2012,Who Is More In Touch With People Like You?,INTOUCH12,NJ,Northeast,Middle Atlantic,Romney,36,,
+2012,Who Would Better Handle Economy?,HANDLEECON12,NJ,Northeast,Middle Atlantic,Obama,56,,
+2012,Who Would Better Handle Economy?,HANDLEECON12,NJ,Northeast,Middle Atlantic,Romney,42,,
+2012,Who Would Better Handle Medicare?,HANDLEMED12,NJ,Northeast,Middle Atlantic,Obama,60,,
+2012,Who Would Better Handle Medicare?,HANDLEMED12,NJ,Northeast,Middle Atlantic,Romney,37,,
+2012,Who Would Better Handle Deficit?,HANDLEDEF12,NJ,Northeast,Middle Atlantic,Obama,55,,
+2012,Who Would Better Handle Deficit?,HANDLEDEF12,NJ,Northeast,Middle Atlantic,Romney,42,,
+2012,Opinion of Government,GOVTDO10,NJ,Northeast,Middle Atlantic,Government Should Do More,63,,
+2012,Opinion of Government,GOVTDO10,NJ,Northeast,Middle Atlantic,Government Doing Too Much,32,,
+2012,National Economic Conditions,NEC,NJ,Northeast,Middle Atlantic,Excellent,1,,
+2012,National Economic Conditions,NEC,NJ,Northeast,Middle Atlantic,Good,20,,
+2012,National Economic Conditions,NEC,NJ,Northeast,Middle Atlantic,Not So Good,52,,
+2012,National Economic Conditions,NEC,NJ,Northeast,Middle Atlantic,Poor,26,,
+2012,National Economic Conditions,NEC2,NJ,Northeast,Middle Atlantic,Excellent/Good,22,,
 2012,National Economic Conditions,NEC2,NJ,Northeast,Middle Atlantic,Not So Good/Poor,78,47,51
-2012,U.S. Economic Conditions Are...,ECONBETT,NJ,Northeast,Middle Atlantic,Getting Better,49,N/A,N/A
-2012,U.S. Economic Conditions Are...,ECONBETT,NJ,Northeast,Middle Atlantic,Getting Worse,27,N/A,N/A
-2012,U.S. Economic Conditions Are...,ECONBETT,NJ,Northeast,Middle Atlantic,Staying About the Same,24,N/A,N/A
-2012,U.S. Economic Conditions Are...,ECONDIR,NJ,Northeast,Middle Atlantic,Getting Better,49,N/A,N/A
-2012,U.S. Economic Conditions Are...,ECONDIR,NJ,Northeast,Middle Atlantic,Good and Staying the Same,0,N/A,N/A
-2012,U.S. Economic Conditions Are...,ECONDIR,NJ,Northeast,Middle Atlantic,Poor and Staying the Same,24,N/A,N/A
-2012,U.S. Economic Conditions Are...,ECONDIR,NJ,Northeast,Middle Atlantic,Getting Worse,27,N/A,N/A
-2012,Your Family's Financial Situation,FINSIT,NJ,Northeast,Middle Atlantic,Better,25,N/A,N/A
-2012,Your Family's Financial Situation,FINSIT,NJ,Northeast,Middle Atlantic,Worse,28,N/A,N/A
-2012,Your Family's Financial Situation,FINSIT,NJ,Northeast,Middle Atlantic,Same,46,N/A,N/A
-2012,Country is Going In...,TRACK,NJ,Northeast,Middle Atlantic,Right Direction,54,N/A,N/A
-2012,Country is Going In...,TRACK,NJ,Northeast,Middle Atlantic,Wrong Track,46,N/A,N/A
-2012,More to Blame for Current Economic Problems?,ECONBLAME12,NJ,Northeast,Middle Atlantic,Barack Obama,33,N/A,N/A
-2012,More to Blame for Current Economic Problems?,ECONBLAME12,NJ,Northeast,Middle Atlantic,George W. Bush,60,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONBETT,NJ,Northeast,Middle Atlantic,Getting Better,49,,
+2012,U.S. Economic Conditions Are...,ECONBETT,NJ,Northeast,Middle Atlantic,Getting Worse,27,,
+2012,U.S. Economic Conditions Are...,ECONBETT,NJ,Northeast,Middle Atlantic,Staying About the Same,24,,
+2012,U.S. Economic Conditions Are...,ECONDIR,NJ,Northeast,Middle Atlantic,Getting Better,49,,
+2012,U.S. Economic Conditions Are...,ECONDIR,NJ,Northeast,Middle Atlantic,Good and Staying the Same,0,,
+2012,U.S. Economic Conditions Are...,ECONDIR,NJ,Northeast,Middle Atlantic,Poor and Staying the Same,24,,
+2012,U.S. Economic Conditions Are...,ECONDIR,NJ,Northeast,Middle Atlantic,Getting Worse,27,,
+2012,Your Family's Financial Situation,FINSIT,NJ,Northeast,Middle Atlantic,Better,25,,
+2012,Your Family's Financial Situation,FINSIT,NJ,Northeast,Middle Atlantic,Worse,28,,
+2012,Your Family's Financial Situation,FINSIT,NJ,Northeast,Middle Atlantic,Same,46,,
+2012,Country is Going In...,TRACK,NJ,Northeast,Middle Atlantic,Right Direction,54,,
+2012,Country is Going In...,TRACK,NJ,Northeast,Middle Atlantic,Wrong Track,46,,
+2012,More to Blame for Current Economic Problems?,ECONBLAME12,NJ,Northeast,Middle Atlantic,Barack Obama,33,,
+2012,More to Blame for Current Economic Problems?,ECONBLAME12,NJ,Northeast,Middle Atlantic,George W. Bush,60,,
 2012,U.S. Economic System Generally...,ECONFAIR,NJ,Northeast,Middle Atlantic,Favors the Wealthy,70,64,36
-2012,U.S. Economic System Generally...,ECONFAIR,NJ,Northeast,Middle Atlantic,Is Fair to Most Americans,27,N/A,N/A
-2012,Should Taxes Be Raised To Help Cut Deficit?,TAXDEF,NJ,Northeast,Middle Atlantic,Yes,36,N/A,N/A
-2012,Should Taxes Be Raised To Help Cut Deficit?,TAXDEF,NJ,Northeast,Middle Atlantic,No,64,N/A,N/A
-2012,Opinion of Obama Administration,OBAMANG,NJ,Northeast,Middle Atlantic,Enthusiastic,32,N/A,N/A
-2012,Opinion of Obama Administration,OBAMANG,NJ,Northeast,Middle Atlantic,Satisfied,25,N/A,N/A
-2012,Opinion of Obama Administration,OBAMANG,NJ,Northeast,Middle Atlantic,Dissatisfied,29,N/A,N/A
-2012,Opinion of Obama Administration,OBAMANG,NJ,Northeast,Middle Atlantic,Angry,14,N/A,N/A
-2012,Opinion of Obama Administration,OBAMANG2,NJ,Northeast,Middle Atlantic,Enthusiastic/Satisfied,57,N/A,N/A
-2012,Opinion of Obama Administration,OBAMANG2,NJ,Northeast,Middle Atlantic,Dissatisfied/Angry,43,N/A,N/A
-2012,How Obama is Handling His Job As President,OBAMA4,NJ,Northeast,Middle Atlantic,Strongly Approve,39,N/A,N/A
-2012,How Obama is Handling His Job As President,OBAMA4,NJ,Northeast,Middle Atlantic,Somewhat Approve,26,N/A,N/A
-2012,How Obama is Handling His Job As President,OBAMA4,NJ,Northeast,Middle Atlantic,Somewhat Disapprove,13,N/A,N/A
-2012,How Obama is Handling His Job As President,OBAMA4,NJ,Northeast,Middle Atlantic,Strongly Disapprove,21,N/A,N/A
+2012,U.S. Economic System Generally...,ECONFAIR,NJ,Northeast,Middle Atlantic,Is Fair to Most Americans,27,,
+2012,Should Taxes Be Raised To Help Cut Deficit?,TAXDEF,NJ,Northeast,Middle Atlantic,Yes,36,,
+2012,Should Taxes Be Raised To Help Cut Deficit?,TAXDEF,NJ,Northeast,Middle Atlantic,No,64,,
+2012,Opinion of Obama Administration,OBAMANG,NJ,Northeast,Middle Atlantic,Enthusiastic,32,,
+2012,Opinion of Obama Administration,OBAMANG,NJ,Northeast,Middle Atlantic,Satisfied,25,,
+2012,Opinion of Obama Administration,OBAMANG,NJ,Northeast,Middle Atlantic,Dissatisfied,29,,
+2012,Opinion of Obama Administration,OBAMANG,NJ,Northeast,Middle Atlantic,Angry,14,,
+2012,Opinion of Obama Administration,OBAMANG2,NJ,Northeast,Middle Atlantic,Enthusiastic/Satisfied,57,,
+2012,Opinion of Obama Administration,OBAMANG2,NJ,Northeast,Middle Atlantic,Dissatisfied/Angry,43,,
+2012,How Obama is Handling His Job As President,OBAMA4,NJ,Northeast,Middle Atlantic,Strongly Approve,39,,
+2012,How Obama is Handling His Job As President,OBAMA4,NJ,Northeast,Middle Atlantic,Somewhat Approve,26,,
+2012,How Obama is Handling His Job As President,OBAMA4,NJ,Northeast,Middle Atlantic,Somewhat Disapprove,13,,
+2012,How Obama is Handling His Job As President,OBAMA4,NJ,Northeast,Middle Atlantic,Strongly Disapprove,21,,
 2012,How Obama is Handling His Job As President,OBAMA2,NJ,Northeast,Middle Atlantic,Approve,65,86,14
-2012,How Obama is Handling His Job As President,OBAMA2,NJ,Northeast,Middle Atlantic,Disapprove,33,N/A,N/A
-2012,Opinion of Barack Obama,FAVOBAMA2,NJ,Northeast,Middle Atlantic,Favorable,59,N/A,N/A
-2012,Opinion of Barack Obama,FAVOBAMA2,NJ,Northeast,Middle Atlantic,Unfavorable,39,N/A,N/A
-2012,Opinion of Mitt Romney,FAVROMN2,NJ,Northeast,Middle Atlantic,Favorable,39,N/A,N/A
-2012,Opinion of Mitt Romney,FAVROMN2,NJ,Northeast,Middle Atlantic,Unfavorable,54,N/A,N/A
-2012,Do Obama Policies Generally Favor...,OBAMARICH,NJ,Northeast,Middle Atlantic,Rich,4,N/A,N/A
-2012,Do Obama Policies Generally Favor...,OBAMARICH,NJ,Northeast,Middle Atlantic,Middle Class,55,N/A,N/A
-2012,Do Obama Policies Generally Favor...,OBAMARICH,NJ,Northeast,Middle Atlantic,Poor,30,N/A,N/A
-2012,Would Romney Policies Generally Favor...,ROMNRICH,NJ,Northeast,Middle Atlantic,Rich,61,N/A,N/A
-2012,Would Romney Policies Generally Favor...,ROMNRICH,NJ,Northeast,Middle Atlantic,Middle Class,32,N/A,N/A
-2012,Would Romney Policies Generally Favor...,ROMNRICH,NJ,Northeast,Middle Atlantic,Poor,1,N/A,N/A
+2012,How Obama is Handling His Job As President,OBAMA2,NJ,Northeast,Middle Atlantic,Disapprove,33,,
+2012,Opinion of Barack Obama,FAVOBAMA2,NJ,Northeast,Middle Atlantic,Favorable,59,,
+2012,Opinion of Barack Obama,FAVOBAMA2,NJ,Northeast,Middle Atlantic,Unfavorable,39,,
+2012,Opinion of Mitt Romney,FAVROMN2,NJ,Northeast,Middle Atlantic,Favorable,39,,
+2012,Opinion of Mitt Romney,FAVROMN2,NJ,Northeast,Middle Atlantic,Unfavorable,54,,
+2012,Do Obama Policies Generally Favor...,OBAMARICH,NJ,Northeast,Middle Atlantic,Rich,4,,
+2012,Do Obama Policies Generally Favor...,OBAMARICH,NJ,Northeast,Middle Atlantic,Middle Class,55,,
+2012,Do Obama Policies Generally Favor...,OBAMARICH,NJ,Northeast,Middle Atlantic,Poor,30,,
+2012,Would Romney Policies Generally Favor...,ROMNRICH,NJ,Northeast,Middle Atlantic,Rich,61,,
+2012,Would Romney Policies Generally Favor...,ROMNRICH,NJ,Northeast,Middle Atlantic,Middle Class,32,,
+2012,Would Romney Policies Generally Favor...,ROMNRICH,NJ,Northeast,Middle Atlantic,Poor,1,,
 2012,Trust Obama to Handle International Crisis?,INTLOBAMA,NJ,Northeast,Middle Atlantic,Yes,64,82,18
-2012,Trust Obama to Handle International Crisis?,INTLOBAMA,NJ,Northeast,Middle Atlantic,No,35,N/A,N/A
-2012,Trust Romney to Handle International Crisis?,INTLROMNEY,NJ,Northeast,Middle Atlantic,Yes,42,N/A,N/A
-2012,Trust Romney to Handle International Crisis?,INTLROMNEY,NJ,Northeast,Middle Atlantic,No,55,N/A,N/A
-2012,Who Do You Trust To Handle International Crisis?,INTL12,NJ,Northeast,Middle Atlantic,Only Obama,53,N/A,N/A
-2012,Who Do You Trust To Handle International Crisis?,INTL12,NJ,Northeast,Middle Atlantic,Only Romney,32,N/A,N/A
-2012,Who Do You Trust To Handle International Crisis?,INTL12,NJ,Northeast,Middle Atlantic,Both,10,N/A,N/A
-2012,Who Do You Trust To Handle International Crisis?,INTL12,NJ,Northeast,Middle Atlantic,Neither,2,N/A,N/A
+2012,Trust Obama to Handle International Crisis?,INTLOBAMA,NJ,Northeast,Middle Atlantic,No,35,,
+2012,Trust Romney to Handle International Crisis?,INTLROMNEY,NJ,Northeast,Middle Atlantic,Yes,42,,
+2012,Trust Romney to Handle International Crisis?,INTLROMNEY,NJ,Northeast,Middle Atlantic,No,55,,
+2012,Who Do You Trust To Handle International Crisis?,INTL12,NJ,Northeast,Middle Atlantic,Only Obama,53,,
+2012,Who Do You Trust To Handle International Crisis?,INTL12,NJ,Northeast,Middle Atlantic,Only Romney,32,,
+2012,Who Do You Trust To Handle International Crisis?,INTL12,NJ,Northeast,Middle Atlantic,Both,10,,
+2012,Who Do You Trust To Handle International Crisis?,INTL12,NJ,Northeast,Middle Atlantic,Neither,2,,
 2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NJ,Northeast,Middle Atlantic,Strongly Favor,74,62,38
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NJ,Northeast,Middle Atlantic,Have Reservations,20,N/A,N/A
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NJ,Northeast,Middle Atlantic,Dislike Opponent,5,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,NJ,Northeast,Middle Atlantic,Just Today,4,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,NJ,Northeast,Middle Atlantic,Last Few Days,10,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,NJ,Northeast,Middle Atlantic,In October,11,N/A,N/A
-2012,When Did You Decide Presidential Vote?,TIME12,NJ,Northeast,Middle Atlantic,In September,6,N/A,N/A
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NJ,Northeast,Middle Atlantic,Have Reservations,20,,
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NJ,Northeast,Middle Atlantic,Dislike Opponent,5,,
+2012,When Did You Decide Presidential Vote?,TIME12,NJ,Northeast,Middle Atlantic,Just Today,4,,
+2012,When Did You Decide Presidential Vote?,TIME12,NJ,Northeast,Middle Atlantic,Last Few Days,10,,
+2012,When Did You Decide Presidential Vote?,TIME12,NJ,Northeast,Middle Atlantic,In October,11,,
+2012,When Did You Decide Presidential Vote?,TIME12,NJ,Northeast,Middle Atlantic,In September,6,,
 2012,When Did You Decide Presidential Vote?,TIME12,NJ,Northeast,Middle Atlantic,Before That,69,70,30
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,NJ,Northeast,Middle Atlantic,Today/Last Few Days,14,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,NJ,Northeast,Middle Atlantic,Today/Last Few Days,14,,
 2012,When Did You Decide Presidential Vote?,TIME12FEWD,NJ,Northeast,Middle Atlantic,Before That,86,71,29
-2012,When Did You Decide Presidential Vote?,TIME12MTH,NJ,Northeast,Middle Atlantic,In October or November,25,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12MTH,NJ,Northeast,Middle Atlantic,In October or November,25,,
 2012,When Did You Decide Presidential Vote?,TIME12MTH,NJ,Northeast,Middle Atlantic,Before That,75,70,30
 2012,Vote by Marital Status,MARRIED,NJ,Northeast,Middle Atlantic,Married,62,55,43
 2012,Vote by Marital Status,MARRIED,NJ,Northeast,Middle Atlantic,Unmarried,38,65,33
 2012,Vote by Gender and Marital Status,SEXWED,NJ,Northeast,Middle Atlantic,Married Men,30,55,42
 2012,Vote by Gender and Marital Status,SEXWED,NJ,Northeast,Middle Atlantic,Married Women,31,55,45
-2012,Vote by Gender and Marital Status,SEXWED,NJ,Northeast,Middle Atlantic,Unmarried Men,16,N/A,N/A
+2012,Vote by Gender and Marital Status,SEXWED,NJ,Northeast,Middle Atlantic,Unmarried Men,16,,
 2012,Vote by Gender and Marital Status,SEXWED,NJ,Northeast,Middle Atlantic,Unmarried Women,22,68,31
 2012,Any Children Under 18 Living in Your Home?,CHILD12,NJ,Northeast,Middle Atlantic,Yes,34,66,34
 2012,Any Children Under 18 Living in Your Home?,CHILD12,NJ,Northeast,Middle Atlantic,No,66,58,40
 2012,Vote by Marital Status and Children,MARCHILD,NJ,Northeast,Middle Atlantic,Married With Children,26,64,35
 2012,Vote by Marital Status and Children,MARCHILD,NJ,Northeast,Middle Atlantic,All Others,74,59,40
-2012,Vote by Gender and Children in Household,PARENTS,NJ,Northeast,Middle Atlantic,Fathers,18,N/A,N/A
-2012,Vote by Gender and Children in Household,PARENTS,NJ,Northeast,Middle Atlantic,Mothers,16,N/A,N/A
+2012,Vote by Gender and Children in Household,PARENTS,NJ,Northeast,Middle Atlantic,Fathers,18,,
+2012,Vote by Gender and Children in Household,PARENTS,NJ,Northeast,Middle Atlantic,Mothers,16,,
 2012,Vote by Gender and Children in Household,PARENTS,NJ,Northeast,Middle Atlantic,Men With No Children,29,56,41
 2012,Vote by Gender and Children in Household,PARENTS,NJ,Northeast,Middle Atlantic,Women With No Children,37,60,39
-2012,Is Anyone in Household a Union Member?,UNIONHH12,NJ,Northeast,Middle Atlantic,Yes,38,N/A,N/A
-2012,Is Anyone in Household a Union Member?,UNIONHH12,NJ,Northeast,Middle Atlantic,No,62,N/A,N/A
-2012,Do You Work Full-Time For Pay?,WORK,NJ,Northeast,Middle Atlantic,Yes,61,N/A,N/A
-2012,Do You Work Full-Time For Pay?,WORK,NJ,Northeast,Middle Atlantic,No,39,N/A,N/A
-2012,Should Same-Sex Marriages Be Legal in Your State?,SAMESEXM12,NJ,Northeast,Middle Atlantic,Yes,59,N/A,N/A
-2012,Should Same-Sex Marriages Be Legal in Your State?,SAMESEXM12,NJ,Northeast,Middle Atlantic,No,39,N/A,N/A
-2012,"Are You Gay, Lesbian or Bisexual?",GAY,NJ,Northeast,Middle Atlantic,Yes,2,N/A,N/A
+2012,Is Anyone in Household a Union Member?,UNIONHH12,NJ,Northeast,Middle Atlantic,Yes,38,,
+2012,Is Anyone in Household a Union Member?,UNIONHH12,NJ,Northeast,Middle Atlantic,No,62,,
+2012,Do You Work Full-Time For Pay?,WORK,NJ,Northeast,Middle Atlantic,Yes,61,,
+2012,Do You Work Full-Time For Pay?,WORK,NJ,Northeast,Middle Atlantic,No,39,,
+2012,Should Same-Sex Marriages Be Legal in Your State?,SAMESEXM12,NJ,Northeast,Middle Atlantic,Yes,59,,
+2012,Should Same-Sex Marriages Be Legal in Your State?,SAMESEXM12,NJ,Northeast,Middle Atlantic,No,39,,
+2012,"Are You Gay, Lesbian or Bisexual?",GAY,NJ,Northeast,Middle Atlantic,Yes,2,,
 2012,"Are You Gay, Lesbian or Bisexual?",GAY,NJ,Northeast,Middle Atlantic,No,98,57,41
-2012,Importance of Obama's Response to Hurricane,BREAK12,NJ,Northeast,Middle Atlantic,Most Important Factor,18,N/A,N/A
-2012,Importance of Obama's Response to Hurricane,BREAK12,NJ,Northeast,Middle Atlantic,An Important Factor,36,N/A,N/A
-2012,Importance of Obama's Response to Hurricane,BREAK12,NJ,Northeast,Middle Atlantic,Minor Factor,26,N/A,N/A
-2012,Importance of Obama's Response to Hurricane,BREAK12,NJ,Northeast,Middle Atlantic,Not a Factor At All,18,N/A,N/A
-2012,Obama's Hurricane Response Important to You?,BREAK12A,NJ,Northeast,Middle Atlantic,Yes,53,N/A,N/A
-2012,Obama's Hurricane Response Important to You?,BREAK12A,NJ,Northeast,Middle Atlantic,No,44,N/A,N/A
+2012,Importance of Obama's Response to Hurricane,BREAK12,NJ,Northeast,Middle Atlantic,Most Important Factor,18,,
+2012,Importance of Obama's Response to Hurricane,BREAK12,NJ,Northeast,Middle Atlantic,An Important Factor,36,,
+2012,Importance of Obama's Response to Hurricane,BREAK12,NJ,Northeast,Middle Atlantic,Minor Factor,26,,
+2012,Importance of Obama's Response to Hurricane,BREAK12,NJ,Northeast,Middle Atlantic,Not a Factor At All,18,,
+2012,Obama's Hurricane Response Important to You?,BREAK12A,NJ,Northeast,Middle Atlantic,Yes,53,,
+2012,Obama's Hurricane Response Important to You?,BREAK12A,NJ,Northeast,Middle Atlantic,No,44,,
 2012,Obama's Hurricane Response a Factor in Your Vote?,BREAK12B,NJ,Northeast,Middle Atlantic,Yes,79,77,23
-2012,Obama's Hurricane Response a Factor in Your Vote?,BREAK12B,NJ,Northeast,Middle Atlantic,No,18,N/A,N/A
+2012,Obama's Hurricane Response a Factor in Your Vote?,BREAK12B,NJ,Northeast,Middle Atlantic,No,18,,
 2012,Vote for Senate,SENNJ12,NJ,Northeast,Middle Atlantic,Menendez,59,93,6
 2012,Vote for Senate,SENNJ12,NJ,Northeast,Middle Atlantic,Kyrillos,39,7,92
-2012,Vote by Size of Place,SIZEPLC3,NJ,Northeast,Middle Atlantic,Urban,N/A,N/A,N/A
+2012,Vote by Size of Place,SIZEPLC3,NJ,Northeast,Middle Atlantic,Urban,N/A,,
 2012,Vote by Size of Place,SIZEPLC3,NJ,Northeast,Middle Atlantic,Suburban,100,58,41
-2012,Vote by Size of Place,SIZEPLC3,NJ,Northeast,Middle Atlantic,Rural,N/A,N/A,N/A
+2012,Vote by Size of Place,SIZEPLC3,NJ,Northeast,Middle Atlantic,Rural,N/A,,
 2012,Vote by Region,GEOCOD,NJ,Northeast,Middle Atlantic,Urban North,20,75,25
-2012,Vote by Region,GEOCOD,NJ,Northeast,Middle Atlantic,Suburban North,15,N/A,N/A
+2012,Vote by Region,GEOCOD,NJ,Northeast,Middle Atlantic,Suburban North,15,,
 2012,Vote by Region,GEOCOD,NJ,Northeast,Middle Atlantic,Northwest,15,44,54
 2012,Vote by Region,GEOCOD,NJ,Northeast,Middle Atlantic,Central,21,57,41
 2012,Vote by Region,GEOCOD,NJ,Northeast,Middle Atlantic,South,30,55,44

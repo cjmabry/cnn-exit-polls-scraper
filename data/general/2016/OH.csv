@@ -15,16 +15,16 @@
 2016,Race,RACE,OH,Midwest,East North Central,White,80,34,61
 2016,Race,RACE,OH,Midwest,East North Central,Black,14,89,8
 2016,Race,RACE,OH,Midwest,East North Central,Latino,3,68,28
-2016,Race,RACE,OH,Midwest,East North Central,Asian,1,N/A,N/A
-2016,Race,RACE,OH,Midwest,East North Central,Other race,2,N/A,N/A
+2016,Race,RACE,OH,Midwest,East North Central,Asian,1,,
+2016,Race,RACE,OH,Midwest,East North Central,Other race,2,,
 2016,Race,RACE2B,OH,Midwest,East North Central,White,80,34,61
 2016,Race,RACE2B,OH,Midwest,East North Central,Non-white,20,81,15
 2016,Race and gender,SEXBYRACE,OH,Midwest,East North Central,White men,38,27,67
 2016,Race and gender,SEXBYRACE,OH,Midwest,East North Central,White women,42,41,55
 2016,Race and gender,SEXBYRACE,OH,Midwest,East North Central,Black men,6,85,12
 2016,Race and gender,SEXBYRACE,OH,Midwest,East North Central,Black women,8,93,4
-2016,Race and gender,SEXBYRACE,OH,Midwest,East North Central,Latino men,1,N/A,N/A
-2016,Race and gender,SEXBYRACE,OH,Midwest,East North Central,Latino women,2,N/A,N/A
+2016,Race and gender,SEXBYRACE,OH,Midwest,East North Central,Latino men,1,,
+2016,Race and gender,SEXBYRACE,OH,Midwest,East North Central,Latino women,2,,
 2016,Race and gender,SEXBYRACE,OH,Midwest,East North Central,Others,3,56,34
 2016,Education,EDUC12R,OH,Midwest,East North Central,High school or less,21,48,48
 2016,Education,EDUC12R,OH,Midwest,East North Central,Some college,35,43,53
@@ -45,8 +45,8 @@
 2016,Income,INCOME16GEN,OH,Midwest,East North Central,"$30K-$49,999",22,47,48
 2016,Income,INCOME16GEN,OH,Midwest,East North Central,"$50K-$99,999",33,42,54
 2016,Income,INCOME16GEN,OH,Midwest,East North Central,"$100K-$199,999",22,39,58
-2016,Income,INCOME16GEN,OH,Midwest,East North Central,"$200K-$249,999",3,N/A,N/A
-2016,Income,INCOME16GEN,OH,Midwest,East North Central,"$250,000 or more",4,N/A,N/A
+2016,Income,INCOME16GEN,OH,Midwest,East North Central,"$200K-$249,999",3,,
+2016,Income,INCOME16GEN,OH,Midwest,East North Central,"$250,000 or more",4,,
 2016,Income,INCOME3,OH,Midwest,East North Central,Under $50K,38,52,42
 2016,Income,INCOME3,OH,Midwest,East North Central,$50K-$100K,33,42,54
 2016,Income,INCOME3,OH,Midwest,East North Central,$100K or more,29,38,59
@@ -68,8 +68,8 @@
 2016,Ideology,PHIL3,OH,Midwest,East North Central,Conservative,38,16,81
 2016,Religion,REL5,OH,Midwest,East North Central,Protestant,51,38,59
 2016,Religion,REL5,OH,Midwest,East North Central,Catholic,23,38,58
-2016,Religion,REL5,OH,Midwest,East North Central,Jewish,1,N/A,N/A
-2016,Religion,REL5,OH,Midwest,East North Central,Another religion,8,N/A,N/A
+2016,Religion,REL5,OH,Midwest,East North Central,Jewish,1,,
+2016,Religion,REL5,OH,Midwest,East North Central,Another religion,8,,
 2016,Religion,REL5,OH,Midwest,East North Central,No religion,16,59,34
 2016,White born-again or evangelical Christian?,WHTEVANG,OH,Midwest,East North Central,Yes,33,21,76
 2016,White born-again or evangelical Christian?,WHTEVANG,OH,Midwest,East North Central,No,67,56,39
@@ -90,9 +90,9 @@
 2016,Union household?,UNIONHH12,OH,Midwest,East North Central,Yes,23,42,54
 2016,Union household?,UNIONHH12,OH,Midwest,East North Central,No,77,43,52
 2016,When did you decide presidential vote?,TIME16,OH,Midwest,East North Central,Last few days,10,44,44
-2016,When did you decide presidential vote?,TIME16,OH,Midwest,East North Central,Last week,5,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,OH,Midwest,East North Central,Last week,5,,
 2016,When did you decide presidential vote?,TIME16,OH,Midwest,East North Central,In October,10,30,64
-2016,When did you decide presidential vote?,TIME16,OH,Midwest,East North Central,In September,10,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,OH,Midwest,East North Central,In September,10,,
 2016,When did you decide presidential vote?,TIME16,OH,Midwest,East North Central,Before September,65,49,49
 2016,When did you decide presidential vote?,TIME16WEEK,OH,Midwest,East North Central,In the last week,15,43,46
 2016,When did you decide presidential vote?,TIME16WEEK,OH,Midwest,East North Central,Before that,84,46,51
@@ -122,7 +122,7 @@
 2016,View on Obamacare,HEALTHCARE16,OH,Midwest,East North Central,Did not go far enough,23,74,19
 2016,View on Obamacare,HEALTHCARE16,OH,Midwest,East North Central,Was about right,20,87,11
 2016,View on Obamacare,HEALTHCARE16,OH,Midwest,East North Central,Went too far,53,11,83
-2016,Feelings about the federal government,GOVTANGR16,OH,Midwest,East North Central,Enthusiastic,4,N/A,N/A
+2016,Feelings about the federal government,GOVTANGR16,OH,Midwest,East North Central,Enthusiastic,4,,
 2016,Feelings about the federal government,GOVTANGR16,OH,Midwest,East North Central,Satisfied,23,73,22
 2016,Feelings about the federal government,GOVTANGR16,OH,Midwest,East North Central,Dissatisfied,47,38,56
 2016,Feelings about the federal government,GOVTANGR16,OH,Midwest,East North Central,Angry,25,14,83
@@ -141,7 +141,7 @@
 2016,Opinion of Hillary Clinton,FAVHCLIN16,OH,Midwest,East North Central,Unfavorable,58,9,84
 2016,Opinion of Donald Trump,FAVTRUMP,OH,Midwest,East North Central,Favorable,41,4,95
 2016,Opinion of Donald Trump,FAVTRUMP,OH,Midwest,East North Central,Unfavorable,58,75,18
-2016,Opinion of Clinton and Trump,FAVPRES16,OH,Midwest,East North Central,Both favorable,2,N/A,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,OH,Midwest,East North Central,Both favorable,2,,
 2016,Opinion of Clinton and Trump,FAVPRES16,OH,Midwest,East North Central,Only Clinton favorable,39,99,1
 2016,Opinion of Clinton and Trump,FAVPRES16,OH,Midwest,East North Central,Only Trump favorable,39,1,98
 2016,Opinion of Clinton and Trump,FAVPRES16,OH,Midwest,East North Central,Both unfavorable,19,24,54
@@ -151,7 +151,7 @@
 2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,OH,Midwest,East North Central,No,68,17,76
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,OH,Midwest,East North Central,Yes,42,5,95
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,OH,Midwest,East North Central,No,56,69,23
-2016,Which candidate is honest?,HONEST16,OH,Midwest,East North Central,Both are,2,N/A,N/A
+2016,Which candidate is honest?,HONEST16,OH,Midwest,East North Central,Both are,2,,
 2016,Which candidate is honest?,HONEST16,OH,Midwest,East North Central,Only Clinton is,27,99,1
 2016,Which candidate is honest?,HONEST16,OH,Midwest,East North Central,Only Trump is,39,1,98
 2016,Which candidate is honest?,HONEST16,OH,Midwest,East North Central,Neither is,28,40,45
@@ -159,7 +159,7 @@
 2016,Is Clinton qualified to serve as president?,QUALCLINTON,OH,Midwest,East North Central,No,52,4,88
 2016,Is Trump qualified to serve as president?,QUALTRUMP,OH,Midwest,East North Central,Yes,42,5,94
 2016,Is Trump qualified to serve as president?,QUALTRUMP,OH,Midwest,East North Central,No,57,74,19
-2016,Who is qualified to serve as president?,QUALIFIED16,OH,Midwest,East North Central,Both are,6,N/A,N/A
+2016,Who is qualified to serve as president?,QUALIFIED16,OH,Midwest,East North Central,Both are,6,,
 2016,Who is qualified to serve as president?,QUALIFIED16,OH,Midwest,East North Central,Only Clinton is,41,97,2
 2016,Who is qualified to serve as president?,QUALIFIED16,OH,Midwest,East North Central,Only Trump is,36,1,99
 2016,Who is qualified to serve as president?,QUALIFIED16,OH,Midwest,East North Central,Neither is,15,12,64
@@ -167,7 +167,7 @@
 2016,Does Clinton have the temperament to be president?,TEMPCLINTON,OH,Midwest,East North Central,No,51,3,91
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,OH,Midwest,East North Central,Yes,43,4,95
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,OH,Midwest,East North Central,No,55,71,21
-2016,Which candidate has the right temperament?,TEMPERAMENT16,OH,Midwest,East North Central,Both do,6,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,OH,Midwest,East North Central,Both do,6,,
 2016,Which candidate has the right temperament?,TEMPERAMENT16,OH,Midwest,East North Central,Only Clinton does,41,92,5
 2016,Which candidate has the right temperament?,TEMPERAMENT16,OH,Midwest,East North Central,Only Trump does,37,1,99
 2016,Which candidate has the right temperament?,TEMPERAMENT16,OH,Midwest,East North Central,Neither does,14,10,69
@@ -187,7 +187,7 @@
 2016,Who would better handle the economy?,HANDLEECON16,OH,Midwest,East North Central,Trump,52,4,94
 2016,Who would better handle foreign policy?,HANDLEFP16,OH,Midwest,East North Central,Clinton,50,88,7
 2016,Who would better handle foreign policy?,HANDLEFP16,OH,Midwest,East North Central,Trump,45,0,99
-2016,Condition of national economy,NEC,OH,Midwest,East North Central,Excellent,3,N/A,N/A
+2016,Condition of national economy,NEC,OH,Midwest,East North Central,Excellent,3,,
 2016,Condition of national economy,NEC,OH,Midwest,East North Central,Good,32,72,22
 2016,Condition of national economy,NEC,OH,Midwest,East North Central,Not good,40,31,64
 2016,Condition of national economy,NEC,OH,Midwest,East North Central,Poor,25,16,81
@@ -203,8 +203,8 @@
 2016,Life for the next generation of Americans will be:,LIFE,OH,Midwest,East North Central,Worse than today,27,27,66
 2016,Life for the next generation of Americans will be:,LIFE,OH,Midwest,East North Central,About the same,33,54,41
 2016,Did any campaign contact you?,GOTV16,OH,Midwest,East North Central,Only Clinton,15,87,12
-2016,Did any campaign contact you?,GOTV16,OH,Midwest,East North Central,Only Trump,11,N/A,N/A
-2016,Did any campaign contact you?,GOTV16,OH,Midwest,East North Central,Both,12,N/A,N/A
+2016,Did any campaign contact you?,GOTV16,OH,Midwest,East North Central,Only Trump,11,,
+2016,Did any campaign contact you?,GOTV16,OH,Midwest,East North Central,Both,12,,
 2016,Did any campaign contact you?,GOTV16,OH,Midwest,East North Central,Neither,58,40,55
 2016,Were you contacted by the Clinton campaign?,GOTVCLINTON,OH,Midwest,East North Central,Yes,28,67,31
 2016,Were you contacted by the Clinton campaign?,GOTVCLINTON,OH,Midwest,East North Central,No,69,36,59
@@ -212,7 +212,7 @@
 2016,Were you contacted by the Trump campaign?,GOTVTRUMP,OH,Midwest,East North Central,No,74,50,46
 2016,Vote for president in a two-way race,2WAYPRES16,OH,Midwest,East North Central,Clinton,42,98,1
 2016,Vote for president in a two-way race,2WAYPRES16,OH,Midwest,East North Central,Trump,52,1,97
-2016,Vote for president in a two-way race,2WAYPRES16,OH,Midwest,East North Central,Would not vote,5,N/A,N/A
+2016,Vote for president in a two-way race,2WAYPRES16,OH,Midwest,East North Central,Would not vote,5,,
 2016,Area type,SIZEPLC3,OH,Midwest,East North Central,Urban area,33,59,38
 2016,Area type,SIZEPLC3,OH,Midwest,East North Central,Suburban area,58,38,57
 2016,Area type,SIZEPLC3,OH,Midwest,East North Central,Rural area,9,27,70

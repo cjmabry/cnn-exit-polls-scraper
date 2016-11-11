@@ -1,11 +1,11 @@
 2016,Gender,SEX,OR,West,Pacific,Male,48,45,45
 2016,Gender,SEX,OR,West,Pacific,Female,52,56,33
-2016,Age,AGE,OR,West,Pacific,18-29,16,N/A,N/A
+2016,Age,AGE,OR,West,Pacific,18-29,16,,
 2016,Age,AGE,OR,West,Pacific,30-44,26,50,38
 2016,Age,AGE,OR,West,Pacific,45-64,35,48,42
 2016,Age,AGE,OR,West,Pacific,65 and older,23,46,47
-2016,Age,AGE65,OR,West,Pacific,18-24,8,N/A,N/A
-2016,Age,AGE65,OR,West,Pacific,25-29,8,N/A,N/A
+2016,Age,AGE65,OR,West,Pacific,18-24,8,,
+2016,Age,AGE65,OR,West,Pacific,25-29,8,,
 2016,Age,AGE65,OR,West,Pacific,30-39,18,49,38
 2016,Age,AGE65,OR,West,Pacific,40-49,16,51,38
 2016,Age,AGE65,OR,West,Pacific,50-64,27,48,44
@@ -13,19 +13,19 @@
 2016,Age,AGE45,OR,West,Pacific,18-44,42,55,32
 2016,Age,AGE45,OR,West,Pacific,45 and older,58,47,44
 2016,Race,RACE,OR,West,Pacific,White,81,48,42
-2016,Race,RACE,OR,West,Pacific,Black,1,N/A,N/A
-2016,Race,RACE,OR,West,Pacific,Latino,9,N/A,N/A
-2016,Race,RACE,OR,West,Pacific,Asian,4,N/A,N/A
-2016,Race,RACE,OR,West,Pacific,Other race,4,N/A,N/A
+2016,Race,RACE,OR,West,Pacific,Black,1,,
+2016,Race,RACE,OR,West,Pacific,Latino,9,,
+2016,Race,RACE,OR,West,Pacific,Asian,4,,
+2016,Race,RACE,OR,West,Pacific,Other race,4,,
 2016,Race,RACE2B,OR,West,Pacific,White,81,48,42
 2016,Race,RACE2B,OR,West,Pacific,Non-white,19,63,23
 2016,Race and gender,SEXBYRACE,OR,West,Pacific,White men,39,41,50
 2016,Race and gender,SEXBYRACE,OR,West,Pacific,White women,43,54,36
-2016,Race and gender,SEXBYRACE,OR,West,Pacific,Black men,0,N/A,N/A
-2016,Race and gender,SEXBYRACE,OR,West,Pacific,Black women,1,N/A,N/A
-2016,Race and gender,SEXBYRACE,OR,West,Pacific,Latino men,4,N/A,N/A
-2016,Race and gender,SEXBYRACE,OR,West,Pacific,Latino women,5,N/A,N/A
-2016,Race and gender,SEXBYRACE,OR,West,Pacific,Others,8,N/A,N/A
+2016,Race and gender,SEXBYRACE,OR,West,Pacific,Black men,0,,
+2016,Race and gender,SEXBYRACE,OR,West,Pacific,Black women,1,,
+2016,Race and gender,SEXBYRACE,OR,West,Pacific,Latino men,4,,
+2016,Race and gender,SEXBYRACE,OR,West,Pacific,Latino women,5,,
+2016,Race and gender,SEXBYRACE,OR,West,Pacific,Others,8,,
 2016,Education,EDUC12R,OR,West,Pacific,High school or less,18,38,52
 2016,Education,EDUC12R,OR,West,Pacific,Some college,34,43,46
 2016,Education,EDUC12R,OR,West,Pacific,College graduate,28,55,32
@@ -34,8 +34,8 @@
 2016,Are you a college graduate?,EDUCCOLL,OR,West,Pacific,No,51,41,48
 2016,Education and race,EDUCWHITE,OR,West,Pacific,White college graduates,41,60,30
 2016,Education and race,EDUCWHITE,OR,West,Pacific,Whites no degree,40,36,55
-2016,Education and race,EDUCWHITE,OR,West,Pacific,Non-whites college grads,8,N/A,N/A
-2016,Education and race,EDUCWHITE,OR,West,Pacific,Non-whites no degree,11,N/A,N/A
+2016,Education and race,EDUCWHITE,OR,West,Pacific,Non-whites college grads,8,,
+2016,Education and race,EDUCWHITE,OR,West,Pacific,Non-whites no degree,11,,
 2016,Education among whites by sex,EDUCWHITEBYSEX,OR,West,Pacific,White college-grad women,22,65,28
 2016,Education among whites by sex,EDUCWHITEBYSEX,OR,West,Pacific,White non-college women,20,43,45
 2016,Education among whites by sex,EDUCWHITEBYSEX,OR,West,Pacific,White college-grad men,19,54,33
@@ -45,8 +45,8 @@
 2016,Income,INCOME16GEN,OR,West,Pacific,"$30K-$49,999",19,42,43
 2016,Income,INCOME16GEN,OR,West,Pacific,"$50K-$99,999",34,51,43
 2016,Income,INCOME16GEN,OR,West,Pacific,"$100K-$199,999",21,55,35
-2016,Income,INCOME16GEN,OR,West,Pacific,"$200K-$249,999",3,N/A,N/A
-2016,Income,INCOME16GEN,OR,West,Pacific,"$250,000 or more",3,N/A,N/A
+2016,Income,INCOME16GEN,OR,West,Pacific,"$200K-$249,999",3,,
+2016,Income,INCOME16GEN,OR,West,Pacific,"$250,000 or more",3,,
 2016,Income,INCOME3,OR,West,Pacific,Under $50K,39,44,41
 2016,Income,INCOME3,OR,West,Pacific,$50K-$100K,34,51,43
 2016,Income,INCOME3,OR,West,Pacific,$100K or more,28,53,35
@@ -66,12 +66,12 @@
 2016,Ideology,PHIL3,OR,West,Pacific,Liberal,34,87,5
 2016,Ideology,PHIL3,OR,West,Pacific,Moderate,37,50,35
 2016,Ideology,PHIL3,OR,West,Pacific,Conservative,29,8,84
-2016,When did you decide presidential vote?,TIME16,OR,West,Pacific,Last few days,N/A,N/A,N/A
-2016,When did you decide presidential vote?,TIME16,OR,West,Pacific,Last week,3,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,OR,West,Pacific,Last few days,N/A,,
+2016,When did you decide presidential vote?,TIME16,OR,West,Pacific,Last week,3,,
 2016,When did you decide presidential vote?,TIME16,OR,West,Pacific,In October,19,34,49
 2016,When did you decide presidential vote?,TIME16,OR,West,Pacific,In September,11,39,48
 2016,When did you decide presidential vote?,TIME16,OR,West,Pacific,Before September,65,56,36
-2016,When did you decide presidential vote?,TIME16WEEK,OR,West,Pacific,In the last week,3,N/A,N/A
+2016,When did you decide presidential vote?,TIME16WEEK,OR,West,Pacific,In the last week,3,,
 2016,When did you decide presidential vote?,TIME16WEEK,OR,West,Pacific,Before that,95,50,40
 2016,When did you decide presidential vote?,TIME16MONTH,OR,West,Pacific,In the last month,22,33,47
 2016,When did you decide presidential vote?,TIME16MONTH,OR,West,Pacific,Before that,76,54,38
@@ -90,7 +90,7 @@
 2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,OR,West,Pacific,Deported to home country,17,9,80
 2016,Opinion of Barack Obama as president,OBAMA4,OR,West,Pacific,Strongly approve,36,94,2
 2016,Opinion of Barack Obama as president,OBAMA4,OR,West,Pacific,Somewhat approve,22,63,16
-2016,Opinion of Barack Obama as president,OBAMA4,OR,West,Pacific,Somewhat disapprove,10,N/A,N/A
+2016,Opinion of Barack Obama as president,OBAMA4,OR,West,Pacific,Somewhat disapprove,10,,
 2016,Opinion of Barack Obama as president,OBAMA4,OR,West,Pacific,Strongly disapprove,31,0,92
 2016,Opinion of Barack Obama as president,OBAMA2,OR,West,Pacific,Approve,58,82,7
 2016,Opinion of Barack Obama as president,OBAMA2,OR,West,Pacific,Disapprove,41,3,86
@@ -98,15 +98,15 @@
 2016,Opinion of Hillary Clinton,FAVHCLIN16,OR,West,Pacific,Unfavorable,56,13,69
 2016,Opinion of Donald Trump,FAVTRUMP,OR,West,Pacific,Favorable,33,2,96
 2016,Opinion of Donald Trump,FAVTRUMP,OR,West,Pacific,Unfavorable,65,74,12
-2016,Opinion of Clinton and Trump,FAVPRES16,OR,West,Pacific,Both favorable,2,N/A,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,OR,West,Pacific,Both favorable,2,,
 2016,Opinion of Clinton and Trump,FAVPRES16,OR,West,Pacific,Only Clinton favorable,41,97,1
-2016,Opinion of Clinton and Trump,FAVPRES16,OR,West,Pacific,Only Trump favorable,31,N/A,98
+2016,Opinion of Clinton and Trump,FAVPRES16,OR,West,Pacific,Only Trump favorable,31,,98
 2016,Opinion of Clinton and Trump,FAVPRES16,OR,West,Pacific,Both unfavorable,23,31,31
 2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,OR,West,Pacific,Yes,36,97,0
 2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,OR,West,Pacific,No,61,20,64
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,OR,West,Pacific,Yes,30,3,96
 2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,OR,West,Pacific,No,68,71,14
-2016,Which candidate is honest?,HONEST16,OR,West,Pacific,Both are,1,N/A,N/A
+2016,Which candidate is honest?,HONEST16,OR,West,Pacific,Both are,1,,
 2016,Which candidate is honest?,HONEST16,OR,West,Pacific,Only Clinton is,35,98,0
 2016,Which candidate is honest?,HONEST16,OR,West,Pacific,Only Trump is,30,0,99
 2016,Which candidate is honest?,HONEST16,OR,West,Pacific,Neither is,31,39,30
@@ -114,11 +114,11 @@
 2016,Does Clinton have the temperament to be president?,TEMPCLINTON,OR,West,Pacific,No,39,3,83
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,OR,West,Pacific,Yes,33,2,95
 2016,Does Trump have the temperament to be president?,TEMPTRUMP,OR,West,Pacific,No,66,73,12
-2016,Which candidate has the right temperament?,TEMPERAMENT16,OR,West,Pacific,Both do,6,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,OR,West,Pacific,Both do,6,,
 2016,Which candidate has the right temperament?,TEMPERAMENT16,OR,West,Pacific,Only Clinton does,54,88,3
 2016,Which candidate has the right temperament?,TEMPERAMENT16,OR,West,Pacific,Only Trump does,27,1,97
 2016,Which candidate has the right temperament?,TEMPERAMENT16,OR,West,Pacific,Neither does,12,7,51
-2016,Condition of national economy,NEC,OR,West,Pacific,Excellent,2,N/A,N/A
+2016,Condition of national economy,NEC,OR,West,Pacific,Excellent,2,,
 2016,Condition of national economy,NEC,OR,West,Pacific,Good,36,85,9
 2016,Condition of national economy,NEC,OR,West,Pacific,Not good,37,38,49
 2016,Condition of national economy,NEC,OR,West,Pacific,Poor,24,9,74

@@ -158,11 +158,11 @@ def getGeneralsForAllStates():
                 getGeneralsForStateAndYear(state, 2016)
 
 def getGeneralsForStateAndYear(state, year):
+    # example urls
     # http://data.cnn.com/ELECTION/2016/GA/xpoll/Pfull.json
     # http://data.cnn.com/ELECTION/2012/CO/xpoll/Pfull.json
     print('fetching data for state: ' + state + ' year = ' + str(year))
     r = requests.get('http://data.cnn.com/ELECTION/' + str(year) + '/' + state + '/xpoll/Pfull.json')
-#     print(r.json())
     saveToCSV(r, state, year)
 
 def saveToCSV(response, state, year):
@@ -177,13 +177,14 @@ def saveToCSV(response, state, year):
                     state_subregion = subregion
                     state_region = region
 
-#         if poll['party'] == party:
         filename = 'data/general/' + str(year) + '/' + state + '.csv'
         data = response.json()
         d = {}
 
         with open(filename, 'wb') as f:
             csv_file = csv.writer(f, dialect='excel', encoding='utf-8')
+
+            # header row if needed
             # csv_file.writerow(['year','question','pollname','state','region','subregion','answer','percent','dem','rep'])
 
             for item in data['polls']:
@@ -198,7 +199,6 @@ def saveToCSV(response, state, year):
                     results = {}
 
                     for a in answer['candidateanswers']:
-#                         print(a)
                         if a['id'] == 1746:
                             # Clinton
                             candidate = 'Dem'
@@ -216,11 +216,11 @@ def saveToCSV(response, state, year):
                         else:
                             candidate = None
 
-                        d[item['question']][answer['answer']][candidate] = a['pct']
+                        d[item['question']][answer['answer']][candidate] = a['pct'].replace("N/A", u'')
+                        # replace(old, new[, max])
 
                     csv_file.writerow([str(year),item['question'],item['pollname'],state,state_region,state_subregion,answer['answer'],answer['pct'],d[item['question']][answer['answer']][parties[0]],d[item['question']][answer['answer']][parties[1]]])
 
 
 
 getGeneralsForAllStates()
-# getGeneralsForStateAndYear('OH', 2012)
