@@ -1,204 +1,204 @@
-2012,Vote by Gender,SEX,IA,Midwest,West North Central,Men,46,44,53
-2012,Vote by Gender,SEX,IA,Midwest,West North Central,Women,54,59,40
-2012,Vote by Age,AGE,IA,Midwest,West North Central,18-29,15,56,40
-2012,Vote by Age,AGE,IA,Midwest,West North Central,30-44,22,52,47
-2012,Vote by Age,AGE,IA,Midwest,West North Central,45-64,37,52,46
-2012,Vote by Age,AGE,IA,Midwest,West North Central,65 and Older,26,50,50
-2012,Vote by Age,AGE65,IA,Midwest,West North Central,18-24,8,61,36
-2012,Vote by Age,AGE65,IA,Midwest,West North Central,25-29,7,51,44
-2012,Vote by Age,AGE65,IA,Midwest,West North Central,30-39,14,54,44
-2012,Vote by Age,AGE65,IA,Midwest,West North Central,40-49,17,46,52
-2012,Vote by Age,AGE65,IA,Midwest,West North Central,50-64,28,55,43
-2012,Vote by Age,AGE65,IA,Midwest,West North Central,65 and Older,26,50,50
-2012,Vote by Race,RACE,IA,Midwest,West North Central,White,93,51,47
-2012,Vote by Race,RACE,IA,Midwest,West North Central,African-American,2,,
-2012,Vote by Race,RACE,IA,Midwest,West North Central,Latino,2,,
-2012,Vote by Race,RACE,IA,Midwest,West North Central,Asian,1,,
-2012,Vote by Race,RACE,IA,Midwest,West North Central,Other,1,,
-2012,Vote by Gender and Race,SEXBYRACE,IA,Midwest,West North Central,White Men,43,42,55
-2012,Vote by Gender and Race,SEXBYRACE,IA,Midwest,West North Central,White Women,50,58,41
-2012,Vote by Gender and Race,SEXBYRACE,IA,Midwest,West North Central,Black Men,1,,
-2012,Vote by Gender and Race,SEXBYRACE,IA,Midwest,West North Central,Black Women,1,,
-2012,Vote by Gender and Race,SEXBYRACE,IA,Midwest,West North Central,Latino Men,1,,
-2012,Vote by Gender and Race,SEXBYRACE,IA,Midwest,West North Central,Latino Women,1,,
-2012,Vote by Gender and Race,SEXBYRACE,IA,Midwest,West North Central,All Others,2,,
-2012,Vote by Ideology,PHIL3,IA,Midwest,West North Central,Liberal,21,89,10
-2012,Vote by Ideology,PHIL3,IA,Midwest,West North Central,Moderate,42,63,35
-2012,Vote by Ideology,PHIL3,IA,Midwest,West North Central,Conservative,37,17,81
-2012,Vote by Party ID,PARTY,IA,Midwest,West North Central,Democratic,33,95,4
-2012,Vote by Party ID,PARTY,IA,Midwest,West North Central,Republican,33,7,93
-2012,Vote by Party ID,PARTY,IA,Midwest,West North Central,Independent,34,55,41
-2012,Vote by Education,EDUC10,IA,Midwest,West North Central,No High School,3,,
-2012,Vote by Education,EDUC10,IA,Midwest,West North Central,High School Graduate,25,52,46
-2012,Vote by Education,EDUC10,IA,Midwest,West North Central,Some College,29,51,47
-2012,Vote by Education,EDUC10,IA,Midwest,West North Central,College Graduate,29,50,48
-2012,Vote by Education,EDUC10,IA,Midwest,West North Central,Postgraduate,13,57,43
-2012,Are You a College Graduate?,EDUCCOLL,IA,Midwest,West North Central,Yes,43,52,46
-2012,Are You a College Graduate?,EDUCCOLL,IA,Midwest,West North Central,No,57,52,46
-2012,Did You Attend College?,EDUCHS,IA,Midwest,West North Central,Yes,71,52,47
-2012,Did You Attend College?,EDUCHS,IA,Midwest,West North Central,No,29,53,44
-2012,Vote by Income,INCOME3,IA,Midwest,West North Central,Less Than $50K,43,59,38
-2012,Vote by Income,INCOME3,IA,Midwest,West North Central,$50-100K,37,50,49
-2012,Vote by Income,INCOME3,IA,Midwest,West North Central,$100K or More,19,45,54
-2012,Vote by Income,INC50K,IA,Midwest,West North Central,Less Than $50K,43,59,38
-2012,Vote by Income,INC50K,IA,Midwest,West North Central,$50K or More,57,48,50
-2012,Vote by Income,INC100K,IA,Midwest,West North Central,Less Than $100K,81,55,43
-2012,Vote by Income,INC100K,IA,Midwest,West North Central,$100K or More,19,45,54
-2012,How Often Do You Attend Religious Services?,ATTEND,IA,Midwest,West North Central,More Than Weekly,10,37,63
-2012,How Often Do You Attend Religious Services?,ATTEND,IA,Midwest,West North Central,Weekly,32,37,63
-2012,How Often Do You Attend Religious Services?,ATTEND,IA,Midwest,West North Central,Monthly,14,48,49
-2012,How Often Do You Attend Religious Services?,ATTEND,IA,Midwest,West North Central,Few Times a Year,26,59,40
-2012,How Often Do You Attend Religious Services?,ATTEND,IA,Midwest,West North Central,Never,16,76,21
-2012,How Often Do You Attend Religious Services?,ATTEND2,IA,Midwest,West North Central,Weekly,42,37,63
-2012,How Often Do You Attend Religious Services?,ATTEND2,IA,Midwest,West North Central,Occasionally,40,55,43
-2012,How Often Do You Attend Religious Services?,ATTEND2,IA,Midwest,West North Central,Never,16,76,21
-2012,Vote by Religion,REL5,IA,Midwest,West North Central,Protestant,62,46,53
-2012,Vote by Religion,REL5,IA,Midwest,West North Central,Catholic,26,47,52
-2012,Vote by Religion,REL5,IA,Midwest,West North Central,Jewish,N/A,,
-2012,Vote by Religion,REL5,IA,Midwest,West North Central,Other,4,,
-2012,Vote by Religion,REL5,IA,Midwest,West North Central,None,9,75,22
-2012,Vote by Religion and Race,WHITEREL,IA,Midwest,West North Central,White Protestant,57,44,55
-2012,Vote by Religion and Race,WHITEREL,IA,Midwest,West North Central,White Catholic,25,47,52
-2012,Vote by Religion and Race,WHITEREL,IA,Midwest,West North Central,White Jewish,N/A,,
-2012,Vote by Religion and Race,WHITEREL,IA,Midwest,West North Central,Whites/Other Religion,3,,
-2012,Vote by Religion and Race,WHITEREL,IA,Midwest,West North Central,Whites/No Religion,8,,
-2012,Vote by Religion and Race,WHITEREL,IA,Midwest,West North Central,Non-white,7,,
-2012,Vote by Religion and Church Attendance,ATTREL,IA,Midwest,West North Central,Protestant/Attend Weekly,19,31,68
-2012,Vote by Religion and Church Attendance,ATTREL,IA,Midwest,West North Central,Protestant/Not Weekly ,20,54,45
-2012,Vote by Religion and Church Attendance,ATTREL,IA,Midwest,West North Central,Catholic/Attend Weekly,13,37,62
-2012,Vote by Religion and Church Attendance,ATTREL,IA,Midwest,West North Central,Catholic/Not Weekly,13,56,42
-2012,Vote by Religion and Church Attendance,ATTREL,IA,Midwest,West North Central,All Others,34,63,36
-2012,Are You White Born-Again Christian?,WHTEVANG,IA,Midwest,West North Central,Yes,38,35,64
-2012,Are You White Born-Again Christian?,WHTEVANG,IA,Midwest,West North Central,No,62,60,38
-2012,Abortion Should Be...,ABORTION,IA,Midwest,West North Central,Always Legal,23,86,10
-2012,Abortion Should Be...,ABORTION,IA,Midwest,West North Central,Mostly Legal,32,67,31
-2012,Abortion Should Be...,ABORTION,IA,Midwest,West North Central,Mostly Illegal,26,23,75
-2012,Abortion Should Be...,ABORTION,IA,Midwest,West North Central,Always Illegal,13,19,80
-2012,Abortion Should Be...,ABORT2,IA,Midwest,West North Central,Legal,55,75,22
-2012,Abortion Should Be...,ABORT2,IA,Midwest,West North Central,Illegal,39,22,77
-2012,Most Important Issue Facing Country,ISSUE12,IA,Midwest,West North Central,Foreign Policy,4,,
-2012,Most Important Issue Facing Country,ISSUE12,IA,Midwest,West North Central,Deficit,19,33,63
-2012,Most Important Issue Facing Country,ISSUE12,IA,Midwest,West North Central,Economy,57,54,45
-2012,Most Important Issue Facing Country,ISSUE12,IA,Midwest,West North Central,Health Care,16,69,29
-2012,Most Important Candidate Quality,QLT12,IA,Midwest,West North Central,Shares My Values,26,47,51
-2012,Most Important Candidate Quality,QLT12,IA,Midwest,West North Central,Strong Leader,19,36,63
-2012,Most Important Candidate Quality,QLT12,IA,Midwest,West North Central,Cares About People,24,84,14
-2012,Most Important Candidate Quality,QLT12,IA,Midwest,West North Central,Vision for Future,28,45,52
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,IA,Midwest,West North Central,Housing Market,2,,
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,IA,Midwest,West North Central,Unemployment,28,57,39
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,IA,Midwest,West North Central,Taxes,20,37,58
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,IA,Midwest,West North Central,Rising Prices,45,57,43
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,IA,Midwest,West North Central,Expanded,19,94,3
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,IA,Midwest,West North Central,Kept As Is,20,89,11
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,IA,Midwest,West North Central,Repealed In Part,28,41,59
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,IA,Midwest,West North Central,Repealed Completely,24,4,90
-2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,IA,Midwest,West North Central,No,38,91,7
-2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,IA,Midwest,West North Central,Yes,53,24,74
-2012,Income Tax Rates Should Be...,TAXINC12,IA,Midwest,West North Central,Increased For All,13,42,56
-2012,Income Tax Rates Should Be...,TAXINC12,IA,Midwest,West North Central,Increased for $250K+,50,72,27
-2012,Income Tax Rates Should Be...,TAXINC12,IA,Midwest,West North Central,Not Increased,32,24,76
-2012,Who Is More In Touch With People Like You?,INTOUCH12,IA,Midwest,West North Central,Obama,55,95,4
-2012,Who Is More In Touch With People Like You?,INTOUCH12,IA,Midwest,West North Central,Romney,41,2,97
-2012,Who Would Better Handle Economy?,HANDLEECON12,IA,Midwest,West North Central,Obama,49,99,0
-2012,Who Would Better Handle Economy?,HANDLEECON12,IA,Midwest,West North Central,Romney,46,4,95
-2012,Who Would Better Handle Medicare?,HANDLEMED12,IA,Midwest,West North Central,Obama,51,96,3
-2012,Who Would Better Handle Medicare?,HANDLEMED12,IA,Midwest,West North Central,Romney,44,2,96
-2012,Who Would Better Handle Energy Policy?,HANDLEENERGY12,IA,Midwest,West North Central,Obama,52,92,5
-2012,Who Would Better Handle Energy Policy?,HANDLEENERGY12,IA,Midwest,West North Central,Romney,43,4,95
-2012,Opinion of Government,GOVTDO10,IA,Midwest,West North Central,Government Should Do More,31,86,9
-2012,Opinion of Government,GOVTDO10,IA,Midwest,West North Central,Government Doing Too Much,61,31,68
-2012,National Economic Conditions,NEC,IA,Midwest,West North Central,Excellent,1,,
-2012,National Economic Conditions,NEC,IA,Midwest,West North Central,Good,28,92,6
-2012,National Economic Conditions,NEC,IA,Midwest,West North Central,Not So Good,43,53,44
-2012,National Economic Conditions,NEC,IA,Midwest,West North Central,Poor,26,11,87
-2012,National Economic Conditions,NEC2,IA,Midwest,West North Central,Excellent/Good,30,92,7
-2012,National Economic Conditions,NEC2,IA,Midwest,West North Central,Not So Good/Poor,69,37,61
-2012,U.S. Economic Conditions Are...,ECONBETT,IA,Midwest,West North Central,Getting Better,37,94,5
-2012,U.S. Economic Conditions Are...,ECONBETT,IA,Midwest,West North Central,Getting Worse,32,10,90
-2012,U.S. Economic Conditions Are...,ECONBETT,IA,Midwest,West North Central,Staying About the Same,30,51,45
-2012,U.S. Economic Conditions Are...,ECONDIR,IA,Midwest,West North Central,Getting Better,37,94,5
-2012,U.S. Economic Conditions Are...,ECONDIR,IA,Midwest,West North Central,Good and Staying the Same,8,,
-2012,U.S. Economic Conditions Are...,ECONDIR,IA,Midwest,West North Central,Poor and Staying the Same,22,38,57
-2012,U.S. Economic Conditions Are...,ECONDIR,IA,Midwest,West North Central,Getting Worse,32,10,90
-2012,Your Family's Financial Situation,FINSIT,IA,Midwest,West North Central,Better,26,80,18
-2012,Your Family's Financial Situation,FINSIT,IA,Midwest,West North Central,Worse,29,17,82
-2012,Your Family's Financial Situation,FINSIT,IA,Midwest,West North Central,Same,44,58,40
-2012,More to Blame for Current Economic Problems?,ECONBLAME12,IA,Midwest,West North Central,Barack Obama,37,4,96
-2012,More to Blame for Current Economic Problems?,ECONBLAME12,IA,Midwest,West North Central,George W. Bush,53,92,7
-2012,Opinion of Obama Administration,OBAMANG,IA,Midwest,West North Central,Enthusiastic,21,96,4
-2012,Opinion of Obama Administration,OBAMANG,IA,Midwest,West North Central,Satisfied,31,91,9
-2012,Opinion of Obama Administration,OBAMANG,IA,Midwest,West North Central,Dissatisfied,28,12,86
-2012,Opinion of Obama Administration,OBAMANG,IA,Midwest,West North Central,Angry,19,0,99
-2012,Opinion of Obama Administration,OBAMANG2,IA,Midwest,West North Central,Enthusiastic/Satisfied,52,93,7
-2012,Opinion of Obama Administration,OBAMANG2,IA,Midwest,West North Central,Dissatisfied/Angry,47,7,91
-2012,Opinion of Barack Obama,FAVOBAMA2,IA,Midwest,West North Central,Favorable,54,92,7
-2012,Opinion of Barack Obama,FAVOBAMA2,IA,Midwest,West North Central,Unfavorable,45,3,94
-2012,Opinion of Mitt Romney,FAVROMN2,IA,Midwest,West North Central,Favorable,48,10,89
-2012,Opinion of Mitt Romney,FAVROMN2,IA,Midwest,West North Central,Unfavorable,48,92,4
-2012,Do Obama Policies Generally Favor...,OBAMARICH,IA,Midwest,West North Central,Rich,11,13,83
-2012,Do Obama Policies Generally Favor...,OBAMARICH,IA,Midwest,West North Central,Middle Class,47,85,14
-2012,Do Obama Policies Generally Favor...,OBAMARICH,IA,Midwest,West North Central,Poor,28,14,85
-2012,Would Romney Policies Generally Favor...,ROMNRICH,IA,Midwest,West North Central,Rich,54,86,12
-2012,Would Romney Policies Generally Favor...,ROMNRICH,IA,Midwest,West North Central,Middle Class,35,6,94
-2012,Would Romney Policies Generally Favor...,ROMNRICH,IA,Midwest,West North Central,Poor,1,,
-2012,Trust Obama to Handle International Crisis?,INTLOBAMA,IA,Midwest,West North Central,Yes,57,87,12
-2012,Trust Obama to Handle International Crisis?,INTLOBAMA,IA,Midwest,West North Central,No,41,4,92
-2012,Trust Romney to Handle International Crisis?,INTLROMNEY,IA,Midwest,West North Central,Yes,50,15,83
-2012,Trust Romney to Handle International Crisis?,INTLROMNEY,IA,Midwest,West North Central,No,44,92,5
-2012,Who Do You Trust To Handle International Crisis?,INTL12,IA,Midwest,West North Central,Only Obama,40,99,1
-2012,Who Do You Trust To Handle International Crisis?,INTL12,IA,Midwest,West North Central,Only Romney,36,1,99
-2012,Who Do You Trust To Handle International Crisis?,INTL12,IA,Midwest,West North Central,Both,14,53,44
-2012,Who Do You Trust To Handle International Crisis?,INTL12,IA,Midwest,West North Central,Neither,4,,
-2012,Who Attacked Unfairly?,UNFR12,IA,Midwest,West North Central,Only Obama,18,8,91
-2012,Who Attacked Unfairly?,UNFR12,IA,Midwest,West North Central,Only Romney,14,96,4
-2012,Who Attacked Unfairly?,UNFR12,IA,Midwest,West North Central,Both ,44,50,46
-2012,Who Attacked Unfairly?,UNFR12,IA,Midwest,West North Central,Neither ,17,63,36
-2012,Did Obama Attack Romney Unfairly?,UNFROBAM,IA,Midwest,West North Central,Yes,62,38,59
-2012,Did Obama Attack Romney Unfairly?,UNFROBAM,IA,Midwest,West North Central,No,32,78,22
-2012,Did Romney Attack Obama Unfairly?,UNFRROMN,IA,Midwest,West North Central,Yes,59,61,36
-2012,Did Romney Attack Obama Unfairly?,UNFRROMN,IA,Midwest,West North Central,No,35,35,64
-2012,Did Any Campaign Contact You?,GOTV12,IA,Midwest,West North Central,Only Obama,14,93,7
-2012,Did Any Campaign Contact You?,GOTV12,IA,Midwest,West North Central,Only Romney,11,14,85
-2012,Did Any Campaign Contact You?,GOTV12,IA,Midwest,West North Central,Both,32,49,50
-2012,Did Any Campaign Contact You?,GOTV12,IA,Midwest,West North Central,Neither,37,51,47
-2012,Did Obama Campaign Contact You?,GOTVOBAMA,IA,Midwest,West North Central,Yes,46,62,37
-2012,Did Obama Campaign Contact You?,GOTVOBAMA,IA,Midwest,West North Central,No,49,42,56
-2012,Did Romney Campaign Contact You?,GOTVROMN,IA,Midwest,West North Central,Yes,43,40,60
-2012,Did Romney Campaign Contact You?,GOTVROMN,IA,Midwest,West North Central,No,51,62,37
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,IA,Midwest,West North Central,Strongly Favor,61,57,42
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,IA,Midwest,West North Central,Have Reservations,22,45,53
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,IA,Midwest,West North Central,Dislike Opponent,13,51,42
-2012,When Did You Decide Presidential Vote?,TIME12,IA,Midwest,West North Central,Just Today,5,,
-2012,When Did You Decide Presidential Vote?,TIME12,IA,Midwest,West North Central,Last Few Days,7,44,45
-2012,When Did You Decide Presidential Vote?,TIME12,IA,Midwest,West North Central,In October,12,53,43
-2012,When Did You Decide Presidential Vote?,TIME12,IA,Midwest,West North Central,In September,10,,
-2012,When Did You Decide Presidential Vote?,TIME12,IA,Midwest,West North Central,Before That,66,53,47
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,IA,Midwest,West North Central,Today/Last Few Days,12,47,45
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,IA,Midwest,West North Central,Before That,87,52,47
-2012,When Did You Decide Presidential Vote?,TIME12MTH,IA,Midwest,West North Central,In October or November,24,50,44
-2012,When Did You Decide Presidential Vote?,TIME12MTH,IA,Midwest,West North Central,Before That,75,52,47
-2012,Vote by Marital Status,MARRIED,IA,Midwest,West North Central,Married,65,46,52
-2012,Vote by Marital Status,MARRIED,IA,Midwest,West North Central,Unmarried,35,63,35
-2012,Vote by Gender and Marital Status,SEXWED,IA,Midwest,West North Central,Married Men,31,40,58
-2012,Vote by Gender and Marital Status,SEXWED,IA,Midwest,West North Central,Married Women,34,53,47
-2012,Vote by Gender and Marital Status,SEXWED,IA,Midwest,West North Central,Unmarried Men,15,52,45
-2012,Vote by Gender and Marital Status,SEXWED,IA,Midwest,West North Central,Unmarried Women,20,71,27
-2012,Any Children Under 18 Living in Your Home?,CHILD12,IA,Midwest,West North Central,Yes,31,48,49
-2012,Any Children Under 18 Living in Your Home?,CHILD12,IA,Midwest,West North Central,No,69,54,44
-2012,Vote by Marital Status and Children,MARCHILD,IA,Midwest,West North Central,Married With Children,24,42,55
-2012,Vote by Marital Status and Children,MARCHILD,IA,Midwest,West North Central,All Others,76,55,43
-2012,Vote by Gender and Children in Household,PARENTS,IA,Midwest,West North Central,Fathers,15,37,59
-2012,Vote by Gender and Children in Household,PARENTS,IA,Midwest,West North Central,Mothers,16,59,41
-2012,Vote by Gender and Children in Household,PARENTS,IA,Midwest,West North Central,Men With No Children,31,46,52
-2012,Vote by Gender and Children in Household,PARENTS,IA,Midwest,West North Central,Women With No Children,39,60,39
-2012,Do You Work Full-Time For Pay?,WORK,IA,Midwest,West North Central,Yes,56,48,50
-2012,Do You Work Full-Time For Pay?,WORK,IA,Midwest,West North Central,No,44,54,46
-2012,Should Same-Sex Marriages Be Legal in Your State?,SAMESEXM12,IA,Midwest,West North Central,Yes,49,79,20
-2012,Should Same-Sex Marriages Be Legal in Your State?,SAMESEXM12,IA,Midwest,West North Central,No,47,21,78
-2012,Vote by Size of Place,SIZEPLC3,IA,Midwest,West North Central,Urban,27,68,31
-2012,Vote by Size of Place,SIZEPLC3,IA,Midwest,West North Central,Suburban,20,46,49
-2012,Vote by Size of Place,SIZEPLC3,IA,Midwest,West North Central,Rural,53,46,52
-2012,Vote by Region,GEOCOD,IA,Midwest,West North Central,Eastern Iowa,25,62,36
-2012,Vote by Region,GEOCOD,IA,Midwest,West North Central,East Central Iowa,22,50,48
-2012,Vote by Region,GEOCOD,IA,Midwest,West North Central,Central Iowa,31,55,42
-2012,Vote by Region,GEOCOD,IA,Midwest,West North Central,Western Iowa,22,38,61
+2012	Vote by Gender	SEX	IA	Midwest	West North Central	Men	46	44	53
+2012	Vote by Gender	SEX	IA	Midwest	West North Central	Women	54	59	40
+2012	Vote by Age	AGE	IA	Midwest	West North Central	18-29	15	56	40
+2012	Vote by Age	AGE	IA	Midwest	West North Central	30-44	22	52	47
+2012	Vote by Age	AGE	IA	Midwest	West North Central	45-64	37	52	46
+2012	Vote by Age	AGE	IA	Midwest	West North Central	65 and Older	26	50	50
+2012	Vote by Age	AGE65	IA	Midwest	West North Central	18-24	8	61	36
+2012	Vote by Age	AGE65	IA	Midwest	West North Central	25-29	7	51	44
+2012	Vote by Age	AGE65	IA	Midwest	West North Central	30-39	14	54	44
+2012	Vote by Age	AGE65	IA	Midwest	West North Central	40-49	17	46	52
+2012	Vote by Age	AGE65	IA	Midwest	West North Central	50-64	28	55	43
+2012	Vote by Age	AGE65	IA	Midwest	West North Central	65 and Older	26	50	50
+2012	Vote by Race	RACE	IA	Midwest	West North Central	White	93	51	47
+2012	Vote by Race	RACE	IA	Midwest	West North Central	African-American	2		
+2012	Vote by Race	RACE	IA	Midwest	West North Central	Latino	2		
+2012	Vote by Race	RACE	IA	Midwest	West North Central	Asian	1		
+2012	Vote by Race	RACE	IA	Midwest	West North Central	Other	1		
+2012	Vote by Gender and Race	SEXBYRACE	IA	Midwest	West North Central	White Men	43	42	55
+2012	Vote by Gender and Race	SEXBYRACE	IA	Midwest	West North Central	White Women	50	58	41
+2012	Vote by Gender and Race	SEXBYRACE	IA	Midwest	West North Central	Black Men	1		
+2012	Vote by Gender and Race	SEXBYRACE	IA	Midwest	West North Central	Black Women	1		
+2012	Vote by Gender and Race	SEXBYRACE	IA	Midwest	West North Central	Latino Men	1		
+2012	Vote by Gender and Race	SEXBYRACE	IA	Midwest	West North Central	Latino Women	1		
+2012	Vote by Gender and Race	SEXBYRACE	IA	Midwest	West North Central	All Others	2		
+2012	Vote by Ideology	PHIL3	IA	Midwest	West North Central	Liberal	21	89	10
+2012	Vote by Ideology	PHIL3	IA	Midwest	West North Central	Moderate	42	63	35
+2012	Vote by Ideology	PHIL3	IA	Midwest	West North Central	Conservative	37	17	81
+2012	Vote by Party ID	PARTY	IA	Midwest	West North Central	Democratic	33	95	4
+2012	Vote by Party ID	PARTY	IA	Midwest	West North Central	Republican	33	7	93
+2012	Vote by Party ID	PARTY	IA	Midwest	West North Central	Independent	34	55	41
+2012	Vote by Education	EDUC10	IA	Midwest	West North Central	No High School	3		
+2012	Vote by Education	EDUC10	IA	Midwest	West North Central	High School Graduate	25	52	46
+2012	Vote by Education	EDUC10	IA	Midwest	West North Central	Some College	29	51	47
+2012	Vote by Education	EDUC10	IA	Midwest	West North Central	College Graduate	29	50	48
+2012	Vote by Education	EDUC10	IA	Midwest	West North Central	Postgraduate	13	57	43
+2012	Are You a College Graduate?	EDUCCOLL	IA	Midwest	West North Central	Yes	43	52	46
+2012	Are You a College Graduate?	EDUCCOLL	IA	Midwest	West North Central	No	57	52	46
+2012	Did You Attend College?	EDUCHS	IA	Midwest	West North Central	Yes	71	52	47
+2012	Did You Attend College?	EDUCHS	IA	Midwest	West North Central	No	29	53	44
+2012	Vote by Income	INCOME3	IA	Midwest	West North Central	Less Than $50K	43	59	38
+2012	Vote by Income	INCOME3	IA	Midwest	West North Central	$50-100K	37	50	49
+2012	Vote by Income	INCOME3	IA	Midwest	West North Central	$100K or More	19	45	54
+2012	Vote by Income	INC50K	IA	Midwest	West North Central	Less Than $50K	43	59	38
+2012	Vote by Income	INC50K	IA	Midwest	West North Central	$50K or More	57	48	50
+2012	Vote by Income	INC100K	IA	Midwest	West North Central	Less Than $100K	81	55	43
+2012	Vote by Income	INC100K	IA	Midwest	West North Central	$100K or More	19	45	54
+2012	How Often Do You Attend Religious Services?	ATTEND	IA	Midwest	West North Central	More Than Weekly	10	37	63
+2012	How Often Do You Attend Religious Services?	ATTEND	IA	Midwest	West North Central	Weekly	32	37	63
+2012	How Often Do You Attend Religious Services?	ATTEND	IA	Midwest	West North Central	Monthly	14	48	49
+2012	How Often Do You Attend Religious Services?	ATTEND	IA	Midwest	West North Central	Few Times a Year	26	59	40
+2012	How Often Do You Attend Religious Services?	ATTEND	IA	Midwest	West North Central	Never	16	76	21
+2012	How Often Do You Attend Religious Services?	ATTEND2	IA	Midwest	West North Central	Weekly	42	37	63
+2012	How Often Do You Attend Religious Services?	ATTEND2	IA	Midwest	West North Central	Occasionally	40	55	43
+2012	How Often Do You Attend Religious Services?	ATTEND2	IA	Midwest	West North Central	Never	16	76	21
+2012	Vote by Religion	REL5	IA	Midwest	West North Central	Protestant	62	46	53
+2012	Vote by Religion	REL5	IA	Midwest	West North Central	Catholic	26	47	52
+2012	Vote by Religion	REL5	IA	Midwest	West North Central	Jewish			
+2012	Vote by Religion	REL5	IA	Midwest	West North Central	Other	4		
+2012	Vote by Religion	REL5	IA	Midwest	West North Central	None	9	75	22
+2012	Vote by Religion and Race	WHITEREL	IA	Midwest	West North Central	White Protestant	57	44	55
+2012	Vote by Religion and Race	WHITEREL	IA	Midwest	West North Central	White Catholic	25	47	52
+2012	Vote by Religion and Race	WHITEREL	IA	Midwest	West North Central	White Jewish			
+2012	Vote by Religion and Race	WHITEREL	IA	Midwest	West North Central	Whites/Other Religion	3		
+2012	Vote by Religion and Race	WHITEREL	IA	Midwest	West North Central	Whites/No Religion	8		
+2012	Vote by Religion and Race	WHITEREL	IA	Midwest	West North Central	Non-white	7		
+2012	Vote by Religion and Church Attendance	ATTREL	IA	Midwest	West North Central	Protestant/Attend Weekly	19	31	68
+2012	Vote by Religion and Church Attendance	ATTREL	IA	Midwest	West North Central	Protestant/Not Weekly 	20	54	45
+2012	Vote by Religion and Church Attendance	ATTREL	IA	Midwest	West North Central	Catholic/Attend Weekly	13	37	62
+2012	Vote by Religion and Church Attendance	ATTREL	IA	Midwest	West North Central	Catholic/Not Weekly	13	56	42
+2012	Vote by Religion and Church Attendance	ATTREL	IA	Midwest	West North Central	All Others	34	63	36
+2012	Are You White Born-Again Christian?	WHTEVANG	IA	Midwest	West North Central	Yes	38	35	64
+2012	Are You White Born-Again Christian?	WHTEVANG	IA	Midwest	West North Central	No	62	60	38
+2012	Abortion Should Be...	ABORTION	IA	Midwest	West North Central	Always Legal	23	86	10
+2012	Abortion Should Be...	ABORTION	IA	Midwest	West North Central	Mostly Legal	32	67	31
+2012	Abortion Should Be...	ABORTION	IA	Midwest	West North Central	Mostly Illegal	26	23	75
+2012	Abortion Should Be...	ABORTION	IA	Midwest	West North Central	Always Illegal	13	19	80
+2012	Abortion Should Be...	ABORT2	IA	Midwest	West North Central	Legal	55	75	22
+2012	Abortion Should Be...	ABORT2	IA	Midwest	West North Central	Illegal	39	22	77
+2012	Most Important Issue Facing Country	ISSUE12	IA	Midwest	West North Central	Foreign Policy	4		
+2012	Most Important Issue Facing Country	ISSUE12	IA	Midwest	West North Central	Deficit	19	33	63
+2012	Most Important Issue Facing Country	ISSUE12	IA	Midwest	West North Central	Economy	57	54	45
+2012	Most Important Issue Facing Country	ISSUE12	IA	Midwest	West North Central	Health Care	16	69	29
+2012	Most Important Candidate Quality	QLT12	IA	Midwest	West North Central	Shares My Values	26	47	51
+2012	Most Important Candidate Quality	QLT12	IA	Midwest	West North Central	Strong Leader	19	36	63
+2012	Most Important Candidate Quality	QLT12	IA	Midwest	West North Central	Cares About People	24	84	14
+2012	Most Important Candidate Quality	QLT12	IA	Midwest	West North Central	Vision for Future	28	45	52
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	IA	Midwest	West North Central	Housing Market	2		
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	IA	Midwest	West North Central	Unemployment	28	57	39
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	IA	Midwest	West North Central	Taxes	20	37	58
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	IA	Midwest	West North Central	Rising Prices	45	57	43
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	IA	Midwest	West North Central	Expanded	19	94	3
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	IA	Midwest	West North Central	Kept As Is	20	89	11
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	IA	Midwest	West North Central	Repealed In Part	28	41	59
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	IA	Midwest	West North Central	Repealed Completely	24	4	90
+2012	Should 2010 Health Care Law Be Repealed?	HEALTHCARE12B	IA	Midwest	West North Central	No	38	91	7
+2012	Should 2010 Health Care Law Be Repealed?	HEALTHCARE12B	IA	Midwest	West North Central	Yes	53	24	74
+2012	Income Tax Rates Should Be...	TAXINC12	IA	Midwest	West North Central	Increased For All	13	42	56
+2012	Income Tax Rates Should Be...	TAXINC12	IA	Midwest	West North Central	Increased for $250K+	50	72	27
+2012	Income Tax Rates Should Be...	TAXINC12	IA	Midwest	West North Central	Not Increased	32	24	76
+2012	Who Is More In Touch With People Like You?	INTOUCH12	IA	Midwest	West North Central	Obama	55	95	4
+2012	Who Is More In Touch With People Like You?	INTOUCH12	IA	Midwest	West North Central	Romney	41	2	97
+2012	Who Would Better Handle Economy?	HANDLEECON12	IA	Midwest	West North Central	Obama	49	99	0
+2012	Who Would Better Handle Economy?	HANDLEECON12	IA	Midwest	West North Central	Romney	46	4	95
+2012	Who Would Better Handle Medicare?	HANDLEMED12	IA	Midwest	West North Central	Obama	51	96	3
+2012	Who Would Better Handle Medicare?	HANDLEMED12	IA	Midwest	West North Central	Romney	44	2	96
+2012	Who Would Better Handle Energy Policy?	HANDLEENERGY12	IA	Midwest	West North Central	Obama	52	92	5
+2012	Who Would Better Handle Energy Policy?	HANDLEENERGY12	IA	Midwest	West North Central	Romney	43	4	95
+2012	Opinion of Government	GOVTDO10	IA	Midwest	West North Central	Government Should Do More	31	86	9
+2012	Opinion of Government	GOVTDO10	IA	Midwest	West North Central	Government Doing Too Much	61	31	68
+2012	National Economic Conditions	NEC	IA	Midwest	West North Central	Excellent	1		
+2012	National Economic Conditions	NEC	IA	Midwest	West North Central	Good	28	92	6
+2012	National Economic Conditions	NEC	IA	Midwest	West North Central	Not So Good	43	53	44
+2012	National Economic Conditions	NEC	IA	Midwest	West North Central	Poor	26	11	87
+2012	National Economic Conditions	NEC2	IA	Midwest	West North Central	Excellent/Good	30	92	7
+2012	National Economic Conditions	NEC2	IA	Midwest	West North Central	Not So Good/Poor	69	37	61
+2012	U.S. Economic Conditions Are...	ECONBETT	IA	Midwest	West North Central	Getting Better	37	94	5
+2012	U.S. Economic Conditions Are...	ECONBETT	IA	Midwest	West North Central	Getting Worse	32	10	90
+2012	U.S. Economic Conditions Are...	ECONBETT	IA	Midwest	West North Central	Staying About the Same	30	51	45
+2012	U.S. Economic Conditions Are...	ECONDIR	IA	Midwest	West North Central	Getting Better	37	94	5
+2012	U.S. Economic Conditions Are...	ECONDIR	IA	Midwest	West North Central	Good and Staying the Same	8		
+2012	U.S. Economic Conditions Are...	ECONDIR	IA	Midwest	West North Central	Poor and Staying the Same	22	38	57
+2012	U.S. Economic Conditions Are...	ECONDIR	IA	Midwest	West North Central	Getting Worse	32	10	90
+2012	Your Family's Financial Situation	FINSIT	IA	Midwest	West North Central	Better	26	80	18
+2012	Your Family's Financial Situation	FINSIT	IA	Midwest	West North Central	Worse	29	17	82
+2012	Your Family's Financial Situation	FINSIT	IA	Midwest	West North Central	Same	44	58	40
+2012	More to Blame for Current Economic Problems?	ECONBLAME12	IA	Midwest	West North Central	Barack Obama	37	4	96
+2012	More to Blame for Current Economic Problems?	ECONBLAME12	IA	Midwest	West North Central	George W. Bush	53	92	7
+2012	Opinion of Obama Administration	OBAMANG	IA	Midwest	West North Central	Enthusiastic	21	96	4
+2012	Opinion of Obama Administration	OBAMANG	IA	Midwest	West North Central	Satisfied	31	91	9
+2012	Opinion of Obama Administration	OBAMANG	IA	Midwest	West North Central	Dissatisfied	28	12	86
+2012	Opinion of Obama Administration	OBAMANG	IA	Midwest	West North Central	Angry	19	0	99
+2012	Opinion of Obama Administration	OBAMANG2	IA	Midwest	West North Central	Enthusiastic/Satisfied	52	93	7
+2012	Opinion of Obama Administration	OBAMANG2	IA	Midwest	West North Central	Dissatisfied/Angry	47	7	91
+2012	Opinion of Barack Obama	FAVOBAMA2	IA	Midwest	West North Central	Favorable	54	92	7
+2012	Opinion of Barack Obama	FAVOBAMA2	IA	Midwest	West North Central	Unfavorable	45	3	94
+2012	Opinion of Mitt Romney	FAVROMN2	IA	Midwest	West North Central	Favorable	48	10	89
+2012	Opinion of Mitt Romney	FAVROMN2	IA	Midwest	West North Central	Unfavorable	48	92	4
+2012	Do Obama Policies Generally Favor...	OBAMARICH	IA	Midwest	West North Central	Rich	11	13	83
+2012	Do Obama Policies Generally Favor...	OBAMARICH	IA	Midwest	West North Central	Middle Class	47	85	14
+2012	Do Obama Policies Generally Favor...	OBAMARICH	IA	Midwest	West North Central	Poor	28	14	85
+2012	Would Romney Policies Generally Favor...	ROMNRICH	IA	Midwest	West North Central	Rich	54	86	12
+2012	Would Romney Policies Generally Favor...	ROMNRICH	IA	Midwest	West North Central	Middle Class	35	6	94
+2012	Would Romney Policies Generally Favor...	ROMNRICH	IA	Midwest	West North Central	Poor	1		
+2012	Trust Obama to Handle International Crisis?	INTLOBAMA	IA	Midwest	West North Central	Yes	57	87	12
+2012	Trust Obama to Handle International Crisis?	INTLOBAMA	IA	Midwest	West North Central	No	41	4	92
+2012	Trust Romney to Handle International Crisis?	INTLROMNEY	IA	Midwest	West North Central	Yes	50	15	83
+2012	Trust Romney to Handle International Crisis?	INTLROMNEY	IA	Midwest	West North Central	No	44	92	5
+2012	Who Do You Trust To Handle International Crisis?	INTL12	IA	Midwest	West North Central	Only Obama	40	99	1
+2012	Who Do You Trust To Handle International Crisis?	INTL12	IA	Midwest	West North Central	Only Romney	36	1	99
+2012	Who Do You Trust To Handle International Crisis?	INTL12	IA	Midwest	West North Central	Both	14	53	44
+2012	Who Do You Trust To Handle International Crisis?	INTL12	IA	Midwest	West North Central	Neither	4		
+2012	Who Attacked Unfairly?	UNFR12	IA	Midwest	West North Central	Only Obama	18	8	91
+2012	Who Attacked Unfairly?	UNFR12	IA	Midwest	West North Central	Only Romney	14	96	4
+2012	Who Attacked Unfairly?	UNFR12	IA	Midwest	West North Central	Both 	44	50	46
+2012	Who Attacked Unfairly?	UNFR12	IA	Midwest	West North Central	Neither 	17	63	36
+2012	Did Obama Attack Romney Unfairly?	UNFROBAM	IA	Midwest	West North Central	Yes	62	38	59
+2012	Did Obama Attack Romney Unfairly?	UNFROBAM	IA	Midwest	West North Central	No	32	78	22
+2012	Did Romney Attack Obama Unfairly?	UNFRROMN	IA	Midwest	West North Central	Yes	59	61	36
+2012	Did Romney Attack Obama Unfairly?	UNFRROMN	IA	Midwest	West North Central	No	35	35	64
+2012	Did Any Campaign Contact You?	GOTV12	IA	Midwest	West North Central	Only Obama	14	93	7
+2012	Did Any Campaign Contact You?	GOTV12	IA	Midwest	West North Central	Only Romney	11	14	85
+2012	Did Any Campaign Contact You?	GOTV12	IA	Midwest	West North Central	Both	32	49	50
+2012	Did Any Campaign Contact You?	GOTV12	IA	Midwest	West North Central	Neither	37	51	47
+2012	Did Obama Campaign Contact You?	GOTVOBAMA	IA	Midwest	West North Central	Yes	46	62	37
+2012	Did Obama Campaign Contact You?	GOTVOBAMA	IA	Midwest	West North Central	No	49	42	56
+2012	Did Romney Campaign Contact You?	GOTVROMN	IA	Midwest	West North Central	Yes	43	40	60
+2012	Did Romney Campaign Contact You?	GOTVROMN	IA	Midwest	West North Central	No	51	62	37
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	IA	Midwest	West North Central	Strongly Favor	61	57	42
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	IA	Midwest	West North Central	Have Reservations	22	45	53
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	IA	Midwest	West North Central	Dislike Opponent	13	51	42
+2012	When Did You Decide Presidential Vote?	TIME12	IA	Midwest	West North Central	Just Today	5		
+2012	When Did You Decide Presidential Vote?	TIME12	IA	Midwest	West North Central	Last Few Days	7	44	45
+2012	When Did You Decide Presidential Vote?	TIME12	IA	Midwest	West North Central	In October	12	53	43
+2012	When Did You Decide Presidential Vote?	TIME12	IA	Midwest	West North Central	In September	10		
+2012	When Did You Decide Presidential Vote?	TIME12	IA	Midwest	West North Central	Before That	66	53	47
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	IA	Midwest	West North Central	Today/Last Few Days	12	47	45
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	IA	Midwest	West North Central	Before That	87	52	47
+2012	When Did You Decide Presidential Vote?	TIME12MTH	IA	Midwest	West North Central	In October or November	24	50	44
+2012	When Did You Decide Presidential Vote?	TIME12MTH	IA	Midwest	West North Central	Before That	75	52	47
+2012	Vote by Marital Status	MARRIED	IA	Midwest	West North Central	Married	65	46	52
+2012	Vote by Marital Status	MARRIED	IA	Midwest	West North Central	Unmarried	35	63	35
+2012	Vote by Gender and Marital Status	SEXWED	IA	Midwest	West North Central	Married Men	31	40	58
+2012	Vote by Gender and Marital Status	SEXWED	IA	Midwest	West North Central	Married Women	34	53	47
+2012	Vote by Gender and Marital Status	SEXWED	IA	Midwest	West North Central	Unmarried Men	15	52	45
+2012	Vote by Gender and Marital Status	SEXWED	IA	Midwest	West North Central	Unmarried Women	20	71	27
+2012	Any Children Under 18 Living in Your Home?	CHILD12	IA	Midwest	West North Central	Yes	31	48	49
+2012	Any Children Under 18 Living in Your Home?	CHILD12	IA	Midwest	West North Central	No	69	54	44
+2012	Vote by Marital Status and Children	MARCHILD	IA	Midwest	West North Central	Married With Children	24	42	55
+2012	Vote by Marital Status and Children	MARCHILD	IA	Midwest	West North Central	All Others	76	55	43
+2012	Vote by Gender and Children in Household	PARENTS	IA	Midwest	West North Central	Fathers	15	37	59
+2012	Vote by Gender and Children in Household	PARENTS	IA	Midwest	West North Central	Mothers	16	59	41
+2012	Vote by Gender and Children in Household	PARENTS	IA	Midwest	West North Central	Men With No Children	31	46	52
+2012	Vote by Gender and Children in Household	PARENTS	IA	Midwest	West North Central	Women With No Children	39	60	39
+2012	Do You Work Full-Time For Pay?	WORK	IA	Midwest	West North Central	Yes	56	48	50
+2012	Do You Work Full-Time For Pay?	WORK	IA	Midwest	West North Central	No	44	54	46
+2012	Should Same-Sex Marriages Be Legal in Your State?	SAMESEXM12	IA	Midwest	West North Central	Yes	49	79	20
+2012	Should Same-Sex Marriages Be Legal in Your State?	SAMESEXM12	IA	Midwest	West North Central	No	47	21	78
+2012	Vote by Size of Place	SIZEPLC3	IA	Midwest	West North Central	Urban	27	68	31
+2012	Vote by Size of Place	SIZEPLC3	IA	Midwest	West North Central	Suburban	20	46	49
+2012	Vote by Size of Place	SIZEPLC3	IA	Midwest	West North Central	Rural	53	46	52
+2012	Vote by Region	GEOCOD	IA	Midwest	West North Central	Eastern Iowa	25	62	36
+2012	Vote by Region	GEOCOD	IA	Midwest	West North Central	East Central Iowa	22	50	48
+2012	Vote by Region	GEOCOD	IA	Midwest	West North Central	Central Iowa	31	55	42
+2012	Vote by Region	GEOCOD	IA	Midwest	West North Central	Western Iowa	22	38	61

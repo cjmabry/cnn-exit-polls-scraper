@@ -1,176 +1,176 @@
-2012,Vote by Gender,SEX,WI,Midwest,East North Central,Men,49,47,51
-2012,Vote by Gender,SEX,WI,Midwest,East North Central,Women,51,57,42
-2012,Vote by Age,AGE,WI,Midwest,East North Central,18-29,21,60,37
-2012,Vote by Age,AGE,WI,Midwest,East North Central,30-44,26,51,48
-2012,Vote by Age,AGE,WI,Midwest,East North Central,45-64,37,51,48
-2012,Vote by Age,AGE,WI,Midwest,East North Central,65 and Older,16,48,52
-2012,Vote by Age,AGE65,WI,Midwest,East North Central,18-24,12,61,35
-2012,Vote by Age,AGE65,WI,Midwest,East North Central,25-29,8,58,40
-2012,Vote by Age,AGE65,WI,Midwest,East North Central,30-39,18,53,46
-2012,Vote by Age,AGE65,WI,Midwest,East North Central,40-49,18,45,54
-2012,Vote by Age,AGE65,WI,Midwest,East North Central,50-64,27,53,46
-2012,Vote by Age,AGE65,WI,Midwest,East North Central,65 and Older,16,48,52
-2012,Vote by Race,RACE,WI,Midwest,East North Central,White,86,48,51
-2012,Vote by Race,RACE,WI,Midwest,East North Central,African-American,7,94,6
-2012,Vote by Race,RACE,WI,Midwest,East North Central,Latino,4,66,31
-2012,Vote by Race,RACE,WI,Midwest,East North Central,Asian,1,,
-2012,Vote by Race,RACE,WI,Midwest,East North Central,Other,2,,
-2012,Vote by Gender and Race,SEXBYRACE,WI,Midwest,East North Central,White Men,43,42,56
-2012,Vote by Gender and Race,SEXBYRACE,WI,Midwest,East North Central,White Women,44,53,46
-2012,Vote by Gender and Race,SEXBYRACE,WI,Midwest,East North Central,Black Men,3,92,6
-2012,Vote by Gender and Race,SEXBYRACE,WI,Midwest,East North Central,Black Women,4,95,5
-2012,Vote by Gender and Race,SEXBYRACE,WI,Midwest,East North Central,Latino Men,2,,
-2012,Vote by Gender and Race,SEXBYRACE,WI,Midwest,East North Central,Latino Women,2,,
-2012,Vote by Gender and Race,SEXBYRACE,WI,Midwest,East North Central,All Others,3,,
-2012,Vote by Ideology,PHIL3,WI,Midwest,East North Central,Liberal,24,90,8
-2012,Vote by Ideology,PHIL3,WI,Midwest,East North Central,Moderate,40,61,37
-2012,Vote by Ideology,PHIL3,WI,Midwest,East North Central,Conservative,35,14,85
-2012,Vote by Party ID,PARTY,WI,Midwest,East North Central,Democratic,37,95,4
-2012,Vote by Party ID,PARTY,WI,Midwest,East North Central,Republican,32,5,95
-2012,Vote by Party ID,PARTY,WI,Midwest,East North Central,Independent,31,49,47
-2012,Vote by Education,EDUC10,WI,Midwest,East North Central,No High School,3,60,34
-2012,Vote by Education,EDUC10,WI,Midwest,East North Central,High School Graduate,23,55,44
-2012,Vote by Education,EDUC10,WI,Midwest,East North Central,Some College,33,48,51
-2012,Vote by Education,EDUC10,WI,Midwest,East North Central,College Graduate,28,49,50
-2012,Vote by Education,EDUC10,WI,Midwest,East North Central,Postgraduate,14,62,37
-2012,Are You a College Graduate?,EDUCCOLL,WI,Midwest,East North Central,Yes,42,53,46
-2012,Are You a College Graduate?,EDUCCOLL,WI,Midwest,East North Central,No,58,51,47
-2012,Did You Attend College?,EDUCHS,WI,Midwest,East North Central,Yes,74,51,48
-2012,Did You Attend College?,EDUCHS,WI,Midwest,East North Central,No,26,55,43
-2012,Vote by Income,INCOME3,WI,Midwest,East North Central,Less Than $50K,41,62,37
-2012,Vote by Income,INCOME3,WI,Midwest,East North Central,$50-100K,38,49,50
-2012,Vote by Income,INCOME3,WI,Midwest,East North Central,$100K or More,21,39,59
-2012,Vote by Income,INC50K,WI,Midwest,East North Central,Less Than $50K,41,62,37
-2012,Vote by Income,INC50K,WI,Midwest,East North Central,$50K or More,59,46,53
-2012,Vote by Income,INC100K,WI,Midwest,East North Central,Less Than $100K,79,56,43
-2012,Vote by Income,INC100K,WI,Midwest,East North Central,$100K or More,21,39,59
-2012,Vote by Religion,REL5,WI,Midwest,East North Central,Protestant,45,45,53
-2012,Vote by Religion,REL5,WI,Midwest,East North Central,Catholic,31,44,56
-2012,Vote by Religion,REL5,WI,Midwest,East North Central,Jewish,0,,
-2012,Vote by Religion,REL5,WI,Midwest,East North Central,Other,8,,
-2012,Vote by Religion,REL5,WI,Midwest,East North Central,None,16,73,25
-2012,Vote by Religion and Race,WHITEREL,WI,Midwest,East North Central,White Protestant,38,40,58
-2012,Vote by Religion and Race,WHITEREL,WI,Midwest,East North Central,White Catholic,29,42,57
-2012,Vote by Religion and Race,WHITEREL,WI,Midwest,East North Central,White Jewish,0,,
-2012,Vote by Religion and Race,WHITEREL,WI,Midwest,East North Central,Whites/Other Religion,5,,
-2012,Vote by Religion and Race,WHITEREL,WI,Midwest,East North Central,Whites/No Religion,14,71,26
-2012,Vote by Religion and Race,WHITEREL,WI,Midwest,East North Central,Non-white,14,77,19
-2012,Are You White Born-Again Christian?,WHTEVANG,WI,Midwest,East North Central,Yes,24,27,71
-2012,Are You White Born-Again Christian?,WHTEVANG,WI,Midwest,East North Central,No,76,60,38
-2012,Abortion Should Be...,ABORTION,WI,Midwest,East North Central,Always Legal,30,82,15
-2012,Abortion Should Be...,ABORTION,WI,Midwest,East North Central,Mostly Legal,27,61,38
-2012,Abortion Should Be...,ABORTION,WI,Midwest,East North Central,Mostly Illegal,28,26,73
-2012,Abortion Should Be...,ABORTION,WI,Midwest,East North Central,Always Illegal,12,17,81
-2012,Abortion Should Be...,ABORT2,WI,Midwest,East North Central,Legal,57,72,26
-2012,Abortion Should Be...,ABORT2,WI,Midwest,East North Central,Illegal,40,23,76
-2012,Most Important Issue Facing Country,ISSUE12,WI,Midwest,East North Central,Foreign Policy,4,,
-2012,Most Important Issue Facing Country,ISSUE12,WI,Midwest,East North Central,Deficit,17,31,69
-2012,Most Important Issue Facing Country,ISSUE12,WI,Midwest,East North Central,Economy,56,49,50
-2012,Most Important Issue Facing Country,ISSUE12,WI,Midwest,East North Central,Health Care,21,77,22
-2012,Most Important Candidate Quality,QLT12,WI,Midwest,East North Central,Shares My Values,26,41,58
-2012,Most Important Candidate Quality,QLT12,WI,Midwest,East North Central,Strong Leader,18,40,60
-2012,Most Important Candidate Quality,QLT12,WI,Midwest,East North Central,Cares About People,24,86,12
-2012,Most Important Candidate Quality,QLT12,WI,Midwest,East North Central,Vision for Future,30,42,58
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,WI,Midwest,East North Central,Housing Market,6,,
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,WI,Midwest,East North Central,Unemployment,40,52,47
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,WI,Midwest,East North Central,Taxes,22,39,60
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,WI,Midwest,East North Central,Rising Prices,30,54,44
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,WI,Midwest,East North Central,Expanded,31,94,5
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,WI,Midwest,East North Central,Kept As Is,18,83,17
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,WI,Midwest,East North Central,Repealed In Part,22,28,72
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,WI,Midwest,East North Central,Repealed Completely,24,6,93
-2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,WI,Midwest,East North Central,No,49,90,10
-2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,WI,Midwest,East North Central,Yes,46,16,83
-2012,Income Tax Rates Should Be...,TAXINC12,WI,Midwest,East North Central,Increased For All,12,56,42
-2012,Income Tax Rates Should Be...,TAXINC12,WI,Midwest,East North Central,Increased for $250K+,52,75,23
-2012,Income Tax Rates Should Be...,TAXINC12,WI,Midwest,East North Central,Not Increased,32,14,84
-2012,Who Is More In Touch With People Like You?,INTOUCH12,WI,Midwest,East North Central,Obama,53,93,5
-2012,Who Is More In Touch With People Like You?,INTOUCH12,WI,Midwest,East North Central,Romney,45,2,98
-2012,Who Would Better Handle Economy?,HANDLEECON12,WI,Midwest,East North Central,Obama,49,97,1
-2012,Who Would Better Handle Economy?,HANDLEECON12,WI,Midwest,East North Central,Romney,48,3,96
-2012,Who Would Better Handle Medicare?,HANDLEMED12,WI,Midwest,East North Central,Obama,52,94,4
-2012,Who Would Better Handle Medicare?,HANDLEMED12,WI,Midwest,East North Central,Romney,46,2,97
-2012,Who Would Better Handle Deficit?,HANDLEDEF12,WI,Midwest,East North Central,Obama,49,97,1
-2012,Who Would Better Handle Deficit?,HANDLEDEF12,WI,Midwest,East North Central,Romney,48,6,92
-2012,Opinion of Government,GOVTDO10,WI,Midwest,East North Central,Government Should Do More,45,84,15
-2012,Opinion of Government,GOVTDO10,WI,Midwest,East North Central,Government Doing Too Much,50,26,73
-2012,National Economic Conditions,NEC,WI,Midwest,East North Central,Excellent,2,,
-2012,National Economic Conditions,NEC,WI,Midwest,East North Central,Good,26,93,7
-2012,National Economic Conditions,NEC,WI,Midwest,East North Central,Not So Good,43,50,49
-2012,National Economic Conditions,NEC,WI,Midwest,East North Central,Poor,28,9,88
-2012,National Economic Conditions,NEC2,WI,Midwest,East North Central,Excellent/Good,28,93,7
-2012,National Economic Conditions,NEC2,WI,Midwest,East North Central,Not So Good/Poor,71,34,64
-2012,U.S. Economic Conditions Are...,ECONBETT,WI,Midwest,East North Central,Getting Better,38,93,7
-2012,U.S. Economic Conditions Are...,ECONBETT,WI,Midwest,East North Central,Getting Worse,33,9,89
-2012,U.S. Economic Conditions Are...,ECONBETT,WI,Midwest,East North Central,Staying About the Same,28,40,59
-2012,U.S. Economic Conditions Are...,ECONDIR,WI,Midwest,East North Central,Getting Better,38,93,7
-2012,U.S. Economic Conditions Are...,ECONDIR,WI,Midwest,East North Central,Good and Staying the Same,5,,
-2012,U.S. Economic Conditions Are...,ECONDIR,WI,Midwest,East North Central,Poor and Staying the Same,24,32,67
-2012,U.S. Economic Conditions Are...,ECONDIR,WI,Midwest,East North Central,Getting Worse,33,9,89
-2012,Your Family's Financial Situation,FINSIT,WI,Midwest,East North Central,Better,25,89,11
-2012,Your Family's Financial Situation,FINSIT,WI,Midwest,East North Central,Worse,35,20,80
-2012,Your Family's Financial Situation,FINSIT,WI,Midwest,East North Central,Same,39,62,36
-2012,More to Blame for Current Economic Problems?,ECONBLAME12,WI,Midwest,East North Central,Barack Obama,40,7,93
-2012,More to Blame for Current Economic Problems?,ECONBLAME12,WI,Midwest,East North Central,George W. Bush,55,84,14
-2012,Opinion of Obama Administration,OBAMANG,WI,Midwest,East North Central,Enthusiastic,27,97,3
-2012,Opinion of Obama Administration,OBAMANG,WI,Midwest,East North Central,Satisfied,26,88,11
-2012,Opinion of Obama Administration,OBAMANG,WI,Midwest,East North Central,Dissatisfied,26,9,88
-2012,Opinion of Obama Administration,OBAMANG,WI,Midwest,East North Central,Angry,20,1,98
-2012,Opinion of Obama Administration,OBAMANG2,WI,Midwest,East North Central,Enthusiastic/Satisfied,53,92,7
-2012,Opinion of Obama Administration,OBAMANG2,WI,Midwest,East North Central,Dissatisfied/Angry,45,6,92
-2012,Opinion of Barack Obama,FAVOBAMA2,WI,Midwest,East North Central,Favorable,56,93,7
-2012,Opinion of Barack Obama,FAVOBAMA2,WI,Midwest,East North Central,Unfavorable,42,4,96
-2012,Opinion of Mitt Romney,FAVROMN2,WI,Midwest,East North Central,Favorable,47,8,92
-2012,Opinion of Mitt Romney,FAVROMN2,WI,Midwest,East North Central,Unfavorable,51,97,3
-2012,Do Obama Policies Generally Favor...,OBAMARICH,WI,Midwest,East North Central,Rich,11,11,86
-2012,Do Obama Policies Generally Favor...,OBAMARICH,WI,Midwest,East North Central,Middle Class,48,88,11
-2012,Do Obama Policies Generally Favor...,OBAMARICH,WI,Midwest,East North Central,Poor,32,17,82
-2012,Would Romney Policies Generally Favor...,ROMNRICH,WI,Midwest,East North Central,Rich,54,89,9
-2012,Would Romney Policies Generally Favor...,ROMNRICH,WI,Midwest,East North Central,Middle Class,38,4,95
-2012,Would Romney Policies Generally Favor...,ROMNRICH,WI,Midwest,East North Central,Poor,1,,
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,WI,Midwest,East North Central,Strongly Favor,69,52,48
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,WI,Midwest,East North Central,Have Reservations,22,43,54
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,WI,Midwest,East North Central,Dislike Opponent,8,,
-2012,When Did You Decide Presidential Vote?,TIME12,WI,Midwest,East North Central,Just Today,5,,
-2012,When Did You Decide Presidential Vote?,TIME12,WI,Midwest,East North Central,Last Few Days,5,,
-2012,When Did You Decide Presidential Vote?,TIME12,WI,Midwest,East North Central,In October,10,50,46
-2012,When Did You Decide Presidential Vote?,TIME12,WI,Midwest,East North Central,In September,8,,
-2012,When Did You Decide Presidential Vote?,TIME12,WI,Midwest,East North Central,Before That,72,56,43
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,WI,Midwest,East North Central,Today/Last Few Days,10,44,53
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,WI,Midwest,East North Central,Before That,89,55,44
-2012,When Did You Decide Presidential Vote?,TIME12MTH,WI,Midwest,East North Central,In October or November,20,47,49
-2012,When Did You Decide Presidential Vote?,TIME12MTH,WI,Midwest,East North Central,Before That,79,56,44
-2012,Vote by Marital Status,MARRIED,WI,Midwest,East North Central,Married,59,45,54
-2012,Vote by Marital Status,MARRIED,WI,Midwest,East North Central,Unmarried,41,61,37
-2012,Vote by Gender and Marital Status,SEXWED,WI,Midwest,East North Central,Married Men,29,41,58
-2012,Vote by Gender and Marital Status,SEXWED,WI,Midwest,East North Central,Married Women,30,50,50
-2012,Vote by Gender and Marital Status,SEXWED,WI,Midwest,East North Central,Unmarried Men,20,55,42
-2012,Vote by Gender and Marital Status,SEXWED,WI,Midwest,East North Central,Unmarried Women,21,67,32
-2012,Any Children Under 18 Living in Your Home?,CHILD12,WI,Midwest,East North Central,Yes,35,48,50
-2012,Any Children Under 18 Living in Your Home?,CHILD12,WI,Midwest,East North Central,No,65,55,43
-2012,Vote by Marital Status and Children,MARCHILD,WI,Midwest,East North Central,Married With Children,25,41,58
-2012,Vote by Marital Status and Children,MARCHILD,WI,Midwest,East North Central,All Others,75,57,42
-2012,Vote by Gender and Children in Household,PARENTS,WI,Midwest,East North Central,Fathers,17,43,54
-2012,Vote by Gender and Children in Household,PARENTS,WI,Midwest,East North Central,Mothers,18,53,46
-2012,Vote by Gender and Children in Household,PARENTS,WI,Midwest,East North Central,Men With No Children,32,51,48
-2012,Vote by Gender and Children in Household,PARENTS,WI,Midwest,East North Central,Women With No Children,33,60,39
-2012,Is Anyone in Household a Union Member?,UNIONHH12,WI,Midwest,East North Central,Yes,21,66,33
-2012,Is Anyone in Household a Union Member?,UNIONHH12,WI,Midwest,East North Central,No,79,50,49
-2012,Gun Owner in Household?,GUNOWNER12,WI,Midwest,East North Central,Yes,55,46,53
-2012,Gun Owner in Household?,GUNOWNER12,WI,Midwest,East North Central,No,45,65,34
-2012,Federal Government Aid to U.S. Automakers,AUTOBAIL12,WI,Midwest,East North Central,Approve,53,79,19
-2012,Federal Government Aid to U.S. Automakers,AUTOBAIL12,WI,Midwest,East North Central,Disapprove,38,17,81
-2012,Opinion of Paul Ryan,FAVRYAN2,WI,Midwest,East North Central,Favorable,51,12,87
-2012,Opinion of Paul Ryan,FAVRYAN2,WI,Midwest,East North Central,Unfavorable,44,93,5
-2012,How Walker is Handling Job as Governor,WALKER2,WI,Midwest,East North Central,Approve,52,18,80
-2012,How Walker is Handling Job as Governor,WALKER2,WI,Midwest,East North Central,Disapprove,46,90,8
-2012,Vote for Senate,SENWI12,WI,Midwest,East North Central,Baldwin,51,94,6
-2012,Vote for Senate,SENWI12,WI,Midwest,East North Central,Thompson,46,7,92
-2012,Vote by Size of Place,SIZEPLC3,WI,Midwest,East North Central,Urban,26,69,29
-2012,Vote by Size of Place,SIZEPLC3,WI,Midwest,East North Central,Suburban,42,47,52
-2012,Vote by Size of Place,SIZEPLC3,WI,Midwest,East North Central,Rural,31,46,53
-2012,Vote by Region,GEOCOD,WI,Midwest,East North Central,Milwaukee County,16,67,32
-2012,Vote by Region,GEOCOD,WI,Midwest,East North Central,Southeastern Wisconsin,28,40,59
-2012,Vote by Region,GEOCOD,WI,Midwest,East North Central,Southwestern Wisconsin,18,64,34
-2012,Vote by Region,GEOCOD,WI,Midwest,East North Central,Northeastern Wisconsin,17,48,50
-2012,Vote by Region,GEOCOD,WI,Midwest,East North Central,Northwestern Wisconsin,21,50,49
+2012	Vote by Gender	SEX	WI	Midwest	East North Central	Men	49	47	51
+2012	Vote by Gender	SEX	WI	Midwest	East North Central	Women	51	57	42
+2012	Vote by Age	AGE	WI	Midwest	East North Central	18-29	21	60	37
+2012	Vote by Age	AGE	WI	Midwest	East North Central	30-44	26	51	48
+2012	Vote by Age	AGE	WI	Midwest	East North Central	45-64	37	51	48
+2012	Vote by Age	AGE	WI	Midwest	East North Central	65 and Older	16	48	52
+2012	Vote by Age	AGE65	WI	Midwest	East North Central	18-24	12	61	35
+2012	Vote by Age	AGE65	WI	Midwest	East North Central	25-29	8	58	40
+2012	Vote by Age	AGE65	WI	Midwest	East North Central	30-39	18	53	46
+2012	Vote by Age	AGE65	WI	Midwest	East North Central	40-49	18	45	54
+2012	Vote by Age	AGE65	WI	Midwest	East North Central	50-64	27	53	46
+2012	Vote by Age	AGE65	WI	Midwest	East North Central	65 and Older	16	48	52
+2012	Vote by Race	RACE	WI	Midwest	East North Central	White	86	48	51
+2012	Vote by Race	RACE	WI	Midwest	East North Central	African-American	7	94	6
+2012	Vote by Race	RACE	WI	Midwest	East North Central	Latino	4	66	31
+2012	Vote by Race	RACE	WI	Midwest	East North Central	Asian	1		
+2012	Vote by Race	RACE	WI	Midwest	East North Central	Other	2		
+2012	Vote by Gender and Race	SEXBYRACE	WI	Midwest	East North Central	White Men	43	42	56
+2012	Vote by Gender and Race	SEXBYRACE	WI	Midwest	East North Central	White Women	44	53	46
+2012	Vote by Gender and Race	SEXBYRACE	WI	Midwest	East North Central	Black Men	3	92	6
+2012	Vote by Gender and Race	SEXBYRACE	WI	Midwest	East North Central	Black Women	4	95	5
+2012	Vote by Gender and Race	SEXBYRACE	WI	Midwest	East North Central	Latino Men	2		
+2012	Vote by Gender and Race	SEXBYRACE	WI	Midwest	East North Central	Latino Women	2		
+2012	Vote by Gender and Race	SEXBYRACE	WI	Midwest	East North Central	All Others	3		
+2012	Vote by Ideology	PHIL3	WI	Midwest	East North Central	Liberal	24	90	8
+2012	Vote by Ideology	PHIL3	WI	Midwest	East North Central	Moderate	40	61	37
+2012	Vote by Ideology	PHIL3	WI	Midwest	East North Central	Conservative	35	14	85
+2012	Vote by Party ID	PARTY	WI	Midwest	East North Central	Democratic	37	95	4
+2012	Vote by Party ID	PARTY	WI	Midwest	East North Central	Republican	32	5	95
+2012	Vote by Party ID	PARTY	WI	Midwest	East North Central	Independent	31	49	47
+2012	Vote by Education	EDUC10	WI	Midwest	East North Central	No High School	3	60	34
+2012	Vote by Education	EDUC10	WI	Midwest	East North Central	High School Graduate	23	55	44
+2012	Vote by Education	EDUC10	WI	Midwest	East North Central	Some College	33	48	51
+2012	Vote by Education	EDUC10	WI	Midwest	East North Central	College Graduate	28	49	50
+2012	Vote by Education	EDUC10	WI	Midwest	East North Central	Postgraduate	14	62	37
+2012	Are You a College Graduate?	EDUCCOLL	WI	Midwest	East North Central	Yes	42	53	46
+2012	Are You a College Graduate?	EDUCCOLL	WI	Midwest	East North Central	No	58	51	47
+2012	Did You Attend College?	EDUCHS	WI	Midwest	East North Central	Yes	74	51	48
+2012	Did You Attend College?	EDUCHS	WI	Midwest	East North Central	No	26	55	43
+2012	Vote by Income	INCOME3	WI	Midwest	East North Central	Less Than $50K	41	62	37
+2012	Vote by Income	INCOME3	WI	Midwest	East North Central	$50-100K	38	49	50
+2012	Vote by Income	INCOME3	WI	Midwest	East North Central	$100K or More	21	39	59
+2012	Vote by Income	INC50K	WI	Midwest	East North Central	Less Than $50K	41	62	37
+2012	Vote by Income	INC50K	WI	Midwest	East North Central	$50K or More	59	46	53
+2012	Vote by Income	INC100K	WI	Midwest	East North Central	Less Than $100K	79	56	43
+2012	Vote by Income	INC100K	WI	Midwest	East North Central	$100K or More	21	39	59
+2012	Vote by Religion	REL5	WI	Midwest	East North Central	Protestant	45	45	53
+2012	Vote by Religion	REL5	WI	Midwest	East North Central	Catholic	31	44	56
+2012	Vote by Religion	REL5	WI	Midwest	East North Central	Jewish	0		
+2012	Vote by Religion	REL5	WI	Midwest	East North Central	Other	8		
+2012	Vote by Religion	REL5	WI	Midwest	East North Central	None	16	73	25
+2012	Vote by Religion and Race	WHITEREL	WI	Midwest	East North Central	White Protestant	38	40	58
+2012	Vote by Religion and Race	WHITEREL	WI	Midwest	East North Central	White Catholic	29	42	57
+2012	Vote by Religion and Race	WHITEREL	WI	Midwest	East North Central	White Jewish	0		
+2012	Vote by Religion and Race	WHITEREL	WI	Midwest	East North Central	Whites/Other Religion	5		
+2012	Vote by Religion and Race	WHITEREL	WI	Midwest	East North Central	Whites/No Religion	14	71	26
+2012	Vote by Religion and Race	WHITEREL	WI	Midwest	East North Central	Non-white	14	77	19
+2012	Are You White Born-Again Christian?	WHTEVANG	WI	Midwest	East North Central	Yes	24	27	71
+2012	Are You White Born-Again Christian?	WHTEVANG	WI	Midwest	East North Central	No	76	60	38
+2012	Abortion Should Be...	ABORTION	WI	Midwest	East North Central	Always Legal	30	82	15
+2012	Abortion Should Be...	ABORTION	WI	Midwest	East North Central	Mostly Legal	27	61	38
+2012	Abortion Should Be...	ABORTION	WI	Midwest	East North Central	Mostly Illegal	28	26	73
+2012	Abortion Should Be...	ABORTION	WI	Midwest	East North Central	Always Illegal	12	17	81
+2012	Abortion Should Be...	ABORT2	WI	Midwest	East North Central	Legal	57	72	26
+2012	Abortion Should Be...	ABORT2	WI	Midwest	East North Central	Illegal	40	23	76
+2012	Most Important Issue Facing Country	ISSUE12	WI	Midwest	East North Central	Foreign Policy	4		
+2012	Most Important Issue Facing Country	ISSUE12	WI	Midwest	East North Central	Deficit	17	31	69
+2012	Most Important Issue Facing Country	ISSUE12	WI	Midwest	East North Central	Economy	56	49	50
+2012	Most Important Issue Facing Country	ISSUE12	WI	Midwest	East North Central	Health Care	21	77	22
+2012	Most Important Candidate Quality	QLT12	WI	Midwest	East North Central	Shares My Values	26	41	58
+2012	Most Important Candidate Quality	QLT12	WI	Midwest	East North Central	Strong Leader	18	40	60
+2012	Most Important Candidate Quality	QLT12	WI	Midwest	East North Central	Cares About People	24	86	12
+2012	Most Important Candidate Quality	QLT12	WI	Midwest	East North Central	Vision for Future	30	42	58
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	WI	Midwest	East North Central	Housing Market	6		
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	WI	Midwest	East North Central	Unemployment	40	52	47
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	WI	Midwest	East North Central	Taxes	22	39	60
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	WI	Midwest	East North Central	Rising Prices	30	54	44
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	WI	Midwest	East North Central	Expanded	31	94	5
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	WI	Midwest	East North Central	Kept As Is	18	83	17
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	WI	Midwest	East North Central	Repealed In Part	22	28	72
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	WI	Midwest	East North Central	Repealed Completely	24	6	93
+2012	Should 2010 Health Care Law Be Repealed?	HEALTHCARE12B	WI	Midwest	East North Central	No	49	90	10
+2012	Should 2010 Health Care Law Be Repealed?	HEALTHCARE12B	WI	Midwest	East North Central	Yes	46	16	83
+2012	Income Tax Rates Should Be...	TAXINC12	WI	Midwest	East North Central	Increased For All	12	56	42
+2012	Income Tax Rates Should Be...	TAXINC12	WI	Midwest	East North Central	Increased for $250K+	52	75	23
+2012	Income Tax Rates Should Be...	TAXINC12	WI	Midwest	East North Central	Not Increased	32	14	84
+2012	Who Is More In Touch With People Like You?	INTOUCH12	WI	Midwest	East North Central	Obama	53	93	5
+2012	Who Is More In Touch With People Like You?	INTOUCH12	WI	Midwest	East North Central	Romney	45	2	98
+2012	Who Would Better Handle Economy?	HANDLEECON12	WI	Midwest	East North Central	Obama	49	97	1
+2012	Who Would Better Handle Economy?	HANDLEECON12	WI	Midwest	East North Central	Romney	48	3	96
+2012	Who Would Better Handle Medicare?	HANDLEMED12	WI	Midwest	East North Central	Obama	52	94	4
+2012	Who Would Better Handle Medicare?	HANDLEMED12	WI	Midwest	East North Central	Romney	46	2	97
+2012	Who Would Better Handle Deficit?	HANDLEDEF12	WI	Midwest	East North Central	Obama	49	97	1
+2012	Who Would Better Handle Deficit?	HANDLEDEF12	WI	Midwest	East North Central	Romney	48	6	92
+2012	Opinion of Government	GOVTDO10	WI	Midwest	East North Central	Government Should Do More	45	84	15
+2012	Opinion of Government	GOVTDO10	WI	Midwest	East North Central	Government Doing Too Much	50	26	73
+2012	National Economic Conditions	NEC	WI	Midwest	East North Central	Excellent	2		
+2012	National Economic Conditions	NEC	WI	Midwest	East North Central	Good	26	93	7
+2012	National Economic Conditions	NEC	WI	Midwest	East North Central	Not So Good	43	50	49
+2012	National Economic Conditions	NEC	WI	Midwest	East North Central	Poor	28	9	88
+2012	National Economic Conditions	NEC2	WI	Midwest	East North Central	Excellent/Good	28	93	7
+2012	National Economic Conditions	NEC2	WI	Midwest	East North Central	Not So Good/Poor	71	34	64
+2012	U.S. Economic Conditions Are...	ECONBETT	WI	Midwest	East North Central	Getting Better	38	93	7
+2012	U.S. Economic Conditions Are...	ECONBETT	WI	Midwest	East North Central	Getting Worse	33	9	89
+2012	U.S. Economic Conditions Are...	ECONBETT	WI	Midwest	East North Central	Staying About the Same	28	40	59
+2012	U.S. Economic Conditions Are...	ECONDIR	WI	Midwest	East North Central	Getting Better	38	93	7
+2012	U.S. Economic Conditions Are...	ECONDIR	WI	Midwest	East North Central	Good and Staying the Same	5		
+2012	U.S. Economic Conditions Are...	ECONDIR	WI	Midwest	East North Central	Poor and Staying the Same	24	32	67
+2012	U.S. Economic Conditions Are...	ECONDIR	WI	Midwest	East North Central	Getting Worse	33	9	89
+2012	Your Family's Financial Situation	FINSIT	WI	Midwest	East North Central	Better	25	89	11
+2012	Your Family's Financial Situation	FINSIT	WI	Midwest	East North Central	Worse	35	20	80
+2012	Your Family's Financial Situation	FINSIT	WI	Midwest	East North Central	Same	39	62	36
+2012	More to Blame for Current Economic Problems?	ECONBLAME12	WI	Midwest	East North Central	Barack Obama	40	7	93
+2012	More to Blame for Current Economic Problems?	ECONBLAME12	WI	Midwest	East North Central	George W. Bush	55	84	14
+2012	Opinion of Obama Administration	OBAMANG	WI	Midwest	East North Central	Enthusiastic	27	97	3
+2012	Opinion of Obama Administration	OBAMANG	WI	Midwest	East North Central	Satisfied	26	88	11
+2012	Opinion of Obama Administration	OBAMANG	WI	Midwest	East North Central	Dissatisfied	26	9	88
+2012	Opinion of Obama Administration	OBAMANG	WI	Midwest	East North Central	Angry	20	1	98
+2012	Opinion of Obama Administration	OBAMANG2	WI	Midwest	East North Central	Enthusiastic/Satisfied	53	92	7
+2012	Opinion of Obama Administration	OBAMANG2	WI	Midwest	East North Central	Dissatisfied/Angry	45	6	92
+2012	Opinion of Barack Obama	FAVOBAMA2	WI	Midwest	East North Central	Favorable	56	93	7
+2012	Opinion of Barack Obama	FAVOBAMA2	WI	Midwest	East North Central	Unfavorable	42	4	96
+2012	Opinion of Mitt Romney	FAVROMN2	WI	Midwest	East North Central	Favorable	47	8	92
+2012	Opinion of Mitt Romney	FAVROMN2	WI	Midwest	East North Central	Unfavorable	51	97	3
+2012	Do Obama Policies Generally Favor...	OBAMARICH	WI	Midwest	East North Central	Rich	11	11	86
+2012	Do Obama Policies Generally Favor...	OBAMARICH	WI	Midwest	East North Central	Middle Class	48	88	11
+2012	Do Obama Policies Generally Favor...	OBAMARICH	WI	Midwest	East North Central	Poor	32	17	82
+2012	Would Romney Policies Generally Favor...	ROMNRICH	WI	Midwest	East North Central	Rich	54	89	9
+2012	Would Romney Policies Generally Favor...	ROMNRICH	WI	Midwest	East North Central	Middle Class	38	4	95
+2012	Would Romney Policies Generally Favor...	ROMNRICH	WI	Midwest	East North Central	Poor	1		
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	WI	Midwest	East North Central	Strongly Favor	69	52	48
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	WI	Midwest	East North Central	Have Reservations	22	43	54
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	WI	Midwest	East North Central	Dislike Opponent	8		
+2012	When Did You Decide Presidential Vote?	TIME12	WI	Midwest	East North Central	Just Today	5		
+2012	When Did You Decide Presidential Vote?	TIME12	WI	Midwest	East North Central	Last Few Days	5		
+2012	When Did You Decide Presidential Vote?	TIME12	WI	Midwest	East North Central	In October	10	50	46
+2012	When Did You Decide Presidential Vote?	TIME12	WI	Midwest	East North Central	In September	8		
+2012	When Did You Decide Presidential Vote?	TIME12	WI	Midwest	East North Central	Before That	72	56	43
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	WI	Midwest	East North Central	Today/Last Few Days	10	44	53
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	WI	Midwest	East North Central	Before That	89	55	44
+2012	When Did You Decide Presidential Vote?	TIME12MTH	WI	Midwest	East North Central	In October or November	20	47	49
+2012	When Did You Decide Presidential Vote?	TIME12MTH	WI	Midwest	East North Central	Before That	79	56	44
+2012	Vote by Marital Status	MARRIED	WI	Midwest	East North Central	Married	59	45	54
+2012	Vote by Marital Status	MARRIED	WI	Midwest	East North Central	Unmarried	41	61	37
+2012	Vote by Gender and Marital Status	SEXWED	WI	Midwest	East North Central	Married Men	29	41	58
+2012	Vote by Gender and Marital Status	SEXWED	WI	Midwest	East North Central	Married Women	30	50	50
+2012	Vote by Gender and Marital Status	SEXWED	WI	Midwest	East North Central	Unmarried Men	20	55	42
+2012	Vote by Gender and Marital Status	SEXWED	WI	Midwest	East North Central	Unmarried Women	21	67	32
+2012	Any Children Under 18 Living in Your Home?	CHILD12	WI	Midwest	East North Central	Yes	35	48	50
+2012	Any Children Under 18 Living in Your Home?	CHILD12	WI	Midwest	East North Central	No	65	55	43
+2012	Vote by Marital Status and Children	MARCHILD	WI	Midwest	East North Central	Married With Children	25	41	58
+2012	Vote by Marital Status and Children	MARCHILD	WI	Midwest	East North Central	All Others	75	57	42
+2012	Vote by Gender and Children in Household	PARENTS	WI	Midwest	East North Central	Fathers	17	43	54
+2012	Vote by Gender and Children in Household	PARENTS	WI	Midwest	East North Central	Mothers	18	53	46
+2012	Vote by Gender and Children in Household	PARENTS	WI	Midwest	East North Central	Men With No Children	32	51	48
+2012	Vote by Gender and Children in Household	PARENTS	WI	Midwest	East North Central	Women With No Children	33	60	39
+2012	Is Anyone in Household a Union Member?	UNIONHH12	WI	Midwest	East North Central	Yes	21	66	33
+2012	Is Anyone in Household a Union Member?	UNIONHH12	WI	Midwest	East North Central	No	79	50	49
+2012	Gun Owner in Household?	GUNOWNER12	WI	Midwest	East North Central	Yes	55	46	53
+2012	Gun Owner in Household?	GUNOWNER12	WI	Midwest	East North Central	No	45	65	34
+2012	Federal Government Aid to U.S. Automakers	AUTOBAIL12	WI	Midwest	East North Central	Approve	53	79	19
+2012	Federal Government Aid to U.S. Automakers	AUTOBAIL12	WI	Midwest	East North Central	Disapprove	38	17	81
+2012	Opinion of Paul Ryan	FAVRYAN2	WI	Midwest	East North Central	Favorable	51	12	87
+2012	Opinion of Paul Ryan	FAVRYAN2	WI	Midwest	East North Central	Unfavorable	44	93	5
+2012	How Walker is Handling Job as Governor	WALKER2	WI	Midwest	East North Central	Approve	52	18	80
+2012	How Walker is Handling Job as Governor	WALKER2	WI	Midwest	East North Central	Disapprove	46	90	8
+2012	Vote for Senate	SENWI12	WI	Midwest	East North Central	Baldwin	51	94	6
+2012	Vote for Senate	SENWI12	WI	Midwest	East North Central	Thompson	46	7	92
+2012	Vote by Size of Place	SIZEPLC3	WI	Midwest	East North Central	Urban	26	69	29
+2012	Vote by Size of Place	SIZEPLC3	WI	Midwest	East North Central	Suburban	42	47	52
+2012	Vote by Size of Place	SIZEPLC3	WI	Midwest	East North Central	Rural	31	46	53
+2012	Vote by Region	GEOCOD	WI	Midwest	East North Central	Milwaukee County	16	67	32
+2012	Vote by Region	GEOCOD	WI	Midwest	East North Central	Southeastern Wisconsin	28	40	59
+2012	Vote by Region	GEOCOD	WI	Midwest	East North Central	Southwestern Wisconsin	18	64	34
+2012	Vote by Region	GEOCOD	WI	Midwest	East North Central	Northeastern Wisconsin	17	48	50
+2012	Vote by Region	GEOCOD	WI	Midwest	East North Central	Northwestern Wisconsin	21	50	49

@@ -31,8 +31,8 @@ def main():
                 cursor = pgConn.cursor()
                 cursor.execute("delete from temp;")
                 importFile = open(fileDir + '/' + year + '/' + filename, "r+")
-                cursor.copy_from(importFile, 'temp', sep = ',', null="")
-                cursor.commit()
+                cursor.copy_from(importFile, 'temp', sep = '\t', null="")
+                pgConn.commit()
 
                 # merge temp table into primary table
                 # cursor.execute("delete from exit_polls where year = " + year + " and state = " + state + ";")

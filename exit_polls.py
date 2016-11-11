@@ -182,7 +182,7 @@ def saveToCSV(response, state, year):
         d = {}
 
         with open(filename, 'wb') as f:
-            csv_file = csv.writer(f, dialect='excel', encoding='utf-8')
+            csv_file = csv.writer(f, delimiter='\t', dialect='excel', encoding='utf-8')
 
             # header row if needed
             # csv_file.writerow(['year','question','pollname','state','region','subregion','answer','percent','dem','rep'])
@@ -217,10 +217,11 @@ def saveToCSV(response, state, year):
                             candidate = None
 
                         d[item['question']][answer['answer']][candidate] = a['pct'].replace("N/A", u'')
-                        # replace(old, new[, max])
 
-                    csv_file.writerow([str(year),item['question'],item['pollname'],state,state_region,state_subregion,answer['answer'],answer['pct'],d[item['question']][answer['answer']][parties[0]],d[item['question']][answer['answer']][parties[1]]])
+                    csv_file.writerow([str(year),item['question'],item['pollname'],state,state_region,state_subregion,answer['answer'],answer['pct'].replace("N/A", u''),d[item['question']][answer['answer']][parties[0]],d[item['question']][answer['answer']][parties[1]]])
 
 
 
 getGeneralsForAllStates()
+# getGeneralsForStateAndYear("CO", 2012)
+

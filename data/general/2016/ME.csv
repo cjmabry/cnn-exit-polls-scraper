@@ -1,171 +1,171 @@
-2016,Gender,SEX,ME,Northeast,New England,Male,48,41,52
-2016,Gender,SEX,ME,Northeast,New England,Female,52,55,39
-2016,Age,AGE,ME,Northeast,New England,18-29,19,48,43
-2016,Age,AGE,ME,Northeast,New England,30-44,24,42,50
-2016,Age,AGE,ME,Northeast,New England,45-64,38,48,47
-2016,Age,AGE,ME,Northeast,New England,65 and older,19,56,39
-2016,Age,AGE65,ME,Northeast,New England,18-24,11,50,42
-2016,Age,AGE65,ME,Northeast,New England,25-29,8,46,44
-2016,Age,AGE65,ME,Northeast,New England,30-39,16,40,50
-2016,Age,AGE65,ME,Northeast,New England,40-49,17,48,46
-2016,Age,AGE65,ME,Northeast,New England,50-64,29,47,48
-2016,Age,AGE65,ME,Northeast,New England,65 and older,19,56,39
-2016,Age,AGE45,ME,Northeast,New England,18-44,43,44,47
-2016,Age,AGE45,ME,Northeast,New England,45 and older,57,50,44
-2016,Race,RACE,ME,Northeast,New England,White,93,47,46
-2016,Race,RACE,ME,Northeast,New England,Black,1,,
-2016,Race,RACE,ME,Northeast,New England,Latino,2,,
-2016,Race,RACE,ME,Northeast,New England,Asian,1,,
-2016,Race,RACE,ME,Northeast,New England,Other race,2,,
-2016,Race,RACE2B,ME,Northeast,New England,White,93,47,46
-2016,Race,RACE2B,ME,Northeast,New England,Non-white,7,56,33
-2016,Race and gender,SEXBYRACE,ME,Northeast,New England,White men,45,40,53
-2016,Race and gender,SEXBYRACE,ME,Northeast,New England,White women,49,54,39
-2016,Race and gender,SEXBYRACE,ME,Northeast,New England,Black men,1,,
-2016,Race and gender,SEXBYRACE,ME,Northeast,New England,Black women,1,,
-2016,Race and gender,SEXBYRACE,ME,Northeast,New England,Latino men,1,,
-2016,Race and gender,SEXBYRACE,ME,Northeast,New England,Latino women,1,,
-2016,Race and gender,SEXBYRACE,ME,Northeast,New England,Others,3,,
-2016,Education,EDUC12R,ME,Northeast,New England,High school or less,17,31,63
-2016,Education,EDUC12R,ME,Northeast,New England,Some college,33,41,51
-2016,Education,EDUC12R,ME,Northeast,New England,College graduate,30,49,43
-2016,Education,EDUC12R,ME,Northeast,New England,Postgraduate,20,73,22
-2016,Are you a college graduate?,EDUCCOLL,ME,Northeast,New England,Yes,50,58,35
-2016,Are you a college graduate?,EDUCCOLL,ME,Northeast,New England,No,50,38,55
-2016,Education and race,EDUCWHITE,ME,Northeast,New England,White college graduates,47,59,35
-2016,Education and race,EDUCWHITE,ME,Northeast,New England,Whites no degree,47,36,57
-2016,Education and race,EDUCWHITE,ME,Northeast,New England,Non-whites college grads,3,,
-2016,Education and race,EDUCWHITE,ME,Northeast,New England,Non-whites no degree,3,,
-2016,Education among whites by sex,EDUCWHITEBYSEX,ME,Northeast,New England,White college-grad women,27,65,29
-2016,Education among whites by sex,EDUCWHITEBYSEX,ME,Northeast,New England,White non-college women,22,40,52
-2016,Education among whites by sex,EDUCWHITEBYSEX,ME,Northeast,New England,White college-grad men,20,51,42
-2016,Education among whites by sex,EDUCWHITEBYSEX,ME,Northeast,New England,White non-college men,24,33,61
-2016,Education among whites by sex,EDUCWHITEBYSEX,ME,Northeast,New England,Non-whites,6,54,34
-2016,Income,INCOME16GEN,ME,Northeast,New England,"Under $30,000",20,49,42
-2016,Income,INCOME16GEN,ME,Northeast,New England,"$30K-$49,999",19,38,52
-2016,Income,INCOME16GEN,ME,Northeast,New England,"$50K-$99,999",34,50,44
-2016,Income,INCOME16GEN,ME,Northeast,New England,"$100K-$199,999",20,54,43
-2016,Income,INCOME16GEN,ME,Northeast,New England,"$200K-$249,999",3,,
-2016,Income,INCOME16GEN,ME,Northeast,New England,"$250,000 or more",3,,
-2016,Income,INCOME3,ME,Northeast,New England,Under $50K,39,44,47
-2016,Income,INCOME3,ME,Northeast,New England,$50K-$100K,34,50,44
-2016,Income,INCOME3,ME,Northeast,New England,$100K or more,27,55,41
-2016,Income,INC50K,ME,Northeast,New England,Under $50K,39,44,47
-2016,Income,INC50K,ME,Northeast,New England,$50K or more,61,52,43
-2016,Income,INC100K,ME,Northeast,New England,Under $100K,73,47,45
-2016,Income,INC100K,ME,Northeast,New England,$100K or more,27,55,41
-2016,Party ID,PARTY,ME,Northeast,New England,Democrats,31,90,8
-2016,Party ID,PARTY,ME,Northeast,New England,Republicans,30,7,89
-2016,Party ID,PARTY,ME,Northeast,New England,Independents,39,46,41
-2016,Party by gender,PARTYGENDER,ME,Northeast,New England,Democratic men,12,89,10
-2016,Party by gender,PARTYGENDER,ME,Northeast,New England,Democratic women,20,90,7
-2016,Party by gender,PARTYGENDER,ME,Northeast,New England,Republican men,16,6,89
-2016,Party by gender,PARTYGENDER,ME,Northeast,New England,Republican women,13,9,88
-2016,Party by gender,PARTYGENDER,ME,Northeast,New England,Independent men,20,42,45
-2016,Party by gender,PARTYGENDER,ME,Northeast,New England,Independent women,19,50,37
-2016,Ideology,PHIL3,ME,Northeast,New England,Liberal,31,84,8
-2016,Ideology,PHIL3,ME,Northeast,New England,Moderate,40,47,46
-2016,Ideology,PHIL3,ME,Northeast,New England,Conservative,29,11,84
-2016,Marital status,MARRIED,ME,Northeast,New England,Married,58,48,46
-2016,Marital status,MARRIED,ME,Northeast,New England,Unmarried,42,48,44
-2016,Marital status by gender,SEXWED,ME,Northeast,New England,Married men,29,43,51
-2016,Marital status by gender,SEXWED,ME,Northeast,New England,Married women,29,53,41
-2016,Marital status by gender,SEXWED,ME,Northeast,New England,Unmarried men,20,38,54
-2016,Marital status by gender,SEXWED,ME,Northeast,New England,Unmarried women,23,57,35
-2016,When did you decide presidential vote?,TIME16,ME,Northeast,New England,Last few days,16,37,43
-2016,When did you decide presidential vote?,TIME16,ME,Northeast,New England,Last week,6,,
-2016,When did you decide presidential vote?,TIME16,ME,Northeast,New England,In October,8,,
-2016,When did you decide presidential vote?,TIME16,ME,Northeast,New England,In September,8,,
-2016,When did you decide presidential vote?,TIME16,ME,Northeast,New England,Before September,61,55,42
-2016,When did you decide presidential vote?,TIME16WEEK,ME,Northeast,New England,In the last week,22,33,49
-2016,When did you decide presidential vote?,TIME16WEEK,ME,Northeast,New England,Before that,77,52,44
-2016,When did you decide presidential vote?,TIME16MONTH,ME,Northeast,New England,In the last month,31,35,51
-2016,When did you decide presidential vote?,TIME16MONTH,ME,Northeast,New England,Before that,69,54,43
-2016,Opinion of presidential candidate you voted for,DESCRIBP12,ME,Northeast,New England,Strongly favor ,40,50,47
-2016,Opinion of presidential candidate you voted for,DESCRIBP12,ME,Northeast,New England,Have reservations,36,49,47
-2016,Opinion of presidential candidate you voted for,DESCRIBP12,ME,Northeast,New England,Dislike opponents,22,42,39
-2016,Most important issue facing the country,ISSUE16,ME,Northeast,New England,Foreign policy,14,71,18
-2016,Most important issue facing the country,ISSUE16,ME,Northeast,New England,Immigration,11,20,75
-2016,Most important issue facing the country,ISSUE16,ME,Northeast,New England,Economy,50,53,39
-2016,Most important issue facing the country,ISSUE16,ME,Northeast,New England,Terrorism,21,36,60
-2016,Which candidate quality mattered most?,QLT16,ME,Northeast,New England,Cares about me,11,48,39
-2016,Which candidate quality mattered most?,QLT16,ME,Northeast,New England,Can bring change,42,14,81
-2016,Which candidate quality mattered most?,QLT16,ME,Northeast,New England,Right experience,24,91,7
-2016,Which candidate quality mattered most?,QLT16,ME,Northeast,New England,Good judgment,21,71,18
-2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,ME,Northeast,New England,Offered legal status,67,64,29
-2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,ME,Northeast,New England,Deported to home country,31,13,80
-2016,How do things work in the U.S. today?,RACEFACTOR,ME,Northeast,New England,Whites are favored,36,82,13
-2016,How do things work in the U.S. today?,RACEFACTOR,ME,Northeast,New England,Minorities are favored,28,14,80
-2016,How do things work in the U.S. today?,RACEFACTOR,ME,Northeast,New England,No group is favored,33,39,52
-2016,"Concerning illegal drug use, more important to:",CRIMEDRUGS,ME,Northeast,New England,Prosecute drug crimes,31,23,73
-2016,"Concerning illegal drug use, more important to:",CRIMEDRUGS,ME,Northeast,New England,Get treatment for users,65,60,31
-2016,Is climate change a serious problem?,CLIMATECHANGE,ME,Northeast,New England,Yes,77,59,33
-2016,Is climate change a serious problem?,CLIMATECHANGE,ME,Northeast,New England,No,22,9,88
-2016,Feelings about the federal government,GOVTANGR16,ME,Northeast,New England,Enthusiastic,2,,
-2016,Feelings about the federal government,GOVTANGR16,ME,Northeast,New England,Satisfied,21,69,28
-2016,Feelings about the federal government,GOVTANGR16,ME,Northeast,New England,Dissatisfied,54,48,45
-2016,Feelings about the federal government,GOVTANGR16,ME,Northeast,New England,Angry,22,23,65
-2016,Feelings about the federal government,GOVTANGR16B,ME,Northeast,New England,Enthusiastic/Satisfied,23,71,27
-2016,Feelings about the federal government,GOVTANGR16B,ME,Northeast,New England,Dissatisfied/Angry,76,41,51
-2016,Opinion of Barack Obama as president,OBAMA4,ME,Northeast,New England,Strongly approve,32,92,6
-2016,Opinion of Barack Obama as president,OBAMA4,ME,Northeast,New England,Somewhat approve,24,63,23
-2016,Opinion of Barack Obama as president,OBAMA4,ME,Northeast,New England,Somewhat disapprove,16,16,73
-2016,Opinion of Barack Obama as president,OBAMA4,ME,Northeast,New England,Strongly disapprove,28,4,92
-2016,Opinion of Barack Obama as president,OBAMA2,ME,Northeast,New England,Approve,55,79,13
-2016,Opinion of Barack Obama as president,OBAMA2,ME,Northeast,New England,Disapprove,44,8,85
-2016,Opinion of Hillary Clinton,FAVHCLIN16,ME,Northeast,New England,Favorable,41,96,3
-2016,Opinion of Hillary Clinton,FAVHCLIN16,ME,Northeast,New England,Unfavorable,57,13,75
-2016,Opinion of Donald Trump,FAVTRUMP,ME,Northeast,New England,Favorable,37,2,98
-2016,Opinion of Donald Trump,FAVTRUMP,ME,Northeast,New England,Unfavorable,62,76,14
-2016,Opinion of Clinton and Trump,FAVPRES16,ME,Northeast,New England,Both favorable,2,,
-2016,Opinion of Clinton and Trump,FAVPRES16,ME,Northeast,New England,Only Clinton favorable,40,98,1
-2016,Opinion of Clinton and Trump,FAVPRES16,ME,Northeast,New England,Only Trump favorable,35,,99
-2016,Opinion of Clinton and Trump,FAVPRES16,ME,Northeast,New England,Both unfavorable,22,35,37
-2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,ME,Northeast,New England,Yes,30,97,2
-2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,ME,Northeast,New England,No,67,25,66
-2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,ME,Northeast,New England,Yes,32,5,94
-2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,ME,Northeast,New England,No,67,69,21
-2016,Which candidate is honest?,HONEST16,ME,Northeast,New England,Both are,2,,
-2016,Which candidate is honest?,HONEST16,ME,Northeast,New England,Only Clinton is,28,99,1
-2016,Which candidate is honest?,HONEST16,ME,Northeast,New England,Only Trump is,31,1,98
-2016,Which candidate is honest?,HONEST16,ME,Northeast,New England,Neither is,36,45,38
-2016,Is Clinton qualified to serve as president?,QUALCLINTON,ME,Northeast,New England,Yes,53,87,9
-2016,Is Clinton qualified to serve as president?,QUALCLINTON,ME,Northeast,New England,No,46,5,85
-2016,Is Trump qualified to serve as president?,QUALTRUMP,ME,Northeast,New England,Yes,37,4,95
-2016,Is Trump qualified to serve as president?,QUALTRUMP,ME,Northeast,New England,No,61,76,14
-2016,Who is qualified to serve as president?,QUALIFIED16,ME,Northeast,New England,Both are,6,,
-2016,Who is qualified to serve as president?,QUALIFIED16,ME,Northeast,New England,Only Clinton is,47,94,1
-2016,Who is qualified to serve as president?,QUALIFIED16,ME,Northeast,New England,Only Trump is,32,0,99
-2016,Who is qualified to serve as president?,QUALIFIED16,ME,Northeast,New England,Neither is,15,16,55
-2016,Does Clinton have the temperament to be president?,TEMPCLINTON,ME,Northeast,New England,Yes,53,84,10
-2016,Does Clinton have the temperament to be president?,TEMPCLINTON,ME,Northeast,New England,No,46,6,85
-2016,Does Trump have the temperament to be president?,TEMPTRUMP,ME,Northeast,New England,Yes,35,4,96
-2016,Does Trump have the temperament to be president?,TEMPTRUMP,ME,Northeast,New England,No,64,72,17
-2016,Which candidate has the right temperament?,TEMPERAMENT16,ME,Northeast,New England,Both do,4,,
-2016,Which candidate has the right temperament?,TEMPERAMENT16,ME,Northeast,New England,Only Clinton does,49,90,4
-2016,Which candidate has the right temperament?,TEMPERAMENT16,ME,Northeast,New England,Only Trump does,31,1,98
-2016,Which candidate has the right temperament?,TEMPERAMENT16,ME,Northeast,New England,Neither does,15,16,59
-2016,Who would better handle the economy?,HANDLEECON16,ME,Northeast,New England,Clinton,48,94,2
-2016,Who would better handle the economy?,HANDLEECON16,ME,Northeast,New England,Trump,49,6,89
-2016,Who would better handle foreign policy?,HANDLEFP16,ME,Northeast,New England,Clinton,59,81,14
-2016,Who would better handle foreign policy?,HANDLEFP16,ME,Northeast,New England,Trump,38,2,96
-2016,Condition of national economy,NEC,ME,Northeast,New England,Excellent,2,,
-2016,Condition of national economy,NEC,ME,Northeast,New England,Good,36,74,20
-2016,Condition of national economy,NEC,ME,Northeast,New England,Not good,44,36,56
-2016,Condition of national economy,NEC,ME,Northeast,New England,Poor,17,17,74
-2016,Condition of national economy,NEC2,ME,Northeast,New England,Good,38,75,20
-2016,Condition of national economy,NEC2,ME,Northeast,New England,Poor,61,31,61
-2016,Financial situation compared to four years ago:,FINSIT,ME,Northeast,New England,Better today,32,60,34
-2016,Financial situation compared to four years ago:,FINSIT,ME,Northeast,New England,Worse today,28,30,62
-2016,Financial situation compared to four years ago:,FINSIT,ME,Northeast,New England,About the same,39,49,43
-2016,Life for the next generation of Americans will be:,LIFE,ME,Northeast,New England,Better than today,35,55,42
-2016,Life for the next generation of Americans will be:,LIFE,ME,Northeast,New England,Worse than today,33,33,57
-2016,Life for the next generation of Americans will be:,LIFE,ME,Northeast,New England,About the same,29,57,35
-2016,Opinion of Paul LePage as governor,LEPAGEAPP2,ME,Northeast,New England,Approve,41,11,83
-2016,Opinion of Paul LePage as governor,LEPAGEAPP2,ME,Northeast,New England,Disapprove,57,74,18
-2016,Vote for president in a two-way race,2WAYPRES16,ME,Northeast,New England,Clinton,48,96,0
-2016,Vote for president in a two-way race,2WAYPRES16,ME,Northeast,New England,Trump,44,2,97
-2016,Vote for president in a two-way race,2WAYPRES16,ME,Northeast,New England,Would not vote,6,,
-2016,Area type,SIZEPLC3,ME,Northeast,New England,Urban area,6,82,10
-2016,Area type,SIZEPLC3,ME,Northeast,New England,Suburban area,51,46,48
-2016,Area type,SIZEPLC3,ME,Northeast,New England,Rural area,43,45,47
+2016	Gender	SEX	ME	Northeast	New England	Male	48	41	52
+2016	Gender	SEX	ME	Northeast	New England	Female	52	55	39
+2016	Age	AGE	ME	Northeast	New England	18-29	19	48	43
+2016	Age	AGE	ME	Northeast	New England	30-44	24	42	50
+2016	Age	AGE	ME	Northeast	New England	45-64	38	48	47
+2016	Age	AGE	ME	Northeast	New England	65 and older	19	56	39
+2016	Age	AGE65	ME	Northeast	New England	18-24	11	50	42
+2016	Age	AGE65	ME	Northeast	New England	25-29	8	46	44
+2016	Age	AGE65	ME	Northeast	New England	30-39	16	40	50
+2016	Age	AGE65	ME	Northeast	New England	40-49	17	48	46
+2016	Age	AGE65	ME	Northeast	New England	50-64	29	47	48
+2016	Age	AGE65	ME	Northeast	New England	65 and older	19	56	39
+2016	Age	AGE45	ME	Northeast	New England	18-44	43	44	47
+2016	Age	AGE45	ME	Northeast	New England	45 and older	57	50	44
+2016	Race	RACE	ME	Northeast	New England	White	93	47	46
+2016	Race	RACE	ME	Northeast	New England	Black	1		
+2016	Race	RACE	ME	Northeast	New England	Latino	2		
+2016	Race	RACE	ME	Northeast	New England	Asian	1		
+2016	Race	RACE	ME	Northeast	New England	Other race	2		
+2016	Race	RACE2B	ME	Northeast	New England	White	93	47	46
+2016	Race	RACE2B	ME	Northeast	New England	Non-white	7	56	33
+2016	Race and gender	SEXBYRACE	ME	Northeast	New England	White men	45	40	53
+2016	Race and gender	SEXBYRACE	ME	Northeast	New England	White women	49	54	39
+2016	Race and gender	SEXBYRACE	ME	Northeast	New England	Black men	1		
+2016	Race and gender	SEXBYRACE	ME	Northeast	New England	Black women	1		
+2016	Race and gender	SEXBYRACE	ME	Northeast	New England	Latino men	1		
+2016	Race and gender	SEXBYRACE	ME	Northeast	New England	Latino women	1		
+2016	Race and gender	SEXBYRACE	ME	Northeast	New England	Others	3		
+2016	Education	EDUC12R	ME	Northeast	New England	High school or less	17	31	63
+2016	Education	EDUC12R	ME	Northeast	New England	Some college	33	41	51
+2016	Education	EDUC12R	ME	Northeast	New England	College graduate	30	49	43
+2016	Education	EDUC12R	ME	Northeast	New England	Postgraduate	20	73	22
+2016	Are you a college graduate?	EDUCCOLL	ME	Northeast	New England	Yes	50	58	35
+2016	Are you a college graduate?	EDUCCOLL	ME	Northeast	New England	No	50	38	55
+2016	Education and race	EDUCWHITE	ME	Northeast	New England	White college graduates	47	59	35
+2016	Education and race	EDUCWHITE	ME	Northeast	New England	Whites no degree	47	36	57
+2016	Education and race	EDUCWHITE	ME	Northeast	New England	Non-whites college grads	3		
+2016	Education and race	EDUCWHITE	ME	Northeast	New England	Non-whites no degree	3		
+2016	Education among whites by sex	EDUCWHITEBYSEX	ME	Northeast	New England	White college-grad women	27	65	29
+2016	Education among whites by sex	EDUCWHITEBYSEX	ME	Northeast	New England	White non-college women	22	40	52
+2016	Education among whites by sex	EDUCWHITEBYSEX	ME	Northeast	New England	White college-grad men	20	51	42
+2016	Education among whites by sex	EDUCWHITEBYSEX	ME	Northeast	New England	White non-college men	24	33	61
+2016	Education among whites by sex	EDUCWHITEBYSEX	ME	Northeast	New England	Non-whites	6	54	34
+2016	Income	INCOME16GEN	ME	Northeast	New England	Under $30,000	20	49	42
+2016	Income	INCOME16GEN	ME	Northeast	New England	$30K-$49,999	19	38	52
+2016	Income	INCOME16GEN	ME	Northeast	New England	$50K-$99,999	34	50	44
+2016	Income	INCOME16GEN	ME	Northeast	New England	$100K-$199,999	20	54	43
+2016	Income	INCOME16GEN	ME	Northeast	New England	$200K-$249,999	3		
+2016	Income	INCOME16GEN	ME	Northeast	New England	$250,000 or more	3		
+2016	Income	INCOME3	ME	Northeast	New England	Under $50K	39	44	47
+2016	Income	INCOME3	ME	Northeast	New England	$50K-$100K	34	50	44
+2016	Income	INCOME3	ME	Northeast	New England	$100K or more	27	55	41
+2016	Income	INC50K	ME	Northeast	New England	Under $50K	39	44	47
+2016	Income	INC50K	ME	Northeast	New England	$50K or more	61	52	43
+2016	Income	INC100K	ME	Northeast	New England	Under $100K	73	47	45
+2016	Income	INC100K	ME	Northeast	New England	$100K or more	27	55	41
+2016	Party ID	PARTY	ME	Northeast	New England	Democrats	31	90	8
+2016	Party ID	PARTY	ME	Northeast	New England	Republicans	30	7	89
+2016	Party ID	PARTY	ME	Northeast	New England	Independents	39	46	41
+2016	Party by gender	PARTYGENDER	ME	Northeast	New England	Democratic men	12	89	10
+2016	Party by gender	PARTYGENDER	ME	Northeast	New England	Democratic women	20	90	7
+2016	Party by gender	PARTYGENDER	ME	Northeast	New England	Republican men	16	6	89
+2016	Party by gender	PARTYGENDER	ME	Northeast	New England	Republican women	13	9	88
+2016	Party by gender	PARTYGENDER	ME	Northeast	New England	Independent men	20	42	45
+2016	Party by gender	PARTYGENDER	ME	Northeast	New England	Independent women	19	50	37
+2016	Ideology	PHIL3	ME	Northeast	New England	Liberal	31	84	8
+2016	Ideology	PHIL3	ME	Northeast	New England	Moderate	40	47	46
+2016	Ideology	PHIL3	ME	Northeast	New England	Conservative	29	11	84
+2016	Marital status	MARRIED	ME	Northeast	New England	Married	58	48	46
+2016	Marital status	MARRIED	ME	Northeast	New England	Unmarried	42	48	44
+2016	Marital status by gender	SEXWED	ME	Northeast	New England	Married men	29	43	51
+2016	Marital status by gender	SEXWED	ME	Northeast	New England	Married women	29	53	41
+2016	Marital status by gender	SEXWED	ME	Northeast	New England	Unmarried men	20	38	54
+2016	Marital status by gender	SEXWED	ME	Northeast	New England	Unmarried women	23	57	35
+2016	When did you decide presidential vote?	TIME16	ME	Northeast	New England	Last few days	16	37	43
+2016	When did you decide presidential vote?	TIME16	ME	Northeast	New England	Last week	6		
+2016	When did you decide presidential vote?	TIME16	ME	Northeast	New England	In October	8		
+2016	When did you decide presidential vote?	TIME16	ME	Northeast	New England	In September	8		
+2016	When did you decide presidential vote?	TIME16	ME	Northeast	New England	Before September	61	55	42
+2016	When did you decide presidential vote?	TIME16WEEK	ME	Northeast	New England	In the last week	22	33	49
+2016	When did you decide presidential vote?	TIME16WEEK	ME	Northeast	New England	Before that	77	52	44
+2016	When did you decide presidential vote?	TIME16MONTH	ME	Northeast	New England	In the last month	31	35	51
+2016	When did you decide presidential vote?	TIME16MONTH	ME	Northeast	New England	Before that	69	54	43
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	ME	Northeast	New England	Strongly favor 	40	50	47
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	ME	Northeast	New England	Have reservations	36	49	47
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	ME	Northeast	New England	Dislike opponents	22	42	39
+2016	Most important issue facing the country	ISSUE16	ME	Northeast	New England	Foreign policy	14	71	18
+2016	Most important issue facing the country	ISSUE16	ME	Northeast	New England	Immigration	11	20	75
+2016	Most important issue facing the country	ISSUE16	ME	Northeast	New England	Economy	50	53	39
+2016	Most important issue facing the country	ISSUE16	ME	Northeast	New England	Terrorism	21	36	60
+2016	Which candidate quality mattered most?	QLT16	ME	Northeast	New England	Cares about me	11	48	39
+2016	Which candidate quality mattered most?	QLT16	ME	Northeast	New England	Can bring change	42	14	81
+2016	Which candidate quality mattered most?	QLT16	ME	Northeast	New England	Right experience	24	91	7
+2016	Which candidate quality mattered most?	QLT16	ME	Northeast	New England	Good judgment	21	71	18
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	ME	Northeast	New England	Offered legal status	67	64	29
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	ME	Northeast	New England	Deported to home country	31	13	80
+2016	How do things work in the U.S. today?	RACEFACTOR	ME	Northeast	New England	Whites are favored	36	82	13
+2016	How do things work in the U.S. today?	RACEFACTOR	ME	Northeast	New England	Minorities are favored	28	14	80
+2016	How do things work in the U.S. today?	RACEFACTOR	ME	Northeast	New England	No group is favored	33	39	52
+2016	Concerning illegal drug use, more important to:	CRIMEDRUGS	ME	Northeast	New England	Prosecute drug crimes	31	23	73
+2016	Concerning illegal drug use, more important to:	CRIMEDRUGS	ME	Northeast	New England	Get treatment for users	65	60	31
+2016	Is climate change a serious problem?	CLIMATECHANGE	ME	Northeast	New England	Yes	77	59	33
+2016	Is climate change a serious problem?	CLIMATECHANGE	ME	Northeast	New England	No	22	9	88
+2016	Feelings about the federal government	GOVTANGR16	ME	Northeast	New England	Enthusiastic	2		
+2016	Feelings about the federal government	GOVTANGR16	ME	Northeast	New England	Satisfied	21	69	28
+2016	Feelings about the federal government	GOVTANGR16	ME	Northeast	New England	Dissatisfied	54	48	45
+2016	Feelings about the federal government	GOVTANGR16	ME	Northeast	New England	Angry	22	23	65
+2016	Feelings about the federal government	GOVTANGR16B	ME	Northeast	New England	Enthusiastic/Satisfied	23	71	27
+2016	Feelings about the federal government	GOVTANGR16B	ME	Northeast	New England	Dissatisfied/Angry	76	41	51
+2016	Opinion of Barack Obama as president	OBAMA4	ME	Northeast	New England	Strongly approve	32	92	6
+2016	Opinion of Barack Obama as president	OBAMA4	ME	Northeast	New England	Somewhat approve	24	63	23
+2016	Opinion of Barack Obama as president	OBAMA4	ME	Northeast	New England	Somewhat disapprove	16	16	73
+2016	Opinion of Barack Obama as president	OBAMA4	ME	Northeast	New England	Strongly disapprove	28	4	92
+2016	Opinion of Barack Obama as president	OBAMA2	ME	Northeast	New England	Approve	55	79	13
+2016	Opinion of Barack Obama as president	OBAMA2	ME	Northeast	New England	Disapprove	44	8	85
+2016	Opinion of Hillary Clinton	FAVHCLIN16	ME	Northeast	New England	Favorable	41	96	3
+2016	Opinion of Hillary Clinton	FAVHCLIN16	ME	Northeast	New England	Unfavorable	57	13	75
+2016	Opinion of Donald Trump	FAVTRUMP	ME	Northeast	New England	Favorable	37	2	98
+2016	Opinion of Donald Trump	FAVTRUMP	ME	Northeast	New England	Unfavorable	62	76	14
+2016	Opinion of Clinton and Trump	FAVPRES16	ME	Northeast	New England	Both favorable	2		
+2016	Opinion of Clinton and Trump	FAVPRES16	ME	Northeast	New England	Only Clinton favorable	40	98	1
+2016	Opinion of Clinton and Trump	FAVPRES16	ME	Northeast	New England	Only Trump favorable	35		99
+2016	Opinion of Clinton and Trump	FAVPRES16	ME	Northeast	New England	Both unfavorable	22	35	37
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	ME	Northeast	New England	Yes	30	97	2
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	ME	Northeast	New England	No	67	25	66
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	ME	Northeast	New England	Yes	32	5	94
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	ME	Northeast	New England	No	67	69	21
+2016	Which candidate is honest?	HONEST16	ME	Northeast	New England	Both are	2		
+2016	Which candidate is honest?	HONEST16	ME	Northeast	New England	Only Clinton is	28	99	1
+2016	Which candidate is honest?	HONEST16	ME	Northeast	New England	Only Trump is	31	1	98
+2016	Which candidate is honest?	HONEST16	ME	Northeast	New England	Neither is	36	45	38
+2016	Is Clinton qualified to serve as president?	QUALCLINTON	ME	Northeast	New England	Yes	53	87	9
+2016	Is Clinton qualified to serve as president?	QUALCLINTON	ME	Northeast	New England	No	46	5	85
+2016	Is Trump qualified to serve as president?	QUALTRUMP	ME	Northeast	New England	Yes	37	4	95
+2016	Is Trump qualified to serve as president?	QUALTRUMP	ME	Northeast	New England	No	61	76	14
+2016	Who is qualified to serve as president?	QUALIFIED16	ME	Northeast	New England	Both are	6		
+2016	Who is qualified to serve as president?	QUALIFIED16	ME	Northeast	New England	Only Clinton is	47	94	1
+2016	Who is qualified to serve as president?	QUALIFIED16	ME	Northeast	New England	Only Trump is	32	0	99
+2016	Who is qualified to serve as president?	QUALIFIED16	ME	Northeast	New England	Neither is	15	16	55
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	ME	Northeast	New England	Yes	53	84	10
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	ME	Northeast	New England	No	46	6	85
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	ME	Northeast	New England	Yes	35	4	96
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	ME	Northeast	New England	No	64	72	17
+2016	Which candidate has the right temperament?	TEMPERAMENT16	ME	Northeast	New England	Both do	4		
+2016	Which candidate has the right temperament?	TEMPERAMENT16	ME	Northeast	New England	Only Clinton does	49	90	4
+2016	Which candidate has the right temperament?	TEMPERAMENT16	ME	Northeast	New England	Only Trump does	31	1	98
+2016	Which candidate has the right temperament?	TEMPERAMENT16	ME	Northeast	New England	Neither does	15	16	59
+2016	Who would better handle the economy?	HANDLEECON16	ME	Northeast	New England	Clinton	48	94	2
+2016	Who would better handle the economy?	HANDLEECON16	ME	Northeast	New England	Trump	49	6	89
+2016	Who would better handle foreign policy?	HANDLEFP16	ME	Northeast	New England	Clinton	59	81	14
+2016	Who would better handle foreign policy?	HANDLEFP16	ME	Northeast	New England	Trump	38	2	96
+2016	Condition of national economy	NEC	ME	Northeast	New England	Excellent	2		
+2016	Condition of national economy	NEC	ME	Northeast	New England	Good	36	74	20
+2016	Condition of national economy	NEC	ME	Northeast	New England	Not good	44	36	56
+2016	Condition of national economy	NEC	ME	Northeast	New England	Poor	17	17	74
+2016	Condition of national economy	NEC2	ME	Northeast	New England	Good	38	75	20
+2016	Condition of national economy	NEC2	ME	Northeast	New England	Poor	61	31	61
+2016	Financial situation compared to four years ago:	FINSIT	ME	Northeast	New England	Better today	32	60	34
+2016	Financial situation compared to four years ago:	FINSIT	ME	Northeast	New England	Worse today	28	30	62
+2016	Financial situation compared to four years ago:	FINSIT	ME	Northeast	New England	About the same	39	49	43
+2016	Life for the next generation of Americans will be:	LIFE	ME	Northeast	New England	Better than today	35	55	42
+2016	Life for the next generation of Americans will be:	LIFE	ME	Northeast	New England	Worse than today	33	33	57
+2016	Life for the next generation of Americans will be:	LIFE	ME	Northeast	New England	About the same	29	57	35
+2016	Opinion of Paul LePage as governor	LEPAGEAPP2	ME	Northeast	New England	Approve	41	11	83
+2016	Opinion of Paul LePage as governor	LEPAGEAPP2	ME	Northeast	New England	Disapprove	57	74	18
+2016	Vote for president in a two-way race	2WAYPRES16	ME	Northeast	New England	Clinton	48	96	0
+2016	Vote for president in a two-way race	2WAYPRES16	ME	Northeast	New England	Trump	44	2	97
+2016	Vote for president in a two-way race	2WAYPRES16	ME	Northeast	New England	Would not vote	6		
+2016	Area type	SIZEPLC3	ME	Northeast	New England	Urban area	6	82	10
+2016	Area type	SIZEPLC3	ME	Northeast	New England	Suburban area	51	46	48
+2016	Area type	SIZEPLC3	ME	Northeast	New England	Rural area	43	45	47

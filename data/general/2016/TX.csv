@@ -1,184 +1,184 @@
-2016,Gender,SEX,TX,South,West South Central,Male,46,37,58
-2016,Gender,SEX,TX,South,West South Central,Female,54,49,48
-2016,Age,AGE,TX,South,West South Central,18-29,18,55,36
-2016,Age,AGE,TX,South,West South Central,30-44,29,46,48
-2016,Age,AGE,TX,South,West South Central,45-64,39,39,59
-2016,Age,AGE,TX,South,West South Central,65 and older,15,36,64
-2016,Age,AGE65,TX,South,West South Central,18-24,10,58,32
-2016,Age,AGE65,TX,South,West South Central,25-29,8,51,41
-2016,Age,AGE65,TX,South,West South Central,30-39,19,46,47
-2016,Age,AGE65,TX,South,West South Central,40-49,20,41,55
-2016,Age,AGE65,TX,South,West South Central,50-64,28,39,59
-2016,Age,AGE65,TX,South,West South Central,65 and older,15,36,64
-2016,Age,AGE45,TX,South,West South Central,18-44,46,49,44
-2016,Age,AGE45,TX,South,West South Central,45 and older,54,38,60
-2016,Race,RACE,TX,South,West South Central,White,57,26,69
-2016,Race,RACE,TX,South,West South Central,Black,11,85,11
-2016,Race,RACE,TX,South,West South Central,Latino,24,61,34
-2016,Race,RACE,TX,South,West South Central,Asian,5,73,27
-2016,Race,RACE,TX,South,West South Central,Other race,3,,
-2016,Race,RACE2B,TX,South,West South Central,White,57,26,69
-2016,Race,RACE2B,TX,South,West South Central,Non-white,43,67,29
-2016,Race and gender,SEXBYRACE,TX,South,West South Central,White men,27,23,72
-2016,Race and gender,SEXBYRACE,TX,South,West South Central,White women,30,29,66
-2016,Race and gender,SEXBYRACE,TX,South,West South Central,Black men,4,79,14
-2016,Race and gender,SEXBYRACE,TX,South,West South Central,Black women,6,88,9
-2016,Race and gender,SEXBYRACE,TX,South,West South Central,Latino men,11,53,41
-2016,Race and gender,SEXBYRACE,TX,South,West South Central,Latino women,13,69,28
-2016,Race and gender,SEXBYRACE,TX,South,West South Central,Others,8,58,40
-2016,Education,EDUC12R,TX,South,West South Central,High school or less,17,49,49
-2016,Education,EDUC12R,TX,South,West South Central,Some college,32,41,55
-2016,Education,EDUC12R,TX,South,West South Central,College graduate,34,41,53
-2016,Education,EDUC12R,TX,South,West South Central,Postgraduate,17,48,48
-2016,Are you a college graduate?,EDUCCOLL,TX,South,West South Central,Yes,51,43,52
-2016,Are you a college graduate?,EDUCCOLL,TX,South,West South Central,No,49,44,53
-2016,Education and race,EDUCWHITE,TX,South,West South Central,White college graduates,31,31,63
-2016,Education and race,EDUCWHITE,TX,South,West South Central,Whites no degree,26,21,76
-2016,Education and race,EDUCWHITE,TX,South,West South Central,Non-whites college grads,20,62,34
-2016,Education and race,EDUCWHITE,TX,South,West South Central,Non-whites no degree,23,71,25
-2016,Education among whites by sex,EDUCWHITEBYSEX,TX,South,West South Central,White college-grad women,16,35,59
-2016,Education among whites by sex,EDUCWHITEBYSEX,TX,South,West South Central,White non-college women,14,23,74
-2016,Education among whites by sex,EDUCWHITEBYSEX,TX,South,West South Central,White college-grad men,14,27,67
-2016,Education among whites by sex,EDUCWHITEBYSEX,TX,South,West South Central,White non-college men,12,19,78
-2016,Education among whites by sex,EDUCWHITEBYSEX,TX,South,West South Central,Non-whites,43,67,29
-2016,Income,INCOME16GEN,TX,South,West South Central,"Under $30,000",13,58,35
-2016,Income,INCOME16GEN,TX,South,West South Central,"$30K-$49,999",17,45,52
-2016,Income,INCOME16GEN,TX,South,West South Central,"$50K-$99,999",31,46,50
-2016,Income,INCOME16GEN,TX,South,West South Central,"$100K-$199,999",26,45,49
-2016,Income,INCOME16GEN,TX,South,West South Central,"$200K-$249,999",4,,
-2016,Income,INCOME16GEN,TX,South,West South Central,"$250,000 or more",9,,
-2016,Income,INCOME3,TX,South,West South Central,Under $50K,30,50,45
-2016,Income,INCOME3,TX,South,West South Central,$50K-$100K,31,46,50
-2016,Income,INCOME3,TX,South,West South Central,$100K or more,39,41,53
-2016,Income,INC50K,TX,South,West South Central,Under $50K,30,50,45
-2016,Income,INC50K,TX,South,West South Central,$50K or more,70,43,52
-2016,Income,INC100K,TX,South,West South Central,Under $100K,61,48,47
-2016,Income,INC100K,TX,South,West South Central,$100K or more,39,41,53
-2016,Party ID,PARTY,TX,South,West South Central,Democrats,29,93,5
-2016,Party ID,PARTY,TX,South,West South Central,Republicans,38,9,88
-2016,Party ID,PARTY,TX,South,West South Central,Independents,33,39,53
-2016,Party by gender,PARTYGENDER,TX,South,West South Central,Democratic men,11,91,7
-2016,Party by gender,PARTYGENDER,TX,South,West South Central,Democratic women,18,94,4
-2016,Party by gender,PARTYGENDER,TX,South,West South Central,Republican men,17,9,87
-2016,Party by gender,PARTYGENDER,TX,South,West South Central,Republican women,21,9,89
-2016,Party by gender,PARTYGENDER,TX,South,West South Central,Independent men,18,31,60
-2016,Party by gender,PARTYGENDER,TX,South,West South Central,Independent women,15,48,44
-2016,Ideology,PHIL3,TX,South,West South Central,Liberal,20,81,12
-2016,Ideology,PHIL3,TX,South,West South Central,Moderate,36,55,39
-2016,Ideology,PHIL3,TX,South,West South Central,Conservative,44,15,82
-2016,White born-again or evangelical Christian?,WHTEVANG,TX,South,West South Central,Yes,28,12,85
-2016,White born-again or evangelical Christian?,WHTEVANG,TX,South,West South Central,No,72,56,40
-2016,When did you decide presidential vote?,TIME16,TX,South,West South Central,Last few days,4,49,44
-2016,When did you decide presidential vote?,TIME16,TX,South,West South Central,Last week,5,,
-2016,When did you decide presidential vote?,TIME16,TX,South,West South Central,In October,14,50,48
-2016,When did you decide presidential vote?,TIME16,TX,South,West South Central,In September,13,44,51
-2016,When did you decide presidential vote?,TIME16,TX,South,West South Central,Before September,61,45,52
-2016,When did you decide presidential vote?,TIME16WEEK,TX,South,West South Central,In the last week,10,41,48
-2016,When did you decide presidential vote?,TIME16WEEK,TX,South,West South Central,Before that,88,45,51
-2016,When did you decide presidential vote?,TIME16MONTH,TX,South,West South Central,In the last month,24,46,48
-2016,When did you decide presidential vote?,TIME16MONTH,TX,South,West South Central,Before that,74,45,52
-2016,Opinion of presidential candidate you voted for,DESCRIBP12,TX,South,West South Central,Strongly favor ,38,49,49
-2016,Opinion of presidential candidate you voted for,DESCRIBP12,TX,South,West South Central,Have reservations,26,41,56
-2016,Opinion of presidential candidate you voted for,DESCRIBP12,TX,South,West South Central,Dislike opponents,34,40,51
-2016,Most important issue facing the country,ISSUE16,TX,South,West South Central,Foreign policy,13,55,38
-2016,Most important issue facing the country,ISSUE16,TX,South,West South Central,Immigration,13,41,58
-2016,Most important issue facing the country,ISSUE16,TX,South,West South Central,Economy,49,47,46
-2016,Most important issue facing the country,ISSUE16,TX,South,West South Central,Terrorism,21,35,63
-2016,Which candidate quality mattered most?,QLT16,TX,South,West South Central,Cares about me,14,44,50
-2016,Which candidate quality mattered most?,QLT16,TX,South,West South Central,Can bring change,34,12,84
-2016,Which candidate quality mattered most?,QLT16,TX,South,West South Central,Right experience,24,85,14
-2016,Which candidate quality mattered most?,QLT16,TX,South,West South Central,Good judgment,23,57,36
-2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,TX,South,West South Central,Offered legal status,71,53,42
-2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,TX,South,West South Central,Deported to home country,22,9,90
-2016,View of U.S. wall along the entire Mexican border,IMMWALL,TX,South,West South Central,Support,44,10,89
-2016,View of U.S. wall along the entire Mexican border,IMMWALL,TX,South,West South Central,Oppose,49,75,17
-2016,Do you think immigrants to the U.S. today:,IMMBETTER,TX,South,West South Central,Help the country,55,64,29
-2016,Do you think immigrants to the U.S. today:,IMMBETTER,TX,South,West South Central,Hurt the country,31,13,85
-2016,How do things work in the U.S. today?,RACEFACTOR,TX,South,West South Central,Whites are favored,35,74,17
-2016,How do things work in the U.S. today?,RACEFACTOR,TX,South,West South Central,Minorities are favored,16,5,93
-2016,How do things work in the U.S. today?,RACEFACTOR,TX,South,West South Central,No group is favored,41,34,63
-2016,Does the country's criminal justice system:,FAIRJUSTICE,TX,South,West South Central,Treat all fairly,43,22,75
-2016,Does the country's criminal justice system:,FAIRJUSTICE,TX,South,West South Central,Treat blacks unfairly,45,63,32
-2016,Feelings about the federal government,GOVTANGR16,TX,South,West South Central,Enthusiastic,3,,
-2016,Feelings about the federal government,GOVTANGR16,TX,South,West South Central,Satisfied,21,78,15
-2016,Feelings about the federal government,GOVTANGR16,TX,South,West South Central,Dissatisfied,46,41,53
-2016,Feelings about the federal government,GOVTANGR16,TX,South,West South Central,Angry,27,12,86
-2016,Feelings about the federal government,GOVTANGR16B,TX,South,West South Central,Enthusiastic/Satisfied,25,80,14
-2016,Feelings about the federal government,GOVTANGR16B,TX,South,West South Central,Dissatisfied/Angry,73,30,65
-2016,Opinion of Barack Obama as president,OBAMA4,TX,South,West South Central,Strongly approve,30,96,2
-2016,Opinion of Barack Obama as president,OBAMA4,TX,South,West South Central,Somewhat approve,19,68,24
-2016,Opinion of Barack Obama as president,OBAMA4,TX,South,West South Central,Somewhat disapprove,13,21,70
-2016,Opinion of Barack Obama as president,OBAMA4,TX,South,West South Central,Strongly disapprove,38,2,96
-2016,Opinion of Barack Obama as president,OBAMA2,TX,South,West South Central,Approve,49,85,11
-2016,Opinion of Barack Obama as president,OBAMA2,TX,South,West South Central,Disapprove,51,6,89
-2016,Opinion of Hillary Clinton,FAVHCLIN16,TX,South,West South Central,Favorable,41,97,3
-2016,Opinion of Hillary Clinton,FAVHCLIN16,TX,South,West South Central,Unfavorable,57,8,85
-2016,Opinion of Donald Trump,FAVTRUMP,TX,South,West South Central,Favorable,39,3,96
-2016,Opinion of Donald Trump,FAVTRUMP,TX,South,West South Central,Unfavorable,59,74,19
-2016,Opinion of Clinton and Trump,FAVPRES16,TX,South,West South Central,Both favorable,2,,
-2016,Opinion of Clinton and Trump,FAVPRES16,TX,South,West South Central,Only Clinton favorable,39,99,0
-2016,Opinion of Clinton and Trump,FAVPRES16,TX,South,West South Central,Only Trump favorable,37,1,98
-2016,Opinion of Clinton and Trump,FAVPRES16,TX,South,West South Central,Both unfavorable,19,22,59
-2016,Opinion of Ted Cruz,FAVCRUZ,TX,South,West South Central,Favorable,41,22,75
-2016,Opinion of Ted Cruz,FAVCRUZ,TX,South,West South Central,Unfavorable,51,60,35
-2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,TX,South,West South Central,Yes,30,96,3
-2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,TX,South,West South Central,No,68,19,75
-2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,TX,South,West South Central,Yes,40,5,94
-2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,TX,South,West South Central,No,58,71,22
-2016,Which candidate is honest?,HONEST16,TX,South,West South Central,Both are,2,,
-2016,Which candidate is honest?,HONEST16,TX,South,West South Central,Only Clinton is,28,98,0
-2016,Which candidate is honest?,HONEST16,TX,South,West South Central,Only Trump is,38,1,98
-2016,Which candidate is honest?,HONEST16,TX,South,West South Central,Neither is,29,43,43
-2016,Is Clinton qualified to serve as president?,QUALCLINTON,TX,South,West South Central,Yes,48,84,11
-2016,Is Clinton qualified to serve as president?,QUALCLINTON,TX,South,West South Central,No,51,1,95
-2016,Is Trump qualified to serve as president?,QUALTRUMP,TX,South,West South Central,Yes,45,4,95
-2016,Is Trump qualified to serve as president?,QUALTRUMP,TX,South,West South Central,No,54,74,20
-2016,Who is qualified to serve as president?,QUALIFIED16,TX,South,West South Central,Both are,6,,
-2016,Who is qualified to serve as president?,QUALIFIED16,TX,South,West South Central,Only Clinton is,42,93,3
-2016,Who is qualified to serve as president?,QUALIFIED16,TX,South,West South Central,Only Trump is,39,,99
-2016,Who is qualified to serve as president?,QUALIFIED16,TX,South,West South Central,Neither is,12,6,83
-2016,Does Clinton have the temperament to be president?,TEMPCLINTON,TX,South,West South Central,Yes,50,81,14
-2016,Does Clinton have the temperament to be president?,TEMPCLINTON,TX,South,West South Central,No,48,5,90
-2016,Does Trump have the temperament to be president?,TEMPTRUMP,TX,South,West South Central,Yes,41,4,95
-2016,Does Trump have the temperament to be president?,TEMPTRUMP,TX,South,West South Central,No,57,72,20
-2016,Which candidate has the right temperament?,TEMPERAMENT16,TX,South,West South Central,Both do,7,,
-2016,Which candidate has the right temperament?,TEMPERAMENT16,TX,South,West South Central,Only Clinton does,43,90,4
-2016,Which candidate has the right temperament?,TEMPERAMENT16,TX,South,West South Central,Only Trump does,34,1,99
-2016,Which candidate has the right temperament?,TEMPERAMENT16,TX,South,West South Central,Neither does,14,17,69
-2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,TX,South,West South Central,A lot,49,5,91
-2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,TX,South,West South Central,Some,19,70,29
-2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,TX,South,West South Central,Not much,13,86,8
-2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,TX,South,West South Central,Not at all,17,88,6
-2016,Does Clinton's use of private email bother you?,CLINTONEMAILB,TX,South,West South Central,Yes,68,23,74
-2016,Does Clinton's use of private email bother you?,CLINTONEMAILB,TX,South,West South Central,No,31,87,7
-2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,TX,South,West South Central,A lot,41,83,13
-2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,TX,South,West South Central,Some,22,22,71
-2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,TX,South,West South Central,Not much,15,11,87
-2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,TX,South,West South Central,Not at all,20,11,88
-2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,TX,South,West South Central,Yes,63,61,33
-2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,TX,South,West South Central,No,35,11,88
-2016,Who would better handle the economy?,HANDLEECON16,TX,South,West South Central,Clinton,41,95,1
-2016,Who would better handle the economy?,HANDLEECON16,TX,South,West South Central,Trump,53,5,92
-2016,Who would better handle foreign policy?,HANDLEFP16,TX,South,West South Central,Clinton,49,86,7
-2016,Who would better handle foreign policy?,HANDLEFP16,TX,South,West South Central,Trump,46,3,97
-2016,Condition of national economy,NEC,TX,South,West South Central,Excellent,3,,
-2016,Condition of national economy,NEC,TX,South,West South Central,Good,34,74,20
-2016,Condition of national economy,NEC,TX,South,West South Central,Not good,36,30,63
-2016,Condition of national economy,NEC,TX,South,West South Central,Poor,26,13,85
-2016,Condition of national economy,NEC2,TX,South,West South Central,Good,37,76,19
-2016,Condition of national economy,NEC2,TX,South,West South Central,Poor,62,23,72
-2016,Life for the next generation of Americans will be:,LIFE,TX,South,West South Central,Better than today,36,59,38
-2016,Life for the next generation of Americans will be:,LIFE,TX,South,West South Central,Worse than today,33,17,79
-2016,Life for the next generation of Americans will be:,LIFE,TX,South,West South Central,About the same,25,52,41
-2016,Vote for president in a two-way race,2WAYPRES16,TX,South,West South Central,Clinton,40,97,0
-2016,Vote for president in a two-way race,2WAYPRES16,TX,South,West South Central,Trump,53,0,98
-2016,Vote for president in a two-way race,2WAYPRES16,TX,South,West South Central,Would not vote,4,,
-2016,Area type,SIZEPLC3,TX,South,West South Central,Urban area,44,53,42
-2016,Area type,SIZEPLC3,TX,South,West South Central,Suburban area,48,37,58
-2016,Area type,SIZEPLC3,TX,South,West South Central,Rural area,8,26,71
-2016,Region,GEOCOD,TX,South,West South Central,East,13,25,71
-2016,Region,GEOCOD,TX,South,West South Central,Dallas / Ft. Worth,24,49,47
-2016,Region,GEOCOD,TX,South,West South Central,Houston,21,50,46
-2016,Region,GEOCOD,TX,South,West South Central,S. Central,16,45,50
-2016,Region,GEOCOD,TX,South,West South Central,West,11,22,74
-2016,Region,GEOCOD,TX,South,West South Central,Latino Southwest,15,54,41
+2016	Gender	SEX	TX	South	West South Central	Male	46	37	58
+2016	Gender	SEX	TX	South	West South Central	Female	54	49	48
+2016	Age	AGE	TX	South	West South Central	18-29	18	55	36
+2016	Age	AGE	TX	South	West South Central	30-44	29	46	48
+2016	Age	AGE	TX	South	West South Central	45-64	39	39	59
+2016	Age	AGE	TX	South	West South Central	65 and older	15	36	64
+2016	Age	AGE65	TX	South	West South Central	18-24	10	58	32
+2016	Age	AGE65	TX	South	West South Central	25-29	8	51	41
+2016	Age	AGE65	TX	South	West South Central	30-39	19	46	47
+2016	Age	AGE65	TX	South	West South Central	40-49	20	41	55
+2016	Age	AGE65	TX	South	West South Central	50-64	28	39	59
+2016	Age	AGE65	TX	South	West South Central	65 and older	15	36	64
+2016	Age	AGE45	TX	South	West South Central	18-44	46	49	44
+2016	Age	AGE45	TX	South	West South Central	45 and older	54	38	60
+2016	Race	RACE	TX	South	West South Central	White	57	26	69
+2016	Race	RACE	TX	South	West South Central	Black	11	85	11
+2016	Race	RACE	TX	South	West South Central	Latino	24	61	34
+2016	Race	RACE	TX	South	West South Central	Asian	5	73	27
+2016	Race	RACE	TX	South	West South Central	Other race	3		
+2016	Race	RACE2B	TX	South	West South Central	White	57	26	69
+2016	Race	RACE2B	TX	South	West South Central	Non-white	43	67	29
+2016	Race and gender	SEXBYRACE	TX	South	West South Central	White men	27	23	72
+2016	Race and gender	SEXBYRACE	TX	South	West South Central	White women	30	29	66
+2016	Race and gender	SEXBYRACE	TX	South	West South Central	Black men	4	79	14
+2016	Race and gender	SEXBYRACE	TX	South	West South Central	Black women	6	88	9
+2016	Race and gender	SEXBYRACE	TX	South	West South Central	Latino men	11	53	41
+2016	Race and gender	SEXBYRACE	TX	South	West South Central	Latino women	13	69	28
+2016	Race and gender	SEXBYRACE	TX	South	West South Central	Others	8	58	40
+2016	Education	EDUC12R	TX	South	West South Central	High school or less	17	49	49
+2016	Education	EDUC12R	TX	South	West South Central	Some college	32	41	55
+2016	Education	EDUC12R	TX	South	West South Central	College graduate	34	41	53
+2016	Education	EDUC12R	TX	South	West South Central	Postgraduate	17	48	48
+2016	Are you a college graduate?	EDUCCOLL	TX	South	West South Central	Yes	51	43	52
+2016	Are you a college graduate?	EDUCCOLL	TX	South	West South Central	No	49	44	53
+2016	Education and race	EDUCWHITE	TX	South	West South Central	White college graduates	31	31	63
+2016	Education and race	EDUCWHITE	TX	South	West South Central	Whites no degree	26	21	76
+2016	Education and race	EDUCWHITE	TX	South	West South Central	Non-whites college grads	20	62	34
+2016	Education and race	EDUCWHITE	TX	South	West South Central	Non-whites no degree	23	71	25
+2016	Education among whites by sex	EDUCWHITEBYSEX	TX	South	West South Central	White college-grad women	16	35	59
+2016	Education among whites by sex	EDUCWHITEBYSEX	TX	South	West South Central	White non-college women	14	23	74
+2016	Education among whites by sex	EDUCWHITEBYSEX	TX	South	West South Central	White college-grad men	14	27	67
+2016	Education among whites by sex	EDUCWHITEBYSEX	TX	South	West South Central	White non-college men	12	19	78
+2016	Education among whites by sex	EDUCWHITEBYSEX	TX	South	West South Central	Non-whites	43	67	29
+2016	Income	INCOME16GEN	TX	South	West South Central	Under $30,000	13	58	35
+2016	Income	INCOME16GEN	TX	South	West South Central	$30K-$49,999	17	45	52
+2016	Income	INCOME16GEN	TX	South	West South Central	$50K-$99,999	31	46	50
+2016	Income	INCOME16GEN	TX	South	West South Central	$100K-$199,999	26	45	49
+2016	Income	INCOME16GEN	TX	South	West South Central	$200K-$249,999	4		
+2016	Income	INCOME16GEN	TX	South	West South Central	$250,000 or more	9		
+2016	Income	INCOME3	TX	South	West South Central	Under $50K	30	50	45
+2016	Income	INCOME3	TX	South	West South Central	$50K-$100K	31	46	50
+2016	Income	INCOME3	TX	South	West South Central	$100K or more	39	41	53
+2016	Income	INC50K	TX	South	West South Central	Under $50K	30	50	45
+2016	Income	INC50K	TX	South	West South Central	$50K or more	70	43	52
+2016	Income	INC100K	TX	South	West South Central	Under $100K	61	48	47
+2016	Income	INC100K	TX	South	West South Central	$100K or more	39	41	53
+2016	Party ID	PARTY	TX	South	West South Central	Democrats	29	93	5
+2016	Party ID	PARTY	TX	South	West South Central	Republicans	38	9	88
+2016	Party ID	PARTY	TX	South	West South Central	Independents	33	39	53
+2016	Party by gender	PARTYGENDER	TX	South	West South Central	Democratic men	11	91	7
+2016	Party by gender	PARTYGENDER	TX	South	West South Central	Democratic women	18	94	4
+2016	Party by gender	PARTYGENDER	TX	South	West South Central	Republican men	17	9	87
+2016	Party by gender	PARTYGENDER	TX	South	West South Central	Republican women	21	9	89
+2016	Party by gender	PARTYGENDER	TX	South	West South Central	Independent men	18	31	60
+2016	Party by gender	PARTYGENDER	TX	South	West South Central	Independent women	15	48	44
+2016	Ideology	PHIL3	TX	South	West South Central	Liberal	20	81	12
+2016	Ideology	PHIL3	TX	South	West South Central	Moderate	36	55	39
+2016	Ideology	PHIL3	TX	South	West South Central	Conservative	44	15	82
+2016	White born-again or evangelical Christian?	WHTEVANG	TX	South	West South Central	Yes	28	12	85
+2016	White born-again or evangelical Christian?	WHTEVANG	TX	South	West South Central	No	72	56	40
+2016	When did you decide presidential vote?	TIME16	TX	South	West South Central	Last few days	4	49	44
+2016	When did you decide presidential vote?	TIME16	TX	South	West South Central	Last week	5		
+2016	When did you decide presidential vote?	TIME16	TX	South	West South Central	In October	14	50	48
+2016	When did you decide presidential vote?	TIME16	TX	South	West South Central	In September	13	44	51
+2016	When did you decide presidential vote?	TIME16	TX	South	West South Central	Before September	61	45	52
+2016	When did you decide presidential vote?	TIME16WEEK	TX	South	West South Central	In the last week	10	41	48
+2016	When did you decide presidential vote?	TIME16WEEK	TX	South	West South Central	Before that	88	45	51
+2016	When did you decide presidential vote?	TIME16MONTH	TX	South	West South Central	In the last month	24	46	48
+2016	When did you decide presidential vote?	TIME16MONTH	TX	South	West South Central	Before that	74	45	52
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	TX	South	West South Central	Strongly favor 	38	49	49
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	TX	South	West South Central	Have reservations	26	41	56
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	TX	South	West South Central	Dislike opponents	34	40	51
+2016	Most important issue facing the country	ISSUE16	TX	South	West South Central	Foreign policy	13	55	38
+2016	Most important issue facing the country	ISSUE16	TX	South	West South Central	Immigration	13	41	58
+2016	Most important issue facing the country	ISSUE16	TX	South	West South Central	Economy	49	47	46
+2016	Most important issue facing the country	ISSUE16	TX	South	West South Central	Terrorism	21	35	63
+2016	Which candidate quality mattered most?	QLT16	TX	South	West South Central	Cares about me	14	44	50
+2016	Which candidate quality mattered most?	QLT16	TX	South	West South Central	Can bring change	34	12	84
+2016	Which candidate quality mattered most?	QLT16	TX	South	West South Central	Right experience	24	85	14
+2016	Which candidate quality mattered most?	QLT16	TX	South	West South Central	Good judgment	23	57	36
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	TX	South	West South Central	Offered legal status	71	53	42
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	TX	South	West South Central	Deported to home country	22	9	90
+2016	View of U.S. wall along the entire Mexican border	IMMWALL	TX	South	West South Central	Support	44	10	89
+2016	View of U.S. wall along the entire Mexican border	IMMWALL	TX	South	West South Central	Oppose	49	75	17
+2016	Do you think immigrants to the U.S. today:	IMMBETTER	TX	South	West South Central	Help the country	55	64	29
+2016	Do you think immigrants to the U.S. today:	IMMBETTER	TX	South	West South Central	Hurt the country	31	13	85
+2016	How do things work in the U.S. today?	RACEFACTOR	TX	South	West South Central	Whites are favored	35	74	17
+2016	How do things work in the U.S. today?	RACEFACTOR	TX	South	West South Central	Minorities are favored	16	5	93
+2016	How do things work in the U.S. today?	RACEFACTOR	TX	South	West South Central	No group is favored	41	34	63
+2016	Does the country's criminal justice system:	FAIRJUSTICE	TX	South	West South Central	Treat all fairly	43	22	75
+2016	Does the country's criminal justice system:	FAIRJUSTICE	TX	South	West South Central	Treat blacks unfairly	45	63	32
+2016	Feelings about the federal government	GOVTANGR16	TX	South	West South Central	Enthusiastic	3		
+2016	Feelings about the federal government	GOVTANGR16	TX	South	West South Central	Satisfied	21	78	15
+2016	Feelings about the federal government	GOVTANGR16	TX	South	West South Central	Dissatisfied	46	41	53
+2016	Feelings about the federal government	GOVTANGR16	TX	South	West South Central	Angry	27	12	86
+2016	Feelings about the federal government	GOVTANGR16B	TX	South	West South Central	Enthusiastic/Satisfied	25	80	14
+2016	Feelings about the federal government	GOVTANGR16B	TX	South	West South Central	Dissatisfied/Angry	73	30	65
+2016	Opinion of Barack Obama as president	OBAMA4	TX	South	West South Central	Strongly approve	30	96	2
+2016	Opinion of Barack Obama as president	OBAMA4	TX	South	West South Central	Somewhat approve	19	68	24
+2016	Opinion of Barack Obama as president	OBAMA4	TX	South	West South Central	Somewhat disapprove	13	21	70
+2016	Opinion of Barack Obama as president	OBAMA4	TX	South	West South Central	Strongly disapprove	38	2	96
+2016	Opinion of Barack Obama as president	OBAMA2	TX	South	West South Central	Approve	49	85	11
+2016	Opinion of Barack Obama as president	OBAMA2	TX	South	West South Central	Disapprove	51	6	89
+2016	Opinion of Hillary Clinton	FAVHCLIN16	TX	South	West South Central	Favorable	41	97	3
+2016	Opinion of Hillary Clinton	FAVHCLIN16	TX	South	West South Central	Unfavorable	57	8	85
+2016	Opinion of Donald Trump	FAVTRUMP	TX	South	West South Central	Favorable	39	3	96
+2016	Opinion of Donald Trump	FAVTRUMP	TX	South	West South Central	Unfavorable	59	74	19
+2016	Opinion of Clinton and Trump	FAVPRES16	TX	South	West South Central	Both favorable	2		
+2016	Opinion of Clinton and Trump	FAVPRES16	TX	South	West South Central	Only Clinton favorable	39	99	0
+2016	Opinion of Clinton and Trump	FAVPRES16	TX	South	West South Central	Only Trump favorable	37	1	98
+2016	Opinion of Clinton and Trump	FAVPRES16	TX	South	West South Central	Both unfavorable	19	22	59
+2016	Opinion of Ted Cruz	FAVCRUZ	TX	South	West South Central	Favorable	41	22	75
+2016	Opinion of Ted Cruz	FAVCRUZ	TX	South	West South Central	Unfavorable	51	60	35
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	TX	South	West South Central	Yes	30	96	3
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	TX	South	West South Central	No	68	19	75
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	TX	South	West South Central	Yes	40	5	94
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	TX	South	West South Central	No	58	71	22
+2016	Which candidate is honest?	HONEST16	TX	South	West South Central	Both are	2		
+2016	Which candidate is honest?	HONEST16	TX	South	West South Central	Only Clinton is	28	98	0
+2016	Which candidate is honest?	HONEST16	TX	South	West South Central	Only Trump is	38	1	98
+2016	Which candidate is honest?	HONEST16	TX	South	West South Central	Neither is	29	43	43
+2016	Is Clinton qualified to serve as president?	QUALCLINTON	TX	South	West South Central	Yes	48	84	11
+2016	Is Clinton qualified to serve as president?	QUALCLINTON	TX	South	West South Central	No	51	1	95
+2016	Is Trump qualified to serve as president?	QUALTRUMP	TX	South	West South Central	Yes	45	4	95
+2016	Is Trump qualified to serve as president?	QUALTRUMP	TX	South	West South Central	No	54	74	20
+2016	Who is qualified to serve as president?	QUALIFIED16	TX	South	West South Central	Both are	6		
+2016	Who is qualified to serve as president?	QUALIFIED16	TX	South	West South Central	Only Clinton is	42	93	3
+2016	Who is qualified to serve as president?	QUALIFIED16	TX	South	West South Central	Only Trump is	39		99
+2016	Who is qualified to serve as president?	QUALIFIED16	TX	South	West South Central	Neither is	12	6	83
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	TX	South	West South Central	Yes	50	81	14
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	TX	South	West South Central	No	48	5	90
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	TX	South	West South Central	Yes	41	4	95
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	TX	South	West South Central	No	57	72	20
+2016	Which candidate has the right temperament?	TEMPERAMENT16	TX	South	West South Central	Both do	7		
+2016	Which candidate has the right temperament?	TEMPERAMENT16	TX	South	West South Central	Only Clinton does	43	90	4
+2016	Which candidate has the right temperament?	TEMPERAMENT16	TX	South	West South Central	Only Trump does	34	1	99
+2016	Which candidate has the right temperament?	TEMPERAMENT16	TX	South	West South Central	Neither does	14	17	69
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	TX	South	West South Central	A lot	49	5	91
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	TX	South	West South Central	Some	19	70	29
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	TX	South	West South Central	Not much	13	86	8
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	TX	South	West South Central	Not at all	17	88	6
+2016	Does Clinton's use of private email bother you?	CLINTONEMAILB	TX	South	West South Central	Yes	68	23	74
+2016	Does Clinton's use of private email bother you?	CLINTONEMAILB	TX	South	West South Central	No	31	87	7
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	TX	South	West South Central	A lot	41	83	13
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	TX	South	West South Central	Some	22	22	71
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	TX	South	West South Central	Not much	15	11	87
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	TX	South	West South Central	Not at all	20	11	88
+2016	Does Donald Trump's treatment of women bother you?	TRUMPWOMENB	TX	South	West South Central	Yes	63	61	33
+2016	Does Donald Trump's treatment of women bother you?	TRUMPWOMENB	TX	South	West South Central	No	35	11	88
+2016	Who would better handle the economy?	HANDLEECON16	TX	South	West South Central	Clinton	41	95	1
+2016	Who would better handle the economy?	HANDLEECON16	TX	South	West South Central	Trump	53	5	92
+2016	Who would better handle foreign policy?	HANDLEFP16	TX	South	West South Central	Clinton	49	86	7
+2016	Who would better handle foreign policy?	HANDLEFP16	TX	South	West South Central	Trump	46	3	97
+2016	Condition of national economy	NEC	TX	South	West South Central	Excellent	3		
+2016	Condition of national economy	NEC	TX	South	West South Central	Good	34	74	20
+2016	Condition of national economy	NEC	TX	South	West South Central	Not good	36	30	63
+2016	Condition of national economy	NEC	TX	South	West South Central	Poor	26	13	85
+2016	Condition of national economy	NEC2	TX	South	West South Central	Good	37	76	19
+2016	Condition of national economy	NEC2	TX	South	West South Central	Poor	62	23	72
+2016	Life for the next generation of Americans will be:	LIFE	TX	South	West South Central	Better than today	36	59	38
+2016	Life for the next generation of Americans will be:	LIFE	TX	South	West South Central	Worse than today	33	17	79
+2016	Life for the next generation of Americans will be:	LIFE	TX	South	West South Central	About the same	25	52	41
+2016	Vote for president in a two-way race	2WAYPRES16	TX	South	West South Central	Clinton	40	97	0
+2016	Vote for president in a two-way race	2WAYPRES16	TX	South	West South Central	Trump	53	0	98
+2016	Vote for president in a two-way race	2WAYPRES16	TX	South	West South Central	Would not vote	4		
+2016	Area type	SIZEPLC3	TX	South	West South Central	Urban area	44	53	42
+2016	Area type	SIZEPLC3	TX	South	West South Central	Suburban area	48	37	58
+2016	Area type	SIZEPLC3	TX	South	West South Central	Rural area	8	26	71
+2016	Region	GEOCOD	TX	South	West South Central	East	13	25	71
+2016	Region	GEOCOD	TX	South	West South Central	Dallas / Ft. Worth	24	49	47
+2016	Region	GEOCOD	TX	South	West South Central	Houston	21	50	46
+2016	Region	GEOCOD	TX	South	West South Central	S. Central	16	45	50
+2016	Region	GEOCOD	TX	South	West South Central	West	11	22	74
+2016	Region	GEOCOD	TX	South	West South Central	Latino Southwest	15	54	41

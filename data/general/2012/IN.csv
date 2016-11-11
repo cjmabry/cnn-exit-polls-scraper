@@ -1,98 +1,98 @@
-2012,Vote by Gender,SEX,IN,Midwest,East North Central,Men,50,40,57
-2012,Vote by Gender,SEX,IN,Midwest,East North Central,Women,50,48,52
-2012,Vote by Age,AGE,IN,Midwest,East North Central,18-29,20,46,49
-2012,Vote by Age,AGE,IN,Midwest,East North Central,30-44,26,48,49
-2012,Vote by Age,AGE,IN,Midwest,East North Central,45-64,40,44,56
-2012,Vote by Age,AGE,IN,Midwest,East North Central,65 and Older,14,34,65
-2012,Vote by Age,AGE65,IN,Midwest,East North Central,18-24,10,48,46
-2012,Vote by Age,AGE65,IN,Midwest,East North Central,25-29,10,44,52
-2012,Vote by Age,AGE65,IN,Midwest,East North Central,30-39,18,51,46
-2012,Vote by Age,AGE65,IN,Midwest,East North Central,40-49,19,48,51
-2012,Vote by Age,AGE65,IN,Midwest,East North Central,50-64,29,40,59
-2012,Vote by Age,AGE65,IN,Midwest,East North Central,65 and Older,14,34,65
-2012,Vote by Race,RACE,IN,Midwest,East North Central,White,84,38,60
-2012,Vote by Race,RACE,IN,Midwest,East North Central,African-American,8,89,10
-2012,Vote by Race,RACE,IN,Midwest,East North Central,Latino,6,,
-2012,Vote by Race,RACE,IN,Midwest,East North Central,Asian,1,,
-2012,Vote by Race,RACE,IN,Midwest,East North Central,Other,1,,
-2012,Vote by Gender and Race,SEXBYRACE,IN,Midwest,East North Central,White Men,42,35,62
-2012,Vote by Gender and Race,SEXBYRACE,IN,Midwest,East North Central,White Women,41,41,59
-2012,Vote by Gender and Race,SEXBYRACE,IN,Midwest,East North Central,Black Men,4,,
-2012,Vote by Gender and Race,SEXBYRACE,IN,Midwest,East North Central,Black Women,5,96,3
-2012,Vote by Gender and Race,SEXBYRACE,IN,Midwest,East North Central,Latino Men,2,,
-2012,Vote by Gender and Race,SEXBYRACE,IN,Midwest,East North Central,Latino Women,3,,
-2012,Vote by Gender and Race,SEXBYRACE,IN,Midwest,East North Central,All Others,2,,
-2012,Vote by Ideology,PHIL3,IN,Midwest,East North Central,Liberal,20,85,12
-2012,Vote by Ideology,PHIL3,IN,Midwest,East North Central,Moderate,41,55,44
-2012,Vote by Ideology,PHIL3,IN,Midwest,East North Central,Conservative,39,13,85
-2012,Vote by Party ID,PARTY,IN,Midwest,East North Central,Democratic,34,91,9
-2012,Vote by Party ID,PARTY,IN,Midwest,East North Central,Republican,39,6,93
-2012,Vote by Party ID,PARTY,IN,Midwest,East North Central,Independent,27,41,52
-2012,Vote by Education,EDUC10,IN,Midwest,East North Central,No High School,4,,
-2012,Vote by Education,EDUC10,IN,Midwest,East North Central,High School Graduate,20,42,56
-2012,Vote by Education,EDUC10,IN,Midwest,East North Central,Some College,32,46,52
-2012,Vote by Education,EDUC10,IN,Midwest,East North Central,College Graduate,28,39,59
-2012,Vote by Education,EDUC10,IN,Midwest,East North Central,Postgraduate,16,50,49
-2012,Are You a College Graduate?,EDUCCOLL,IN,Midwest,East North Central,Yes,44,43,55
-2012,Are You a College Graduate?,EDUCCOLL,IN,Midwest,East North Central,No,56,45,53
-2012,Did You Attend College?,EDUCHS,IN,Midwest,East North Central,Yes,76,44,54
-2012,Did You Attend College?,EDUCHS,IN,Midwest,East North Central,No,24,44,54
-2012,Vote by Income,INCOME3,IN,Midwest,East North Central,Less Than $50K,38,54,43
-2012,Vote by Income,INCOME3,IN,Midwest,East North Central,$50-100K,40,42,57
-2012,Vote by Income,INCOME3,IN,Midwest,East North Central,$100K or More,22,34,64
-2012,Vote by Income,INC50K,IN,Midwest,East North Central,Less Than $50K,38,54,43
-2012,Vote by Income,INC50K,IN,Midwest,East North Central,$50K or More,62,39,59
-2012,Vote by Income,INC100K,IN,Midwest,East North Central,Less Than $100K,78,48,50
-2012,Vote by Income,INC100K,IN,Midwest,East North Central,$100K or More,22,34,64
-2012,Are You White Born-Again Christian?,WHTEVANG,IN,Midwest,East North Central,Yes,35,19,80
-2012,Are You White Born-Again Christian?,WHTEVANG,IN,Midwest,East North Central,No,65,58,39
-2012,Opinion of Tea Party Movement,TEAPARTY12,IN,Midwest,East North Central,Support,24,9,89
-2012,Opinion of Tea Party Movement,TEAPARTY12,IN,Midwest,East North Central,Neutral,38,32,66
-2012,Opinion of Tea Party Movement,TEAPARTY12,IN,Midwest,East North Central,Oppose,34,85,13
-2012,Most Important Issue Facing Country,ISSUE12,IN,Midwest,East North Central,Foreign Policy,4,,
-2012,Most Important Issue Facing Country,ISSUE12,IN,Midwest,East North Central,Deficit,17,26,71
-2012,Most Important Issue Facing Country,ISSUE12,IN,Midwest,East North Central,Economy,59,45,54
-2012,Most Important Issue Facing Country,ISSUE12,IN,Midwest,East North Central,Health Care,16,70,29
-2012,Opinion of Government,GOVTDO10,IN,Midwest,East North Central,Government Should Do More,40,79,20
-2012,Opinion of Government,GOVTDO10,IN,Midwest,East North Central,Government Doing Too Much,55,22,76
-2012,Your Family's Financial Situation,FINSIT,IN,Midwest,East North Central,Better,23,81,18
-2012,Your Family's Financial Situation,FINSIT,IN,Midwest,East North Central,Worse,36,16,81
-2012,Your Family's Financial Situation,FINSIT,IN,Midwest,East North Central,Same,39,53,45
-2012,Opinion of Barack Obama,FAVOBAMA2,IN,Midwest,East North Central,Favorable,46,92,7
-2012,Opinion of Barack Obama,FAVOBAMA2,IN,Midwest,East North Central,Unfavorable,52,4,94
-2012,Opinion of Mitt Romney,FAVROMN2,IN,Midwest,East North Central,Favorable,52,7,92
-2012,Opinion of Mitt Romney,FAVROMN2,IN,Midwest,East North Central,Unfavorable,45,88,8
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,IN,Midwest,East North Central,Strongly Favor,64,50,49
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,IN,Midwest,East North Central,Have Reservations,25,35,64
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,IN,Midwest,East North Central,Dislike Opponent,10,35,59
-2012,When Did You Decide Presidential Vote?,TIME12,IN,Midwest,East North Central,Just Today,8,,
-2012,When Did You Decide Presidential Vote?,TIME12,IN,Midwest,East North Central,Last Few Days,10,42,57
-2012,When Did You Decide Presidential Vote?,TIME12,IN,Midwest,East North Central,In October,9,41,56
-2012,When Did You Decide Presidential Vote?,TIME12,IN,Midwest,East North Central,In September,7,,
-2012,When Did You Decide Presidential Vote?,TIME12,IN,Midwest,East North Central,Before That,66,48,50
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,IN,Midwest,East North Central,Today/Last Few Days,17,44,55
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,IN,Midwest,East North Central,Before That,82,46,52
-2012,When Did You Decide Presidential Vote?,TIME12MTH,IN,Midwest,East North Central,In October or November,26,43,55
-2012,When Did You Decide Presidential Vote?,TIME12MTH,IN,Midwest,East North Central,Before That,73,47,51
-2012,Vote by Marital Status,MARRIED,IN,Midwest,East North Central,Married,63,37,62
-2012,Vote by Marital Status,MARRIED,IN,Midwest,East North Central,Unmarried,37,55,42
-2012,Vote by Gender and Marital Status,SEXWED,IN,Midwest,East North Central,Married Men,33,33,65
-2012,Vote by Gender and Marital Status,SEXWED,IN,Midwest,East North Central,Married Women,30,40,59
-2012,Vote by Gender and Marital Status,SEXWED,IN,Midwest,East North Central,Unmarried Men,15,47,48
-2012,Vote by Gender and Marital Status,SEXWED,IN,Midwest,East North Central,Unmarried Women,21,61,38
-2012,Vote For Senate if Lugar Were on Ballot,LUGARDON,IN,Midwest,East North Central,Donnelly,39,86,14
-2012,Vote For Senate if Lugar Were on Ballot,LUGARDON,IN,Midwest,East North Central,Lugar,46,17,80
-2012,Vote For Senate if Lugar Were on Ballot,LUGARDON,IN,Midwest,East North Central,Would Not Have Voted,11,22,71
-2012,Vote for Senate,SENIN12,IN,Midwest,East North Central,Donnelly,50,84,16
-2012,Vote for Senate,SENIN12,IN,Midwest,East North Central,Mourdock,44,3,96
-2012,Vote for Senate,SENIN12,IN,Midwest,East North Central,Horning,6,,
-2012,Vote for Governor,GOVIN12,IN,Midwest,East North Central,Gregg,47,83,16
-2012,Vote for Governor,GOVIN12,IN,Midwest,East North Central,Pence,50,8,92
-2012,Vote by Size of Place,SIZEPLC3,IN,Midwest,East North Central,Urban,27,55,44
-2012,Vote by Size of Place,SIZEPLC3,IN,Midwest,East North Central,Suburban,57,42,56
-2012,Vote by Size of Place,SIZEPLC3,IN,Midwest,East North Central,Rural,16,33,65
-2012,Vote by Region,GEOCOD,IN,Midwest,East North Central,Northwestern Indiana,16,57,41
-2012,Vote by Region,GEOCOD,IN,Midwest,East North Central,Central Indiana,32,38,60
-2012,Vote by Region,GEOCOD,IN,Midwest,East North Central,Marion County,14,60,38
-2012,Vote by Region,GEOCOD,IN,Midwest,East North Central,Indianapolis Suburbs,15,31,67
-2012,Vote by Region,GEOCOD,IN,Midwest,East North Central,Southern Indiana,24,42,56
+2012	Vote by Gender	SEX	IN	Midwest	East North Central	Men	50	40	57
+2012	Vote by Gender	SEX	IN	Midwest	East North Central	Women	50	48	52
+2012	Vote by Age	AGE	IN	Midwest	East North Central	18-29	20	46	49
+2012	Vote by Age	AGE	IN	Midwest	East North Central	30-44	26	48	49
+2012	Vote by Age	AGE	IN	Midwest	East North Central	45-64	40	44	56
+2012	Vote by Age	AGE	IN	Midwest	East North Central	65 and Older	14	34	65
+2012	Vote by Age	AGE65	IN	Midwest	East North Central	18-24	10	48	46
+2012	Vote by Age	AGE65	IN	Midwest	East North Central	25-29	10	44	52
+2012	Vote by Age	AGE65	IN	Midwest	East North Central	30-39	18	51	46
+2012	Vote by Age	AGE65	IN	Midwest	East North Central	40-49	19	48	51
+2012	Vote by Age	AGE65	IN	Midwest	East North Central	50-64	29	40	59
+2012	Vote by Age	AGE65	IN	Midwest	East North Central	65 and Older	14	34	65
+2012	Vote by Race	RACE	IN	Midwest	East North Central	White	84	38	60
+2012	Vote by Race	RACE	IN	Midwest	East North Central	African-American	8	89	10
+2012	Vote by Race	RACE	IN	Midwest	East North Central	Latino	6		
+2012	Vote by Race	RACE	IN	Midwest	East North Central	Asian	1		
+2012	Vote by Race	RACE	IN	Midwest	East North Central	Other	1		
+2012	Vote by Gender and Race	SEXBYRACE	IN	Midwest	East North Central	White Men	42	35	62
+2012	Vote by Gender and Race	SEXBYRACE	IN	Midwest	East North Central	White Women	41	41	59
+2012	Vote by Gender and Race	SEXBYRACE	IN	Midwest	East North Central	Black Men	4		
+2012	Vote by Gender and Race	SEXBYRACE	IN	Midwest	East North Central	Black Women	5	96	3
+2012	Vote by Gender and Race	SEXBYRACE	IN	Midwest	East North Central	Latino Men	2		
+2012	Vote by Gender and Race	SEXBYRACE	IN	Midwest	East North Central	Latino Women	3		
+2012	Vote by Gender and Race	SEXBYRACE	IN	Midwest	East North Central	All Others	2		
+2012	Vote by Ideology	PHIL3	IN	Midwest	East North Central	Liberal	20	85	12
+2012	Vote by Ideology	PHIL3	IN	Midwest	East North Central	Moderate	41	55	44
+2012	Vote by Ideology	PHIL3	IN	Midwest	East North Central	Conservative	39	13	85
+2012	Vote by Party ID	PARTY	IN	Midwest	East North Central	Democratic	34	91	9
+2012	Vote by Party ID	PARTY	IN	Midwest	East North Central	Republican	39	6	93
+2012	Vote by Party ID	PARTY	IN	Midwest	East North Central	Independent	27	41	52
+2012	Vote by Education	EDUC10	IN	Midwest	East North Central	No High School	4		
+2012	Vote by Education	EDUC10	IN	Midwest	East North Central	High School Graduate	20	42	56
+2012	Vote by Education	EDUC10	IN	Midwest	East North Central	Some College	32	46	52
+2012	Vote by Education	EDUC10	IN	Midwest	East North Central	College Graduate	28	39	59
+2012	Vote by Education	EDUC10	IN	Midwest	East North Central	Postgraduate	16	50	49
+2012	Are You a College Graduate?	EDUCCOLL	IN	Midwest	East North Central	Yes	44	43	55
+2012	Are You a College Graduate?	EDUCCOLL	IN	Midwest	East North Central	No	56	45	53
+2012	Did You Attend College?	EDUCHS	IN	Midwest	East North Central	Yes	76	44	54
+2012	Did You Attend College?	EDUCHS	IN	Midwest	East North Central	No	24	44	54
+2012	Vote by Income	INCOME3	IN	Midwest	East North Central	Less Than $50K	38	54	43
+2012	Vote by Income	INCOME3	IN	Midwest	East North Central	$50-100K	40	42	57
+2012	Vote by Income	INCOME3	IN	Midwest	East North Central	$100K or More	22	34	64
+2012	Vote by Income	INC50K	IN	Midwest	East North Central	Less Than $50K	38	54	43
+2012	Vote by Income	INC50K	IN	Midwest	East North Central	$50K or More	62	39	59
+2012	Vote by Income	INC100K	IN	Midwest	East North Central	Less Than $100K	78	48	50
+2012	Vote by Income	INC100K	IN	Midwest	East North Central	$100K or More	22	34	64
+2012	Are You White Born-Again Christian?	WHTEVANG	IN	Midwest	East North Central	Yes	35	19	80
+2012	Are You White Born-Again Christian?	WHTEVANG	IN	Midwest	East North Central	No	65	58	39
+2012	Opinion of Tea Party Movement	TEAPARTY12	IN	Midwest	East North Central	Support	24	9	89
+2012	Opinion of Tea Party Movement	TEAPARTY12	IN	Midwest	East North Central	Neutral	38	32	66
+2012	Opinion of Tea Party Movement	TEAPARTY12	IN	Midwest	East North Central	Oppose	34	85	13
+2012	Most Important Issue Facing Country	ISSUE12	IN	Midwest	East North Central	Foreign Policy	4		
+2012	Most Important Issue Facing Country	ISSUE12	IN	Midwest	East North Central	Deficit	17	26	71
+2012	Most Important Issue Facing Country	ISSUE12	IN	Midwest	East North Central	Economy	59	45	54
+2012	Most Important Issue Facing Country	ISSUE12	IN	Midwest	East North Central	Health Care	16	70	29
+2012	Opinion of Government	GOVTDO10	IN	Midwest	East North Central	Government Should Do More	40	79	20
+2012	Opinion of Government	GOVTDO10	IN	Midwest	East North Central	Government Doing Too Much	55	22	76
+2012	Your Family's Financial Situation	FINSIT	IN	Midwest	East North Central	Better	23	81	18
+2012	Your Family's Financial Situation	FINSIT	IN	Midwest	East North Central	Worse	36	16	81
+2012	Your Family's Financial Situation	FINSIT	IN	Midwest	East North Central	Same	39	53	45
+2012	Opinion of Barack Obama	FAVOBAMA2	IN	Midwest	East North Central	Favorable	46	92	7
+2012	Opinion of Barack Obama	FAVOBAMA2	IN	Midwest	East North Central	Unfavorable	52	4	94
+2012	Opinion of Mitt Romney	FAVROMN2	IN	Midwest	East North Central	Favorable	52	7	92
+2012	Opinion of Mitt Romney	FAVROMN2	IN	Midwest	East North Central	Unfavorable	45	88	8
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	IN	Midwest	East North Central	Strongly Favor	64	50	49
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	IN	Midwest	East North Central	Have Reservations	25	35	64
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	IN	Midwest	East North Central	Dislike Opponent	10	35	59
+2012	When Did You Decide Presidential Vote?	TIME12	IN	Midwest	East North Central	Just Today	8		
+2012	When Did You Decide Presidential Vote?	TIME12	IN	Midwest	East North Central	Last Few Days	10	42	57
+2012	When Did You Decide Presidential Vote?	TIME12	IN	Midwest	East North Central	In October	9	41	56
+2012	When Did You Decide Presidential Vote?	TIME12	IN	Midwest	East North Central	In September	7		
+2012	When Did You Decide Presidential Vote?	TIME12	IN	Midwest	East North Central	Before That	66	48	50
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	IN	Midwest	East North Central	Today/Last Few Days	17	44	55
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	IN	Midwest	East North Central	Before That	82	46	52
+2012	When Did You Decide Presidential Vote?	TIME12MTH	IN	Midwest	East North Central	In October or November	26	43	55
+2012	When Did You Decide Presidential Vote?	TIME12MTH	IN	Midwest	East North Central	Before That	73	47	51
+2012	Vote by Marital Status	MARRIED	IN	Midwest	East North Central	Married	63	37	62
+2012	Vote by Marital Status	MARRIED	IN	Midwest	East North Central	Unmarried	37	55	42
+2012	Vote by Gender and Marital Status	SEXWED	IN	Midwest	East North Central	Married Men	33	33	65
+2012	Vote by Gender and Marital Status	SEXWED	IN	Midwest	East North Central	Married Women	30	40	59
+2012	Vote by Gender and Marital Status	SEXWED	IN	Midwest	East North Central	Unmarried Men	15	47	48
+2012	Vote by Gender and Marital Status	SEXWED	IN	Midwest	East North Central	Unmarried Women	21	61	38
+2012	Vote For Senate if Lugar Were on Ballot	LUGARDON	IN	Midwest	East North Central	Donnelly	39	86	14
+2012	Vote For Senate if Lugar Were on Ballot	LUGARDON	IN	Midwest	East North Central	Lugar	46	17	80
+2012	Vote For Senate if Lugar Were on Ballot	LUGARDON	IN	Midwest	East North Central	Would Not Have Voted	11	22	71
+2012	Vote for Senate	SENIN12	IN	Midwest	East North Central	Donnelly	50	84	16
+2012	Vote for Senate	SENIN12	IN	Midwest	East North Central	Mourdock	44	3	96
+2012	Vote for Senate	SENIN12	IN	Midwest	East North Central	Horning	6		
+2012	Vote for Governor	GOVIN12	IN	Midwest	East North Central	Gregg	47	83	16
+2012	Vote for Governor	GOVIN12	IN	Midwest	East North Central	Pence	50	8	92
+2012	Vote by Size of Place	SIZEPLC3	IN	Midwest	East North Central	Urban	27	55	44
+2012	Vote by Size of Place	SIZEPLC3	IN	Midwest	East North Central	Suburban	57	42	56
+2012	Vote by Size of Place	SIZEPLC3	IN	Midwest	East North Central	Rural	16	33	65
+2012	Vote by Region	GEOCOD	IN	Midwest	East North Central	Northwestern Indiana	16	57	41
+2012	Vote by Region	GEOCOD	IN	Midwest	East North Central	Central Indiana	32	38	60
+2012	Vote by Region	GEOCOD	IN	Midwest	East North Central	Marion County	14	60	38
+2012	Vote by Region	GEOCOD	IN	Midwest	East North Central	Indianapolis Suburbs	15	31	67
+2012	Vote by Region	GEOCOD	IN	Midwest	East North Central	Southern Indiana	24	42	56

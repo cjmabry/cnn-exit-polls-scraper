@@ -1,89 +1,89 @@
-2012,Vote by Gender,SEX,MA,Northeast,New England,Men,47,55,43
-2012,Vote by Gender,SEX,MA,Northeast,New England,Women,53,65,34
-2012,Vote by Age,AGE,MA,Northeast,New England,18-29,18,73,24
-2012,Vote by Age,AGE,MA,Northeast,New England,30-44,23,56,42
-2012,Vote by Age,AGE,MA,Northeast,New England,45-64,39,59,40
-2012,Vote by Age,AGE,MA,Northeast,New England,65 and Older,19,56,43
-2012,Vote by Age,AGE65,MA,Northeast,New England,18-24,9,74,24
-2012,Vote by Age,AGE65,MA,Northeast,New England,25-29,9,72,24
-2012,Vote by Age,AGE65,MA,Northeast,New England,30-39,14,59,38
-2012,Vote by Age,AGE65,MA,Northeast,New England,40-49,20,53,45
-2012,Vote by Age,AGE65,MA,Northeast,New England,50-64,29,61,39
-2012,Vote by Age,AGE65,MA,Northeast,New England,65 and Older,19,56,43
-2012,Vote by Race,RACE,MA,Northeast,New England,White,86,57,42
-2012,Vote by Race,RACE,MA,Northeast,New England,African-American,6,92,7
-2012,Vote by Race,RACE,MA,Northeast,New England,Latino,4,,
-2012,Vote by Race,RACE,MA,Northeast,New England,Asian,2,,
-2012,Vote by Race,RACE,MA,Northeast,New England,Other,1,,
-2012,Vote by Gender and Race,SEXBYRACE,MA,Northeast,New England,White Men,39,50,48
-2012,Vote by Gender and Race,SEXBYRACE,MA,Northeast,New England,White Women,47,63,37
-2012,Vote by Gender and Race,SEXBYRACE,MA,Northeast,New England,Black Men,3,,
-2012,Vote by Gender and Race,SEXBYRACE,MA,Northeast,New England,Black Women,2,,
-2012,Vote by Gender and Race,SEXBYRACE,MA,Northeast,New England,Latino Men,2,,
-2012,Vote by Gender and Race,SEXBYRACE,MA,Northeast,New England,Latino Women,2,,
-2012,Vote by Gender and Race,SEXBYRACE,MA,Northeast,New England,All Others,3,,
-2012,Vote by Ideology,PHIL3,MA,Northeast,New England,Liberal,32,90,8
-2012,Vote by Ideology,PHIL3,MA,Northeast,New England,Moderate,47,55,43
-2012,Vote by Ideology,PHIL3,MA,Northeast,New England,Conservative,21,27,73
-2012,Vote by Party ID,PARTY,MA,Northeast,New England,Democratic,39,93,6
-2012,Vote by Party ID,PARTY,MA,Northeast,New England,Republican,17,7,93
-2012,Vote by Party ID,PARTY,MA,Northeast,New England,Independent,45,52,45
-2012,Vote by Education,EDUC10,MA,Northeast,New England,No High School,2,,
-2012,Vote by Education,EDUC10,MA,Northeast,New England,High School Graduate,16,65,35
-2012,Vote by Education,EDUC10,MA,Northeast,New England,Some College,22,60,38
-2012,Vote by Education,EDUC10,MA,Northeast,New England,College Graduate,33,54,44
-2012,Vote by Education,EDUC10,MA,Northeast,New England,Postgraduate,27,65,33
-2012,Are You a College Graduate?,EDUCCOLL,MA,Northeast,New England,Yes,60,59,39
-2012,Are You a College Graduate?,EDUCCOLL,MA,Northeast,New England,No,40,62,37
-2012,Did You Attend College?,EDUCHS,MA,Northeast,New England,Yes,82,59,39
-2012,Did You Attend College?,EDUCHS,MA,Northeast,New England,No,18,65,35
-2012,Vote by Income,INCOME3,MA,Northeast,New England,Less Than $50K,29,70,28
-2012,Vote by Income,INCOME3,MA,Northeast,New England,$50-100K,34,58,40
-2012,Vote by Income,INCOME3,MA,Northeast,New England,$100K or More,38,54,45
-2012,Vote by Income,INC50K,MA,Northeast,New England,Less Than $50K,29,70,28
-2012,Vote by Income,INC50K,MA,Northeast,New England,$50K or More,71,56,43
-2012,Vote by Income,INC100K,MA,Northeast,New England,Less Than $100K,62,63,35
-2012,Vote by Income,INC100K,MA,Northeast,New England,$100K or More,38,54,45
-2012,Most Important Issue Facing Country,ISSUE12,MA,Northeast,New England,Foreign Policy,5,,
-2012,Most Important Issue Facing Country,ISSUE12,MA,Northeast,New England,Deficit,11,47,51
-2012,Most Important Issue Facing Country,ISSUE12,MA,Northeast,New England,Economy,64,56,42
-2012,Most Important Issue Facing Country,ISSUE12,MA,Northeast,New England,Health Care,16,80,19
-2012,Opinion of Government,GOVTDO10,MA,Northeast,New England,Government Should Do More,53,85,13
-2012,Opinion of Government,GOVTDO10,MA,Northeast,New England,Government Doing Too Much,43,28,69
-2012,Opinion of Barack Obama,FAVOBAMA2,MA,Northeast,New England,Favorable,63,93,6
-2012,Opinion of Barack Obama,FAVOBAMA2,MA,Northeast,New England,Unfavorable,36,5,93
-2012,Opinion of Mitt Romney,FAVROMN2,MA,Northeast,New England,Favorable,40,11,89
-2012,Opinion of Mitt Romney,FAVROMN2,MA,Northeast,New England,Unfavorable,59,94,3
-2012,When Did You Decide Presidential Vote?,TIME12,MA,Northeast,New England,Just Today,6,,
-2012,When Did You Decide Presidential Vote?,TIME12,MA,Northeast,New England,Last Few Days,6,,
-2012,When Did You Decide Presidential Vote?,TIME12,MA,Northeast,New England,In October,8,48,47
-2012,When Did You Decide Presidential Vote?,TIME12,MA,Northeast,New England,In September,6,,
-2012,When Did You Decide Presidential Vote?,TIME12,MA,Northeast,New England,Before That,74,64,35
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,MA,Northeast,New England,Today/Last Few Days,11,56,37
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,MA,Northeast,New England,Before That,88,61,37
-2012,When Did You Decide Presidential Vote?,TIME12MTH,MA,Northeast,New England,In October or November,19,53,41
-2012,When Did You Decide Presidential Vote?,TIME12MTH,MA,Northeast,New England,Before That,80,63,37
-2012,Vote by Marital Status,MARRIED,MA,Northeast,New England,Married,57,55,44
-2012,Vote by Marital Status,MARRIED,MA,Northeast,New England,Unmarried,43,67,30
-2012,Vote by Gender and Marital Status,SEXWED,MA,Northeast,New England,Married Men,27,51,48
-2012,Vote by Gender and Marital Status,SEXWED,MA,Northeast,New England,Married Women,29,59,40
-2012,Vote by Gender and Marital Status,SEXWED,MA,Northeast,New England,Unmarried Men,19,61,34
-2012,Vote by Gender and Marital Status,SEXWED,MA,Northeast,New England,Unmarried Women,24,72,26
-2012,Vote for Senate,SENMA12,MA,Northeast,New England,Warren,53,96,2
-2012,Vote for Senate,SENMA12,MA,Northeast,New England,Brown,47,19,79
-2012,Vote by Size of Place,SIZEPLC3,MA,Northeast,New England,Urban,16,80,19
-2012,Vote by Size of Place,SIZEPLC3,MA,Northeast,New England,Suburban,84,57,42
-2012,Vote by Size of Place,SIZEPLC3,MA,Northeast,New England,Rural,N/A,,
-2012,Vote by Region,GEOCOD,MA,Northeast,New England,Boston Area,26,70,28
-2012,Vote by Region,GEOCOD,MA,Northeast,New England,North Shore/Route 128,17,57,41
-2012,Vote by Region,GEOCOD,MA,Northeast,New England,South Shore/Cape Cod,15,53,46
-2012,Vote by Region,GEOCOD,MA,Northeast,New England,Route 495 Industrial Belt,25,56,42
-2012,Vote by Region,GEOCOD,MA,Northeast,New England,Western Massachusetts,17,61,37
-2012,Vote by Size of Place,SIZEPLC3,MA,Northeast,New England,Urban,16,80,19
-2012,Vote by Size of Place,SIZEPLC3,MA,Northeast,New England,Suburban,84,57,42
-2012,Vote by Size of Place,SIZEPLC3,MA,Northeast,New England,Rural,N/A,,
-2012,Vote by Region,GEOCOD,MA,Northeast,New England,Boston Area,26,70,28
-2012,Vote by Region,GEOCOD,MA,Northeast,New England,North Shore/Route 128,17,57,41
-2012,Vote by Region,GEOCOD,MA,Northeast,New England,South Shore/Cape Cod,15,53,46
-2012,Vote by Region,GEOCOD,MA,Northeast,New England,Route 495 Industrial Belt,25,56,42
-2012,Vote by Region,GEOCOD,MA,Northeast,New England,Western Massachusetts,17,61,37
+2012	Vote by Gender	SEX	MA	Northeast	New England	Men	47	55	43
+2012	Vote by Gender	SEX	MA	Northeast	New England	Women	53	65	34
+2012	Vote by Age	AGE	MA	Northeast	New England	18-29	18	73	24
+2012	Vote by Age	AGE	MA	Northeast	New England	30-44	23	56	42
+2012	Vote by Age	AGE	MA	Northeast	New England	45-64	39	59	40
+2012	Vote by Age	AGE	MA	Northeast	New England	65 and Older	19	56	43
+2012	Vote by Age	AGE65	MA	Northeast	New England	18-24	9	74	24
+2012	Vote by Age	AGE65	MA	Northeast	New England	25-29	9	72	24
+2012	Vote by Age	AGE65	MA	Northeast	New England	30-39	14	59	38
+2012	Vote by Age	AGE65	MA	Northeast	New England	40-49	20	53	45
+2012	Vote by Age	AGE65	MA	Northeast	New England	50-64	29	61	39
+2012	Vote by Age	AGE65	MA	Northeast	New England	65 and Older	19	56	43
+2012	Vote by Race	RACE	MA	Northeast	New England	White	86	57	42
+2012	Vote by Race	RACE	MA	Northeast	New England	African-American	6	92	7
+2012	Vote by Race	RACE	MA	Northeast	New England	Latino	4		
+2012	Vote by Race	RACE	MA	Northeast	New England	Asian	2		
+2012	Vote by Race	RACE	MA	Northeast	New England	Other	1		
+2012	Vote by Gender and Race	SEXBYRACE	MA	Northeast	New England	White Men	39	50	48
+2012	Vote by Gender and Race	SEXBYRACE	MA	Northeast	New England	White Women	47	63	37
+2012	Vote by Gender and Race	SEXBYRACE	MA	Northeast	New England	Black Men	3		
+2012	Vote by Gender and Race	SEXBYRACE	MA	Northeast	New England	Black Women	2		
+2012	Vote by Gender and Race	SEXBYRACE	MA	Northeast	New England	Latino Men	2		
+2012	Vote by Gender and Race	SEXBYRACE	MA	Northeast	New England	Latino Women	2		
+2012	Vote by Gender and Race	SEXBYRACE	MA	Northeast	New England	All Others	3		
+2012	Vote by Ideology	PHIL3	MA	Northeast	New England	Liberal	32	90	8
+2012	Vote by Ideology	PHIL3	MA	Northeast	New England	Moderate	47	55	43
+2012	Vote by Ideology	PHIL3	MA	Northeast	New England	Conservative	21	27	73
+2012	Vote by Party ID	PARTY	MA	Northeast	New England	Democratic	39	93	6
+2012	Vote by Party ID	PARTY	MA	Northeast	New England	Republican	17	7	93
+2012	Vote by Party ID	PARTY	MA	Northeast	New England	Independent	45	52	45
+2012	Vote by Education	EDUC10	MA	Northeast	New England	No High School	2		
+2012	Vote by Education	EDUC10	MA	Northeast	New England	High School Graduate	16	65	35
+2012	Vote by Education	EDUC10	MA	Northeast	New England	Some College	22	60	38
+2012	Vote by Education	EDUC10	MA	Northeast	New England	College Graduate	33	54	44
+2012	Vote by Education	EDUC10	MA	Northeast	New England	Postgraduate	27	65	33
+2012	Are You a College Graduate?	EDUCCOLL	MA	Northeast	New England	Yes	60	59	39
+2012	Are You a College Graduate?	EDUCCOLL	MA	Northeast	New England	No	40	62	37
+2012	Did You Attend College?	EDUCHS	MA	Northeast	New England	Yes	82	59	39
+2012	Did You Attend College?	EDUCHS	MA	Northeast	New England	No	18	65	35
+2012	Vote by Income	INCOME3	MA	Northeast	New England	Less Than $50K	29	70	28
+2012	Vote by Income	INCOME3	MA	Northeast	New England	$50-100K	34	58	40
+2012	Vote by Income	INCOME3	MA	Northeast	New England	$100K or More	38	54	45
+2012	Vote by Income	INC50K	MA	Northeast	New England	Less Than $50K	29	70	28
+2012	Vote by Income	INC50K	MA	Northeast	New England	$50K or More	71	56	43
+2012	Vote by Income	INC100K	MA	Northeast	New England	Less Than $100K	62	63	35
+2012	Vote by Income	INC100K	MA	Northeast	New England	$100K or More	38	54	45
+2012	Most Important Issue Facing Country	ISSUE12	MA	Northeast	New England	Foreign Policy	5		
+2012	Most Important Issue Facing Country	ISSUE12	MA	Northeast	New England	Deficit	11	47	51
+2012	Most Important Issue Facing Country	ISSUE12	MA	Northeast	New England	Economy	64	56	42
+2012	Most Important Issue Facing Country	ISSUE12	MA	Northeast	New England	Health Care	16	80	19
+2012	Opinion of Government	GOVTDO10	MA	Northeast	New England	Government Should Do More	53	85	13
+2012	Opinion of Government	GOVTDO10	MA	Northeast	New England	Government Doing Too Much	43	28	69
+2012	Opinion of Barack Obama	FAVOBAMA2	MA	Northeast	New England	Favorable	63	93	6
+2012	Opinion of Barack Obama	FAVOBAMA2	MA	Northeast	New England	Unfavorable	36	5	93
+2012	Opinion of Mitt Romney	FAVROMN2	MA	Northeast	New England	Favorable	40	11	89
+2012	Opinion of Mitt Romney	FAVROMN2	MA	Northeast	New England	Unfavorable	59	94	3
+2012	When Did You Decide Presidential Vote?	TIME12	MA	Northeast	New England	Just Today	6		
+2012	When Did You Decide Presidential Vote?	TIME12	MA	Northeast	New England	Last Few Days	6		
+2012	When Did You Decide Presidential Vote?	TIME12	MA	Northeast	New England	In October	8	48	47
+2012	When Did You Decide Presidential Vote?	TIME12	MA	Northeast	New England	In September	6		
+2012	When Did You Decide Presidential Vote?	TIME12	MA	Northeast	New England	Before That	74	64	35
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	MA	Northeast	New England	Today/Last Few Days	11	56	37
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	MA	Northeast	New England	Before That	88	61	37
+2012	When Did You Decide Presidential Vote?	TIME12MTH	MA	Northeast	New England	In October or November	19	53	41
+2012	When Did You Decide Presidential Vote?	TIME12MTH	MA	Northeast	New England	Before That	80	63	37
+2012	Vote by Marital Status	MARRIED	MA	Northeast	New England	Married	57	55	44
+2012	Vote by Marital Status	MARRIED	MA	Northeast	New England	Unmarried	43	67	30
+2012	Vote by Gender and Marital Status	SEXWED	MA	Northeast	New England	Married Men	27	51	48
+2012	Vote by Gender and Marital Status	SEXWED	MA	Northeast	New England	Married Women	29	59	40
+2012	Vote by Gender and Marital Status	SEXWED	MA	Northeast	New England	Unmarried Men	19	61	34
+2012	Vote by Gender and Marital Status	SEXWED	MA	Northeast	New England	Unmarried Women	24	72	26
+2012	Vote for Senate	SENMA12	MA	Northeast	New England	Warren	53	96	2
+2012	Vote for Senate	SENMA12	MA	Northeast	New England	Brown	47	19	79
+2012	Vote by Size of Place	SIZEPLC3	MA	Northeast	New England	Urban	16	80	19
+2012	Vote by Size of Place	SIZEPLC3	MA	Northeast	New England	Suburban	84	57	42
+2012	Vote by Size of Place	SIZEPLC3	MA	Northeast	New England	Rural			
+2012	Vote by Region	GEOCOD	MA	Northeast	New England	Boston Area	26	70	28
+2012	Vote by Region	GEOCOD	MA	Northeast	New England	North Shore/Route 128	17	57	41
+2012	Vote by Region	GEOCOD	MA	Northeast	New England	South Shore/Cape Cod	15	53	46
+2012	Vote by Region	GEOCOD	MA	Northeast	New England	Route 495 Industrial Belt	25	56	42
+2012	Vote by Region	GEOCOD	MA	Northeast	New England	Western Massachusetts	17	61	37
+2012	Vote by Size of Place	SIZEPLC3	MA	Northeast	New England	Urban	16	80	19
+2012	Vote by Size of Place	SIZEPLC3	MA	Northeast	New England	Suburban	84	57	42
+2012	Vote by Size of Place	SIZEPLC3	MA	Northeast	New England	Rural			
+2012	Vote by Region	GEOCOD	MA	Northeast	New England	Boston Area	26	70	28
+2012	Vote by Region	GEOCOD	MA	Northeast	New England	North Shore/Route 128	17	57	41
+2012	Vote by Region	GEOCOD	MA	Northeast	New England	South Shore/Cape Cod	15	53	46
+2012	Vote by Region	GEOCOD	MA	Northeast	New England	Route 495 Industrial Belt	25	56	42
+2012	Vote by Region	GEOCOD	MA	Northeast	New England	Western Massachusetts	17	61	37

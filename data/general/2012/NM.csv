@@ -1,155 +1,155 @@
-2012,Vote by Gender,SEX,NM,West,Mountain,Men,47,50,45
-2012,Vote by Gender,SEX,NM,West,Mountain,Women,53,55,41
-2012,Vote by Age,AGE,NM,West,Mountain,18-29,17,64,32
-2012,Vote by Age,AGE,NM,West,Mountain,30-44,23,49,44
-2012,Vote by Age,AGE,NM,West,Mountain,45-64,40,49,46
-2012,Vote by Age,AGE,NM,West,Mountain,65 and Older,20,53,46
-2012,Vote by Age,AGE65,NM,West,Mountain,18-24,9,67,30
-2012,Vote by Age,AGE65,NM,West,Mountain,25-29,8,61,34
-2012,Vote by Age,AGE65,NM,West,Mountain,30-39,15,48,43
-2012,Vote by Age,AGE65,NM,West,Mountain,40-49,17,48,46
-2012,Vote by Age,AGE65,NM,West,Mountain,50-64,31,50,46
-2012,Vote by Age,AGE65,NM,West,Mountain,65 and Older,20,53,46
-2012,Vote by Race,RACE,NM,West,Mountain,White,51,41,56
-2012,Vote by Race,RACE,NM,West,Mountain,African-American,2,,
-2012,Vote by Race,RACE,NM,West,Mountain,Latino,37,65,29
-2012,Vote by Race,RACE,NM,West,Mountain,Asian,1,,
-2012,Vote by Race,RACE,NM,West,Mountain,Other,10,65,31
-2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,White Men,24,39,56
-2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,White Women,26,43,55
-2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,Black Men,1,,
-2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,Black Women,1,,
-2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,Latino Men,17,63,31
-2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,Latino Women,21,67,27
-2012,Vote by Gender and Race,SEXBYRACE,NM,West,Mountain,All Others,11,64,32
-2012,Vote by Ideology,PHIL3,NM,West,Mountain,Liberal,24,88,6
-2012,Vote by Ideology,PHIL3,NM,West,Mountain,Moderate,38,61,34
-2012,Vote by Ideology,PHIL3,NM,West,Mountain,Conservative,37,19,76
-2012,Vote by Party ID,PARTY,NM,West,Mountain,Democratic,42,90,9
-2012,Vote by Party ID,PARTY,NM,West,Mountain,Republican,30,11,85
-2012,Vote by Party ID,PARTY,NM,West,Mountain,Independent,28,41,48
-2012,Vote by Education,EDUC10,NM,West,Mountain,No High School,5,78,19
-2012,Vote by Education,EDUC10,NM,West,Mountain,High School Graduate,21,56,41
-2012,Vote by Education,EDUC10,NM,West,Mountain,Some College,33,52,43
-2012,Vote by Education,EDUC10,NM,West,Mountain,College Graduate,26,46,49
-2012,Vote by Education,EDUC10,NM,West,Mountain,Postgraduate,15,51,44
-2012,Are You a College Graduate?,EDUCCOLL,NM,West,Mountain,Yes,41,48,47
-2012,Are You a College Graduate?,EDUCCOLL,NM,West,Mountain,No,59,55,40
-2012,Did You Attend College?,EDUCHS,NM,West,Mountain,Yes,74,50,45
-2012,Did You Attend College?,EDUCHS,NM,West,Mountain,No,26,60,37
-2012,Vote by Income,INCOME3,NM,West,Mountain,Less Than $50K,49,59,36
-2012,Vote by Income,INCOME3,NM,West,Mountain,$50-100K,32,49,47
-2012,Vote by Income,INCOME3,NM,West,Mountain,$100K or More,19,42,53
-2012,Vote by Income,INC50K,NM,West,Mountain,Less Than $50K,49,59,36
-2012,Vote by Income,INC50K,NM,West,Mountain,$50K or More,51,47,49
-2012,Vote by Income,INC100K,NM,West,Mountain,Less Than $100K,81,55,40
-2012,Vote by Income,INC100K,NM,West,Mountain,$100K or More,19,42,53
-2012,How Often Do You Attend Religious Services?,ATTEND,NM,West,Mountain,More Than Weekly,11,29,67
-2012,How Often Do You Attend Religious Services?,ATTEND,NM,West,Mountain,Weekly,30,43,53
-2012,How Often Do You Attend Religious Services?,ATTEND,NM,West,Mountain,Monthly,14,48,49
-2012,How Often Do You Attend Religious Services?,ATTEND,NM,West,Mountain,Few Times a Year,20,59,38
-2012,How Often Do You Attend Religious Services?,ATTEND,NM,West,Mountain,Never,22,73,19
-2012,How Often Do You Attend Religious Services?,ATTEND2,NM,West,Mountain,Weekly,42,39,57
-2012,How Often Do You Attend Religious Services?,ATTEND2,NM,West,Mountain,Occasionally,34,55,42
-2012,How Often Do You Attend Religious Services?,ATTEND2,NM,West,Mountain,Never,22,73,19
-2012,Vote by Religion,REL5,NM,West,Mountain,Protestant,45,35,60
-2012,Vote by Religion,REL5,NM,West,Mountain,Catholic,28,64,32
-2012,Vote by Religion,REL5,NM,West,Mountain,Jewish,2,,
-2012,Vote by Religion,REL5,NM,West,Mountain,Other,9,,
-2012,Vote by Religion,REL5,NM,West,Mountain,None,16,71,25
-2012,Vote by Religion and Race,WHITEREL,NM,West,Mountain,White Protestant,29,29,70
-2012,Vote by Religion and Race,WHITEREL,NM,West,Mountain,White Catholic,7,,
-2012,Vote by Religion and Race,WHITEREL,NM,West,Mountain,White Jewish,2,,
-2012,Vote by Religion and Race,WHITEREL,NM,West,Mountain,Whites/Other Religion,5,,
-2012,Vote by Religion and Race,WHITEREL,NM,West,Mountain,Whites/No Religion,9,66,31
-2012,Vote by Religion and Race,WHITEREL,NM,West,Mountain,Non-white,49,64,29
-2012,Vote by Religion and Church Attendance,ATTREL,NM,West,Mountain,Protestant/Attend Weekly,11,21,77
-2012,Vote by Religion and Church Attendance,ATTREL,NM,West,Mountain,Protestant/Not Weekly ,11,41,48
-2012,Vote by Religion and Church Attendance,ATTREL,NM,West,Mountain,Catholic/Attend Weekly,13,65,29
-2012,Vote by Religion and Church Attendance,ATTREL,NM,West,Mountain,Catholic/Not Weekly,14,63,35
-2012,Vote by Religion and Church Attendance,ATTREL,NM,West,Mountain,All Others,50,56,40
-2012,Most Important Issue Facing Country,ISSUE12,NM,West,Mountain,Foreign Policy,6,47,42
-2012,Most Important Issue Facing Country,ISSUE12,NM,West,Mountain,Deficit,15,31,61
-2012,Most Important Issue Facing Country,ISSUE12,NM,West,Mountain,Economy,56,49,47
-2012,Most Important Issue Facing Country,ISSUE12,NM,West,Mountain,Health Care,20,77,20
-2012,Most Important Candidate Quality,QLT12,NM,West,Mountain,Shares My Values,28,37,58
-2012,Most Important Candidate Quality,QLT12,NM,West,Mountain,Strong Leader,16,54,45
-2012,Most Important Candidate Quality,QLT12,NM,West,Mountain,Cares About People,20,81,16
-2012,Most Important Candidate Quality,QLT12,NM,West,Mountain,Vision for Future,32,47,47
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,NM,West,Mountain,Housing Market,6,,
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,NM,West,Mountain,Unemployment,33,58,39
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,NM,West,Mountain,Taxes,16,29,61
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,NM,West,Mountain,Rising Prices,41,53,44
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,NM,West,Mountain,Expanded,22,90,8
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,NM,West,Mountain,Kept As Is,17,86,11
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,NM,West,Mountain,Repealed In Part,26,44,48
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,NM,West,Mountain,Repealed Completely,29,8,87
-2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,NM,West,Mountain,No,39,88,9
-2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,NM,West,Mountain,Yes,56,25,69
-2012,Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,NM,West,Mountain,Offered Legal Status,67,64,30
-2012,Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,NM,West,Mountain,Deported,26,29,68
-2012,Who Is More In Touch With People Like You?,INTOUCH12,NM,West,Mountain,Obama,55,93,4
-2012,Who Is More In Touch With People Like You?,INTOUCH12,NM,West,Mountain,Romney,40,2,95
-2012,Who Would Better Handle Economy?,HANDLEECON12,NM,West,Mountain,Obama,50,96,2
-2012,Who Would Better Handle Economy?,HANDLEECON12,NM,West,Mountain,Romney,45,6,90
-2012,Opinion of Government,GOVTDO10,NM,West,Mountain,Government Should Do More,37,87,12
-2012,Opinion of Government,GOVTDO10,NM,West,Mountain,Government Doing Too Much,58,28,65
-2012,National Economic Conditions,NEC,NM,West,Mountain,Excellent,3,,
-2012,National Economic Conditions,NEC,NM,West,Mountain,Good,22,89,9
-2012,National Economic Conditions,NEC,NM,West,Mountain,Not So Good,40,63,34
-2012,National Economic Conditions,NEC,NM,West,Mountain,Poor,35,15,77
-2012,National Economic Conditions,NEC2,NM,West,Mountain,Excellent/Good,25,88,9
-2012,National Economic Conditions,NEC2,NM,West,Mountain,Not So Good/Poor,74,41,54
-2012,U.S. Economic Conditions Are...,ECONBETT,NM,West,Mountain,Getting Better,35,91,7
-2012,U.S. Economic Conditions Are...,ECONBETT,NM,West,Mountain,Getting Worse,34,10,85
-2012,U.S. Economic Conditions Are...,ECONBETT,NM,West,Mountain,Staying About the Same,30,55,38
-2012,U.S. Economic Conditions Are...,ECONDIR,NM,West,Mountain,Getting Better,35,91,7
-2012,U.S. Economic Conditions Are...,ECONDIR,NM,West,Mountain,Good and Staying the Same,5,,
-2012,U.S. Economic Conditions Are...,ECONDIR,NM,West,Mountain,Poor and Staying the Same,25,48,43
-2012,U.S. Economic Conditions Are...,ECONDIR,NM,West,Mountain,Getting Worse,34,10,85
-2012,Your Family's Financial Situation,FINSIT,NM,West,Mountain,Better,22,82,14
-2012,Your Family's Financial Situation,FINSIT,NM,West,Mountain,Worse,35,20,74
-2012,Your Family's Financial Situation,FINSIT,NM,West,Mountain,Same,42,63,33
-2012,More to Blame for Current Economic Problems?,ECONBLAME12,NM,West,Mountain,Barack Obama,41,7,88
-2012,More to Blame for Current Economic Problems?,ECONBLAME12,NM,West,Mountain,George W. Bush,52,88,8
-2012,Opinion of Barack Obama,FAVOBAMA2,NM,West,Mountain,Favorable,53,94,4
-2012,Opinion of Barack Obama,FAVOBAMA2,NM,West,Mountain,Unfavorable,45,3,90
-2012,Opinion of Mitt Romney,FAVROMN2,NM,West,Mountain,Favorable,48,11,87
-2012,Opinion of Mitt Romney,FAVROMN2,NM,West,Mountain,Unfavorable,49,91,2
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NM,West,Mountain,Strongly Favor,65,60,36
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NM,West,Mountain,Have Reservations,20,38,57
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NM,West,Mountain,Dislike Opponent,12,32,57
-2012,When Did You Decide Presidential Vote?,TIME12,NM,West,Mountain,Just Today,4,,
-2012,When Did You Decide Presidential Vote?,TIME12,NM,West,Mountain,Last Few Days,6,,
-2012,When Did You Decide Presidential Vote?,TIME12,NM,West,Mountain,In October,11,48,42
-2012,When Did You Decide Presidential Vote?,TIME12,NM,West,Mountain,In September,7,,
-2012,When Did You Decide Presidential Vote?,TIME12,NM,West,Mountain,Before That,71,52,45
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,NM,West,Mountain,Today/Last Few Days,10,59,36
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,NM,West,Mountain,Before That,89,51,44
-2012,When Did You Decide Presidential Vote?,TIME12MTH,NM,West,Mountain,In October or November,21,53,39
-2012,When Did You Decide Presidential Vote?,TIME12MTH,NM,West,Mountain,Before That,78,52,45
-2012,Vote by Marital Status,MARRIED,NM,West,Mountain,Married,58,45,51
-2012,Vote by Marital Status,MARRIED,NM,West,Mountain,Unmarried,42,63,32
-2012,Vote by Gender and Marital Status,SEXWED,NM,West,Mountain,Married Men,28,41,54
-2012,Vote by Gender and Marital Status,SEXWED,NM,West,Mountain,Married Women,30,48,49
-2012,Vote by Gender and Marital Status,SEXWED,NM,West,Mountain,Unmarried Men,19,62,32
-2012,Vote by Gender and Marital Status,SEXWED,NM,West,Mountain,Unmarried Women,23,63,32
-2012,Any Children Under 18 Living in Your Home?,CHILD12,NM,West,Mountain,Yes,35,49,46
-2012,Any Children Under 18 Living in Your Home?,CHILD12,NM,West,Mountain,No,65,54,42
-2012,Vote by Marital Status and Children,MARCHILD,NM,West,Mountain,Married With Children,24,45,49
-2012,Vote by Marital Status and Children,MARCHILD,NM,West,Mountain,All Others,76,55,41
-2012,Vote by Gender and Children in Household,PARENTS,NM,West,Mountain,Fathers,17,36,60
-2012,Vote by Gender and Children in Household,PARENTS,NM,West,Mountain,Mothers,18,61,33
-2012,Vote by Gender and Children in Household,PARENTS,NM,West,Mountain,Men With No Children,33,55,38
-2012,Vote by Gender and Children in Household,PARENTS,NM,West,Mountain,Women With No Children,32,52,46
-2012,Were You Born in the United States?,BORNUSA,NM,West,Mountain,Yes,96,52,43
-2012,Were You Born in the United States?,BORNUSA,NM,West,Mountain,No,4,,
-2012,Vote for Senate,SENNM12,NM,West,Mountain,Heinrich,51,90,7
-2012,Vote for Senate,SENNM12,NM,West,Mountain,Wilson,45,12,85
-2012,Vote by Size of Place,SIZEPLC3,NM,West,Mountain,Urban,44,58,36
-2012,Vote by Size of Place,SIZEPLC3,NM,West,Mountain,Suburban,16,53,44
-2012,Vote by Size of Place,SIZEPLC3,NM,West,Mountain,Rural,40,46,50
-2012,Vote by Region,GEOCOD,NM,West,Mountain,Little Texas/Eastern N.M.,15,32,65
-2012,Vote by Region,GEOCOD,NM,West,Mountain,Santa Fe/Central N.M.,16,70,27
-2012,Vote by Region,GEOCOD,NM,West,Mountain,Albuquerque Area,47,55,41
-2012,Vote by Region,GEOCOD,NM,West,Mountain,Western N.M.,23,49,45
+2012	Vote by Gender	SEX	NM	West	Mountain	Men	47	50	45
+2012	Vote by Gender	SEX	NM	West	Mountain	Women	53	55	41
+2012	Vote by Age	AGE	NM	West	Mountain	18-29	17	64	32
+2012	Vote by Age	AGE	NM	West	Mountain	30-44	23	49	44
+2012	Vote by Age	AGE	NM	West	Mountain	45-64	40	49	46
+2012	Vote by Age	AGE	NM	West	Mountain	65 and Older	20	53	46
+2012	Vote by Age	AGE65	NM	West	Mountain	18-24	9	67	30
+2012	Vote by Age	AGE65	NM	West	Mountain	25-29	8	61	34
+2012	Vote by Age	AGE65	NM	West	Mountain	30-39	15	48	43
+2012	Vote by Age	AGE65	NM	West	Mountain	40-49	17	48	46
+2012	Vote by Age	AGE65	NM	West	Mountain	50-64	31	50	46
+2012	Vote by Age	AGE65	NM	West	Mountain	65 and Older	20	53	46
+2012	Vote by Race	RACE	NM	West	Mountain	White	51	41	56
+2012	Vote by Race	RACE	NM	West	Mountain	African-American	2		
+2012	Vote by Race	RACE	NM	West	Mountain	Latino	37	65	29
+2012	Vote by Race	RACE	NM	West	Mountain	Asian	1		
+2012	Vote by Race	RACE	NM	West	Mountain	Other	10	65	31
+2012	Vote by Gender and Race	SEXBYRACE	NM	West	Mountain	White Men	24	39	56
+2012	Vote by Gender and Race	SEXBYRACE	NM	West	Mountain	White Women	26	43	55
+2012	Vote by Gender and Race	SEXBYRACE	NM	West	Mountain	Black Men	1		
+2012	Vote by Gender and Race	SEXBYRACE	NM	West	Mountain	Black Women	1		
+2012	Vote by Gender and Race	SEXBYRACE	NM	West	Mountain	Latino Men	17	63	31
+2012	Vote by Gender and Race	SEXBYRACE	NM	West	Mountain	Latino Women	21	67	27
+2012	Vote by Gender and Race	SEXBYRACE	NM	West	Mountain	All Others	11	64	32
+2012	Vote by Ideology	PHIL3	NM	West	Mountain	Liberal	24	88	6
+2012	Vote by Ideology	PHIL3	NM	West	Mountain	Moderate	38	61	34
+2012	Vote by Ideology	PHIL3	NM	West	Mountain	Conservative	37	19	76
+2012	Vote by Party ID	PARTY	NM	West	Mountain	Democratic	42	90	9
+2012	Vote by Party ID	PARTY	NM	West	Mountain	Republican	30	11	85
+2012	Vote by Party ID	PARTY	NM	West	Mountain	Independent	28	41	48
+2012	Vote by Education	EDUC10	NM	West	Mountain	No High School	5	78	19
+2012	Vote by Education	EDUC10	NM	West	Mountain	High School Graduate	21	56	41
+2012	Vote by Education	EDUC10	NM	West	Mountain	Some College	33	52	43
+2012	Vote by Education	EDUC10	NM	West	Mountain	College Graduate	26	46	49
+2012	Vote by Education	EDUC10	NM	West	Mountain	Postgraduate	15	51	44
+2012	Are You a College Graduate?	EDUCCOLL	NM	West	Mountain	Yes	41	48	47
+2012	Are You a College Graduate?	EDUCCOLL	NM	West	Mountain	No	59	55	40
+2012	Did You Attend College?	EDUCHS	NM	West	Mountain	Yes	74	50	45
+2012	Did You Attend College?	EDUCHS	NM	West	Mountain	No	26	60	37
+2012	Vote by Income	INCOME3	NM	West	Mountain	Less Than $50K	49	59	36
+2012	Vote by Income	INCOME3	NM	West	Mountain	$50-100K	32	49	47
+2012	Vote by Income	INCOME3	NM	West	Mountain	$100K or More	19	42	53
+2012	Vote by Income	INC50K	NM	West	Mountain	Less Than $50K	49	59	36
+2012	Vote by Income	INC50K	NM	West	Mountain	$50K or More	51	47	49
+2012	Vote by Income	INC100K	NM	West	Mountain	Less Than $100K	81	55	40
+2012	Vote by Income	INC100K	NM	West	Mountain	$100K or More	19	42	53
+2012	How Often Do You Attend Religious Services?	ATTEND	NM	West	Mountain	More Than Weekly	11	29	67
+2012	How Often Do You Attend Religious Services?	ATTEND	NM	West	Mountain	Weekly	30	43	53
+2012	How Often Do You Attend Religious Services?	ATTEND	NM	West	Mountain	Monthly	14	48	49
+2012	How Often Do You Attend Religious Services?	ATTEND	NM	West	Mountain	Few Times a Year	20	59	38
+2012	How Often Do You Attend Religious Services?	ATTEND	NM	West	Mountain	Never	22	73	19
+2012	How Often Do You Attend Religious Services?	ATTEND2	NM	West	Mountain	Weekly	42	39	57
+2012	How Often Do You Attend Religious Services?	ATTEND2	NM	West	Mountain	Occasionally	34	55	42
+2012	How Often Do You Attend Religious Services?	ATTEND2	NM	West	Mountain	Never	22	73	19
+2012	Vote by Religion	REL5	NM	West	Mountain	Protestant	45	35	60
+2012	Vote by Religion	REL5	NM	West	Mountain	Catholic	28	64	32
+2012	Vote by Religion	REL5	NM	West	Mountain	Jewish	2		
+2012	Vote by Religion	REL5	NM	West	Mountain	Other	9		
+2012	Vote by Religion	REL5	NM	West	Mountain	None	16	71	25
+2012	Vote by Religion and Race	WHITEREL	NM	West	Mountain	White Protestant	29	29	70
+2012	Vote by Religion and Race	WHITEREL	NM	West	Mountain	White Catholic	7		
+2012	Vote by Religion and Race	WHITEREL	NM	West	Mountain	White Jewish	2		
+2012	Vote by Religion and Race	WHITEREL	NM	West	Mountain	Whites/Other Religion	5		
+2012	Vote by Religion and Race	WHITEREL	NM	West	Mountain	Whites/No Religion	9	66	31
+2012	Vote by Religion and Race	WHITEREL	NM	West	Mountain	Non-white	49	64	29
+2012	Vote by Religion and Church Attendance	ATTREL	NM	West	Mountain	Protestant/Attend Weekly	11	21	77
+2012	Vote by Religion and Church Attendance	ATTREL	NM	West	Mountain	Protestant/Not Weekly 	11	41	48
+2012	Vote by Religion and Church Attendance	ATTREL	NM	West	Mountain	Catholic/Attend Weekly	13	65	29
+2012	Vote by Religion and Church Attendance	ATTREL	NM	West	Mountain	Catholic/Not Weekly	14	63	35
+2012	Vote by Religion and Church Attendance	ATTREL	NM	West	Mountain	All Others	50	56	40
+2012	Most Important Issue Facing Country	ISSUE12	NM	West	Mountain	Foreign Policy	6	47	42
+2012	Most Important Issue Facing Country	ISSUE12	NM	West	Mountain	Deficit	15	31	61
+2012	Most Important Issue Facing Country	ISSUE12	NM	West	Mountain	Economy	56	49	47
+2012	Most Important Issue Facing Country	ISSUE12	NM	West	Mountain	Health Care	20	77	20
+2012	Most Important Candidate Quality	QLT12	NM	West	Mountain	Shares My Values	28	37	58
+2012	Most Important Candidate Quality	QLT12	NM	West	Mountain	Strong Leader	16	54	45
+2012	Most Important Candidate Quality	QLT12	NM	West	Mountain	Cares About People	20	81	16
+2012	Most Important Candidate Quality	QLT12	NM	West	Mountain	Vision for Future	32	47	47
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	NM	West	Mountain	Housing Market	6		
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	NM	West	Mountain	Unemployment	33	58	39
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	NM	West	Mountain	Taxes	16	29	61
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	NM	West	Mountain	Rising Prices	41	53	44
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	NM	West	Mountain	Expanded	22	90	8
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	NM	West	Mountain	Kept As Is	17	86	11
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	NM	West	Mountain	Repealed In Part	26	44	48
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	NM	West	Mountain	Repealed Completely	29	8	87
+2012	Should 2010 Health Care Law Be Repealed?	HEALTHCARE12B	NM	West	Mountain	No	39	88	9
+2012	Should 2010 Health Care Law Be Repealed?	HEALTHCARE12B	NM	West	Mountain	Yes	56	25	69
+2012	Most Illegal Immigrants Working in U.S. Should Be:	IMMDEPORT	NM	West	Mountain	Offered Legal Status	67	64	30
+2012	Most Illegal Immigrants Working in U.S. Should Be:	IMMDEPORT	NM	West	Mountain	Deported	26	29	68
+2012	Who Is More In Touch With People Like You?	INTOUCH12	NM	West	Mountain	Obama	55	93	4
+2012	Who Is More In Touch With People Like You?	INTOUCH12	NM	West	Mountain	Romney	40	2	95
+2012	Who Would Better Handle Economy?	HANDLEECON12	NM	West	Mountain	Obama	50	96	2
+2012	Who Would Better Handle Economy?	HANDLEECON12	NM	West	Mountain	Romney	45	6	90
+2012	Opinion of Government	GOVTDO10	NM	West	Mountain	Government Should Do More	37	87	12
+2012	Opinion of Government	GOVTDO10	NM	West	Mountain	Government Doing Too Much	58	28	65
+2012	National Economic Conditions	NEC	NM	West	Mountain	Excellent	3		
+2012	National Economic Conditions	NEC	NM	West	Mountain	Good	22	89	9
+2012	National Economic Conditions	NEC	NM	West	Mountain	Not So Good	40	63	34
+2012	National Economic Conditions	NEC	NM	West	Mountain	Poor	35	15	77
+2012	National Economic Conditions	NEC2	NM	West	Mountain	Excellent/Good	25	88	9
+2012	National Economic Conditions	NEC2	NM	West	Mountain	Not So Good/Poor	74	41	54
+2012	U.S. Economic Conditions Are...	ECONBETT	NM	West	Mountain	Getting Better	35	91	7
+2012	U.S. Economic Conditions Are...	ECONBETT	NM	West	Mountain	Getting Worse	34	10	85
+2012	U.S. Economic Conditions Are...	ECONBETT	NM	West	Mountain	Staying About the Same	30	55	38
+2012	U.S. Economic Conditions Are...	ECONDIR	NM	West	Mountain	Getting Better	35	91	7
+2012	U.S. Economic Conditions Are...	ECONDIR	NM	West	Mountain	Good and Staying the Same	5		
+2012	U.S. Economic Conditions Are...	ECONDIR	NM	West	Mountain	Poor and Staying the Same	25	48	43
+2012	U.S. Economic Conditions Are...	ECONDIR	NM	West	Mountain	Getting Worse	34	10	85
+2012	Your Family's Financial Situation	FINSIT	NM	West	Mountain	Better	22	82	14
+2012	Your Family's Financial Situation	FINSIT	NM	West	Mountain	Worse	35	20	74
+2012	Your Family's Financial Situation	FINSIT	NM	West	Mountain	Same	42	63	33
+2012	More to Blame for Current Economic Problems?	ECONBLAME12	NM	West	Mountain	Barack Obama	41	7	88
+2012	More to Blame for Current Economic Problems?	ECONBLAME12	NM	West	Mountain	George W. Bush	52	88	8
+2012	Opinion of Barack Obama	FAVOBAMA2	NM	West	Mountain	Favorable	53	94	4
+2012	Opinion of Barack Obama	FAVOBAMA2	NM	West	Mountain	Unfavorable	45	3	90
+2012	Opinion of Mitt Romney	FAVROMN2	NM	West	Mountain	Favorable	48	11	87
+2012	Opinion of Mitt Romney	FAVROMN2	NM	West	Mountain	Unfavorable	49	91	2
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	NM	West	Mountain	Strongly Favor	65	60	36
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	NM	West	Mountain	Have Reservations	20	38	57
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	NM	West	Mountain	Dislike Opponent	12	32	57
+2012	When Did You Decide Presidential Vote?	TIME12	NM	West	Mountain	Just Today	4		
+2012	When Did You Decide Presidential Vote?	TIME12	NM	West	Mountain	Last Few Days	6		
+2012	When Did You Decide Presidential Vote?	TIME12	NM	West	Mountain	In October	11	48	42
+2012	When Did You Decide Presidential Vote?	TIME12	NM	West	Mountain	In September	7		
+2012	When Did You Decide Presidential Vote?	TIME12	NM	West	Mountain	Before That	71	52	45
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	NM	West	Mountain	Today/Last Few Days	10	59	36
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	NM	West	Mountain	Before That	89	51	44
+2012	When Did You Decide Presidential Vote?	TIME12MTH	NM	West	Mountain	In October or November	21	53	39
+2012	When Did You Decide Presidential Vote?	TIME12MTH	NM	West	Mountain	Before That	78	52	45
+2012	Vote by Marital Status	MARRIED	NM	West	Mountain	Married	58	45	51
+2012	Vote by Marital Status	MARRIED	NM	West	Mountain	Unmarried	42	63	32
+2012	Vote by Gender and Marital Status	SEXWED	NM	West	Mountain	Married Men	28	41	54
+2012	Vote by Gender and Marital Status	SEXWED	NM	West	Mountain	Married Women	30	48	49
+2012	Vote by Gender and Marital Status	SEXWED	NM	West	Mountain	Unmarried Men	19	62	32
+2012	Vote by Gender and Marital Status	SEXWED	NM	West	Mountain	Unmarried Women	23	63	32
+2012	Any Children Under 18 Living in Your Home?	CHILD12	NM	West	Mountain	Yes	35	49	46
+2012	Any Children Under 18 Living in Your Home?	CHILD12	NM	West	Mountain	No	65	54	42
+2012	Vote by Marital Status and Children	MARCHILD	NM	West	Mountain	Married With Children	24	45	49
+2012	Vote by Marital Status and Children	MARCHILD	NM	West	Mountain	All Others	76	55	41
+2012	Vote by Gender and Children in Household	PARENTS	NM	West	Mountain	Fathers	17	36	60
+2012	Vote by Gender and Children in Household	PARENTS	NM	West	Mountain	Mothers	18	61	33
+2012	Vote by Gender and Children in Household	PARENTS	NM	West	Mountain	Men With No Children	33	55	38
+2012	Vote by Gender and Children in Household	PARENTS	NM	West	Mountain	Women With No Children	32	52	46
+2012	Were You Born in the United States?	BORNUSA	NM	West	Mountain	Yes	96	52	43
+2012	Were You Born in the United States?	BORNUSA	NM	West	Mountain	No	4		
+2012	Vote for Senate	SENNM12	NM	West	Mountain	Heinrich	51	90	7
+2012	Vote for Senate	SENNM12	NM	West	Mountain	Wilson	45	12	85
+2012	Vote by Size of Place	SIZEPLC3	NM	West	Mountain	Urban	44	58	36
+2012	Vote by Size of Place	SIZEPLC3	NM	West	Mountain	Suburban	16	53	44
+2012	Vote by Size of Place	SIZEPLC3	NM	West	Mountain	Rural	40	46	50
+2012	Vote by Region	GEOCOD	NM	West	Mountain	Little Texas/Eastern N.M.	15	32	65
+2012	Vote by Region	GEOCOD	NM	West	Mountain	Santa Fe/Central N.M.	16	70	27
+2012	Vote by Region	GEOCOD	NM	West	Mountain	Albuquerque Area	47	55	41
+2012	Vote by Region	GEOCOD	NM	West	Mountain	Western N.M.	23	49	45

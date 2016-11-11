@@ -1,132 +1,132 @@
-2012,Vote by Gender,SEX,CT,Northeast,New England,Men,47,51,47
-2012,Vote by Gender,SEX,CT,Northeast,New England,Women,53,63,36
-2012,Vote by Age,AGE,CT,Northeast,New England,18-29,13,66,30
-2012,Vote by Age,AGE,CT,Northeast,New England,30-44,24,55,44
-2012,Vote by Age,AGE,CT,Northeast,New England,45-64,43,58,41
-2012,Vote by Age,AGE,CT,Northeast,New England,65 and Older,20,54,46
-2012,Vote by Age,AGE65,CT,Northeast,New England,18-24,7,65,32
-2012,Vote by Age,AGE65,CT,Northeast,New England,25-29,6,67,29
-2012,Vote by Age,AGE65,CT,Northeast,New England,30-39,13,57,42
-2012,Vote by Age,AGE65,CT,Northeast,New England,40-49,22,57,42
-2012,Vote by Age,AGE65,CT,Northeast,New England,50-64,32,57,42
-2012,Vote by Age,AGE65,CT,Northeast,New England,65 and Older,20,54,46
-2012,Vote by Race,RACE,CT,Northeast,New England,White,79,51,48
-2012,Vote by Race,RACE,CT,Northeast,New England,African-American,11,93,7
-2012,Vote by Race,RACE,CT,Northeast,New England,Latino,6,79,20
-2012,Vote by Race,RACE,CT,Northeast,New England,Asian,2,,
-2012,Vote by Race,RACE,CT,Northeast,New England,Other,1,,
-2012,Vote by Gender and Race,SEXBYRACE,CT,Northeast,New England,White Men,38,44,54
-2012,Vote by Gender and Race,SEXBYRACE,CT,Northeast,New England,White Women,42,57,42
-2012,Vote by Gender and Race,SEXBYRACE,CT,Northeast,New England,Black Men,5,,
-2012,Vote by Gender and Race,SEXBYRACE,CT,Northeast,New England,Black Women,6,96,3
-2012,Vote by Gender and Race,SEXBYRACE,CT,Northeast,New England,Latino Men,2,,
-2012,Vote by Gender and Race,SEXBYRACE,CT,Northeast,New England,Latino Women,4,,
-2012,Vote by Gender and Race,SEXBYRACE,CT,Northeast,New England,All Others,4,,
-2012,Vote by Ideology,PHIL3,CT,Northeast,New England,Liberal,28,93,6
-2012,Vote by Ideology,PHIL3,CT,Northeast,New England,Moderate,47,56,42
-2012,Vote by Ideology,PHIL3,CT,Northeast,New England,Conservative,24,19,80
-2012,Vote by Party ID,PARTY,CT,Northeast,New England,Democratic,41,94,6
-2012,Vote by Party ID,PARTY,CT,Northeast,New England,Republican,26,9,91
-2012,Vote by Party ID,PARTY,CT,Northeast,New England,Independent,32,51,46
-2012,Vote by Education,EDUC10,CT,Northeast,New England,No High School,2,,
-2012,Vote by Education,EDUC10,CT,Northeast,New England,High School Graduate,15,62,37
-2012,Vote by Education,EDUC10,CT,Northeast,New England,Some College,24,60,39
-2012,Vote by Education,EDUC10,CT,Northeast,New England,College Graduate,31,49,49
-2012,Vote by Education,EDUC10,CT,Northeast,New England,Postgraduate,29,60,38
-2012,Are You a College Graduate?,EDUCCOLL,CT,Northeast,New England,Yes,59,54,44
-2012,Are You a College Graduate?,EDUCCOLL,CT,Northeast,New England,No,41,62,37
-2012,Did You Attend College?,EDUCHS,CT,Northeast,New England,Yes,83,56,42
-2012,Did You Attend College?,EDUCHS,CT,Northeast,New England,No,17,65,34
-2012,Vote by Income,INCOME3,CT,Northeast,New England,Less Than $50K,25,73,25
-2012,Vote by Income,INCOME3,CT,Northeast,New England,$50-100K,29,54,45
-2012,Vote by Income,INCOME3,CT,Northeast,New England,$100K or More,46,53,46
-2012,Vote by Income,INC50K,CT,Northeast,New England,Less Than $50K,25,73,25
-2012,Vote by Income,INC50K,CT,Northeast,New England,$50K or More,75,53,46
-2012,Vote by Income,INC100K,CT,Northeast,New England,Less Than $100K,54,63,36
-2012,Vote by Income,INC100K,CT,Northeast,New England,$100K or More,46,53,46
-2012,Vote by Religion,REL5,CT,Northeast,New England,Protestant,34,58,40
-2012,Vote by Religion,REL5,CT,Northeast,New England,Catholic,41,49,51
-2012,Vote by Religion,REL5,CT,Northeast,New England,Jewish,5,,
-2012,Vote by Religion,REL5,CT,Northeast,New England,Other,9,,
-2012,Vote by Religion,REL5,CT,Northeast,New England,None,12,76,21
-2012,Vote by Religion and Race,WHITEREL,CT,Northeast,New England,White Protestant,23,44,55
-2012,Vote by Religion and Race,WHITEREL,CT,Northeast,New England,White Catholic,36,46,53
-2012,Vote by Religion and Race,WHITEREL,CT,Northeast,New England,White Jewish,5,,
-2012,Vote by Religion and Race,WHITEREL,CT,Northeast,New England,Whites/Other Religion,6,,
-2012,Vote by Religion and Race,WHITEREL,CT,Northeast,New England,Whites/No Religion,10,,
-2012,Vote by Religion and Race,WHITEREL,CT,Northeast,New England,Non-white,20,84,15
-2012,Most Important Issue Facing Country,ISSUE12,CT,Northeast,New England,Foreign Policy,4,,
-2012,Most Important Issue Facing Country,ISSUE12,CT,Northeast,New England,Deficit,14,41,57
-2012,Most Important Issue Facing Country,ISSUE12,CT,Northeast,New England,Economy,62,55,44
-2012,Most Important Issue Facing Country,ISSUE12,CT,Northeast,New England,Health Care,17,81,19
-2012,Most Important Candidate Quality,QLT12,CT,Northeast,New England,Shares My Values,29,60,39
-2012,Most Important Candidate Quality,QLT12,CT,Northeast,New England,Strong Leader,23,52,48
-2012,Most Important Candidate Quality,QLT12,CT,Northeast,New England,Cares About People,20,85,14
-2012,Most Important Candidate Quality,QLT12,CT,Northeast,New England,Vision for Future,26,41,57
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,CT,Northeast,New England,Housing Market,8,,
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,CT,Northeast,New England,Unemployment,47,62,37
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,CT,Northeast,New England,Taxes,23,39,59
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,CT,Northeast,New England,Rising Prices,21,60,37
-2012,Who Is More In Touch With People Like You?,INTOUCH12,CT,Northeast,New England,Obama,58,96,3
-2012,Who Is More In Touch With People Like You?,INTOUCH12,CT,Northeast,New England,Romney,38,3,97
-2012,Who Would Better Handle Economy?,HANDLEECON12,CT,Northeast,New England,Obama,55,98,1
-2012,Who Would Better Handle Economy?,HANDLEECON12,CT,Northeast,New England,Romney,42,6,94
-2012,Opinion of Government,GOVTDO10,CT,Northeast,New England,Government Should Do More,52,83,16
-2012,Opinion of Government,GOVTDO10,CT,Northeast,New England,Government Doing Too Much,42,27,71
-2012,National Economic Conditions,NEC,CT,Northeast,New England,Excellent,2,,
-2012,National Economic Conditions,NEC,CT,Northeast,New England,Good,23,93,6
-2012,National Economic Conditions,NEC,CT,Northeast,New England,Not So Good,47,64,35
-2012,National Economic Conditions,NEC,CT,Northeast,New England,Poor,26,10,87
-2012,National Economic Conditions,NEC2,CT,Northeast,New England,Excellent/Good,25,93,6
-2012,National Economic Conditions,NEC2,CT,Northeast,New England,Not So Good/Poor,73,45,53
-2012,U.S. Economic Conditions Are...,ECONBETT,CT,Northeast,New England,Getting Better,45,93,6
-2012,U.S. Economic Conditions Are...,ECONBETT,CT,Northeast,New England,Getting Worse,30,15,82
-2012,U.S. Economic Conditions Are...,ECONBETT,CT,Northeast,New England,Staying About the Same,23,45,54
-2012,U.S. Economic Conditions Are...,ECONDIR,CT,Northeast,New England,Getting Better,45,93,6
-2012,U.S. Economic Conditions Are...,ECONDIR,CT,Northeast,New England,Good and Staying the Same,3,,
-2012,U.S. Economic Conditions Are...,ECONDIR,CT,Northeast,New England,Poor and Staying the Same,19,40,60
-2012,U.S. Economic Conditions Are...,ECONDIR,CT,Northeast,New England,Getting Worse,30,15,82
-2012,Your Family's Financial Situation,FINSIT,CT,Northeast,New England,Better,26,89,10
-2012,Your Family's Financial Situation,FINSIT,CT,Northeast,New England,Worse,33,21,77
-2012,Your Family's Financial Situation,FINSIT,CT,Northeast,New England,Same,41,71,28
-2012,Opinion of Barack Obama,FAVOBAMA2,CT,Northeast,New England,Favorable,58,95,5
-2012,Opinion of Barack Obama,FAVOBAMA2,CT,Northeast,New England,Unfavorable,41,5,92
-2012,Opinion of Mitt Romney,FAVROMN2,CT,Northeast,New England,Favorable,43,13,86
-2012,Opinion of Mitt Romney,FAVROMN2,CT,Northeast,New England,Unfavorable,54,92,6
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,CT,Northeast,New England,Strongly Favor,72,62,37
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,CT,Northeast,New England,Have Reservations,21,55,44
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,CT,Northeast,New England,Dislike Opponent,6,,
-2012,When Did You Decide Presidential Vote?,TIME12,CT,Northeast,New England,Just Today,5,,
-2012,When Did You Decide Presidential Vote?,TIME12,CT,Northeast,New England,Last Few Days,8,,
-2012,When Did You Decide Presidential Vote?,TIME12,CT,Northeast,New England,In October,7,,
-2012,When Did You Decide Presidential Vote?,TIME12,CT,Northeast,New England,In September,8,,
-2012,When Did You Decide Presidential Vote?,TIME12,CT,Northeast,New England,Before That,72,62,37
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,CT,Northeast,New England,Today/Last Few Days,13,50,46
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,CT,Northeast,New England,Before That,87,60,39
-2012,When Did You Decide Presidential Vote?,TIME12MTH,CT,Northeast,New England,In October or November,20,51,46
-2012,When Did You Decide Presidential Vote?,TIME12MTH,CT,Northeast,New England,Before That,80,61,38
-2012,Vote by Marital Status,MARRIED,CT,Northeast,New England,Married,64,54,45
-2012,Vote by Marital Status,MARRIED,CT,Northeast,New England,Unmarried,36,65,33
-2012,Vote by Gender and Marital Status,SEXWED,CT,Northeast,New England,Married Men,32,48,51
-2012,Vote by Gender and Marital Status,SEXWED,CT,Northeast,New England,Married Women,32,60,39
-2012,Vote by Gender and Marital Status,SEXWED,CT,Northeast,New England,Unmarried Men,15,60,36
-2012,Vote by Gender and Marital Status,SEXWED,CT,Northeast,New England,Unmarried Women,21,69,30
-2012,Any Children Under 18 Living in Your Home?,CHILD12,CT,Northeast,New England,Yes,36,57,41
-2012,Any Children Under 18 Living in Your Home?,CHILD12,CT,Northeast,New England,No,64,59,40
-2012,Vote by Marital Status and Children,MARCHILD,CT,Northeast,New England,Married With Children,26,51,48
-2012,Vote by Marital Status and Children,MARCHILD,CT,Northeast,New England,All Others,74,61,38
-2012,Vote by Gender and Children in Household,PARENTS,CT,Northeast,New England,Fathers,18,51,47
-2012,Vote by Gender and Children in Household,PARENTS,CT,Northeast,New England,Mothers,18,64,35
-2012,Vote by Gender and Children in Household,PARENTS,CT,Northeast,New England,Men With No Children,31,54,44
-2012,Vote by Gender and Children in Household,PARENTS,CT,Northeast,New England,Women With No Children,33,64,36
-2012,Do You Work Full-Time For Pay?,WORK,CT,Northeast,New England,Yes,63,58,41
-2012,Do You Work Full-Time For Pay?,WORK,CT,Northeast,New England,No,37,57,40
-2012,Vote for Senate,SENCT12,CT,Northeast,New England,Murphy,55,93,6
-2012,Vote for Senate,SENCT12,CT,Northeast,New England,McMahon,44,14,85
-2012,Vote by Size of Place,SIZEPLC3,CT,Northeast,New England,Urban,15,73,25
-2012,Vote by Size of Place,SIZEPLC3,CT,Northeast,New England,Suburban,78,55,43
-2012,Vote by Size of Place,SIZEPLC3,CT,Northeast,New England,Rural,6,49,49
-2012,Vote by Region,GEOCOD,CT,Northeast,New England,New York Suburbs,26,60,39
-2012,Vote by Region,GEOCOD,CT,Northeast,New England,Hartford Area,36,61,37
-2012,Vote by Region,GEOCOD,CT,Northeast,New England,Eastern Connecticut,17,55,44
-2012,Vote by Region,GEOCOD,CT,Northeast,New England,Western Connecticut,21,51,48
+2012	Vote by Gender	SEX	CT	Northeast	New England	Men	47	51	47
+2012	Vote by Gender	SEX	CT	Northeast	New England	Women	53	63	36
+2012	Vote by Age	AGE	CT	Northeast	New England	18-29	13	66	30
+2012	Vote by Age	AGE	CT	Northeast	New England	30-44	24	55	44
+2012	Vote by Age	AGE	CT	Northeast	New England	45-64	43	58	41
+2012	Vote by Age	AGE	CT	Northeast	New England	65 and Older	20	54	46
+2012	Vote by Age	AGE65	CT	Northeast	New England	18-24	7	65	32
+2012	Vote by Age	AGE65	CT	Northeast	New England	25-29	6	67	29
+2012	Vote by Age	AGE65	CT	Northeast	New England	30-39	13	57	42
+2012	Vote by Age	AGE65	CT	Northeast	New England	40-49	22	57	42
+2012	Vote by Age	AGE65	CT	Northeast	New England	50-64	32	57	42
+2012	Vote by Age	AGE65	CT	Northeast	New England	65 and Older	20	54	46
+2012	Vote by Race	RACE	CT	Northeast	New England	White	79	51	48
+2012	Vote by Race	RACE	CT	Northeast	New England	African-American	11	93	7
+2012	Vote by Race	RACE	CT	Northeast	New England	Latino	6	79	20
+2012	Vote by Race	RACE	CT	Northeast	New England	Asian	2		
+2012	Vote by Race	RACE	CT	Northeast	New England	Other	1		
+2012	Vote by Gender and Race	SEXBYRACE	CT	Northeast	New England	White Men	38	44	54
+2012	Vote by Gender and Race	SEXBYRACE	CT	Northeast	New England	White Women	42	57	42
+2012	Vote by Gender and Race	SEXBYRACE	CT	Northeast	New England	Black Men	5		
+2012	Vote by Gender and Race	SEXBYRACE	CT	Northeast	New England	Black Women	6	96	3
+2012	Vote by Gender and Race	SEXBYRACE	CT	Northeast	New England	Latino Men	2		
+2012	Vote by Gender and Race	SEXBYRACE	CT	Northeast	New England	Latino Women	4		
+2012	Vote by Gender and Race	SEXBYRACE	CT	Northeast	New England	All Others	4		
+2012	Vote by Ideology	PHIL3	CT	Northeast	New England	Liberal	28	93	6
+2012	Vote by Ideology	PHIL3	CT	Northeast	New England	Moderate	47	56	42
+2012	Vote by Ideology	PHIL3	CT	Northeast	New England	Conservative	24	19	80
+2012	Vote by Party ID	PARTY	CT	Northeast	New England	Democratic	41	94	6
+2012	Vote by Party ID	PARTY	CT	Northeast	New England	Republican	26	9	91
+2012	Vote by Party ID	PARTY	CT	Northeast	New England	Independent	32	51	46
+2012	Vote by Education	EDUC10	CT	Northeast	New England	No High School	2		
+2012	Vote by Education	EDUC10	CT	Northeast	New England	High School Graduate	15	62	37
+2012	Vote by Education	EDUC10	CT	Northeast	New England	Some College	24	60	39
+2012	Vote by Education	EDUC10	CT	Northeast	New England	College Graduate	31	49	49
+2012	Vote by Education	EDUC10	CT	Northeast	New England	Postgraduate	29	60	38
+2012	Are You a College Graduate?	EDUCCOLL	CT	Northeast	New England	Yes	59	54	44
+2012	Are You a College Graduate?	EDUCCOLL	CT	Northeast	New England	No	41	62	37
+2012	Did You Attend College?	EDUCHS	CT	Northeast	New England	Yes	83	56	42
+2012	Did You Attend College?	EDUCHS	CT	Northeast	New England	No	17	65	34
+2012	Vote by Income	INCOME3	CT	Northeast	New England	Less Than $50K	25	73	25
+2012	Vote by Income	INCOME3	CT	Northeast	New England	$50-100K	29	54	45
+2012	Vote by Income	INCOME3	CT	Northeast	New England	$100K or More	46	53	46
+2012	Vote by Income	INC50K	CT	Northeast	New England	Less Than $50K	25	73	25
+2012	Vote by Income	INC50K	CT	Northeast	New England	$50K or More	75	53	46
+2012	Vote by Income	INC100K	CT	Northeast	New England	Less Than $100K	54	63	36
+2012	Vote by Income	INC100K	CT	Northeast	New England	$100K or More	46	53	46
+2012	Vote by Religion	REL5	CT	Northeast	New England	Protestant	34	58	40
+2012	Vote by Religion	REL5	CT	Northeast	New England	Catholic	41	49	51
+2012	Vote by Religion	REL5	CT	Northeast	New England	Jewish	5		
+2012	Vote by Religion	REL5	CT	Northeast	New England	Other	9		
+2012	Vote by Religion	REL5	CT	Northeast	New England	None	12	76	21
+2012	Vote by Religion and Race	WHITEREL	CT	Northeast	New England	White Protestant	23	44	55
+2012	Vote by Religion and Race	WHITEREL	CT	Northeast	New England	White Catholic	36	46	53
+2012	Vote by Religion and Race	WHITEREL	CT	Northeast	New England	White Jewish	5		
+2012	Vote by Religion and Race	WHITEREL	CT	Northeast	New England	Whites/Other Religion	6		
+2012	Vote by Religion and Race	WHITEREL	CT	Northeast	New England	Whites/No Religion	10		
+2012	Vote by Religion and Race	WHITEREL	CT	Northeast	New England	Non-white	20	84	15
+2012	Most Important Issue Facing Country	ISSUE12	CT	Northeast	New England	Foreign Policy	4		
+2012	Most Important Issue Facing Country	ISSUE12	CT	Northeast	New England	Deficit	14	41	57
+2012	Most Important Issue Facing Country	ISSUE12	CT	Northeast	New England	Economy	62	55	44
+2012	Most Important Issue Facing Country	ISSUE12	CT	Northeast	New England	Health Care	17	81	19
+2012	Most Important Candidate Quality	QLT12	CT	Northeast	New England	Shares My Values	29	60	39
+2012	Most Important Candidate Quality	QLT12	CT	Northeast	New England	Strong Leader	23	52	48
+2012	Most Important Candidate Quality	QLT12	CT	Northeast	New England	Cares About People	20	85	14
+2012	Most Important Candidate Quality	QLT12	CT	Northeast	New England	Vision for Future	26	41	57
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	CT	Northeast	New England	Housing Market	8		
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	CT	Northeast	New England	Unemployment	47	62	37
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	CT	Northeast	New England	Taxes	23	39	59
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	CT	Northeast	New England	Rising Prices	21	60	37
+2012	Who Is More In Touch With People Like You?	INTOUCH12	CT	Northeast	New England	Obama	58	96	3
+2012	Who Is More In Touch With People Like You?	INTOUCH12	CT	Northeast	New England	Romney	38	3	97
+2012	Who Would Better Handle Economy?	HANDLEECON12	CT	Northeast	New England	Obama	55	98	1
+2012	Who Would Better Handle Economy?	HANDLEECON12	CT	Northeast	New England	Romney	42	6	94
+2012	Opinion of Government	GOVTDO10	CT	Northeast	New England	Government Should Do More	52	83	16
+2012	Opinion of Government	GOVTDO10	CT	Northeast	New England	Government Doing Too Much	42	27	71
+2012	National Economic Conditions	NEC	CT	Northeast	New England	Excellent	2		
+2012	National Economic Conditions	NEC	CT	Northeast	New England	Good	23	93	6
+2012	National Economic Conditions	NEC	CT	Northeast	New England	Not So Good	47	64	35
+2012	National Economic Conditions	NEC	CT	Northeast	New England	Poor	26	10	87
+2012	National Economic Conditions	NEC2	CT	Northeast	New England	Excellent/Good	25	93	6
+2012	National Economic Conditions	NEC2	CT	Northeast	New England	Not So Good/Poor	73	45	53
+2012	U.S. Economic Conditions Are...	ECONBETT	CT	Northeast	New England	Getting Better	45	93	6
+2012	U.S. Economic Conditions Are...	ECONBETT	CT	Northeast	New England	Getting Worse	30	15	82
+2012	U.S. Economic Conditions Are...	ECONBETT	CT	Northeast	New England	Staying About the Same	23	45	54
+2012	U.S. Economic Conditions Are...	ECONDIR	CT	Northeast	New England	Getting Better	45	93	6
+2012	U.S. Economic Conditions Are...	ECONDIR	CT	Northeast	New England	Good and Staying the Same	3		
+2012	U.S. Economic Conditions Are...	ECONDIR	CT	Northeast	New England	Poor and Staying the Same	19	40	60
+2012	U.S. Economic Conditions Are...	ECONDIR	CT	Northeast	New England	Getting Worse	30	15	82
+2012	Your Family's Financial Situation	FINSIT	CT	Northeast	New England	Better	26	89	10
+2012	Your Family's Financial Situation	FINSIT	CT	Northeast	New England	Worse	33	21	77
+2012	Your Family's Financial Situation	FINSIT	CT	Northeast	New England	Same	41	71	28
+2012	Opinion of Barack Obama	FAVOBAMA2	CT	Northeast	New England	Favorable	58	95	5
+2012	Opinion of Barack Obama	FAVOBAMA2	CT	Northeast	New England	Unfavorable	41	5	92
+2012	Opinion of Mitt Romney	FAVROMN2	CT	Northeast	New England	Favorable	43	13	86
+2012	Opinion of Mitt Romney	FAVROMN2	CT	Northeast	New England	Unfavorable	54	92	6
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	CT	Northeast	New England	Strongly Favor	72	62	37
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	CT	Northeast	New England	Have Reservations	21	55	44
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	CT	Northeast	New England	Dislike Opponent	6		
+2012	When Did You Decide Presidential Vote?	TIME12	CT	Northeast	New England	Just Today	5		
+2012	When Did You Decide Presidential Vote?	TIME12	CT	Northeast	New England	Last Few Days	8		
+2012	When Did You Decide Presidential Vote?	TIME12	CT	Northeast	New England	In October	7		
+2012	When Did You Decide Presidential Vote?	TIME12	CT	Northeast	New England	In September	8		
+2012	When Did You Decide Presidential Vote?	TIME12	CT	Northeast	New England	Before That	72	62	37
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	CT	Northeast	New England	Today/Last Few Days	13	50	46
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	CT	Northeast	New England	Before That	87	60	39
+2012	When Did You Decide Presidential Vote?	TIME12MTH	CT	Northeast	New England	In October or November	20	51	46
+2012	When Did You Decide Presidential Vote?	TIME12MTH	CT	Northeast	New England	Before That	80	61	38
+2012	Vote by Marital Status	MARRIED	CT	Northeast	New England	Married	64	54	45
+2012	Vote by Marital Status	MARRIED	CT	Northeast	New England	Unmarried	36	65	33
+2012	Vote by Gender and Marital Status	SEXWED	CT	Northeast	New England	Married Men	32	48	51
+2012	Vote by Gender and Marital Status	SEXWED	CT	Northeast	New England	Married Women	32	60	39
+2012	Vote by Gender and Marital Status	SEXWED	CT	Northeast	New England	Unmarried Men	15	60	36
+2012	Vote by Gender and Marital Status	SEXWED	CT	Northeast	New England	Unmarried Women	21	69	30
+2012	Any Children Under 18 Living in Your Home?	CHILD12	CT	Northeast	New England	Yes	36	57	41
+2012	Any Children Under 18 Living in Your Home?	CHILD12	CT	Northeast	New England	No	64	59	40
+2012	Vote by Marital Status and Children	MARCHILD	CT	Northeast	New England	Married With Children	26	51	48
+2012	Vote by Marital Status and Children	MARCHILD	CT	Northeast	New England	All Others	74	61	38
+2012	Vote by Gender and Children in Household	PARENTS	CT	Northeast	New England	Fathers	18	51	47
+2012	Vote by Gender and Children in Household	PARENTS	CT	Northeast	New England	Mothers	18	64	35
+2012	Vote by Gender and Children in Household	PARENTS	CT	Northeast	New England	Men With No Children	31	54	44
+2012	Vote by Gender and Children in Household	PARENTS	CT	Northeast	New England	Women With No Children	33	64	36
+2012	Do You Work Full-Time For Pay?	WORK	CT	Northeast	New England	Yes	63	58	41
+2012	Do You Work Full-Time For Pay?	WORK	CT	Northeast	New England	No	37	57	40
+2012	Vote for Senate	SENCT12	CT	Northeast	New England	Murphy	55	93	6
+2012	Vote for Senate	SENCT12	CT	Northeast	New England	McMahon	44	14	85
+2012	Vote by Size of Place	SIZEPLC3	CT	Northeast	New England	Urban	15	73	25
+2012	Vote by Size of Place	SIZEPLC3	CT	Northeast	New England	Suburban	78	55	43
+2012	Vote by Size of Place	SIZEPLC3	CT	Northeast	New England	Rural	6	49	49
+2012	Vote by Region	GEOCOD	CT	Northeast	New England	New York Suburbs	26	60	39
+2012	Vote by Region	GEOCOD	CT	Northeast	New England	Hartford Area	36	61	37
+2012	Vote by Region	GEOCOD	CT	Northeast	New England	Eastern Connecticut	17	55	44
+2012	Vote by Region	GEOCOD	CT	Northeast	New England	Western Connecticut	21	51	48

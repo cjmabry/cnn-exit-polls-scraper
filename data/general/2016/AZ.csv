@@ -1,173 +1,173 @@
-2016,Gender,SEX,AZ,West,Mountain,Male,49,38,51
-2016,Gender,SEX,AZ,West,Mountain,Female,51,49,43
-2016,Age,AGE,AZ,West,Mountain,18-29,15,50,34
-2016,Age,AGE,AZ,West,Mountain,30-44,25,45,40
-2016,Age,AGE,AZ,West,Mountain,45-64,37,42,52
-2016,Age,AGE,AZ,West,Mountain,65 and older,24,42,54
-2016,Age,AGE65,AZ,West,Mountain,18-24,9,,
-2016,Age,AGE65,AZ,West,Mountain,25-29,5,,
-2016,Age,AGE65,AZ,West,Mountain,30-39,17,44,40
-2016,Age,AGE65,AZ,West,Mountain,40-49,17,43,46
-2016,Age,AGE65,AZ,West,Mountain,50-64,27,42,52
-2016,Age,AGE65,AZ,West,Mountain,65 and older,24,42,54
-2016,Age,AGE45,AZ,West,Mountain,18-44,40,47,38
-2016,Age,AGE45,AZ,West,Mountain,45 and older,60,42,53
-2016,Race,RACE,AZ,West,Mountain,White,75,39,52
-2016,Race,RACE,AZ,West,Mountain,Black,2,,
-2016,Race,RACE,AZ,West,Mountain,Latino,16,60,30
-2016,Race,RACE,AZ,West,Mountain,Asian,2,,
-2016,Race,RACE,AZ,West,Mountain,Other race,5,,
-2016,Race,RACE2B,AZ,West,Mountain,White,75,39,52
-2016,Race,RACE2B,AZ,West,Mountain,Non-white,25,59,31
-2016,Race and gender,SEXBYRACE,AZ,West,Mountain,White men,37,35,54
-2016,Race and gender,SEXBYRACE,AZ,West,Mountain,White women,39,43,49
-2016,Race and gender,SEXBYRACE,AZ,West,Mountain,Black men,1,,
-2016,Race and gender,SEXBYRACE,AZ,West,Mountain,Black women,1,,
-2016,Race and gender,SEXBYRACE,AZ,West,Mountain,Latino men,8,51,40
-2016,Race and gender,SEXBYRACE,AZ,West,Mountain,Latino women,7,70,18
-2016,Race and gender,SEXBYRACE,AZ,West,Mountain,Others,7,,
-2016,Education,EDUC12R,AZ,West,Mountain,High school or less,19,41,51
-2016,Education,EDUC12R,AZ,West,Mountain,Some college,31,43,47
-2016,Education,EDUC12R,AZ,West,Mountain,College graduate,36,40,49
-2016,Education,EDUC12R,AZ,West,Mountain,Postgraduate,15,60,37
-2016,Are you a college graduate?,EDUCCOLL,AZ,West,Mountain,Yes,51,46,45
-2016,Are you a college graduate?,EDUCCOLL,AZ,West,Mountain,No,49,42,49
-2016,Education and race,EDUCWHITE,AZ,West,Mountain,White college graduates,40,44,48
-2016,Education and race,EDUCWHITE,AZ,West,Mountain,Whites no degree,35,34,56
-2016,Education and race,EDUCWHITE,AZ,West,Mountain,Non-whites college grads,11,54,34
-2016,Education and race,EDUCWHITE,AZ,West,Mountain,Non-whites no degree,14,62,28
-2016,Education among whites by sex,EDUCWHITEBYSEX,AZ,West,Mountain,White college-grad women,20,47,46
-2016,Education among whites by sex,EDUCWHITEBYSEX,AZ,West,Mountain,White non-college women,18,39,53
-2016,Education among whites by sex,EDUCWHITEBYSEX,AZ,West,Mountain,White college-grad men,19,40,50
-2016,Education among whites by sex,EDUCWHITEBYSEX,AZ,West,Mountain,White non-college men,17,29,60
-2016,Education among whites by sex,EDUCWHITEBYSEX,AZ,West,Mountain,Non-whites,25,59,31
-2016,Party ID,PARTY,AZ,West,Mountain,Democrats,28,88,7
-2016,Party ID,PARTY,AZ,West,Mountain,Republicans,32,7,86
-2016,Party ID,PARTY,AZ,West,Mountain,Independents,40,42,45
-2016,Party by gender,PARTYGENDER,AZ,West,Mountain,Democratic men,10,87,6
-2016,Party by gender,PARTYGENDER,AZ,West,Mountain,Democratic women,18,89,7
-2016,Party by gender,PARTYGENDER,AZ,West,Mountain,Republican men,15,6,86
-2016,Party by gender,PARTYGENDER,AZ,West,Mountain,Republican women,16,8,86
-2016,Party by gender,PARTYGENDER,AZ,West,Mountain,Independent men,24,38,48
-2016,Party by gender,PARTYGENDER,AZ,West,Mountain,Independent women,17,47,40
-2016,Ideology,PHIL3,AZ,West,Mountain,Liberal,27,78,11
-2016,Ideology,PHIL3,AZ,West,Mountain,Moderate,33,53,37
-2016,Ideology,PHIL3,AZ,West,Mountain,Conservative,40,13,80
-2016,Income,INCOME16GEN,AZ,West,Mountain,"Under $30,000",16,52,37
-2016,Income,INCOME16GEN,AZ,West,Mountain,"$30K-$49,999",20,46,41
-2016,Income,INCOME16GEN,AZ,West,Mountain,"$50K-$99,999",32,48,46
-2016,Income,INCOME16GEN,AZ,West,Mountain,"$100K-$199,999",23,38,53
-2016,Income,INCOME16GEN,AZ,West,Mountain,"$200K-$249,999",4,,
-2016,Income,INCOME16GEN,AZ,West,Mountain,"$250,000 or more",4,,
-2016,Income,INCOME3,AZ,West,Mountain,Under $50K,36,49,39
-2016,Income,INCOME3,AZ,West,Mountain,$50K-$100K,32,48,46
-2016,Income,INCOME3,AZ,West,Mountain,$100K or more,32,39,52
-2016,Income,INC50K,AZ,West,Mountain,Under $50K,36,49,39
-2016,Income,INC50K,AZ,West,Mountain,$50K or more,64,43,49
-2016,Income,INC100K,AZ,West,Mountain,Under $100K,68,48,43
-2016,Income,INC100K,AZ,West,Mountain,$100K or more,32,39,52
-2016,When did you decide presidential vote?,TIME16,AZ,West,Mountain,Last few days,N/A,,
-2016,When did you decide presidential vote?,TIME16,AZ,West,Mountain,Last week,6,,
-2016,When did you decide presidential vote?,TIME16,AZ,West,Mountain,In October,17,39,46
-2016,When did you decide presidential vote?,TIME16,AZ,West,Mountain,In September,12,41,42
-2016,When did you decide presidential vote?,TIME16,AZ,West,Mountain,Before September,63,49,47
-2016,When did you decide presidential vote?,TIME16WEEK,AZ,West,Mountain,In the last week,6,,
-2016,When did you decide presidential vote?,TIME16WEEK,AZ,West,Mountain,Before that,91,46,47
-2016,When did you decide presidential vote?,TIME16MONTH,AZ,West,Mountain,In the last month,23,38,45
-2016,When did you decide presidential vote?,TIME16MONTH,AZ,West,Mountain,Before that,75,48,47
-2016,Opinion of presidential candidate you voted for,DESCRIBP12,AZ,West,Mountain,Strongly favor ,41,45,51
-2016,Opinion of presidential candidate you voted for,DESCRIBP12,AZ,West,Mountain,Have reservations,27,53,40
-2016,Opinion of presidential candidate you voted for,DESCRIBP12,AZ,West,Mountain,Dislike opponents,31,38,46
-2016,Most important issue facing the country,ISSUE16,AZ,West,Mountain,Foreign policy,16,57,30
-2016,Most important issue facing the country,ISSUE16,AZ,West,Mountain,Immigration,12,28,68
-2016,Most important issue facing the country,ISSUE16,AZ,West,Mountain,Economy,52,47,44
-2016,Most important issue facing the country,ISSUE16,AZ,West,Mountain,Terrorism,17,38,52
-2016,Which candidate quality mattered most?,QLT16,AZ,West,Mountain,Cares about me,12,43,43
-2016,Which candidate quality mattered most?,QLT16,AZ,West,Mountain,Can bring change,34,8,86
-2016,Which candidate quality mattered most?,QLT16,AZ,West,Mountain,Right experience,23,89,8
-2016,Which candidate quality mattered most?,QLT16,AZ,West,Mountain,Good judgment,27,53,31
-2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,AZ,West,Mountain,Offered legal status,77,55,35
-2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,AZ,West,Mountain,Deported to home country,18,12,82
-2016,View of U.S. wall along the entire Mexican border,IMMWALL,AZ,West,Mountain,Support,43,11,85
-2016,View of U.S. wall along the entire Mexican border,IMMWALL,AZ,West,Mountain,Oppose,53,74,13
-2016,How do things work in the U.S. today?,RACEFACTOR,AZ,West,Mountain,Whites are favored,34,78,14
-2016,How do things work in the U.S. today?,RACEFACTOR,AZ,West,Mountain,Minorities are favored,16,12,81
-2016,How do things work in the U.S. today?,RACEFACTOR,AZ,West,Mountain,No group is favored,44,34,56
-2016,Feelings about the federal government,GOVTANGR16,AZ,West,Mountain,Enthusiastic,1,,
-2016,Feelings about the federal government,GOVTANGR16,AZ,West,Mountain,Satisfied,21,86,11
-2016,Feelings about the federal government,GOVTANGR16,AZ,West,Mountain,Dissatisfied,43,43,47
-2016,Feelings about the federal government,GOVTANGR16,AZ,West,Mountain,Angry,33,21,69
-2016,Feelings about the federal government,GOVTANGR16B,AZ,West,Mountain,Enthusiastic/Satisfied,22,84,12
-2016,Feelings about the federal government,GOVTANGR16B,AZ,West,Mountain,Dissatisfied/Angry,77,33,57
-2016,Opinion of Barack Obama as president,OBAMA4,AZ,West,Mountain,Strongly approve,31,94,1
-2016,Opinion of Barack Obama as president,OBAMA4,AZ,West,Mountain,Somewhat approve,19,66,21
-2016,Opinion of Barack Obama as president,OBAMA4,AZ,West,Mountain,Somewhat disapprove,13,17,61
-2016,Opinion of Barack Obama as president,OBAMA4,AZ,West,Mountain,Strongly disapprove,37,3,91
-2016,Opinion of Barack Obama as president,OBAMA2,AZ,West,Mountain,Approve,50,83,9
-2016,Opinion of Barack Obama as president,OBAMA2,AZ,West,Mountain,Disapprove,49,7,83
-2016,Opinion of Hillary Clinton,FAVHCLIN16,AZ,West,Mountain,Favorable,40,97,2
-2016,Opinion of Hillary Clinton,FAVHCLIN16,AZ,West,Mountain,Unfavorable,58,8,77
-2016,Opinion of Donald Trump,FAVTRUMP,AZ,West,Mountain,Favorable,40,3,94
-2016,Opinion of Donald Trump,FAVTRUMP,AZ,West,Mountain,Unfavorable,59,74,13
-2016,Opinion of Clinton and Trump,FAVPRES16,AZ,West,Mountain,Both favorable,1,,
-2016,Opinion of Clinton and Trump,FAVPRES16,AZ,West,Mountain,Only Clinton favorable,39,98,1
-2016,Opinion of Clinton and Trump,FAVPRES16,AZ,West,Mountain,Only Trump favorable,38,1,96
-2016,Opinion of Clinton and Trump,FAVPRES16,AZ,West,Mountain,Both unfavorable,19,24,38
-2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,AZ,West,Mountain,Yes,34,96,2
-2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,AZ,West,Mountain,No,64,17,71
-2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,AZ,West,Mountain,Yes,39,5,92
-2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,AZ,West,Mountain,No,59,72,15
-2016,Which candidate is honest?,HONEST16,AZ,West,Mountain,Both are,2,,
-2016,Which candidate is honest?,HONEST16,AZ,West,Mountain,Only Clinton is,31,98,1
-2016,Which candidate is honest?,HONEST16,AZ,West,Mountain,Only Trump is,37,1,97
-2016,Which candidate is honest?,HONEST16,AZ,West,Mountain,Neither is,26,39,34
-2016,Does Clinton have the temperament to be president?,TEMPCLINTON,AZ,West,Mountain,Yes,56,78,14
-2016,Does Clinton have the temperament to be president?,TEMPCLINTON,AZ,West,Mountain,No,42,2,89
-2016,Does Trump have the temperament to be president?,TEMPTRUMP,AZ,West,Mountain,Yes,39,4,94
-2016,Does Trump have the temperament to be president?,TEMPTRUMP,AZ,West,Mountain,No,59,73,14
-2016,Which candidate has the right temperament?,TEMPERAMENT16,AZ,West,Mountain,Both do,8,16,79
-2016,Which candidate has the right temperament?,TEMPERAMENT16,AZ,West,Mountain,Only Clinton does,48,88,3
-2016,Which candidate has the right temperament?,TEMPERAMENT16,AZ,West,Mountain,Only Trump does,31,1,97
-2016,Which candidate has the right temperament?,TEMPERAMENT16,AZ,West,Mountain,Neither does,11,6,61
-2016,Is Trump qualified to serve as president?,QUALTRUMP,AZ,West,Mountain,Yes,41,3,93
-2016,Is Trump qualified to serve as president?,QUALTRUMP,AZ,West,Mountain,No,58,75,11
-2016,Is Clinton qualified to serve as president?,QUALCLINTON,AZ,West,Mountain,Yes,53,82,11
-2016,Is Clinton qualified to serve as president?,QUALCLINTON,AZ,West,Mountain,No,47,3,86
-2016,Who is qualified to serve as president?,QUALIFIED16,AZ,West,Mountain,Both are,7,,
-2016,Who is qualified to serve as president?,QUALIFIED16,AZ,West,Mountain,Only Clinton is,46,92,2
-2016,Who is qualified to serve as president?,QUALIFIED16,AZ,West,Mountain,Only Trump is,35,1,97
-2016,Who is qualified to serve as president?,QUALIFIED16,AZ,West,Mountain,Neither is,11,9,50
-2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,AZ,West,Mountain,A lot,50,6,83
-2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,AZ,West,Mountain,Some,16,70,21
-2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,AZ,West,Mountain,Not much,13,84,9
-2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,AZ,West,Mountain,Not at all,21,91,5
-2016,Does Clinton's use of private email bother you?,CLINTONEMAILB,AZ,West,Mountain,Yes,66,21,68
-2016,Does Clinton's use of private email bother you?,CLINTONEMAILB,AZ,West,Mountain,No,34,88,7
-2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,AZ,West,Mountain,A lot,48,78,11
-2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,AZ,West,Mountain,Some,20,21,71
-2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,AZ,West,Mountain,Not much,11,10,81
-2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,AZ,West,Mountain,Not at all,20,5,90
-2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,AZ,West,Mountain,Yes,68,61,29
-2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,AZ,West,Mountain,No,31,7,87
-2016,Who would better handle the economy?,HANDLEECON16,AZ,West,Mountain,Clinton,46,92,2
-2016,Who would better handle the economy?,HANDLEECON16,AZ,West,Mountain,Trump,49,3,91
-2016,Who would better handle foreign policy?,HANDLEFP16,AZ,West,Mountain,Clinton,52,83,7
-2016,Who would better handle foreign policy?,HANDLEFP16,AZ,West,Mountain,Trump,43,2,93
-2016,Condition of national economy,NEC,AZ,West,Mountain,Excellent,1,,
-2016,Condition of national economy,NEC,AZ,West,Mountain,Good,34,82,11
-2016,Condition of national economy,NEC,AZ,West,Mountain,Not good,35,32,54
-2016,Condition of national economy,NEC,AZ,West,Mountain,Poor,30,15,79
-2016,Condition of national economy,NEC2,AZ,West,Mountain,Good,35,82,11
-2016,Condition of national economy,NEC2,AZ,West,Mountain,Poor,65,24,66
-2016,Life for the next generation of Americans will be:,LIFE,AZ,West,Mountain,Better than today,30,56,38
-2016,Life for the next generation of Americans will be:,LIFE,AZ,West,Mountain,Worse than today,30,23,63
-2016,Life for the next generation of Americans will be:,LIFE,AZ,West,Mountain,About the same,34,57,34
-2016,Vote for president in a two-way race,2WAYPRES16,AZ,West,Mountain,Clinton,44,95,1
-2016,Vote for president in a two-way race,2WAYPRES16,AZ,West,Mountain,Trump,48,1,93
-2016,Vote for president in a two-way race,2WAYPRES16,AZ,West,Mountain,Would not vote,7,,
-2016,Area type,SIZEPLC3,AZ,West,Mountain,Urban area,55,49,41
-2016,Area type,SIZEPLC3,AZ,West,Mountain,Suburban area,39,38,54
-2016,Area type,SIZEPLC3,AZ,West,Mountain,Rural area,5,39,53
-2016,Region,GEOCOD,AZ,West,Mountain,Maricopa County ,60,43,46
-2016,Region,GEOCOD,AZ,West,Mountain,Pima County,17,53,39
-2016,Region,GEOCOD,AZ,West,Mountain,Rest of Arizona,23,38,54
+2016	Gender	SEX	AZ	West	Mountain	Male	49	38	51
+2016	Gender	SEX	AZ	West	Mountain	Female	51	49	43
+2016	Age	AGE	AZ	West	Mountain	18-29	15	50	34
+2016	Age	AGE	AZ	West	Mountain	30-44	25	45	40
+2016	Age	AGE	AZ	West	Mountain	45-64	37	42	52
+2016	Age	AGE	AZ	West	Mountain	65 and older	24	42	54
+2016	Age	AGE65	AZ	West	Mountain	18-24	9		
+2016	Age	AGE65	AZ	West	Mountain	25-29	5		
+2016	Age	AGE65	AZ	West	Mountain	30-39	17	44	40
+2016	Age	AGE65	AZ	West	Mountain	40-49	17	43	46
+2016	Age	AGE65	AZ	West	Mountain	50-64	27	42	52
+2016	Age	AGE65	AZ	West	Mountain	65 and older	24	42	54
+2016	Age	AGE45	AZ	West	Mountain	18-44	40	47	38
+2016	Age	AGE45	AZ	West	Mountain	45 and older	60	42	53
+2016	Race	RACE	AZ	West	Mountain	White	75	39	52
+2016	Race	RACE	AZ	West	Mountain	Black	2		
+2016	Race	RACE	AZ	West	Mountain	Latino	16	60	30
+2016	Race	RACE	AZ	West	Mountain	Asian	2		
+2016	Race	RACE	AZ	West	Mountain	Other race	5		
+2016	Race	RACE2B	AZ	West	Mountain	White	75	39	52
+2016	Race	RACE2B	AZ	West	Mountain	Non-white	25	59	31
+2016	Race and gender	SEXBYRACE	AZ	West	Mountain	White men	37	35	54
+2016	Race and gender	SEXBYRACE	AZ	West	Mountain	White women	39	43	49
+2016	Race and gender	SEXBYRACE	AZ	West	Mountain	Black men	1		
+2016	Race and gender	SEXBYRACE	AZ	West	Mountain	Black women	1		
+2016	Race and gender	SEXBYRACE	AZ	West	Mountain	Latino men	8	51	40
+2016	Race and gender	SEXBYRACE	AZ	West	Mountain	Latino women	7	70	18
+2016	Race and gender	SEXBYRACE	AZ	West	Mountain	Others	7		
+2016	Education	EDUC12R	AZ	West	Mountain	High school or less	19	41	51
+2016	Education	EDUC12R	AZ	West	Mountain	Some college	31	43	47
+2016	Education	EDUC12R	AZ	West	Mountain	College graduate	36	40	49
+2016	Education	EDUC12R	AZ	West	Mountain	Postgraduate	15	60	37
+2016	Are you a college graduate?	EDUCCOLL	AZ	West	Mountain	Yes	51	46	45
+2016	Are you a college graduate?	EDUCCOLL	AZ	West	Mountain	No	49	42	49
+2016	Education and race	EDUCWHITE	AZ	West	Mountain	White college graduates	40	44	48
+2016	Education and race	EDUCWHITE	AZ	West	Mountain	Whites no degree	35	34	56
+2016	Education and race	EDUCWHITE	AZ	West	Mountain	Non-whites college grads	11	54	34
+2016	Education and race	EDUCWHITE	AZ	West	Mountain	Non-whites no degree	14	62	28
+2016	Education among whites by sex	EDUCWHITEBYSEX	AZ	West	Mountain	White college-grad women	20	47	46
+2016	Education among whites by sex	EDUCWHITEBYSEX	AZ	West	Mountain	White non-college women	18	39	53
+2016	Education among whites by sex	EDUCWHITEBYSEX	AZ	West	Mountain	White college-grad men	19	40	50
+2016	Education among whites by sex	EDUCWHITEBYSEX	AZ	West	Mountain	White non-college men	17	29	60
+2016	Education among whites by sex	EDUCWHITEBYSEX	AZ	West	Mountain	Non-whites	25	59	31
+2016	Party ID	PARTY	AZ	West	Mountain	Democrats	28	88	7
+2016	Party ID	PARTY	AZ	West	Mountain	Republicans	32	7	86
+2016	Party ID	PARTY	AZ	West	Mountain	Independents	40	42	45
+2016	Party by gender	PARTYGENDER	AZ	West	Mountain	Democratic men	10	87	6
+2016	Party by gender	PARTYGENDER	AZ	West	Mountain	Democratic women	18	89	7
+2016	Party by gender	PARTYGENDER	AZ	West	Mountain	Republican men	15	6	86
+2016	Party by gender	PARTYGENDER	AZ	West	Mountain	Republican women	16	8	86
+2016	Party by gender	PARTYGENDER	AZ	West	Mountain	Independent men	24	38	48
+2016	Party by gender	PARTYGENDER	AZ	West	Mountain	Independent women	17	47	40
+2016	Ideology	PHIL3	AZ	West	Mountain	Liberal	27	78	11
+2016	Ideology	PHIL3	AZ	West	Mountain	Moderate	33	53	37
+2016	Ideology	PHIL3	AZ	West	Mountain	Conservative	40	13	80
+2016	Income	INCOME16GEN	AZ	West	Mountain	Under $30,000	16	52	37
+2016	Income	INCOME16GEN	AZ	West	Mountain	$30K-$49,999	20	46	41
+2016	Income	INCOME16GEN	AZ	West	Mountain	$50K-$99,999	32	48	46
+2016	Income	INCOME16GEN	AZ	West	Mountain	$100K-$199,999	23	38	53
+2016	Income	INCOME16GEN	AZ	West	Mountain	$200K-$249,999	4		
+2016	Income	INCOME16GEN	AZ	West	Mountain	$250,000 or more	4		
+2016	Income	INCOME3	AZ	West	Mountain	Under $50K	36	49	39
+2016	Income	INCOME3	AZ	West	Mountain	$50K-$100K	32	48	46
+2016	Income	INCOME3	AZ	West	Mountain	$100K or more	32	39	52
+2016	Income	INC50K	AZ	West	Mountain	Under $50K	36	49	39
+2016	Income	INC50K	AZ	West	Mountain	$50K or more	64	43	49
+2016	Income	INC100K	AZ	West	Mountain	Under $100K	68	48	43
+2016	Income	INC100K	AZ	West	Mountain	$100K or more	32	39	52
+2016	When did you decide presidential vote?	TIME16	AZ	West	Mountain	Last few days			
+2016	When did you decide presidential vote?	TIME16	AZ	West	Mountain	Last week	6		
+2016	When did you decide presidential vote?	TIME16	AZ	West	Mountain	In October	17	39	46
+2016	When did you decide presidential vote?	TIME16	AZ	West	Mountain	In September	12	41	42
+2016	When did you decide presidential vote?	TIME16	AZ	West	Mountain	Before September	63	49	47
+2016	When did you decide presidential vote?	TIME16WEEK	AZ	West	Mountain	In the last week	6		
+2016	When did you decide presidential vote?	TIME16WEEK	AZ	West	Mountain	Before that	91	46	47
+2016	When did you decide presidential vote?	TIME16MONTH	AZ	West	Mountain	In the last month	23	38	45
+2016	When did you decide presidential vote?	TIME16MONTH	AZ	West	Mountain	Before that	75	48	47
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	AZ	West	Mountain	Strongly favor 	41	45	51
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	AZ	West	Mountain	Have reservations	27	53	40
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	AZ	West	Mountain	Dislike opponents	31	38	46
+2016	Most important issue facing the country	ISSUE16	AZ	West	Mountain	Foreign policy	16	57	30
+2016	Most important issue facing the country	ISSUE16	AZ	West	Mountain	Immigration	12	28	68
+2016	Most important issue facing the country	ISSUE16	AZ	West	Mountain	Economy	52	47	44
+2016	Most important issue facing the country	ISSUE16	AZ	West	Mountain	Terrorism	17	38	52
+2016	Which candidate quality mattered most?	QLT16	AZ	West	Mountain	Cares about me	12	43	43
+2016	Which candidate quality mattered most?	QLT16	AZ	West	Mountain	Can bring change	34	8	86
+2016	Which candidate quality mattered most?	QLT16	AZ	West	Mountain	Right experience	23	89	8
+2016	Which candidate quality mattered most?	QLT16	AZ	West	Mountain	Good judgment	27	53	31
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	AZ	West	Mountain	Offered legal status	77	55	35
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	AZ	West	Mountain	Deported to home country	18	12	82
+2016	View of U.S. wall along the entire Mexican border	IMMWALL	AZ	West	Mountain	Support	43	11	85
+2016	View of U.S. wall along the entire Mexican border	IMMWALL	AZ	West	Mountain	Oppose	53	74	13
+2016	How do things work in the U.S. today?	RACEFACTOR	AZ	West	Mountain	Whites are favored	34	78	14
+2016	How do things work in the U.S. today?	RACEFACTOR	AZ	West	Mountain	Minorities are favored	16	12	81
+2016	How do things work in the U.S. today?	RACEFACTOR	AZ	West	Mountain	No group is favored	44	34	56
+2016	Feelings about the federal government	GOVTANGR16	AZ	West	Mountain	Enthusiastic	1		
+2016	Feelings about the federal government	GOVTANGR16	AZ	West	Mountain	Satisfied	21	86	11
+2016	Feelings about the federal government	GOVTANGR16	AZ	West	Mountain	Dissatisfied	43	43	47
+2016	Feelings about the federal government	GOVTANGR16	AZ	West	Mountain	Angry	33	21	69
+2016	Feelings about the federal government	GOVTANGR16B	AZ	West	Mountain	Enthusiastic/Satisfied	22	84	12
+2016	Feelings about the federal government	GOVTANGR16B	AZ	West	Mountain	Dissatisfied/Angry	77	33	57
+2016	Opinion of Barack Obama as president	OBAMA4	AZ	West	Mountain	Strongly approve	31	94	1
+2016	Opinion of Barack Obama as president	OBAMA4	AZ	West	Mountain	Somewhat approve	19	66	21
+2016	Opinion of Barack Obama as president	OBAMA4	AZ	West	Mountain	Somewhat disapprove	13	17	61
+2016	Opinion of Barack Obama as president	OBAMA4	AZ	West	Mountain	Strongly disapprove	37	3	91
+2016	Opinion of Barack Obama as president	OBAMA2	AZ	West	Mountain	Approve	50	83	9
+2016	Opinion of Barack Obama as president	OBAMA2	AZ	West	Mountain	Disapprove	49	7	83
+2016	Opinion of Hillary Clinton	FAVHCLIN16	AZ	West	Mountain	Favorable	40	97	2
+2016	Opinion of Hillary Clinton	FAVHCLIN16	AZ	West	Mountain	Unfavorable	58	8	77
+2016	Opinion of Donald Trump	FAVTRUMP	AZ	West	Mountain	Favorable	40	3	94
+2016	Opinion of Donald Trump	FAVTRUMP	AZ	West	Mountain	Unfavorable	59	74	13
+2016	Opinion of Clinton and Trump	FAVPRES16	AZ	West	Mountain	Both favorable	1		
+2016	Opinion of Clinton and Trump	FAVPRES16	AZ	West	Mountain	Only Clinton favorable	39	98	1
+2016	Opinion of Clinton and Trump	FAVPRES16	AZ	West	Mountain	Only Trump favorable	38	1	96
+2016	Opinion of Clinton and Trump	FAVPRES16	AZ	West	Mountain	Both unfavorable	19	24	38
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	AZ	West	Mountain	Yes	34	96	2
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	AZ	West	Mountain	No	64	17	71
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	AZ	West	Mountain	Yes	39	5	92
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	AZ	West	Mountain	No	59	72	15
+2016	Which candidate is honest?	HONEST16	AZ	West	Mountain	Both are	2		
+2016	Which candidate is honest?	HONEST16	AZ	West	Mountain	Only Clinton is	31	98	1
+2016	Which candidate is honest?	HONEST16	AZ	West	Mountain	Only Trump is	37	1	97
+2016	Which candidate is honest?	HONEST16	AZ	West	Mountain	Neither is	26	39	34
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	AZ	West	Mountain	Yes	56	78	14
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	AZ	West	Mountain	No	42	2	89
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	AZ	West	Mountain	Yes	39	4	94
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	AZ	West	Mountain	No	59	73	14
+2016	Which candidate has the right temperament?	TEMPERAMENT16	AZ	West	Mountain	Both do	8	16	79
+2016	Which candidate has the right temperament?	TEMPERAMENT16	AZ	West	Mountain	Only Clinton does	48	88	3
+2016	Which candidate has the right temperament?	TEMPERAMENT16	AZ	West	Mountain	Only Trump does	31	1	97
+2016	Which candidate has the right temperament?	TEMPERAMENT16	AZ	West	Mountain	Neither does	11	6	61
+2016	Is Trump qualified to serve as president?	QUALTRUMP	AZ	West	Mountain	Yes	41	3	93
+2016	Is Trump qualified to serve as president?	QUALTRUMP	AZ	West	Mountain	No	58	75	11
+2016	Is Clinton qualified to serve as president?	QUALCLINTON	AZ	West	Mountain	Yes	53	82	11
+2016	Is Clinton qualified to serve as president?	QUALCLINTON	AZ	West	Mountain	No	47	3	86
+2016	Who is qualified to serve as president?	QUALIFIED16	AZ	West	Mountain	Both are	7		
+2016	Who is qualified to serve as president?	QUALIFIED16	AZ	West	Mountain	Only Clinton is	46	92	2
+2016	Who is qualified to serve as president?	QUALIFIED16	AZ	West	Mountain	Only Trump is	35	1	97
+2016	Who is qualified to serve as president?	QUALIFIED16	AZ	West	Mountain	Neither is	11	9	50
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	AZ	West	Mountain	A lot	50	6	83
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	AZ	West	Mountain	Some	16	70	21
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	AZ	West	Mountain	Not much	13	84	9
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	AZ	West	Mountain	Not at all	21	91	5
+2016	Does Clinton's use of private email bother you?	CLINTONEMAILB	AZ	West	Mountain	Yes	66	21	68
+2016	Does Clinton's use of private email bother you?	CLINTONEMAILB	AZ	West	Mountain	No	34	88	7
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	AZ	West	Mountain	A lot	48	78	11
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	AZ	West	Mountain	Some	20	21	71
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	AZ	West	Mountain	Not much	11	10	81
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	AZ	West	Mountain	Not at all	20	5	90
+2016	Does Donald Trump's treatment of women bother you?	TRUMPWOMENB	AZ	West	Mountain	Yes	68	61	29
+2016	Does Donald Trump's treatment of women bother you?	TRUMPWOMENB	AZ	West	Mountain	No	31	7	87
+2016	Who would better handle the economy?	HANDLEECON16	AZ	West	Mountain	Clinton	46	92	2
+2016	Who would better handle the economy?	HANDLEECON16	AZ	West	Mountain	Trump	49	3	91
+2016	Who would better handle foreign policy?	HANDLEFP16	AZ	West	Mountain	Clinton	52	83	7
+2016	Who would better handle foreign policy?	HANDLEFP16	AZ	West	Mountain	Trump	43	2	93
+2016	Condition of national economy	NEC	AZ	West	Mountain	Excellent	1		
+2016	Condition of national economy	NEC	AZ	West	Mountain	Good	34	82	11
+2016	Condition of national economy	NEC	AZ	West	Mountain	Not good	35	32	54
+2016	Condition of national economy	NEC	AZ	West	Mountain	Poor	30	15	79
+2016	Condition of national economy	NEC2	AZ	West	Mountain	Good	35	82	11
+2016	Condition of national economy	NEC2	AZ	West	Mountain	Poor	65	24	66
+2016	Life for the next generation of Americans will be:	LIFE	AZ	West	Mountain	Better than today	30	56	38
+2016	Life for the next generation of Americans will be:	LIFE	AZ	West	Mountain	Worse than today	30	23	63
+2016	Life for the next generation of Americans will be:	LIFE	AZ	West	Mountain	About the same	34	57	34
+2016	Vote for president in a two-way race	2WAYPRES16	AZ	West	Mountain	Clinton	44	95	1
+2016	Vote for president in a two-way race	2WAYPRES16	AZ	West	Mountain	Trump	48	1	93
+2016	Vote for president in a two-way race	2WAYPRES16	AZ	West	Mountain	Would not vote	7		
+2016	Area type	SIZEPLC3	AZ	West	Mountain	Urban area	55	49	41
+2016	Area type	SIZEPLC3	AZ	West	Mountain	Suburban area	39	38	54
+2016	Area type	SIZEPLC3	AZ	West	Mountain	Rural area	5	39	53
+2016	Region	GEOCOD	AZ	West	Mountain	Maricopa County 	60	43	46
+2016	Region	GEOCOD	AZ	West	Mountain	Pima County	17	53	39
+2016	Region	GEOCOD	AZ	West	Mountain	Rest of Arizona	23	38	54

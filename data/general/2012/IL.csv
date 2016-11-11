@@ -1,218 +1,218 @@
-2012,Vote by Gender,SEX,IL,Midwest,East North Central,Men,48,52,46
-2012,Vote by Gender,SEX,IL,Midwest,East North Central,Women,52,63,35
-2012,Vote by Age,AGE,IL,Midwest,East North Central,18-29,17,68,28
-2012,Vote by Age,AGE,IL,Midwest,East North Central,30-44,26,57,41
-2012,Vote by Age,AGE,IL,Midwest,East North Central,45-64,39,54,45
-2012,Vote by Age,AGE,IL,Midwest,East North Central,65 and Older,17,57,43
-2012,Vote by Age,AGE65,IL,Midwest,East North Central,18-24,10,71,26
-2012,Vote by Age,AGE65,IL,Midwest,East North Central,25-29,7,,
-2012,Vote by Age,AGE65,IL,Midwest,East North Central,30-39,17,57,41
-2012,Vote by Age,AGE65,IL,Midwest,East North Central,40-49,19,55,44
-2012,Vote by Age,AGE65,IL,Midwest,East North Central,50-64,29,54,45
-2012,Vote by Age,AGE65,IL,Midwest,East North Central,65 and Older,17,57,43
-2012,Vote by Race,RACE,IL,Midwest,East North Central,White,70,46,52
-2012,Vote by Race,RACE,IL,Midwest,East North Central,African-American,14,96,4
-2012,Vote by Race,RACE,IL,Midwest,East North Central,Latino,12,81,18
-2012,Vote by Race,RACE,IL,Midwest,East North Central,Asian,2,,
-2012,Vote by Race,RACE,IL,Midwest,East North Central,Other,2,,
-2012,Vote by Gender and Race,SEXBYRACE,IL,Midwest,East North Central,White Men,35,40,58
-2012,Vote by Gender and Race,SEXBYRACE,IL,Midwest,East North Central,White Women,36,52,46
-2012,Vote by Gender and Race,SEXBYRACE,IL,Midwest,East North Central,Black Men,6,,
-2012,Vote by Gender and Race,SEXBYRACE,IL,Midwest,East North Central,Black Women,8,93,6
-2012,Vote by Gender and Race,SEXBYRACE,IL,Midwest,East North Central,Latino Men,6,,
-2012,Vote by Gender and Race,SEXBYRACE,IL,Midwest,East North Central,Latino Women,6,,
-2012,Vote by Gender and Race,SEXBYRACE,IL,Midwest,East North Central,All Others,4,,
-2012,Vote by Ideology,PHIL3,IL,Midwest,East North Central,Liberal,26,95,3
-2012,Vote by Ideology,PHIL3,IL,Midwest,East North Central,Moderate,48,60,38
-2012,Vote by Ideology,PHIL3,IL,Midwest,East North Central,Conservative,26,14,85
-2012,Vote by Party ID,PARTY,IL,Midwest,East North Central,Democratic,44,95,5
-2012,Vote by Party ID,PARTY,IL,Midwest,East North Central,Republican,27,7,92
-2012,Vote by Party ID,PARTY,IL,Midwest,East North Central,Independent,28,50,45
-2012,Vote by Education,EDUC10,IL,Midwest,East North Central,No High School,2,,
-2012,Vote by Education,EDUC10,IL,Midwest,East North Central,High School Graduate,18,67,32
-2012,Vote by Education,EDUC10,IL,Midwest,East North Central,Some College,32,62,36
-2012,Vote by Education,EDUC10,IL,Midwest,East North Central,College Graduate,27,50,48
-2012,Vote by Education,EDUC10,IL,Midwest,East North Central,Postgraduate,21,54,45
-2012,Are You a College Graduate?,EDUCCOLL,IL,Midwest,East North Central,Yes,48,52,47
-2012,Are You a College Graduate?,EDUCCOLL,IL,Midwest,East North Central,No,52,64,34
-2012,Did You Attend College?,EDUCHS,IL,Midwest,East North Central,Yes,80,56,42
-2012,Did You Attend College?,EDUCHS,IL,Midwest,East North Central,No,20,67,32
-2012,Vote by Income,INCOME3,IL,Midwest,East North Central,Less Than $50K,35,72,27
-2012,Vote by Income,INCOME3,IL,Midwest,East North Central,$50-100K,31,57,41
-2012,Vote by Income,INCOME3,IL,Midwest,East North Central,$100K or More,35,44,55
-2012,Vote by Income,INC50K,IL,Midwest,East North Central,Less Than $50K,35,72,27
-2012,Vote by Income,INC50K,IL,Midwest,East North Central,$50K or More,65,50,48
-2012,Vote by Income,INC100K,IL,Midwest,East North Central,Less Than $100K,65,65,33
-2012,Vote by Income,INC100K,IL,Midwest,East North Central,$100K or More,35,44,55
-2012,How Often Do You Attend Religious Services?,ATTEND,IL,Midwest,East North Central,More Than Weekly,8,,
-2012,How Often Do You Attend Religious Services?,ATTEND,IL,Midwest,East North Central,Weekly,39,,
-2012,How Often Do You Attend Religious Services?,ATTEND,IL,Midwest,East North Central,Monthly,7,,
-2012,How Often Do You Attend Religious Services?,ATTEND,IL,Midwest,East North Central,Few Times a Year,29,,
-2012,How Often Do You Attend Religious Services?,ATTEND,IL,Midwest,East North Central,Never,16,,
-2012,How Often Do You Attend Religious Services?,ATTEND2,IL,Midwest,East North Central,Weekly,48,,
-2012,How Often Do You Attend Religious Services?,ATTEND2,IL,Midwest,East North Central,Occasionally,36,,
-2012,How Often Do You Attend Religious Services?,ATTEND2,IL,Midwest,East North Central,Never,16,,
-2012,Vote by Religion,REL5,IL,Midwest,East North Central,Protestant,41,53,46
-2012,Vote by Religion,REL5,IL,Midwest,East North Central,Catholic,38,48,51
-2012,Vote by Religion,REL5,IL,Midwest,East North Central,Jewish,1,,
-2012,Vote by Religion,REL5,IL,Midwest,East North Central,Other,8,,
-2012,Vote by Religion,REL5,IL,Midwest,East North Central,None,11,,
-2012,Vote by Religion and Race,WHITEREL,IL,Midwest,East North Central,White Protestant,31,43,56
-2012,Vote by Religion and Race,WHITEREL,IL,Midwest,East North Central,White Catholic,29,,
-2012,Vote by Religion and Race,WHITEREL,IL,Midwest,East North Central,White Jewish,1,,
-2012,Vote by Religion and Race,WHITEREL,IL,Midwest,East North Central,Whites/Other Religion,6,,
-2012,Vote by Religion and Race,WHITEREL,IL,Midwest,East North Central,Whites/No Religion,8,,
-2012,Vote by Religion and Race,WHITEREL,IL,Midwest,East North Central,Non-white,25,87,12
-2012,Vote by Religion and Church Attendance,ATTREL,IL,Midwest,East North Central,Protestant/Attend Weekly,12,,
-2012,Vote by Religion and Church Attendance,ATTREL,IL,Midwest,East North Central,Protestant/Not Weekly ,7,,
-2012,Vote by Religion and Church Attendance,ATTREL,IL,Midwest,East North Central,Catholic/Attend Weekly,19,,
-2012,Vote by Religion and Church Attendance,ATTREL,IL,Midwest,East North Central,Catholic/Not Weekly,20,,
-2012,Vote by Religion and Church Attendance,ATTREL,IL,Midwest,East North Central,All Others,42,,
-2012,Are You White Born-Again Christian?,WHTEVANG,IL,Midwest,East North Central,Yes,20,,
-2012,Are You White Born-Again Christian?,WHTEVANG,IL,Midwest,East North Central,No,80,62,35
-2012,Abortion Should Be...,ABORTION,IL,Midwest,East North Central,Always Legal,32,,
-2012,Abortion Should Be...,ABORTION,IL,Midwest,East North Central,Mostly Legal,32,,
-2012,Abortion Should Be...,ABORTION,IL,Midwest,East North Central,Mostly Illegal,22,,
-2012,Abortion Should Be...,ABORTION,IL,Midwest,East North Central,Always Illegal,11,,
-2012,Abortion Should Be...,ABORT2,IL,Midwest,East North Central,Legal,64,69,29
-2012,Abortion Should Be...,ABORT2,IL,Midwest,East North Central,Illegal,33,,
-2012,Opinion of Tea Party Movement,TEAPARTY12,IL,Midwest,East North Central,Support,19,,
-2012,Opinion of Tea Party Movement,TEAPARTY12,IL,Midwest,East North Central,Neutral,41,,
-2012,Opinion of Tea Party Movement,TEAPARTY12,IL,Midwest,East North Central,Oppose,38,,
-2012,Most Important Issue Facing Country,ISSUE12,IL,Midwest,East North Central,Foreign Policy,3,,
-2012,Most Important Issue Facing Country,ISSUE12,IL,Midwest,East North Central,Deficit,17,,
-2012,Most Important Issue Facing Country,ISSUE12,IL,Midwest,East North Central,Economy,60,62,36
-2012,Most Important Issue Facing Country,ISSUE12,IL,Midwest,East North Central,Health Care,18,,
-2012,Most Important Candidate Quality,QLT12,IL,Midwest,East North Central,Shares My Values,30,54,45
-2012,Most Important Candidate Quality,QLT12,IL,Midwest,East North Central,Strong Leader,18,,
-2012,Most Important Candidate Quality,QLT12,IL,Midwest,East North Central,Cares About People,26,83,15
-2012,Most Important Candidate Quality,QLT12,IL,Midwest,East North Central,Vision for Future,25,51,47
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,IL,Midwest,East North Central,Housing Market,11,,
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,IL,Midwest,East North Central,Unemployment,44,,
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,IL,Midwest,East North Central,Taxes,16,,
-2012,Biggest Economic Problem Facing People Like You,ECONISS12,IL,Midwest,East North Central,Rising Prices,27,,
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,IL,Midwest,East North Central,Expanded,34,,
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,IL,Midwest,East North Central,Kept As Is,13,,
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,IL,Midwest,East North Central,Repealed In Part,31,,
-2012,2010 Health Care Law Should Be...,HEALTHCARE12,IL,Midwest,East North Central,Repealed Completely,17,,
-2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,IL,Midwest,East North Central,No,47,,
-2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,IL,Midwest,East North Central,Yes,49,,
-2012,Income Tax Rates Should Be...,TAXINC12,IL,Midwest,East North Central,Increased For All,10,,
-2012,Income Tax Rates Should Be...,TAXINC12,IL,Midwest,East North Central,Increased for $250K+,50,71,27
-2012,Income Tax Rates Should Be...,TAXINC12,IL,Midwest,East North Central,Not Increased,37,,
-2012,Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,IL,Midwest,East North Central,Offered Legal Status,71,64,34
-2012,Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,IL,Midwest,East North Central,Deported,27,,
-2012,Who Is More In Touch With People Like You?,INTOUCH12,IL,Midwest,East North Central,Obama,61,90,6
-2012,Who Is More In Touch With People Like You?,INTOUCH12,IL,Midwest,East North Central,Romney,36,,
-2012,Who Would Better Handle Economy?,HANDLEECON12,IL,Midwest,East North Central,Obama,52,99,
-2012,Who Would Better Handle Economy?,HANDLEECON12,IL,Midwest,East North Central,Romney,44,,
-2012,Who Would Better Handle Medicare?,HANDLEMED12,IL,Midwest,East North Central,Obama,59,93,4
-2012,Who Would Better Handle Medicare?,HANDLEMED12,IL,Midwest,East North Central,Romney,41,,
-2012,Who Would Better Handle Deficit?,HANDLEDEF12,IL,Midwest,East North Central,Obama,51,99,
-2012,Who Would Better Handle Deficit?,HANDLEDEF12,IL,Midwest,East North Central,Romney,41,,
-2012,Opinion of Government,GOVTDO10,IL,Midwest,East North Central,Government Should Do More,56,85,13
-2012,Opinion of Government,GOVTDO10,IL,Midwest,East North Central,Government Doing Too Much,41,,
-2012,National Economic Conditions,NEC,IL,Midwest,East North Central,Excellent,1,,
-2012,National Economic Conditions,NEC,IL,Midwest,East North Central,Good,22,,
-2012,National Economic Conditions,NEC,IL,Midwest,East North Central,Not So Good,44,,
-2012,National Economic Conditions,NEC,IL,Midwest,East North Central,Poor,31,,
-2012,National Economic Conditions,NEC2,IL,Midwest,East North Central,Excellent/Good,23,,
-2012,National Economic Conditions,NEC2,IL,Midwest,East North Central,Not So Good/Poor,75,45,53
-2012,U.S. Economic Conditions Are...,ECONBETT,IL,Midwest,East North Central,Getting Better,40,,
-2012,U.S. Economic Conditions Are...,ECONBETT,IL,Midwest,East North Central,Getting Worse,28,,
-2012,U.S. Economic Conditions Are...,ECONBETT,IL,Midwest,East North Central,Staying About the Same,31,,
-2012,U.S. Economic Conditions Are...,ECONDIR,IL,Midwest,East North Central,Getting Better,40,,
-2012,U.S. Economic Conditions Are...,ECONDIR,IL,Midwest,East North Central,Good and Staying the Same,3,,
-2012,U.S. Economic Conditions Are...,ECONDIR,IL,Midwest,East North Central,Poor and Staying the Same,28,,
-2012,U.S. Economic Conditions Are...,ECONDIR,IL,Midwest,East North Central,Getting Worse,28,,
-2012,Your Family's Financial Situation,FINSIT,IL,Midwest,East North Central,Better,26,,
-2012,Your Family's Financial Situation,FINSIT,IL,Midwest,East North Central,Worse,31,,
-2012,Your Family's Financial Situation,FINSIT,IL,Midwest,East North Central,Same,43,,
-2012,Country is Going In...,TRACK,IL,Midwest,East North Central,Right Direction,44,,
-2012,Country is Going In...,TRACK,IL,Midwest,East North Central,Wrong Track,55,,
-2012,More to Blame for Current Economic Problems?,ECONBLAME12,IL,Midwest,East North Central,Barack Obama,37,,
-2012,More to Blame for Current Economic Problems?,ECONBLAME12,IL,Midwest,East North Central,George W. Bush,57,91,8
-2012,U.S. Economic System Generally...,ECONFAIR,IL,Midwest,East North Central,Favors the Wealthy,60,77,20
-2012,U.S. Economic System Generally...,ECONFAIR,IL,Midwest,East North Central,Is Fair to Most Americans,37,,
-2012,Should Taxes Be Raised To Help Cut Deficit?,TAXDEF,IL,Midwest,East North Central,Yes,26,,
-2012,Should Taxes Be Raised To Help Cut Deficit?,TAXDEF,IL,Midwest,East North Central,No,72,45,54
-2012,Opinion of Obama Administration,OBAMANG,IL,Midwest,East North Central,Enthusiastic,28,,
-2012,Opinion of Obama Administration,OBAMANG,IL,Midwest,East North Central,Satisfied,24,,
-2012,Opinion of Obama Administration,OBAMANG,IL,Midwest,East North Central,Dissatisfied,32,,
-2012,Opinion of Obama Administration,OBAMANG,IL,Midwest,East North Central,Angry,15,,
-2012,Opinion of Obama Administration,OBAMANG2,IL,Midwest,East North Central,Enthusiastic/Satisfied,52,96,4
-2012,Opinion of Obama Administration,OBAMANG2,IL,Midwest,East North Central,Dissatisfied/Angry,47,,
-2012,How Obama is Handling His Job As President,OBAMA4,IL,Midwest,East North Central,Strongly Approve,32,,
-2012,How Obama is Handling His Job As President,OBAMA4,IL,Midwest,East North Central,Somewhat Approve,30,,
-2012,How Obama is Handling His Job As President,OBAMA4,IL,Midwest,East North Central,Somewhat Disapprove,12,,
-2012,How Obama is Handling His Job As President,OBAMA4,IL,Midwest,East North Central,Strongly Disapprove,25,,
-2012,How Obama is Handling His Job As President,OBAMA2,IL,Midwest,East North Central,Approve,62,89,9
-2012,How Obama is Handling His Job As President,OBAMA2,IL,Midwest,East North Central,Disapprove,38,,
-2012,Opinion of Barack Obama,FAVOBAMA2,IL,Midwest,East North Central,Favorable,55,97,3
-2012,Opinion of Barack Obama,FAVOBAMA2,IL,Midwest,East North Central,Unfavorable,44,,
-2012,Opinion of Mitt Romney,FAVROMN2,IL,Midwest,East North Central,Favorable,47,,
-2012,Opinion of Mitt Romney,FAVROMN2,IL,Midwest,East North Central,Unfavorable,51,97,2
-2012,Do Obama Policies Generally Favor...,OBAMARICH,IL,Midwest,East North Central,Rich,5,,
-2012,Do Obama Policies Generally Favor...,OBAMARICH,IL,Midwest,East North Central,Middle Class,44,97,3
-2012,Do Obama Policies Generally Favor...,OBAMARICH,IL,Midwest,East North Central,Poor,39,,
-2012,Would Romney Policies Generally Favor...,ROMNRICH,IL,Midwest,East North Central,Rich,58,90,9
-2012,Would Romney Policies Generally Favor...,ROMNRICH,IL,Midwest,East North Central,Middle Class,34,,
-2012,Would Romney Policies Generally Favor...,ROMNRICH,IL,Midwest,East North Central,Poor,N/A,,
-2012,Trust Obama to Handle International Crisis?,INTLOBAMA,IL,Midwest,East North Central,Yes,62,88,9
-2012,Trust Obama to Handle International Crisis?,INTLOBAMA,IL,Midwest,East North Central,No,36,,
-2012,Trust Romney to Handle International Crisis?,INTLROMNEY,IL,Midwest,East North Central,Yes,38,,
-2012,Trust Romney to Handle International Crisis?,INTLROMNEY,IL,Midwest,East North Central,No,56,88,10
-2012,Who Do You Trust To Handle International Crisis?,INTL12,IL,Midwest,East North Central,Only Obama,51,,
-2012,Who Do You Trust To Handle International Crisis?,INTL12,IL,Midwest,East North Central,Only Romney,28,,
-2012,Who Do You Trust To Handle International Crisis?,INTL12,IL,Midwest,East North Central,Both,9,,
-2012,Who Do You Trust To Handle International Crisis?,INTL12,IL,Midwest,East North Central,Neither,5,,
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,IL,Midwest,East North Central,Strongly Favor,70,64,34
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,IL,Midwest,East North Central,Have Reservations,21,,
-2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,IL,Midwest,East North Central,Dislike Opponent,8,,
-2012,When Did You Decide Presidential Vote?,TIME12,IL,Midwest,East North Central,Just Today,5,,
-2012,When Did You Decide Presidential Vote?,TIME12,IL,Midwest,East North Central,Last Few Days,5,,
-2012,When Did You Decide Presidential Vote?,TIME12,IL,Midwest,East North Central,In October,8,,
-2012,When Did You Decide Presidential Vote?,TIME12,IL,Midwest,East North Central,In September,6,,
-2012,When Did You Decide Presidential Vote?,TIME12,IL,Midwest,East North Central,Before That,75,71,28
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,IL,Midwest,East North Central,Today/Last Few Days,10,,
-2012,When Did You Decide Presidential Vote?,TIME12FEWD,IL,Midwest,East North Central,Before That,90,66,33
-2012,When Did You Decide Presidential Vote?,TIME12MTH,IL,Midwest,East North Central,In October or November,19,,
-2012,When Did You Decide Presidential Vote?,TIME12MTH,IL,Midwest,East North Central,Before That,81,70,29
-2012,Vote by Marital Status,MARRIED,IL,Midwest,East North Central,Married,62,50,49
-2012,Vote by Marital Status,MARRIED,IL,Midwest,East North Central,Unmarried,38,72,26
-2012,Vote by Gender and Marital Status,SEXWED,IL,Midwest,East North Central,Married Men,29,43,55
-2012,Vote by Gender and Marital Status,SEXWED,IL,Midwest,East North Central,Married Women,33,56,43
-2012,Vote by Gender and Marital Status,SEXWED,IL,Midwest,East North Central,Unmarried Men,18,69,30
-2012,Vote by Gender and Marital Status,SEXWED,IL,Midwest,East North Central,Unmarried Women,20,76,23
-2012,Any Children Under 18 Living in Your Home?,CHILD12,IL,Midwest,East North Central,Yes,38,57,42
-2012,Any Children Under 18 Living in Your Home?,CHILD12,IL,Midwest,East North Central,No,62,61,38
-2012,Vote by Marital Status and Children,MARCHILD,IL,Midwest,East North Central,Married With Children,31,52,46
-2012,Vote by Marital Status and Children,MARCHILD,IL,Midwest,East North Central,All Others,69,63,36
-2012,Vote by Gender and Children in Household,PARENTS,IL,Midwest,East North Central,Fathers,18,,
-2012,Vote by Gender and Children in Household,PARENTS,IL,Midwest,East North Central,Mothers,20,64,36
-2012,Vote by Gender and Children in Household,PARENTS,IL,Midwest,East North Central,Men With No Children,31,54,45
-2012,Vote by Gender and Children in Household,PARENTS,IL,Midwest,East North Central,Women With No Children,30,68,31
-2012,Is Anyone in Household a Union Member?,UNIONHH12,IL,Midwest,East North Central,Yes,27,,
-2012,Is Anyone in Household a Union Member?,UNIONHH12,IL,Midwest,East North Central,No,73,59,41
-2012,Do You Work Full-Time For Pay?,WORK,IL,Midwest,East North Central,Yes,63,55,44
-2012,Do You Work Full-Time For Pay?,WORK,IL,Midwest,East North Central,No,37,,
-2012,Should Same-Sex Marriages Be Legal in Your State?,SAMESEXM12,IL,Midwest,East North Central,Yes,57,73,25
-2012,Should Same-Sex Marriages Be Legal in Your State?,SAMESEXM12,IL,Midwest,East North Central,No,40,,
-2012,"Are You Gay, Lesbian or Bisexual?",GAY,IL,Midwest,East North Central,Yes,5,,
-2012,"Are You Gay, Lesbian or Bisexual?",GAY,IL,Midwest,East North Central,No,95,55,43
-2012,Importance of Obama's Response to Hurricane,BREAK12,IL,Midwest,East North Central,Most Important Factor,11,,
-2012,Importance of Obama's Response to Hurricane,BREAK12,IL,Midwest,East North Central,An Important Factor,38,,
-2012,Importance of Obama's Response to Hurricane,BREAK12,IL,Midwest,East North Central,Minor Factor,18,,
-2012,Importance of Obama's Response to Hurricane,BREAK12,IL,Midwest,East North Central,Not a Factor At All,33,,
-2012,Obama's Hurricane Response Important to You?,BREAK12A,IL,Midwest,East North Central,Yes,49,83,17
-2012,Obama's Hurricane Response Important to You?,BREAK12A,IL,Midwest,East North Central,No,50,46,52
-2012,Obama's Hurricane Response a Factor in Your Vote?,BREAK12B,IL,Midwest,East North Central,Yes,66,77,22
-2012,Obama's Hurricane Response a Factor in Your Vote?,BREAK12B,IL,Midwest,East North Central,No,33,,
-2012,Vote by Size of Place,SIZEPLC3,IL,Midwest,East North Central,Urban,41,65,33
-2012,Vote by Size of Place,SIZEPLC3,IL,Midwest,East North Central,Suburban,48,52,47
-2012,Vote by Size of Place,SIZEPLC3,IL,Midwest,East North Central,Rural,12,57,41
-2012,Vote by Region,GEOCOD,IL,Midwest,East North Central,Chicago,17,83,14
-2012,Vote by Region,GEOCOD,IL,Midwest,East North Central,Cook County Suburbs,26,50,50
-2012,Vote by Region,GEOCOD,IL,Midwest,East North Central,Collar Counties,26,46,53
-2012,Vote by Region,GEOCOD,IL,Midwest,East North Central,Northern Illinois,21,58,40
-2012,Vote by Region,GEOCOD,IL,Midwest,East North Central,Southern Illinois,10,68,31
+2012	Vote by Gender	SEX	IL	Midwest	East North Central	Men	48	52	46
+2012	Vote by Gender	SEX	IL	Midwest	East North Central	Women	52	63	35
+2012	Vote by Age	AGE	IL	Midwest	East North Central	18-29	17	68	28
+2012	Vote by Age	AGE	IL	Midwest	East North Central	30-44	26	57	41
+2012	Vote by Age	AGE	IL	Midwest	East North Central	45-64	39	54	45
+2012	Vote by Age	AGE	IL	Midwest	East North Central	65 and Older	17	57	43
+2012	Vote by Age	AGE65	IL	Midwest	East North Central	18-24	10	71	26
+2012	Vote by Age	AGE65	IL	Midwest	East North Central	25-29	7		
+2012	Vote by Age	AGE65	IL	Midwest	East North Central	30-39	17	57	41
+2012	Vote by Age	AGE65	IL	Midwest	East North Central	40-49	19	55	44
+2012	Vote by Age	AGE65	IL	Midwest	East North Central	50-64	29	54	45
+2012	Vote by Age	AGE65	IL	Midwest	East North Central	65 and Older	17	57	43
+2012	Vote by Race	RACE	IL	Midwest	East North Central	White	70	46	52
+2012	Vote by Race	RACE	IL	Midwest	East North Central	African-American	14	96	4
+2012	Vote by Race	RACE	IL	Midwest	East North Central	Latino	12	81	18
+2012	Vote by Race	RACE	IL	Midwest	East North Central	Asian	2		
+2012	Vote by Race	RACE	IL	Midwest	East North Central	Other	2		
+2012	Vote by Gender and Race	SEXBYRACE	IL	Midwest	East North Central	White Men	35	40	58
+2012	Vote by Gender and Race	SEXBYRACE	IL	Midwest	East North Central	White Women	36	52	46
+2012	Vote by Gender and Race	SEXBYRACE	IL	Midwest	East North Central	Black Men	6		
+2012	Vote by Gender and Race	SEXBYRACE	IL	Midwest	East North Central	Black Women	8	93	6
+2012	Vote by Gender and Race	SEXBYRACE	IL	Midwest	East North Central	Latino Men	6		
+2012	Vote by Gender and Race	SEXBYRACE	IL	Midwest	East North Central	Latino Women	6		
+2012	Vote by Gender and Race	SEXBYRACE	IL	Midwest	East North Central	All Others	4		
+2012	Vote by Ideology	PHIL3	IL	Midwest	East North Central	Liberal	26	95	3
+2012	Vote by Ideology	PHIL3	IL	Midwest	East North Central	Moderate	48	60	38
+2012	Vote by Ideology	PHIL3	IL	Midwest	East North Central	Conservative	26	14	85
+2012	Vote by Party ID	PARTY	IL	Midwest	East North Central	Democratic	44	95	5
+2012	Vote by Party ID	PARTY	IL	Midwest	East North Central	Republican	27	7	92
+2012	Vote by Party ID	PARTY	IL	Midwest	East North Central	Independent	28	50	45
+2012	Vote by Education	EDUC10	IL	Midwest	East North Central	No High School	2		
+2012	Vote by Education	EDUC10	IL	Midwest	East North Central	High School Graduate	18	67	32
+2012	Vote by Education	EDUC10	IL	Midwest	East North Central	Some College	32	62	36
+2012	Vote by Education	EDUC10	IL	Midwest	East North Central	College Graduate	27	50	48
+2012	Vote by Education	EDUC10	IL	Midwest	East North Central	Postgraduate	21	54	45
+2012	Are You a College Graduate?	EDUCCOLL	IL	Midwest	East North Central	Yes	48	52	47
+2012	Are You a College Graduate?	EDUCCOLL	IL	Midwest	East North Central	No	52	64	34
+2012	Did You Attend College?	EDUCHS	IL	Midwest	East North Central	Yes	80	56	42
+2012	Did You Attend College?	EDUCHS	IL	Midwest	East North Central	No	20	67	32
+2012	Vote by Income	INCOME3	IL	Midwest	East North Central	Less Than $50K	35	72	27
+2012	Vote by Income	INCOME3	IL	Midwest	East North Central	$50-100K	31	57	41
+2012	Vote by Income	INCOME3	IL	Midwest	East North Central	$100K or More	35	44	55
+2012	Vote by Income	INC50K	IL	Midwest	East North Central	Less Than $50K	35	72	27
+2012	Vote by Income	INC50K	IL	Midwest	East North Central	$50K or More	65	50	48
+2012	Vote by Income	INC100K	IL	Midwest	East North Central	Less Than $100K	65	65	33
+2012	Vote by Income	INC100K	IL	Midwest	East North Central	$100K or More	35	44	55
+2012	How Often Do You Attend Religious Services?	ATTEND	IL	Midwest	East North Central	More Than Weekly	8		
+2012	How Often Do You Attend Religious Services?	ATTEND	IL	Midwest	East North Central	Weekly	39		
+2012	How Often Do You Attend Religious Services?	ATTEND	IL	Midwest	East North Central	Monthly	7		
+2012	How Often Do You Attend Religious Services?	ATTEND	IL	Midwest	East North Central	Few Times a Year	29		
+2012	How Often Do You Attend Religious Services?	ATTEND	IL	Midwest	East North Central	Never	16		
+2012	How Often Do You Attend Religious Services?	ATTEND2	IL	Midwest	East North Central	Weekly	48		
+2012	How Often Do You Attend Religious Services?	ATTEND2	IL	Midwest	East North Central	Occasionally	36		
+2012	How Often Do You Attend Religious Services?	ATTEND2	IL	Midwest	East North Central	Never	16		
+2012	Vote by Religion	REL5	IL	Midwest	East North Central	Protestant	41	53	46
+2012	Vote by Religion	REL5	IL	Midwest	East North Central	Catholic	38	48	51
+2012	Vote by Religion	REL5	IL	Midwest	East North Central	Jewish	1		
+2012	Vote by Religion	REL5	IL	Midwest	East North Central	Other	8		
+2012	Vote by Religion	REL5	IL	Midwest	East North Central	None	11		
+2012	Vote by Religion and Race	WHITEREL	IL	Midwest	East North Central	White Protestant	31	43	56
+2012	Vote by Religion and Race	WHITEREL	IL	Midwest	East North Central	White Catholic	29		
+2012	Vote by Religion and Race	WHITEREL	IL	Midwest	East North Central	White Jewish	1		
+2012	Vote by Religion and Race	WHITEREL	IL	Midwest	East North Central	Whites/Other Religion	6		
+2012	Vote by Religion and Race	WHITEREL	IL	Midwest	East North Central	Whites/No Religion	8		
+2012	Vote by Religion and Race	WHITEREL	IL	Midwest	East North Central	Non-white	25	87	12
+2012	Vote by Religion and Church Attendance	ATTREL	IL	Midwest	East North Central	Protestant/Attend Weekly	12		
+2012	Vote by Religion and Church Attendance	ATTREL	IL	Midwest	East North Central	Protestant/Not Weekly 	7		
+2012	Vote by Religion and Church Attendance	ATTREL	IL	Midwest	East North Central	Catholic/Attend Weekly	19		
+2012	Vote by Religion and Church Attendance	ATTREL	IL	Midwest	East North Central	Catholic/Not Weekly	20		
+2012	Vote by Religion and Church Attendance	ATTREL	IL	Midwest	East North Central	All Others	42		
+2012	Are You White Born-Again Christian?	WHTEVANG	IL	Midwest	East North Central	Yes	20		
+2012	Are You White Born-Again Christian?	WHTEVANG	IL	Midwest	East North Central	No	80	62	35
+2012	Abortion Should Be...	ABORTION	IL	Midwest	East North Central	Always Legal	32		
+2012	Abortion Should Be...	ABORTION	IL	Midwest	East North Central	Mostly Legal	32		
+2012	Abortion Should Be...	ABORTION	IL	Midwest	East North Central	Mostly Illegal	22		
+2012	Abortion Should Be...	ABORTION	IL	Midwest	East North Central	Always Illegal	11		
+2012	Abortion Should Be...	ABORT2	IL	Midwest	East North Central	Legal	64	69	29
+2012	Abortion Should Be...	ABORT2	IL	Midwest	East North Central	Illegal	33		
+2012	Opinion of Tea Party Movement	TEAPARTY12	IL	Midwest	East North Central	Support	19		
+2012	Opinion of Tea Party Movement	TEAPARTY12	IL	Midwest	East North Central	Neutral	41		
+2012	Opinion of Tea Party Movement	TEAPARTY12	IL	Midwest	East North Central	Oppose	38		
+2012	Most Important Issue Facing Country	ISSUE12	IL	Midwest	East North Central	Foreign Policy	3		
+2012	Most Important Issue Facing Country	ISSUE12	IL	Midwest	East North Central	Deficit	17		
+2012	Most Important Issue Facing Country	ISSUE12	IL	Midwest	East North Central	Economy	60	62	36
+2012	Most Important Issue Facing Country	ISSUE12	IL	Midwest	East North Central	Health Care	18		
+2012	Most Important Candidate Quality	QLT12	IL	Midwest	East North Central	Shares My Values	30	54	45
+2012	Most Important Candidate Quality	QLT12	IL	Midwest	East North Central	Strong Leader	18		
+2012	Most Important Candidate Quality	QLT12	IL	Midwest	East North Central	Cares About People	26	83	15
+2012	Most Important Candidate Quality	QLT12	IL	Midwest	East North Central	Vision for Future	25	51	47
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	IL	Midwest	East North Central	Housing Market	11		
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	IL	Midwest	East North Central	Unemployment	44		
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	IL	Midwest	East North Central	Taxes	16		
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	IL	Midwest	East North Central	Rising Prices	27		
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	IL	Midwest	East North Central	Expanded	34		
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	IL	Midwest	East North Central	Kept As Is	13		
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	IL	Midwest	East North Central	Repealed In Part	31		
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	IL	Midwest	East North Central	Repealed Completely	17		
+2012	Should 2010 Health Care Law Be Repealed?	HEALTHCARE12B	IL	Midwest	East North Central	No	47		
+2012	Should 2010 Health Care Law Be Repealed?	HEALTHCARE12B	IL	Midwest	East North Central	Yes	49		
+2012	Income Tax Rates Should Be...	TAXINC12	IL	Midwest	East North Central	Increased For All	10		
+2012	Income Tax Rates Should Be...	TAXINC12	IL	Midwest	East North Central	Increased for $250K+	50	71	27
+2012	Income Tax Rates Should Be...	TAXINC12	IL	Midwest	East North Central	Not Increased	37		
+2012	Most Illegal Immigrants Working in U.S. Should Be:	IMMDEPORT	IL	Midwest	East North Central	Offered Legal Status	71	64	34
+2012	Most Illegal Immigrants Working in U.S. Should Be:	IMMDEPORT	IL	Midwest	East North Central	Deported	27		
+2012	Who Is More In Touch With People Like You?	INTOUCH12	IL	Midwest	East North Central	Obama	61	90	6
+2012	Who Is More In Touch With People Like You?	INTOUCH12	IL	Midwest	East North Central	Romney	36		
+2012	Who Would Better Handle Economy?	HANDLEECON12	IL	Midwest	East North Central	Obama	52	99	
+2012	Who Would Better Handle Economy?	HANDLEECON12	IL	Midwest	East North Central	Romney	44		
+2012	Who Would Better Handle Medicare?	HANDLEMED12	IL	Midwest	East North Central	Obama	59	93	4
+2012	Who Would Better Handle Medicare?	HANDLEMED12	IL	Midwest	East North Central	Romney	41		
+2012	Who Would Better Handle Deficit?	HANDLEDEF12	IL	Midwest	East North Central	Obama	51	99	
+2012	Who Would Better Handle Deficit?	HANDLEDEF12	IL	Midwest	East North Central	Romney	41		
+2012	Opinion of Government	GOVTDO10	IL	Midwest	East North Central	Government Should Do More	56	85	13
+2012	Opinion of Government	GOVTDO10	IL	Midwest	East North Central	Government Doing Too Much	41		
+2012	National Economic Conditions	NEC	IL	Midwest	East North Central	Excellent	1		
+2012	National Economic Conditions	NEC	IL	Midwest	East North Central	Good	22		
+2012	National Economic Conditions	NEC	IL	Midwest	East North Central	Not So Good	44		
+2012	National Economic Conditions	NEC	IL	Midwest	East North Central	Poor	31		
+2012	National Economic Conditions	NEC2	IL	Midwest	East North Central	Excellent/Good	23		
+2012	National Economic Conditions	NEC2	IL	Midwest	East North Central	Not So Good/Poor	75	45	53
+2012	U.S. Economic Conditions Are...	ECONBETT	IL	Midwest	East North Central	Getting Better	40		
+2012	U.S. Economic Conditions Are...	ECONBETT	IL	Midwest	East North Central	Getting Worse	28		
+2012	U.S. Economic Conditions Are...	ECONBETT	IL	Midwest	East North Central	Staying About the Same	31		
+2012	U.S. Economic Conditions Are...	ECONDIR	IL	Midwest	East North Central	Getting Better	40		
+2012	U.S. Economic Conditions Are...	ECONDIR	IL	Midwest	East North Central	Good and Staying the Same	3		
+2012	U.S. Economic Conditions Are...	ECONDIR	IL	Midwest	East North Central	Poor and Staying the Same	28		
+2012	U.S. Economic Conditions Are...	ECONDIR	IL	Midwest	East North Central	Getting Worse	28		
+2012	Your Family's Financial Situation	FINSIT	IL	Midwest	East North Central	Better	26		
+2012	Your Family's Financial Situation	FINSIT	IL	Midwest	East North Central	Worse	31		
+2012	Your Family's Financial Situation	FINSIT	IL	Midwest	East North Central	Same	43		
+2012	Country is Going In...	TRACK	IL	Midwest	East North Central	Right Direction	44		
+2012	Country is Going In...	TRACK	IL	Midwest	East North Central	Wrong Track	55		
+2012	More to Blame for Current Economic Problems?	ECONBLAME12	IL	Midwest	East North Central	Barack Obama	37		
+2012	More to Blame for Current Economic Problems?	ECONBLAME12	IL	Midwest	East North Central	George W. Bush	57	91	8
+2012	U.S. Economic System Generally...	ECONFAIR	IL	Midwest	East North Central	Favors the Wealthy	60	77	20
+2012	U.S. Economic System Generally...	ECONFAIR	IL	Midwest	East North Central	Is Fair to Most Americans	37		
+2012	Should Taxes Be Raised To Help Cut Deficit?	TAXDEF	IL	Midwest	East North Central	Yes	26		
+2012	Should Taxes Be Raised To Help Cut Deficit?	TAXDEF	IL	Midwest	East North Central	No	72	45	54
+2012	Opinion of Obama Administration	OBAMANG	IL	Midwest	East North Central	Enthusiastic	28		
+2012	Opinion of Obama Administration	OBAMANG	IL	Midwest	East North Central	Satisfied	24		
+2012	Opinion of Obama Administration	OBAMANG	IL	Midwest	East North Central	Dissatisfied	32		
+2012	Opinion of Obama Administration	OBAMANG	IL	Midwest	East North Central	Angry	15		
+2012	Opinion of Obama Administration	OBAMANG2	IL	Midwest	East North Central	Enthusiastic/Satisfied	52	96	4
+2012	Opinion of Obama Administration	OBAMANG2	IL	Midwest	East North Central	Dissatisfied/Angry	47		
+2012	How Obama is Handling His Job As President	OBAMA4	IL	Midwest	East North Central	Strongly Approve	32		
+2012	How Obama is Handling His Job As President	OBAMA4	IL	Midwest	East North Central	Somewhat Approve	30		
+2012	How Obama is Handling His Job As President	OBAMA4	IL	Midwest	East North Central	Somewhat Disapprove	12		
+2012	How Obama is Handling His Job As President	OBAMA4	IL	Midwest	East North Central	Strongly Disapprove	25		
+2012	How Obama is Handling His Job As President	OBAMA2	IL	Midwest	East North Central	Approve	62	89	9
+2012	How Obama is Handling His Job As President	OBAMA2	IL	Midwest	East North Central	Disapprove	38		
+2012	Opinion of Barack Obama	FAVOBAMA2	IL	Midwest	East North Central	Favorable	55	97	3
+2012	Opinion of Barack Obama	FAVOBAMA2	IL	Midwest	East North Central	Unfavorable	44		
+2012	Opinion of Mitt Romney	FAVROMN2	IL	Midwest	East North Central	Favorable	47		
+2012	Opinion of Mitt Romney	FAVROMN2	IL	Midwest	East North Central	Unfavorable	51	97	2
+2012	Do Obama Policies Generally Favor...	OBAMARICH	IL	Midwest	East North Central	Rich	5		
+2012	Do Obama Policies Generally Favor...	OBAMARICH	IL	Midwest	East North Central	Middle Class	44	97	3
+2012	Do Obama Policies Generally Favor...	OBAMARICH	IL	Midwest	East North Central	Poor	39		
+2012	Would Romney Policies Generally Favor...	ROMNRICH	IL	Midwest	East North Central	Rich	58	90	9
+2012	Would Romney Policies Generally Favor...	ROMNRICH	IL	Midwest	East North Central	Middle Class	34		
+2012	Would Romney Policies Generally Favor...	ROMNRICH	IL	Midwest	East North Central	Poor			
+2012	Trust Obama to Handle International Crisis?	INTLOBAMA	IL	Midwest	East North Central	Yes	62	88	9
+2012	Trust Obama to Handle International Crisis?	INTLOBAMA	IL	Midwest	East North Central	No	36		
+2012	Trust Romney to Handle International Crisis?	INTLROMNEY	IL	Midwest	East North Central	Yes	38		
+2012	Trust Romney to Handle International Crisis?	INTLROMNEY	IL	Midwest	East North Central	No	56	88	10
+2012	Who Do You Trust To Handle International Crisis?	INTL12	IL	Midwest	East North Central	Only Obama	51		
+2012	Who Do You Trust To Handle International Crisis?	INTL12	IL	Midwest	East North Central	Only Romney	28		
+2012	Who Do You Trust To Handle International Crisis?	INTL12	IL	Midwest	East North Central	Both	9		
+2012	Who Do You Trust To Handle International Crisis?	INTL12	IL	Midwest	East North Central	Neither	5		
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	IL	Midwest	East North Central	Strongly Favor	70	64	34
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	IL	Midwest	East North Central	Have Reservations	21		
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	IL	Midwest	East North Central	Dislike Opponent	8		
+2012	When Did You Decide Presidential Vote?	TIME12	IL	Midwest	East North Central	Just Today	5		
+2012	When Did You Decide Presidential Vote?	TIME12	IL	Midwest	East North Central	Last Few Days	5		
+2012	When Did You Decide Presidential Vote?	TIME12	IL	Midwest	East North Central	In October	8		
+2012	When Did You Decide Presidential Vote?	TIME12	IL	Midwest	East North Central	In September	6		
+2012	When Did You Decide Presidential Vote?	TIME12	IL	Midwest	East North Central	Before That	75	71	28
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	IL	Midwest	East North Central	Today/Last Few Days	10		
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	IL	Midwest	East North Central	Before That	90	66	33
+2012	When Did You Decide Presidential Vote?	TIME12MTH	IL	Midwest	East North Central	In October or November	19		
+2012	When Did You Decide Presidential Vote?	TIME12MTH	IL	Midwest	East North Central	Before That	81	70	29
+2012	Vote by Marital Status	MARRIED	IL	Midwest	East North Central	Married	62	50	49
+2012	Vote by Marital Status	MARRIED	IL	Midwest	East North Central	Unmarried	38	72	26
+2012	Vote by Gender and Marital Status	SEXWED	IL	Midwest	East North Central	Married Men	29	43	55
+2012	Vote by Gender and Marital Status	SEXWED	IL	Midwest	East North Central	Married Women	33	56	43
+2012	Vote by Gender and Marital Status	SEXWED	IL	Midwest	East North Central	Unmarried Men	18	69	30
+2012	Vote by Gender and Marital Status	SEXWED	IL	Midwest	East North Central	Unmarried Women	20	76	23
+2012	Any Children Under 18 Living in Your Home?	CHILD12	IL	Midwest	East North Central	Yes	38	57	42
+2012	Any Children Under 18 Living in Your Home?	CHILD12	IL	Midwest	East North Central	No	62	61	38
+2012	Vote by Marital Status and Children	MARCHILD	IL	Midwest	East North Central	Married With Children	31	52	46
+2012	Vote by Marital Status and Children	MARCHILD	IL	Midwest	East North Central	All Others	69	63	36
+2012	Vote by Gender and Children in Household	PARENTS	IL	Midwest	East North Central	Fathers	18		
+2012	Vote by Gender and Children in Household	PARENTS	IL	Midwest	East North Central	Mothers	20	64	36
+2012	Vote by Gender and Children in Household	PARENTS	IL	Midwest	East North Central	Men With No Children	31	54	45
+2012	Vote by Gender and Children in Household	PARENTS	IL	Midwest	East North Central	Women With No Children	30	68	31
+2012	Is Anyone in Household a Union Member?	UNIONHH12	IL	Midwest	East North Central	Yes	27		
+2012	Is Anyone in Household a Union Member?	UNIONHH12	IL	Midwest	East North Central	No	73	59	41
+2012	Do You Work Full-Time For Pay?	WORK	IL	Midwest	East North Central	Yes	63	55	44
+2012	Do You Work Full-Time For Pay?	WORK	IL	Midwest	East North Central	No	37		
+2012	Should Same-Sex Marriages Be Legal in Your State?	SAMESEXM12	IL	Midwest	East North Central	Yes	57	73	25
+2012	Should Same-Sex Marriages Be Legal in Your State?	SAMESEXM12	IL	Midwest	East North Central	No	40		
+2012	Are You Gay, Lesbian or Bisexual?	GAY	IL	Midwest	East North Central	Yes	5		
+2012	Are You Gay, Lesbian or Bisexual?	GAY	IL	Midwest	East North Central	No	95	55	43
+2012	Importance of Obama's Response to Hurricane	BREAK12	IL	Midwest	East North Central	Most Important Factor	11		
+2012	Importance of Obama's Response to Hurricane	BREAK12	IL	Midwest	East North Central	An Important Factor	38		
+2012	Importance of Obama's Response to Hurricane	BREAK12	IL	Midwest	East North Central	Minor Factor	18		
+2012	Importance of Obama's Response to Hurricane	BREAK12	IL	Midwest	East North Central	Not a Factor At All	33		
+2012	Obama's Hurricane Response Important to You?	BREAK12A	IL	Midwest	East North Central	Yes	49	83	17
+2012	Obama's Hurricane Response Important to You?	BREAK12A	IL	Midwest	East North Central	No	50	46	52
+2012	Obama's Hurricane Response a Factor in Your Vote?	BREAK12B	IL	Midwest	East North Central	Yes	66	77	22
+2012	Obama's Hurricane Response a Factor in Your Vote?	BREAK12B	IL	Midwest	East North Central	No	33		
+2012	Vote by Size of Place	SIZEPLC3	IL	Midwest	East North Central	Urban	41	65	33
+2012	Vote by Size of Place	SIZEPLC3	IL	Midwest	East North Central	Suburban	48	52	47
+2012	Vote by Size of Place	SIZEPLC3	IL	Midwest	East North Central	Rural	12	57	41
+2012	Vote by Region	GEOCOD	IL	Midwest	East North Central	Chicago	17	83	14
+2012	Vote by Region	GEOCOD	IL	Midwest	East North Central	Cook County Suburbs	26	50	50
+2012	Vote by Region	GEOCOD	IL	Midwest	East North Central	Collar Counties	26	46	53
+2012	Vote by Region	GEOCOD	IL	Midwest	East North Central	Northern Illinois	21	58	40
+2012	Vote by Region	GEOCOD	IL	Midwest	East North Central	Southern Illinois	10	68	31
