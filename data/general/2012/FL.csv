@@ -1,171 +1,171 @@
-question,pollname,state,region,subregion,answer,percent,dem,rep
-Vote by Gender,SEX,FL,South,South Atlantic,Men,45,46,52
-Vote by Gender,SEX,FL,South,South Atlantic,Women,55,53,46
-Vote by Age,AGE,FL,South,South Atlantic,18-29,16,66,32
-Vote by Age,AGE,FL,South,South Atlantic,30-44,23,52,46
-Vote by Age,AGE,FL,South,South Atlantic,45-64,37,48,52
-Vote by Age,AGE,FL,South,South Atlantic,65 and Older,24,41,58
-Vote by Age,AGE65,FL,South,South Atlantic,18-24,9,68,29
-Vote by Age,AGE65,FL,South,South Atlantic,25-29,7,64,36
-Vote by Age,AGE65,FL,South,South Atlantic,30-39,14,55,44
-Vote by Age,AGE65,FL,South,South Atlantic,40-49,19,47,52
-Vote by Age,AGE65,FL,South,South Atlantic,50-64,27,48,51
-Vote by Age,AGE65,FL,South,South Atlantic,65 and Older,24,41,58
-Vote by Race,RACE,FL,South,South Atlantic,White,67,37,61
-Vote by Race,RACE,FL,South,South Atlantic,African-American,13,95,4
-Vote by Race,RACE,FL,South,South Atlantic,Latino,17,60,39
-Vote by Race,RACE,FL,South,South Atlantic,Asian,2,N/A,N/A
-Vote by Race,RACE,FL,South,South Atlantic,Other,2,59,39
-Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,White Men,30,33,65
-Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,White Women,37,41,58
-Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,Black Men,6,94,5
-Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,Black Women,8,96,4
-Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,Latino Men,7,58,40
-Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,Latino Women,9,61,38
-Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,All Others,3,70,29
-Vote by Ideology,PHIL3,FL,South,South Atlantic,Liberal,22,86,13
-Vote by Ideology,PHIL3,FL,South,South Atlantic,Moderate,43,53,46
-Vote by Ideology,PHIL3,FL,South,South Atlantic,Conservative,35,20,78
-Vote by Party ID,PARTY,FL,South,South Atlantic,Democratic,35,90,9
-Vote by Party ID,PARTY,FL,South,South Atlantic,Republican,33,8,92
-Vote by Party ID,PARTY,FL,South,South Atlantic,Independent,33,50,47
-Vote by Education,EDUC10,FL,South,South Atlantic,No High School,4,66,32
-Vote by Education,EDUC10,FL,South,South Atlantic,High School Graduate,18,52,47
-Vote by Education,EDUC10,FL,South,South Atlantic,Some College,30,49,50
-Vote by Education,EDUC10,FL,South,South Atlantic,College Graduate,32,46,52
-Vote by Education,EDUC10,FL,South,South Atlantic,Postgraduate,16,53,46
-Are You a College Graduate?,EDUCCOLL,FL,South,South Atlantic,Yes,48,49,50
-Are You a College Graduate?,EDUCCOLL,FL,South,South Atlantic,No,52,52,47
-Did You Attend College?,EDUCHS,FL,South,South Atlantic,Yes,78,49,50
-Did You Attend College?,EDUCHS,FL,South,South Atlantic,No,22,55,44
-Vote by Income,INCOME3,FL,South,South Atlantic,Less Than $50K,45,59,40
-Vote by Income,INCOME3,FL,South,South Atlantic,$50-100K,31,44,54
-Vote by Income,INCOME3,FL,South,South Atlantic,$100K or More,24,43,57
-Vote by Income,INC50K,FL,South,South Atlantic,Less Than $50K,45,59,40
-Vote by Income,INC50K,FL,South,South Atlantic,$50K or More,55,43,55
-Vote by Income,INC100K,FL,South,South Atlantic,Less Than $100K,76,53,46
-Vote by Income,INC100K,FL,South,South Atlantic,$100K or More,24,43,57
-Vote by Religion,REL5,FL,South,South Atlantic,Protestant,51,42,58
-Vote by Religion,REL5,FL,South,South Atlantic,Catholic,23,47,52
-Vote by Religion,REL5,FL,South,South Atlantic,Jewish,5,66,30
-Vote by Religion,REL5,FL,South,South Atlantic,Other,6,68,28
-Vote by Religion,REL5,FL,South,South Atlantic,None,15,72,26
-Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,White Protestant,37,28,72
-Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,White Catholic,14,38,62
-Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,White Jewish,5,71,29
-Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,Whites/Other Religion,3,N/A,N/A
-Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,Whites/No Religion,9,61,35
-Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,Non-white,32,75,24
-Are You White Born-Again Christian?,WHTEVANG,FL,South,South Atlantic,Yes,24,21,79
-Are You White Born-Again Christian?,WHTEVANG,FL,South,South Atlantic,No,76,62,37
-Most Important Issue Facing Country,ISSUE12,FL,South,South Atlantic,Foreign Policy,5,53,45
-Most Important Issue Facing Country,ISSUE12,FL,South,South Atlantic,Deficit,13,30,66
-Most Important Issue Facing Country,ISSUE12,FL,South,South Atlantic,Economy,62,46,53
-Most Important Issue Facing Country,ISSUE12,FL,South,South Atlantic,Health Care,17,78,20
-Most Important Candidate Quality,QLT12,FL,South,South Atlantic,Shares My Values,23,40,59
-Most Important Candidate Quality,QLT12,FL,South,South Atlantic,Strong Leader,22,40,59
-Most Important Candidate Quality,QLT12,FL,South,South Atlantic,Cares About People,19,83,15
-Most Important Candidate Quality,QLT12,FL,South,South Atlantic,Vision for Future,32,46,53
-Biggest Economic Problem Facing People Like You,ECONISS12,FL,South,South Atlantic,Housing Market,11,57,43
-Biggest Economic Problem Facing People Like You,ECONISS12,FL,South,South Atlantic,Unemployment,36,53,47
-Biggest Economic Problem Facing People Like You,ECONISS12,FL,South,South Atlantic,Taxes,11,40,60
-Biggest Economic Problem Facing People Like You,ECONISS12,FL,South,South Atlantic,Rising Prices,38,50,48
-2010 Health Care Law Should Be...,HEALTHCARE12,FL,South,South Atlantic,Expanded,23,92,8
-2010 Health Care Law Should Be...,HEALTHCARE12,FL,South,South Atlantic,Kept As Is,17,79,21
-2010 Health Care Law Should Be...,HEALTHCARE12,FL,South,South Atlantic,Repealed In Part,22,37,62
-2010 Health Care Law Should Be...,HEALTHCARE12,FL,South,South Atlantic,Repealed Completely,26,7,92
-Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,FL,South,South Atlantic,No,40,87,13
-Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,FL,South,South Atlantic,Yes,47,21,78
-Income Tax Rates Should Be...,TAXINC12,FL,South,South Atlantic,Increased For All,15,48,48
-Income Tax Rates Should Be...,TAXINC12,FL,South,South Atlantic,Increased for $250K+,42,74,25
-Income Tax Rates Should Be...,TAXINC12,FL,South,South Atlantic,Not Increased,37,21,79
-Who Is More In Touch With People Like You?,INTOUCH12,FL,South,South Atlantic,Obama,49,94,6
-Who Is More In Touch With People Like You?,INTOUCH12,FL,South,South Atlantic,Romney,46,2,97
-Who Would Better Handle Economy?,HANDLEECON12,FL,South,South Atlantic,Obama,45,98,1
-Who Would Better Handle Economy?,HANDLEECON12,FL,South,South Atlantic,Romney,51,4,95
-Who Would Better Handle Medicare?,HANDLEMED12,FL,South,South Atlantic,Obama,50,95,4
-Who Would Better Handle Medicare?,HANDLEMED12,FL,South,South Atlantic,Romney,46,4,96
-Opinion of Government,GOVTDO10,FL,South,South Atlantic,Government Should Do More,40,80,19
-Opinion of Government,GOVTDO10,FL,South,South Atlantic,Government Doing Too Much,50,27,72
-National Economic Conditions,NEC,FL,South,South Atlantic,Excellent,4,N/A,N/A
-National Economic Conditions,NEC,FL,South,South Atlantic,Good,20,91,7
-National Economic Conditions,NEC,FL,South,South Atlantic,Not So Good,40,52,46
-National Economic Conditions,NEC,FL,South,South Atlantic,Poor,35,11,88
-National Economic Conditions,NEC2,FL,South,South Atlantic,Excellent/Good,24,91,8
-National Economic Conditions,NEC2,FL,South,South Atlantic,Not So Good/Poor,75,33,66
-U.S. Economic Conditions Are...,ECONBETT,FL,South,South Atlantic,Getting Better,38,88,11
-U.S. Economic Conditions Are...,ECONBETT,FL,South,South Atlantic,Getting Worse,32,9,90
-U.S. Economic Conditions Are...,ECONBETT,FL,South,South Atlantic,Staying About the Same,27,37,61
-U.S. Economic Conditions Are...,ECONDIR,FL,South,South Atlantic,Getting Better,38,88,11
-U.S. Economic Conditions Are...,ECONDIR,FL,South,South Atlantic,Good and Staying the Same,4,N/A,N/A
-U.S. Economic Conditions Are...,ECONDIR,FL,South,South Atlantic,Poor and Staying the Same,24,30,68
-U.S. Economic Conditions Are...,ECONDIR,FL,South,South Atlantic,Getting Worse,32,9,90
-Your Family's Financial Situation,FINSIT,FL,South,South Atlantic,Better,25,89,10
-Your Family's Financial Situation,FINSIT,FL,South,South Atlantic,Worse,34,16,84
-Your Family's Financial Situation,FINSIT,FL,South,South Atlantic,Same,38,63,36
-More to Blame for Current Economic Problems?,ECONBLAME12,FL,South,South Atlantic,Barack Obama,42,8,92
-More to Blame for Current Economic Problems?,ECONBLAME12,FL,South,South Atlantic,George W. Bush,51,83,15
-Opinion of Obama Administration,OBAMANG,FL,South,South Atlantic,Enthusiastic,23,95,5
-Opinion of Obama Administration,OBAMANG,FL,South,South Atlantic,Satisfied,28,87,13
-Opinion of Obama Administration,OBAMANG,FL,South,South Atlantic,Dissatisfied,25,9,88
-Opinion of Obama Administration,OBAMANG,FL,South,South Atlantic,Angry,22,1,98
-Opinion of Obama Administration,OBAMANG2,FL,South,South Atlantic,Enthusiastic/Satisfied,51,90,9
-Opinion of Obama Administration,OBAMANG2,FL,South,South Atlantic,Dissatisfied/Angry,47,5,93
-Opinion of Barack Obama,FAVOBAMA2,FL,South,South Atlantic,Favorable,53,91,8
-Opinion of Barack Obama,FAVOBAMA2,FL,South,South Atlantic,Unfavorable,45,2,96
-Opinion of Mitt Romney,FAVROMN2,FL,South,South Atlantic,Favorable,49,9,90
-Opinion of Mitt Romney,FAVROMN2,FL,South,South Atlantic,Unfavorable,47,94,4
-Trust Obama to Handle International Crisis?,INTLOBAMA,FL,South,South Atlantic,Yes,53,92,7
-Trust Obama to Handle International Crisis?,INTLOBAMA,FL,South,South Atlantic,No,45,3,96
-Trust Romney to Handle International Crisis?,INTLROMNEY,FL,South,South Atlantic,Yes,51,12,88
-Trust Romney to Handle International Crisis?,INTLROMNEY,FL,South,South Atlantic,No,45,93,5
-Who Do You Trust To Handle International Crisis?,INTL12,FL,South,South Atlantic,Only Obama,42,98,1
-Who Do You Trust To Handle International Crisis?,INTL12,FL,South,South Atlantic,Only Romney,41,0,100
-Who Do You Trust To Handle International Crisis?,INTL12,FL,South,South Atlantic,Both,9,64,35
-Who Do You Trust To Handle International Crisis?,INTL12,FL,South,South Atlantic,Neither,3,N/A,N/A
-Do Obama Policies Generally Favor...,OBAMARICH,FL,South,South Atlantic,Rich,8,16,78
-Do Obama Policies Generally Favor...,OBAMARICH,FL,South,South Atlantic,Middle Class,44,88,11
-Do Obama Policies Generally Favor...,OBAMARICH,FL,South,South Atlantic,Poor,32,17,82
-Would Romney Policies Generally Favor...,ROMNRICH,FL,South,South Atlantic,Rich,53,86,12
-Would Romney Policies Generally Favor...,ROMNRICH,FL,South,South Atlantic,Middle Class,35,6,93
-Would Romney Policies Generally Favor...,ROMNRICH,FL,South,South Atlantic,Poor,2,N/A,N/A
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,FL,South,South Atlantic,Strongly Favor,63,50,50
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,FL,South,South Atlantic,Have Reservations,22,47,51
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,FL,South,South Atlantic,Dislike Opponent,14,48,46
-When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,Just Today,3,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,Last Few Days,4,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,In October,13,50,50
-When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,In September,8,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,Before That,68,54,45
-When Did You Decide Presidential Vote?,TIME12FEWD,FL,South,South Atlantic,Today/Last Few Days,8,57,43
-When Did You Decide Presidential Vote?,TIME12FEWD,FL,South,South Atlantic,Before That,89,52,47
-When Did You Decide Presidential Vote?,TIME12MTH,FL,South,South Atlantic,In October or November,21,53,47
-When Did You Decide Presidential Vote?,TIME12MTH,FL,South,South Atlantic,Before That,76,52,46
-Vote by Marital Status,MARRIED,FL,South,South Atlantic,Married,58,43,56
-Vote by Marital Status,MARRIED,FL,South,South Atlantic,Unmarried,42,61,38
-Vote by Gender and Marital Status,SEXWED,FL,South,South Atlantic,Married Men,28,41,58
-Vote by Gender and Marital Status,SEXWED,FL,South,South Atlantic,Married Women,30,45,54
-Vote by Gender and Marital Status,SEXWED,FL,South,South Atlantic,Unmarried Men,16,57,41
-Vote by Gender and Marital Status,SEXWED,FL,South,South Atlantic,Unmarried Women,26,63,36
-Any Children Under 18 Living in Your Home?,CHILD12,FL,South,South Atlantic,Yes,35,54,46
-Any Children Under 18 Living in Your Home?,CHILD12,FL,South,South Atlantic,No,65,50,49
-Vote by Marital Status and Children,MARCHILD,FL,South,South Atlantic,Married With Children,23,50,50
-Vote by Marital Status and Children,MARCHILD,FL,South,South Atlantic,All Others,77,52,46
-Vote by Gender and Children in Household,PARENTS,FL,South,South Atlantic,Fathers,13,51,49
-Vote by Gender and Children in Household,PARENTS,FL,South,South Atlantic,Mothers,22,56,43
-Vote by Gender and Children in Household,PARENTS,FL,South,South Atlantic,Men With No Children,28,44,54
-Vote by Gender and Children in Household,PARENTS,FL,South,South Atlantic,Women With No Children,36,54,45
-Do You Work Full-Time For Pay?,WORK,FL,South,South Atlantic,Yes,54,50,49
-Do You Work Full-Time For Pay?,WORK,FL,South,South Atlantic,No,46,51,48
-Vote for Senate,SENFL12,FL,South,South Atlantic,Nelson,55,86,13
-Vote for Senate,SENFL12,FL,South,South Atlantic,Mack,43,5,95
-Vote on Amendment 1,AMD1FL,FL,South,South Atlantic,Yes,48,44,55
-Vote on Amendment 1,AMD1FL,FL,South,South Atlantic,No,52,59,40
-Vote by Size of Place,SIZEPLC3,FL,South,South Atlantic,Urban,27,56,44
-Vote by Size of Place,SIZEPLC3,FL,South,South Atlantic,Suburban,60,51,48
-Vote by Size of Place,SIZEPLC3,FL,South,South Atlantic,Rural,13,35,64
-Vote by Region,GEOCOD,FL,South,South Atlantic,North/Panhandle,23,38,62
-Vote by Region,GEOCOD,FL,South,South Atlantic,Orlando/Central Atlantic,21,50,49
-Vote by Region,GEOCOD,FL,South,South Atlantic,Tampa Bay Area,16,49,50
-Vote by Region,GEOCOD,FL,South,South Atlantic,South Central,13,44,54
-Vote by Region,GEOCOD,FL,South,South Atlantic,Miami/South,27,64,35
+year,question,pollname,state,region,subregion,answer,percent,dem,rep
+2012,Vote by Gender,SEX,FL,South,South Atlantic,Men,45,46,52
+2012,Vote by Gender,SEX,FL,South,South Atlantic,Women,55,53,46
+2012,Vote by Age,AGE,FL,South,South Atlantic,18-29,16,66,32
+2012,Vote by Age,AGE,FL,South,South Atlantic,30-44,23,52,46
+2012,Vote by Age,AGE,FL,South,South Atlantic,45-64,37,48,52
+2012,Vote by Age,AGE,FL,South,South Atlantic,65 and Older,24,41,58
+2012,Vote by Age,AGE65,FL,South,South Atlantic,18-24,9,68,29
+2012,Vote by Age,AGE65,FL,South,South Atlantic,25-29,7,64,36
+2012,Vote by Age,AGE65,FL,South,South Atlantic,30-39,14,55,44
+2012,Vote by Age,AGE65,FL,South,South Atlantic,40-49,19,47,52
+2012,Vote by Age,AGE65,FL,South,South Atlantic,50-64,27,48,51
+2012,Vote by Age,AGE65,FL,South,South Atlantic,65 and Older,24,41,58
+2012,Vote by Race,RACE,FL,South,South Atlantic,White,67,37,61
+2012,Vote by Race,RACE,FL,South,South Atlantic,African-American,13,95,4
+2012,Vote by Race,RACE,FL,South,South Atlantic,Latino,17,60,39
+2012,Vote by Race,RACE,FL,South,South Atlantic,Asian,2,N/A,N/A
+2012,Vote by Race,RACE,FL,South,South Atlantic,Other,2,59,39
+2012,Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,White Men,30,33,65
+2012,Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,White Women,37,41,58
+2012,Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,Black Men,6,94,5
+2012,Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,Black Women,8,96,4
+2012,Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,Latino Men,7,58,40
+2012,Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,Latino Women,9,61,38
+2012,Vote by Gender and Race,SEXBYRACE,FL,South,South Atlantic,All Others,3,70,29
+2012,Vote by Ideology,PHIL3,FL,South,South Atlantic,Liberal,22,86,13
+2012,Vote by Ideology,PHIL3,FL,South,South Atlantic,Moderate,43,53,46
+2012,Vote by Ideology,PHIL3,FL,South,South Atlantic,Conservative,35,20,78
+2012,Vote by Party ID,PARTY,FL,South,South Atlantic,Democratic,35,90,9
+2012,Vote by Party ID,PARTY,FL,South,South Atlantic,Republican,33,8,92
+2012,Vote by Party ID,PARTY,FL,South,South Atlantic,Independent,33,50,47
+2012,Vote by Education,EDUC10,FL,South,South Atlantic,No High School,4,66,32
+2012,Vote by Education,EDUC10,FL,South,South Atlantic,High School Graduate,18,52,47
+2012,Vote by Education,EDUC10,FL,South,South Atlantic,Some College,30,49,50
+2012,Vote by Education,EDUC10,FL,South,South Atlantic,College Graduate,32,46,52
+2012,Vote by Education,EDUC10,FL,South,South Atlantic,Postgraduate,16,53,46
+2012,Are You a College Graduate?,EDUCCOLL,FL,South,South Atlantic,Yes,48,49,50
+2012,Are You a College Graduate?,EDUCCOLL,FL,South,South Atlantic,No,52,52,47
+2012,Did You Attend College?,EDUCHS,FL,South,South Atlantic,Yes,78,49,50
+2012,Did You Attend College?,EDUCHS,FL,South,South Atlantic,No,22,55,44
+2012,Vote by Income,INCOME3,FL,South,South Atlantic,Less Than $50K,45,59,40
+2012,Vote by Income,INCOME3,FL,South,South Atlantic,$50-100K,31,44,54
+2012,Vote by Income,INCOME3,FL,South,South Atlantic,$100K or More,24,43,57
+2012,Vote by Income,INC50K,FL,South,South Atlantic,Less Than $50K,45,59,40
+2012,Vote by Income,INC50K,FL,South,South Atlantic,$50K or More,55,43,55
+2012,Vote by Income,INC100K,FL,South,South Atlantic,Less Than $100K,76,53,46
+2012,Vote by Income,INC100K,FL,South,South Atlantic,$100K or More,24,43,57
+2012,Vote by Religion,REL5,FL,South,South Atlantic,Protestant,51,42,58
+2012,Vote by Religion,REL5,FL,South,South Atlantic,Catholic,23,47,52
+2012,Vote by Religion,REL5,FL,South,South Atlantic,Jewish,5,66,30
+2012,Vote by Religion,REL5,FL,South,South Atlantic,Other,6,68,28
+2012,Vote by Religion,REL5,FL,South,South Atlantic,None,15,72,26
+2012,Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,White Protestant,37,28,72
+2012,Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,White Catholic,14,38,62
+2012,Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,White Jewish,5,71,29
+2012,Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,Whites/Other Religion,3,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,Whites/No Religion,9,61,35
+2012,Vote by Religion and Race,WHITEREL,FL,South,South Atlantic,Non-white,32,75,24
+2012,Are You White Born-Again Christian?,WHTEVANG,FL,South,South Atlantic,Yes,24,21,79
+2012,Are You White Born-Again Christian?,WHTEVANG,FL,South,South Atlantic,No,76,62,37
+2012,Most Important Issue Facing Country,ISSUE12,FL,South,South Atlantic,Foreign Policy,5,53,45
+2012,Most Important Issue Facing Country,ISSUE12,FL,South,South Atlantic,Deficit,13,30,66
+2012,Most Important Issue Facing Country,ISSUE12,FL,South,South Atlantic,Economy,62,46,53
+2012,Most Important Issue Facing Country,ISSUE12,FL,South,South Atlantic,Health Care,17,78,20
+2012,Most Important Candidate Quality,QLT12,FL,South,South Atlantic,Shares My Values,23,40,59
+2012,Most Important Candidate Quality,QLT12,FL,South,South Atlantic,Strong Leader,22,40,59
+2012,Most Important Candidate Quality,QLT12,FL,South,South Atlantic,Cares About People,19,83,15
+2012,Most Important Candidate Quality,QLT12,FL,South,South Atlantic,Vision for Future,32,46,53
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,FL,South,South Atlantic,Housing Market,11,57,43
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,FL,South,South Atlantic,Unemployment,36,53,47
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,FL,South,South Atlantic,Taxes,11,40,60
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,FL,South,South Atlantic,Rising Prices,38,50,48
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,FL,South,South Atlantic,Expanded,23,92,8
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,FL,South,South Atlantic,Kept As Is,17,79,21
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,FL,South,South Atlantic,Repealed In Part,22,37,62
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,FL,South,South Atlantic,Repealed Completely,26,7,92
+2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,FL,South,South Atlantic,No,40,87,13
+2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,FL,South,South Atlantic,Yes,47,21,78
+2012,Income Tax Rates Should Be...,TAXINC12,FL,South,South Atlantic,Increased For All,15,48,48
+2012,Income Tax Rates Should Be...,TAXINC12,FL,South,South Atlantic,Increased for $250K+,42,74,25
+2012,Income Tax Rates Should Be...,TAXINC12,FL,South,South Atlantic,Not Increased,37,21,79
+2012,Who Is More In Touch With People Like You?,INTOUCH12,FL,South,South Atlantic,Obama,49,94,6
+2012,Who Is More In Touch With People Like You?,INTOUCH12,FL,South,South Atlantic,Romney,46,2,97
+2012,Who Would Better Handle Economy?,HANDLEECON12,FL,South,South Atlantic,Obama,45,98,1
+2012,Who Would Better Handle Economy?,HANDLEECON12,FL,South,South Atlantic,Romney,51,4,95
+2012,Who Would Better Handle Medicare?,HANDLEMED12,FL,South,South Atlantic,Obama,50,95,4
+2012,Who Would Better Handle Medicare?,HANDLEMED12,FL,South,South Atlantic,Romney,46,4,96
+2012,Opinion of Government,GOVTDO10,FL,South,South Atlantic,Government Should Do More,40,80,19
+2012,Opinion of Government,GOVTDO10,FL,South,South Atlantic,Government Doing Too Much,50,27,72
+2012,National Economic Conditions,NEC,FL,South,South Atlantic,Excellent,4,N/A,N/A
+2012,National Economic Conditions,NEC,FL,South,South Atlantic,Good,20,91,7
+2012,National Economic Conditions,NEC,FL,South,South Atlantic,Not So Good,40,52,46
+2012,National Economic Conditions,NEC,FL,South,South Atlantic,Poor,35,11,88
+2012,National Economic Conditions,NEC2,FL,South,South Atlantic,Excellent/Good,24,91,8
+2012,National Economic Conditions,NEC2,FL,South,South Atlantic,Not So Good/Poor,75,33,66
+2012,U.S. Economic Conditions Are...,ECONBETT,FL,South,South Atlantic,Getting Better,38,88,11
+2012,U.S. Economic Conditions Are...,ECONBETT,FL,South,South Atlantic,Getting Worse,32,9,90
+2012,U.S. Economic Conditions Are...,ECONBETT,FL,South,South Atlantic,Staying About the Same,27,37,61
+2012,U.S. Economic Conditions Are...,ECONDIR,FL,South,South Atlantic,Getting Better,38,88,11
+2012,U.S. Economic Conditions Are...,ECONDIR,FL,South,South Atlantic,Good and Staying the Same,4,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,FL,South,South Atlantic,Poor and Staying the Same,24,30,68
+2012,U.S. Economic Conditions Are...,ECONDIR,FL,South,South Atlantic,Getting Worse,32,9,90
+2012,Your Family's Financial Situation,FINSIT,FL,South,South Atlantic,Better,25,89,10
+2012,Your Family's Financial Situation,FINSIT,FL,South,South Atlantic,Worse,34,16,84
+2012,Your Family's Financial Situation,FINSIT,FL,South,South Atlantic,Same,38,63,36
+2012,More to Blame for Current Economic Problems?,ECONBLAME12,FL,South,South Atlantic,Barack Obama,42,8,92
+2012,More to Blame for Current Economic Problems?,ECONBLAME12,FL,South,South Atlantic,George W. Bush,51,83,15
+2012,Opinion of Obama Administration,OBAMANG,FL,South,South Atlantic,Enthusiastic,23,95,5
+2012,Opinion of Obama Administration,OBAMANG,FL,South,South Atlantic,Satisfied,28,87,13
+2012,Opinion of Obama Administration,OBAMANG,FL,South,South Atlantic,Dissatisfied,25,9,88
+2012,Opinion of Obama Administration,OBAMANG,FL,South,South Atlantic,Angry,22,1,98
+2012,Opinion of Obama Administration,OBAMANG2,FL,South,South Atlantic,Enthusiastic/Satisfied,51,90,9
+2012,Opinion of Obama Administration,OBAMANG2,FL,South,South Atlantic,Dissatisfied/Angry,47,5,93
+2012,Opinion of Barack Obama,FAVOBAMA2,FL,South,South Atlantic,Favorable,53,91,8
+2012,Opinion of Barack Obama,FAVOBAMA2,FL,South,South Atlantic,Unfavorable,45,2,96
+2012,Opinion of Mitt Romney,FAVROMN2,FL,South,South Atlantic,Favorable,49,9,90
+2012,Opinion of Mitt Romney,FAVROMN2,FL,South,South Atlantic,Unfavorable,47,94,4
+2012,Trust Obama to Handle International Crisis?,INTLOBAMA,FL,South,South Atlantic,Yes,53,92,7
+2012,Trust Obama to Handle International Crisis?,INTLOBAMA,FL,South,South Atlantic,No,45,3,96
+2012,Trust Romney to Handle International Crisis?,INTLROMNEY,FL,South,South Atlantic,Yes,51,12,88
+2012,Trust Romney to Handle International Crisis?,INTLROMNEY,FL,South,South Atlantic,No,45,93,5
+2012,Who Do You Trust To Handle International Crisis?,INTL12,FL,South,South Atlantic,Only Obama,42,98,1
+2012,Who Do You Trust To Handle International Crisis?,INTL12,FL,South,South Atlantic,Only Romney,41,0,100
+2012,Who Do You Trust To Handle International Crisis?,INTL12,FL,South,South Atlantic,Both,9,64,35
+2012,Who Do You Trust To Handle International Crisis?,INTL12,FL,South,South Atlantic,Neither,3,N/A,N/A
+2012,Do Obama Policies Generally Favor...,OBAMARICH,FL,South,South Atlantic,Rich,8,16,78
+2012,Do Obama Policies Generally Favor...,OBAMARICH,FL,South,South Atlantic,Middle Class,44,88,11
+2012,Do Obama Policies Generally Favor...,OBAMARICH,FL,South,South Atlantic,Poor,32,17,82
+2012,Would Romney Policies Generally Favor...,ROMNRICH,FL,South,South Atlantic,Rich,53,86,12
+2012,Would Romney Policies Generally Favor...,ROMNRICH,FL,South,South Atlantic,Middle Class,35,6,93
+2012,Would Romney Policies Generally Favor...,ROMNRICH,FL,South,South Atlantic,Poor,2,N/A,N/A
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,FL,South,South Atlantic,Strongly Favor,63,50,50
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,FL,South,South Atlantic,Have Reservations,22,47,51
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,FL,South,South Atlantic,Dislike Opponent,14,48,46
+2012,When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,Just Today,3,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,Last Few Days,4,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,In October,13,50,50
+2012,When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,In September,8,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,FL,South,South Atlantic,Before That,68,54,45
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,FL,South,South Atlantic,Today/Last Few Days,8,57,43
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,FL,South,South Atlantic,Before That,89,52,47
+2012,When Did You Decide Presidential Vote?,TIME12MTH,FL,South,South Atlantic,In October or November,21,53,47
+2012,When Did You Decide Presidential Vote?,TIME12MTH,FL,South,South Atlantic,Before That,76,52,46
+2012,Vote by Marital Status,MARRIED,FL,South,South Atlantic,Married,58,43,56
+2012,Vote by Marital Status,MARRIED,FL,South,South Atlantic,Unmarried,42,61,38
+2012,Vote by Gender and Marital Status,SEXWED,FL,South,South Atlantic,Married Men,28,41,58
+2012,Vote by Gender and Marital Status,SEXWED,FL,South,South Atlantic,Married Women,30,45,54
+2012,Vote by Gender and Marital Status,SEXWED,FL,South,South Atlantic,Unmarried Men,16,57,41
+2012,Vote by Gender and Marital Status,SEXWED,FL,South,South Atlantic,Unmarried Women,26,63,36
+2012,Any Children Under 18 Living in Your Home?,CHILD12,FL,South,South Atlantic,Yes,35,54,46
+2012,Any Children Under 18 Living in Your Home?,CHILD12,FL,South,South Atlantic,No,65,50,49
+2012,Vote by Marital Status and Children,MARCHILD,FL,South,South Atlantic,Married With Children,23,50,50
+2012,Vote by Marital Status and Children,MARCHILD,FL,South,South Atlantic,All Others,77,52,46
+2012,Vote by Gender and Children in Household,PARENTS,FL,South,South Atlantic,Fathers,13,51,49
+2012,Vote by Gender and Children in Household,PARENTS,FL,South,South Atlantic,Mothers,22,56,43
+2012,Vote by Gender and Children in Household,PARENTS,FL,South,South Atlantic,Men With No Children,28,44,54
+2012,Vote by Gender and Children in Household,PARENTS,FL,South,South Atlantic,Women With No Children,36,54,45
+2012,Do You Work Full-Time For Pay?,WORK,FL,South,South Atlantic,Yes,54,50,49
+2012,Do You Work Full-Time For Pay?,WORK,FL,South,South Atlantic,No,46,51,48
+2012,Vote for Senate,SENFL12,FL,South,South Atlantic,Nelson,55,86,13
+2012,Vote for Senate,SENFL12,FL,South,South Atlantic,Mack,43,5,95
+2012,Vote on Amendment 1,AMD1FL,FL,South,South Atlantic,Yes,48,44,55
+2012,Vote on Amendment 1,AMD1FL,FL,South,South Atlantic,No,52,59,40
+2012,Vote by Size of Place,SIZEPLC3,FL,South,South Atlantic,Urban,27,56,44
+2012,Vote by Size of Place,SIZEPLC3,FL,South,South Atlantic,Suburban,60,51,48
+2012,Vote by Size of Place,SIZEPLC3,FL,South,South Atlantic,Rural,13,35,64
+2012,Vote by Region,GEOCOD,FL,South,South Atlantic,North/Panhandle,23,38,62
+2012,Vote by Region,GEOCOD,FL,South,South Atlantic,Orlando/Central Atlantic,21,50,49
+2012,Vote by Region,GEOCOD,FL,South,South Atlantic,Tampa Bay Area,16,49,50
+2012,Vote by Region,GEOCOD,FL,South,South Atlantic,South Central,13,44,54
+2012,Vote by Region,GEOCOD,FL,South,South Atlantic,Miami/South,27,64,35

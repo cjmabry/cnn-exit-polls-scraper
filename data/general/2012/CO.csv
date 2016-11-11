@@ -1,127 +1,127 @@
-question,pollname,state,region,subregion,answer,percent,dem,rep
-Vote by Gender,SEX,CO,West,Mountain,Men,49,51,46
-Vote by Gender,SEX,CO,West,Mountain,Women,51,51,48
-Vote by Age,AGE,CO,West,Mountain,18-29,20,N/A,N/A
-Vote by Age,AGE,CO,West,Mountain,30-44,27,50,48
-Vote by Age,AGE,CO,West,Mountain,45-64,37,51,47
-Vote by Age,AGE,CO,West,Mountain,65 and Older,16,42,57
-Vote by Age,AGE65,CO,West,Mountain,18-24,12,N/A,N/A
-Vote by Age,AGE65,CO,West,Mountain,25-29,8,N/A,N/A
-Vote by Age,AGE65,CO,West,Mountain,30-39,18,51,47
-Vote by Age,AGE65,CO,West,Mountain,40-49,19,49,50
-Vote by Age,AGE65,CO,West,Mountain,50-64,27,52,47
-Vote by Age,AGE65,CO,West,Mountain,65 and Older,16,42,57
-Vote by Race,RACE,CO,West,Mountain,White,78,44,54
-Vote by Race,RACE,CO,West,Mountain,African-American,3,N/A,N/A
-Vote by Race,RACE,CO,West,Mountain,Latino,14,75,23
-Vote by Race,RACE,CO,West,Mountain,Asian,3,N/A,N/A
-Vote by Race,RACE,CO,West,Mountain,Other,3,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,CO,West,Mountain,White Men,35,41,55
-Vote by Gender and Race,SEXBYRACE,CO,West,Mountain,White Women,42,46,53
-Vote by Gender and Race,SEXBYRACE,CO,West,Mountain,Black Men,3,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,CO,West,Mountain,Black Women,1,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,CO,West,Mountain,Latino Men,8,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,CO,West,Mountain,Latino Women,5,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,CO,West,Mountain,All Others,6,N/A,N/A
-Vote by Ideology,PHIL3,CO,West,Mountain,Liberal,28,91,8
-Vote by Ideology,PHIL3,CO,West,Mountain,Moderate,39,51,44
-Vote by Ideology,PHIL3,CO,West,Mountain,Conservative,33,15,83
-Vote by Party ID,PARTY,CO,West,Mountain,Democratic,34,96,3
-Vote by Party ID,PARTY,CO,West,Mountain,Republican,29,5,94
-Vote by Party ID,PARTY,CO,West,Mountain,Independent,37,45,49
-Vote by Education,EDUC10,CO,West,Mountain,No High School,4,N/A,N/A
-Vote by Education,EDUC10,CO,West,Mountain,High School Graduate,17,48,49
-Vote by Education,EDUC10,CO,West,Mountain,Some College,31,55,43
-Vote by Education,EDUC10,CO,West,Mountain,College Graduate,35,43,55
-Vote by Education,EDUC10,CO,West,Mountain,Postgraduate,14,60,39
-Are You a College Graduate?,EDUCCOLL,CO,West,Mountain,Yes,49,48,50
-Are You a College Graduate?,EDUCCOLL,CO,West,Mountain,No,51,54,44
-Did You Attend College?,EDUCHS,CO,West,Mountain,Yes,80,50,47
-Did You Attend College?,EDUCHS,CO,West,Mountain,No,20,52,45
-Vote by Income,INCOME3,CO,West,Mountain,Less Than $50K,40,60,38
-Vote by Income,INCOME3,CO,West,Mountain,$50-100K,35,50,48
-Vote by Income,INCOME3,CO,West,Mountain,$100K or More,26,46,51
-Vote by Income,INC50K,CO,West,Mountain,Less Than $50K,40,60,38
-Vote by Income,INC50K,CO,West,Mountain,$50K or More,60,49,49
-Vote by Income,INC100K,CO,West,Mountain,Less Than $100K,74,55,42
-Vote by Income,INC100K,CO,West,Mountain,$100K or More,26,46,51
-Are You White Born-Again Christian?,WHTEVANG,CO,West,Mountain,Yes,25,22,76
-Are You White Born-Again Christian?,WHTEVANG,CO,West,Mountain,No,75,61,36
-Most Important Issue Facing Country,ISSUE12,CO,West,Mountain,Foreign Policy,4,N/A,N/A
-Most Important Issue Facing Country,ISSUE12,CO,West,Mountain,Deficit,18,35,60
-Most Important Issue Facing Country,ISSUE12,CO,West,Mountain,Economy,56,48,51
-Most Important Issue Facing Country,ISSUE12,CO,West,Mountain,Health Care,18,74,25
-Most Important Candidate Quality,QLT12,CO,West,Mountain,Shares My Values,31,50,48
-Most Important Candidate Quality,QLT12,CO,West,Mountain,Strong Leader,15,32,68
-Most Important Candidate Quality,QLT12,CO,West,Mountain,Cares About People,16,89,8
-Most Important Candidate Quality,QLT12,CO,West,Mountain,Vision for Future,33,43,54
-Biggest Economic Problem Facing People Like You,ECONISS12,CO,West,Mountain,Housing Market,8,N/A,N/A
-Biggest Economic Problem Facing People Like You,ECONISS12,CO,West,Mountain,Unemployment,23,50,45
-Biggest Economic Problem Facing People Like You,ECONISS12,CO,West,Mountain,Taxes,14,28,70
-Biggest Economic Problem Facing People Like You,ECONISS12,CO,West,Mountain,Rising Prices,52,53,45
-2010 Health Care Law Should Be...,HEALTHCARE12,CO,West,Mountain,Expanded,19,95,4
-2010 Health Care Law Should Be...,HEALTHCARE12,CO,West,Mountain,Kept As Is,19,86,11
-2010 Health Care Law Should Be...,HEALTHCARE12,CO,West,Mountain,Repealed In Part,25,32,65
-2010 Health Care Law Should Be...,HEALTHCARE12,CO,West,Mountain,Repealed Completely,29,12,85
-Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,CO,West,Mountain,No,39,91,8
-Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,CO,West,Mountain,Yes,54,21,76
-Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,CO,West,Mountain,Offered Legal Status,65,61,36
-Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,CO,West,Mountain,Deported,25,28,70
-Who Is More In Touch With People Like You?,INTOUCH12,CO,West,Mountain,Obama,51,95,4
-Who Is More In Touch With People Like You?,INTOUCH12,CO,West,Mountain,Romney,41,2,97
-Who Would Better Handle Economy?,HANDLEECON12,CO,West,Mountain,Obama,46,99,1
-Who Would Better Handle Economy?,HANDLEECON12,CO,West,Mountain,Romney,48,5,92
-Opinion of Government,GOVTDO10,CO,West,Mountain,Government Should Do More,32,87,13
-Opinion of Government,GOVTDO10,CO,West,Mountain,Government Doing Too Much,60,29,68
-National Economic Conditions,NEC,CO,West,Mountain,Excellent,1,N/A,N/A
-National Economic Conditions,NEC,CO,West,Mountain,Good,22,92,6
-National Economic Conditions,NEC,CO,West,Mountain,Not So Good,40,65,33
-National Economic Conditions,NEC,CO,West,Mountain,Poor,37,11,88
-National Economic Conditions,NEC2,CO,West,Mountain,Excellent/Good,23,92,5
-National Economic Conditions,NEC2,CO,West,Mountain,Not So Good/Poor,77,39,59
-U.S. Economic Conditions Are...,ECONBETT,CO,West,Mountain,Getting Better,43,90,9
-U.S. Economic Conditions Are...,ECONBETT,CO,West,Mountain,Getting Worse,25,7,89
-U.S. Economic Conditions Are...,ECONBETT,CO,West,Mountain,Staying About the Same,31,32,65
-U.S. Economic Conditions Are...,ECONDIR,CO,West,Mountain,Getting Better,43,90,9
-U.S. Economic Conditions Are...,ECONDIR,CO,West,Mountain,Good and Staying the Same,3,N/A,N/A
-U.S. Economic Conditions Are...,ECONDIR,CO,West,Mountain,Poor and Staying the Same,28,28,70
-U.S. Economic Conditions Are...,ECONDIR,CO,West,Mountain,Getting Worse,25,7,89
-Your Family's Financial Situation,FINSIT,CO,West,Mountain,Better,28,82,16
-Your Family's Financial Situation,FINSIT,CO,West,Mountain,Worse,35,18,80
-Your Family's Financial Situation,FINSIT,CO,West,Mountain,Same,37,60,38
-More to Blame for Current Economic Problems?,ECONBLAME12,CO,West,Mountain,Barack Obama,35,5,94
-More to Blame for Current Economic Problems?,ECONBLAME12,CO,West,Mountain,George W. Bush,51,91,8
-Opinion of Barack Obama,FAVOBAMA2,CO,West,Mountain,Favorable,54,92,6
-Opinion of Barack Obama,FAVOBAMA2,CO,West,Mountain,Unfavorable,46,4,93
-Opinion of Mitt Romney,FAVROMN2,CO,West,Mountain,Favorable,45,4,95
-Opinion of Mitt Romney,FAVROMN2,CO,West,Mountain,Unfavorable,52,93,4
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,CO,West,Mountain,Strongly Favor,57,57,42
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,CO,West,Mountain,Have Reservations,24,42,53
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,CO,West,Mountain,Dislike Opponent,17,48,49
-When Did You Decide Presidential Vote?,TIME12,CO,West,Mountain,Just Today,N/A,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,CO,West,Mountain,Last Few Days,1,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,CO,West,Mountain,In October,15,45,47
-When Did You Decide Presidential Vote?,TIME12,CO,West,Mountain,In September,9,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,CO,West,Mountain,Before That,74,53,46
-When Did You Decide Presidential Vote?,TIME12FEWD,CO,West,Mountain,Today/Last Few Days,1,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12FEWD,CO,West,Mountain,Before That,98,52,46
-When Did You Decide Presidential Vote?,TIME12MTH,CO,West,Mountain,In October or November,15,44,48
-When Did You Decide Presidential Vote?,TIME12MTH,CO,West,Mountain,Before That,83,53,46
-Vote by Marital Status,MARRIED,CO,West,Mountain,Married,62,46,53
-Vote by Marital Status,MARRIED,CO,West,Mountain,Unmarried,38,60,35
-Vote by Gender and Marital Status,SEXWED,CO,West,Mountain,Married Men,28,43,55
-Vote by Gender and Marital Status,SEXWED,CO,West,Mountain,Married Women,35,48,52
-Vote by Gender and Marital Status,SEXWED,CO,West,Mountain,Unmarried Men,23,60,34
-Vote by Gender and Marital Status,SEXWED,CO,West,Mountain,Unmarried Women,15,61,36
-Colorado Gun Control Laws Are...,COGUNLAW,CO,West,Mountain,Too Weak,23,81,18
-Colorado Gun Control Laws Are...,COGUNLAW,CO,West,Mountain,Too Strong,7,N/A,N/A
-Colorado Gun Control Laws Are...,COGUNLAW,CO,West,Mountain,About Right,59,44,53
-Vote on Amendment 64,AMD64CO,CO,West,Mountain,Yes,55,68,29
-Vote on Amendment 64,AMD64CO,CO,West,Mountain,No,45,30,69
-Vote by Size of Place,SIZEPLC3,CO,West,Mountain,Urban,38,56,43
-Vote by Size of Place,SIZEPLC3,CO,West,Mountain,Suburban,46,50,46
-Vote by Size of Place,SIZEPLC3,CO,West,Mountain,Rural,15,40,58
-Vote by Region,GEOCOD,CO,West,Mountain,Denver/Boulder,19,67,32
-Vote by Region,GEOCOD,CO,West,Mountain,Denver Suburbs,31,55,43
-Vote by Region,GEOCOD,CO,West,Mountain,Front Range,35,42,56
-Vote by Region,GEOCOD,CO,West,Mountain,Rest of Colorado,15,43,54
+year,question,pollname,state,region,subregion,answer,percent,dem,rep
+2012,Vote by Gender,SEX,CO,West,Mountain,Men,49,51,46
+2012,Vote by Gender,SEX,CO,West,Mountain,Women,51,51,48
+2012,Vote by Age,AGE,CO,West,Mountain,18-29,20,N/A,N/A
+2012,Vote by Age,AGE,CO,West,Mountain,30-44,27,50,48
+2012,Vote by Age,AGE,CO,West,Mountain,45-64,37,51,47
+2012,Vote by Age,AGE,CO,West,Mountain,65 and Older,16,42,57
+2012,Vote by Age,AGE65,CO,West,Mountain,18-24,12,N/A,N/A
+2012,Vote by Age,AGE65,CO,West,Mountain,25-29,8,N/A,N/A
+2012,Vote by Age,AGE65,CO,West,Mountain,30-39,18,51,47
+2012,Vote by Age,AGE65,CO,West,Mountain,40-49,19,49,50
+2012,Vote by Age,AGE65,CO,West,Mountain,50-64,27,52,47
+2012,Vote by Age,AGE65,CO,West,Mountain,65 and Older,16,42,57
+2012,Vote by Race,RACE,CO,West,Mountain,White,78,44,54
+2012,Vote by Race,RACE,CO,West,Mountain,African-American,3,N/A,N/A
+2012,Vote by Race,RACE,CO,West,Mountain,Latino,14,75,23
+2012,Vote by Race,RACE,CO,West,Mountain,Asian,3,N/A,N/A
+2012,Vote by Race,RACE,CO,West,Mountain,Other,3,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,CO,West,Mountain,White Men,35,41,55
+2012,Vote by Gender and Race,SEXBYRACE,CO,West,Mountain,White Women,42,46,53
+2012,Vote by Gender and Race,SEXBYRACE,CO,West,Mountain,Black Men,3,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,CO,West,Mountain,Black Women,1,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,CO,West,Mountain,Latino Men,8,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,CO,West,Mountain,Latino Women,5,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,CO,West,Mountain,All Others,6,N/A,N/A
+2012,Vote by Ideology,PHIL3,CO,West,Mountain,Liberal,28,91,8
+2012,Vote by Ideology,PHIL3,CO,West,Mountain,Moderate,39,51,44
+2012,Vote by Ideology,PHIL3,CO,West,Mountain,Conservative,33,15,83
+2012,Vote by Party ID,PARTY,CO,West,Mountain,Democratic,34,96,3
+2012,Vote by Party ID,PARTY,CO,West,Mountain,Republican,29,5,94
+2012,Vote by Party ID,PARTY,CO,West,Mountain,Independent,37,45,49
+2012,Vote by Education,EDUC10,CO,West,Mountain,No High School,4,N/A,N/A
+2012,Vote by Education,EDUC10,CO,West,Mountain,High School Graduate,17,48,49
+2012,Vote by Education,EDUC10,CO,West,Mountain,Some College,31,55,43
+2012,Vote by Education,EDUC10,CO,West,Mountain,College Graduate,35,43,55
+2012,Vote by Education,EDUC10,CO,West,Mountain,Postgraduate,14,60,39
+2012,Are You a College Graduate?,EDUCCOLL,CO,West,Mountain,Yes,49,48,50
+2012,Are You a College Graduate?,EDUCCOLL,CO,West,Mountain,No,51,54,44
+2012,Did You Attend College?,EDUCHS,CO,West,Mountain,Yes,80,50,47
+2012,Did You Attend College?,EDUCHS,CO,West,Mountain,No,20,52,45
+2012,Vote by Income,INCOME3,CO,West,Mountain,Less Than $50K,40,60,38
+2012,Vote by Income,INCOME3,CO,West,Mountain,$50-100K,35,50,48
+2012,Vote by Income,INCOME3,CO,West,Mountain,$100K or More,26,46,51
+2012,Vote by Income,INC50K,CO,West,Mountain,Less Than $50K,40,60,38
+2012,Vote by Income,INC50K,CO,West,Mountain,$50K or More,60,49,49
+2012,Vote by Income,INC100K,CO,West,Mountain,Less Than $100K,74,55,42
+2012,Vote by Income,INC100K,CO,West,Mountain,$100K or More,26,46,51
+2012,Are You White Born-Again Christian?,WHTEVANG,CO,West,Mountain,Yes,25,22,76
+2012,Are You White Born-Again Christian?,WHTEVANG,CO,West,Mountain,No,75,61,36
+2012,Most Important Issue Facing Country,ISSUE12,CO,West,Mountain,Foreign Policy,4,N/A,N/A
+2012,Most Important Issue Facing Country,ISSUE12,CO,West,Mountain,Deficit,18,35,60
+2012,Most Important Issue Facing Country,ISSUE12,CO,West,Mountain,Economy,56,48,51
+2012,Most Important Issue Facing Country,ISSUE12,CO,West,Mountain,Health Care,18,74,25
+2012,Most Important Candidate Quality,QLT12,CO,West,Mountain,Shares My Values,31,50,48
+2012,Most Important Candidate Quality,QLT12,CO,West,Mountain,Strong Leader,15,32,68
+2012,Most Important Candidate Quality,QLT12,CO,West,Mountain,Cares About People,16,89,8
+2012,Most Important Candidate Quality,QLT12,CO,West,Mountain,Vision for Future,33,43,54
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,CO,West,Mountain,Housing Market,8,N/A,N/A
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,CO,West,Mountain,Unemployment,23,50,45
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,CO,West,Mountain,Taxes,14,28,70
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,CO,West,Mountain,Rising Prices,52,53,45
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,CO,West,Mountain,Expanded,19,95,4
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,CO,West,Mountain,Kept As Is,19,86,11
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,CO,West,Mountain,Repealed In Part,25,32,65
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,CO,West,Mountain,Repealed Completely,29,12,85
+2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,CO,West,Mountain,No,39,91,8
+2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,CO,West,Mountain,Yes,54,21,76
+2012,Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,CO,West,Mountain,Offered Legal Status,65,61,36
+2012,Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,CO,West,Mountain,Deported,25,28,70
+2012,Who Is More In Touch With People Like You?,INTOUCH12,CO,West,Mountain,Obama,51,95,4
+2012,Who Is More In Touch With People Like You?,INTOUCH12,CO,West,Mountain,Romney,41,2,97
+2012,Who Would Better Handle Economy?,HANDLEECON12,CO,West,Mountain,Obama,46,99,1
+2012,Who Would Better Handle Economy?,HANDLEECON12,CO,West,Mountain,Romney,48,5,92
+2012,Opinion of Government,GOVTDO10,CO,West,Mountain,Government Should Do More,32,87,13
+2012,Opinion of Government,GOVTDO10,CO,West,Mountain,Government Doing Too Much,60,29,68
+2012,National Economic Conditions,NEC,CO,West,Mountain,Excellent,1,N/A,N/A
+2012,National Economic Conditions,NEC,CO,West,Mountain,Good,22,92,6
+2012,National Economic Conditions,NEC,CO,West,Mountain,Not So Good,40,65,33
+2012,National Economic Conditions,NEC,CO,West,Mountain,Poor,37,11,88
+2012,National Economic Conditions,NEC2,CO,West,Mountain,Excellent/Good,23,92,5
+2012,National Economic Conditions,NEC2,CO,West,Mountain,Not So Good/Poor,77,39,59
+2012,U.S. Economic Conditions Are...,ECONBETT,CO,West,Mountain,Getting Better,43,90,9
+2012,U.S. Economic Conditions Are...,ECONBETT,CO,West,Mountain,Getting Worse,25,7,89
+2012,U.S. Economic Conditions Are...,ECONBETT,CO,West,Mountain,Staying About the Same,31,32,65
+2012,U.S. Economic Conditions Are...,ECONDIR,CO,West,Mountain,Getting Better,43,90,9
+2012,U.S. Economic Conditions Are...,ECONDIR,CO,West,Mountain,Good and Staying the Same,3,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,CO,West,Mountain,Poor and Staying the Same,28,28,70
+2012,U.S. Economic Conditions Are...,ECONDIR,CO,West,Mountain,Getting Worse,25,7,89
+2012,Your Family's Financial Situation,FINSIT,CO,West,Mountain,Better,28,82,16
+2012,Your Family's Financial Situation,FINSIT,CO,West,Mountain,Worse,35,18,80
+2012,Your Family's Financial Situation,FINSIT,CO,West,Mountain,Same,37,60,38
+2012,More to Blame for Current Economic Problems?,ECONBLAME12,CO,West,Mountain,Barack Obama,35,5,94
+2012,More to Blame for Current Economic Problems?,ECONBLAME12,CO,West,Mountain,George W. Bush,51,91,8
+2012,Opinion of Barack Obama,FAVOBAMA2,CO,West,Mountain,Favorable,54,92,6
+2012,Opinion of Barack Obama,FAVOBAMA2,CO,West,Mountain,Unfavorable,46,4,93
+2012,Opinion of Mitt Romney,FAVROMN2,CO,West,Mountain,Favorable,45,4,95
+2012,Opinion of Mitt Romney,FAVROMN2,CO,West,Mountain,Unfavorable,52,93,4
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,CO,West,Mountain,Strongly Favor,57,57,42
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,CO,West,Mountain,Have Reservations,24,42,53
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,CO,West,Mountain,Dislike Opponent,17,48,49
+2012,When Did You Decide Presidential Vote?,TIME12,CO,West,Mountain,Just Today,N/A,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,CO,West,Mountain,Last Few Days,1,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,CO,West,Mountain,In October,15,45,47
+2012,When Did You Decide Presidential Vote?,TIME12,CO,West,Mountain,In September,9,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,CO,West,Mountain,Before That,74,53,46
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,CO,West,Mountain,Today/Last Few Days,1,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,CO,West,Mountain,Before That,98,52,46
+2012,When Did You Decide Presidential Vote?,TIME12MTH,CO,West,Mountain,In October or November,15,44,48
+2012,When Did You Decide Presidential Vote?,TIME12MTH,CO,West,Mountain,Before That,83,53,46
+2012,Vote by Marital Status,MARRIED,CO,West,Mountain,Married,62,46,53
+2012,Vote by Marital Status,MARRIED,CO,West,Mountain,Unmarried,38,60,35
+2012,Vote by Gender and Marital Status,SEXWED,CO,West,Mountain,Married Men,28,43,55
+2012,Vote by Gender and Marital Status,SEXWED,CO,West,Mountain,Married Women,35,48,52
+2012,Vote by Gender and Marital Status,SEXWED,CO,West,Mountain,Unmarried Men,23,60,34
+2012,Vote by Gender and Marital Status,SEXWED,CO,West,Mountain,Unmarried Women,15,61,36
+2012,Colorado Gun Control Laws Are...,COGUNLAW,CO,West,Mountain,Too Weak,23,81,18
+2012,Colorado Gun Control Laws Are...,COGUNLAW,CO,West,Mountain,Too Strong,7,N/A,N/A
+2012,Colorado Gun Control Laws Are...,COGUNLAW,CO,West,Mountain,About Right,59,44,53
+2012,Vote on Amendment 64,AMD64CO,CO,West,Mountain,Yes,55,68,29
+2012,Vote on Amendment 64,AMD64CO,CO,West,Mountain,No,45,30,69
+2012,Vote by Size of Place,SIZEPLC3,CO,West,Mountain,Urban,38,56,43
+2012,Vote by Size of Place,SIZEPLC3,CO,West,Mountain,Suburban,46,50,46
+2012,Vote by Size of Place,SIZEPLC3,CO,West,Mountain,Rural,15,40,58
+2012,Vote by Region,GEOCOD,CO,West,Mountain,Denver/Boulder,19,67,32
+2012,Vote by Region,GEOCOD,CO,West,Mountain,Denver Suburbs,31,55,43
+2012,Vote by Region,GEOCOD,CO,West,Mountain,Front Range,35,42,56
+2012,Vote by Region,GEOCOD,CO,West,Mountain,Rest of Colorado,15,43,54

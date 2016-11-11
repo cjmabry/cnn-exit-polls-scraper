@@ -1,186 +1,186 @@
-question,pollname,state,region,subregion,answer,percent,dem,rep
-Vote by Gender,SEX,NH,Northeast,New England,Men,48,47,51
-Vote by Gender,SEX,NH,Northeast,New England,Women,52,58,42
-Vote by Age,AGE,NH,Northeast,New England,18-29,19,62,34
-Vote by Age,AGE,NH,Northeast,New England,30-44,23,48,50
-Vote by Age,AGE,NH,Northeast,New England,45-64,43,49,50
-Vote by Age,AGE,NH,Northeast,New England,65 and Older,15,55,45
-Vote by Age,AGE65,NH,Northeast,New England,18-24,12,67,30
-Vote by Age,AGE65,NH,Northeast,New England,25-29,7,56,42
-Vote by Age,AGE65,NH,Northeast,New England,30-39,13,53,45
-Vote by Age,AGE65,NH,Northeast,New England,40-49,21,45,54
-Vote by Age,AGE65,NH,Northeast,New England,50-64,31,50,49
-Vote by Age,AGE65,NH,Northeast,New England,65 and Older,15,55,45
-Vote by Race,RACE,NH,Northeast,New England,White,93,51,47
-Vote by Race,RACE,NH,Northeast,New England,African-American,2,N/A,N/A
-Vote by Race,RACE,NH,Northeast,New England,Latino,3,N/A,N/A
-Vote by Race,RACE,NH,Northeast,New England,Asian,1,N/A,N/A
-Vote by Race,RACE,NH,Northeast,New England,Other,1,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,NH,Northeast,New England,White Men,45,46,52
-Vote by Gender and Race,SEXBYRACE,NH,Northeast,New England,White Women,48,56,43
-Vote by Gender and Race,SEXBYRACE,NH,Northeast,New England,Black Men,0,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,NH,Northeast,New England,Black Women,1,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,NH,Northeast,New England,Latino Men,2,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,NH,Northeast,New England,Latino Women,1,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,NH,Northeast,New England,All Others,2,N/A,N/A
-Vote by Ideology,PHIL3,NH,Northeast,New England,Liberal,26,92,6
-Vote by Ideology,PHIL3,NH,Northeast,New England,Moderate,44,56,42
-Vote by Ideology,PHIL3,NH,Northeast,New England,Conservative,30,12,86
-Vote by Party ID,PARTY,NH,Northeast,New England,Democratic,30,96,4
-Vote by Party ID,PARTY,NH,Northeast,New England,Republican,27,6,94
-Vote by Party ID,PARTY,NH,Northeast,New England,Independent,43,52,45
-Vote by Education,EDUC10,NH,Northeast,New England,No High School,3,N/A,N/A
-Vote by Education,EDUC10,NH,Northeast,New England,High School Graduate,19,48,50
-Vote by Education,EDUC10,NH,Northeast,New England,Some College,27,50,48
-Vote by Education,EDUC10,NH,Northeast,New England,College Graduate,29,50,48
-Vote by Education,EDUC10,NH,Northeast,New England,Postgraduate,23,60,39
-Are You a College Graduate?,EDUCCOLL,NH,Northeast,New England,Yes,51,55,44
-Are You a College Graduate?,EDUCCOLL,NH,Northeast,New England,No,49,50,48
-Did You Attend College?,EDUCHS,NH,Northeast,New England,Yes,79,53,45
-Did You Attend College?,EDUCHS,NH,Northeast,New England,No,21,50,48
-Vote by Income,INCOME3,NH,Northeast,New England,Less Than $50K,32,60,38
-Vote by Income,INCOME3,NH,Northeast,New England,$50-100K,36,51,47
-Vote by Income,INCOME3,NH,Northeast,New England,$100K or More,33,47,51
-Vote by Income,INC50K,NH,Northeast,New England,Less Than $50K,32,60,38
-Vote by Income,INC50K,NH,Northeast,New England,$50K or More,68,49,49
-Vote by Income,INC100K,NH,Northeast,New England,Less Than $100K,67,56,43
-Vote by Income,INC100K,NH,Northeast,New England,$100K or More,33,47,51
-How Often Do You Attend Religious Services?,ATTEND,NH,Northeast,New England,More Than Weekly,6,N/A,N/A
-How Often Do You Attend Religious Services?,ATTEND,NH,Northeast,New England,Weekly,19,38,60
-How Often Do You Attend Religious Services?,ATTEND,NH,Northeast,New England,Monthly,9,N/A,N/A
-How Often Do You Attend Religious Services?,ATTEND,NH,Northeast,New England,Few Times a Year,33,54,45
-How Often Do You Attend Religious Services?,ATTEND,NH,Northeast,New England,Never,30,66,32
-How Often Do You Attend Religious Services?,ATTEND2,NH,Northeast,New England,Weekly,25,37,62
-How Often Do You Attend Religious Services?,ATTEND2,NH,Northeast,New England,Occasionally,42,51,49
-How Often Do You Attend Religious Services?,ATTEND2,NH,Northeast,New England,Never,30,66,32
-Vote by Religion,REL5,NH,Northeast,New England,Protestant,34,42,57
-Vote by Religion,REL5,NH,Northeast,New England,Catholic,39,46,54
-Vote by Religion,REL5,NH,Northeast,New England,Jewish,2,N/A,N/A
-Vote by Religion,REL5,NH,Northeast,New England,Other,7,N/A,N/A
-Vote by Religion,REL5,NH,Northeast,New England,None,18,71,28
-Vote by Religion and Race,WHITEREL,NH,Northeast,New England,White Protestant,31,43,56
-Vote by Religion and Race,WHITEREL,NH,Northeast,New England,White Catholic,36,45,54
-Vote by Religion and Race,WHITEREL,NH,Northeast,New England,White Jewish,2,N/A,N/A
-Vote by Religion and Race,WHITEREL,NH,Northeast,New England,Whites/Other Religion,6,N/A,N/A
-Vote by Religion and Race,WHITEREL,NH,Northeast,New England,Whites/No Religion,17,70,29
-Vote by Religion and Race,WHITEREL,NH,Northeast,New England,Non-white,8,N/A,N/A
-Vote by Religion and Church Attendance,ATTREL,NH,Northeast,New England,Protestant/Attend Weekly,7,N/A,N/A
-Vote by Religion and Church Attendance,ATTREL,NH,Northeast,New England,Protestant/Not Weekly ,15,44,56
-Vote by Religion and Church Attendance,ATTREL,NH,Northeast,New England,Catholic/Attend Weekly,11,35,64
-Vote by Religion and Church Attendance,ATTREL,NH,Northeast,New England,Catholic/Not Weekly,27,50,50
-Vote by Religion and Church Attendance,ATTREL,NH,Northeast,New England,All Others,39,64,33
-Are You White Born-Again Christian?,WHTEVANG,NH,Northeast,New England,Yes,12,25,73
-Are You White Born-Again Christian?,WHTEVANG,NH,Northeast,New England,No,88,55,43
-Abortion Should Be...,ABORTION,NH,Northeast,New England,Always Legal,40,76,22
-Abortion Should Be...,ABORTION,NH,Northeast,New England,Mostly Legal,32,50,49
-Abortion Should Be...,ABORTION,NH,Northeast,New England,Mostly Illegal,18,17,82
-Abortion Should Be...,ABORTION,NH,Northeast,New England,Always Illegal,7,N/A,N/A
-Abortion Should Be...,ABORT2,NH,Northeast,New England,Legal,72,64,34
-Abortion Should Be...,ABORT2,NH,Northeast,New England,Illegal,25,15,84
-Most Important Issue Facing Country,ISSUE12,NH,Northeast,New England,Foreign Policy,5,N/A,N/A
-Most Important Issue Facing Country,ISSUE12,NH,Northeast,New England,Deficit,16,37,60
-Most Important Issue Facing Country,ISSUE12,NH,Northeast,New England,Economy,59,48,51
-Most Important Issue Facing Country,ISSUE12,NH,Northeast,New England,Health Care,18,84,16
-Most Important Candidate Quality,QLT12,NH,Northeast,New England,Shares My Values,27,55,42
-Most Important Candidate Quality,QLT12,NH,Northeast,New England,Strong Leader,19,32,67
-Most Important Candidate Quality,QLT12,NH,Northeast,New England,Cares About People,21,83,16
-Most Important Candidate Quality,QLT12,NH,Northeast,New England,Vision for Future,30,44,55
-Biggest Economic Problem Facing People Like You,ECONISS12,NH,Northeast,New England,Housing Market,8,N/A,N/A
-Biggest Economic Problem Facing People Like You,ECONISS12,NH,Northeast,New England,Unemployment,40,54,44
-Biggest Economic Problem Facing People Like You,ECONISS12,NH,Northeast,New England,Taxes,18,48,50
-Biggest Economic Problem Facing People Like You,ECONISS12,NH,Northeast,New England,Rising Prices,31,56,42
-2010 Health Care Law Should Be...,HEALTHCARE12,NH,Northeast,New England,Expanded,32,93,5
-2010 Health Care Law Should Be...,HEALTHCARE12,NH,Northeast,New England,Kept As Is,17,82,18
-2010 Health Care Law Should Be...,HEALTHCARE12,NH,Northeast,New England,Repealed In Part,24,32,66
-2010 Health Care Law Should Be...,HEALTHCARE12,NH,Northeast,New England,Repealed Completely,24,4,94
-Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,NH,Northeast,New England,No,48,89,9
-Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,NH,Northeast,New England,Yes,48,18,80
-Income Tax Rates Should Be...,TAXINC12,NH,Northeast,New England,Increased For All,11,67,33
-Income Tax Rates Should Be...,TAXINC12,NH,Northeast,New England,Increased for $250K+,50,73,26
-Income Tax Rates Should Be...,TAXINC12,NH,Northeast,New England,Not Increased,37,17,82
-Who Is More In Touch With People Like You?,INTOUCH12,NH,Northeast,New England,Obama,55,94,5
-Who Is More In Touch With People Like You?,INTOUCH12,NH,Northeast,New England,Romney,42,1,98
-Who Would Better Handle Economy?,HANDLEECON12,NH,Northeast,New England,Obama,50,98,1
-Who Would Better Handle Economy?,HANDLEECON12,NH,Northeast,New England,Romney,47,6,93
-Who Would Better Handle Medicare?,HANDLEMED12,NH,Northeast,New England,Obama,51,95,4
-Who Would Better Handle Medicare?,HANDLEMED12,NH,Northeast,New England,Romney,46,2,97
-Who Would Better Handle Deficit?,HANDLEDEF12,NH,Northeast,New England,Obama,47,98,1
-Who Would Better Handle Deficit?,HANDLEDEF12,NH,Northeast,New England,Romney,51,11,88
-Opinion of Government,GOVTDO10,NH,Northeast,New England,Government Should Do More,43,91,9
-Opinion of Government,GOVTDO10,NH,Northeast,New England,Government Doing Too Much,53,22,75
-National Economic Conditions,NEC,NH,Northeast,New England,Excellent,1,N/A,N/A
-National Economic Conditions,NEC,NH,Northeast,New England,Good,24,90,10
-National Economic Conditions,NEC,NH,Northeast,New England,Not So Good,48,55,43
-National Economic Conditions,NEC,NH,Northeast,New England,Poor,25,10,88
-National Economic Conditions,NEC2,NH,Northeast,New England,Excellent/Good,26,89,10
-National Economic Conditions,NEC2,NH,Northeast,New England,Not So Good/Poor,73,39,59
-U.S. Economic Conditions Are...,ECONBETT,NH,Northeast,New England,Getting Better,43,93,6
-U.S. Economic Conditions Are...,ECONBETT,NH,Northeast,New England,Getting Worse,34,8,89
-U.S. Economic Conditions Are...,ECONBETT,NH,Northeast,New England,Staying About the Same,22,43,56
-U.S. Economic Conditions Are...,ECONDIR,NH,Northeast,New England,Getting Better,43,93,6
-U.S. Economic Conditions Are...,ECONDIR,NH,Northeast,New England,Good and Staying the Same,4,N/A,N/A
-U.S. Economic Conditions Are...,ECONDIR,NH,Northeast,New England,Poor and Staying the Same,18,38,61
-U.S. Economic Conditions Are...,ECONDIR,NH,Northeast,New England,Getting Worse,34,8,89
-Your Family's Financial Situation,FINSIT,NH,Northeast,New England,Better,22,88,10
-Your Family's Financial Situation,FINSIT,NH,Northeast,New England,Worse,36,16,82
-Your Family's Financial Situation,FINSIT,NH,Northeast,New England,Same,41,67,31
-More to Blame for Current Economic Problems?,ECONBLAME12,NH,Northeast,New England,Barack Obama,38,9,89
-More to Blame for Current Economic Problems?,ECONBLAME12,NH,Northeast,New England,George W. Bush,57,83,16
-Opinion of Obama Administration,OBAMANG,NH,Northeast,New England,Enthusiastic,28,98,2
-Opinion of Obama Administration,OBAMANG,NH,Northeast,New England,Satisfied,23,91,9
-Opinion of Obama Administration,OBAMANG,NH,Northeast,New England,Dissatisfied,27,7,90
-Opinion of Obama Administration,OBAMANG,NH,Northeast,New England,Angry,21,1,96
-Opinion of Obama Administration,OBAMANG2,NH,Northeast,New England,Enthusiastic/Satisfied,50,95,5
-Opinion of Obama Administration,OBAMANG2,NH,Northeast,New England,Dissatisfied/Angry,48,4,93
-Opinion of Barack Obama,FAVOBAMA2,NH,Northeast,New England,Favorable,57,93,7
-Opinion of Barack Obama,FAVOBAMA2,NH,Northeast,New England,Unfavorable,41,2,95
-Opinion of Mitt Romney,FAVROMN2,NH,Northeast,New England,Favorable,47,11,88
-Opinion of Mitt Romney,FAVROMN2,NH,Northeast,New England,Unfavorable,51,94,4
-Do Obama Policies Generally Favor...,OBAMARICH,NH,Northeast,New England,Rich,9,N/A,N/A
-Do Obama Policies Generally Favor...,OBAMARICH,NH,Northeast,New England,Middle Class,49,86,14
-Do Obama Policies Generally Favor...,OBAMARICH,NH,Northeast,New England,Poor,33,14,85
-Would Romney Policies Generally Favor...,ROMNRICH,NH,Northeast,New England,Rich,55,88,10
-Would Romney Policies Generally Favor...,ROMNRICH,NH,Northeast,New England,Middle Class,38,4,95
-Would Romney Policies Generally Favor...,ROMNRICH,NH,Northeast,New England,Poor,1,N/A,N/A
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,NH,Northeast,New England,Strongly Favor,70,56,43
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,NH,Northeast,New England,Have Reservations,23,46,54
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,NH,Northeast,New England,Dislike Opponent,7,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,NH,Northeast,New England,Just Today,5,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,NH,Northeast,New England,Last Few Days,8,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,NH,Northeast,New England,In October,10,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,NH,Northeast,New England,In September,5,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,NH,Northeast,New England,Before That,71,54,45
-When Did You Decide Presidential Vote?,TIME12FEWD,NH,Northeast,New England,Today/Last Few Days,13,54,43
-When Did You Decide Presidential Vote?,TIME12FEWD,NH,Northeast,New England,Before That,86,53,45
-When Did You Decide Presidential Vote?,TIME12MTH,NH,Northeast,New England,In October or November,23,52,45
-When Did You Decide Presidential Vote?,TIME12MTH,NH,Northeast,New England,Before That,77,54,45
-Vote by Marital Status,MARRIED,NH,Northeast,New England,Married,62,49,50
-Vote by Marital Status,MARRIED,NH,Northeast,New England,Unmarried,38,58,40
-Vote by Gender and Marital Status,SEXWED,NH,Northeast,New England,Married Men,30,43,55
-Vote by Gender and Marital Status,SEXWED,NH,Northeast,New England,Married Women,32,54,45
-Vote by Gender and Marital Status,SEXWED,NH,Northeast,New England,Unmarried Men,18,52,45
-Vote by Gender and Marital Status,SEXWED,NH,Northeast,New England,Unmarried Women,20,63,35
-Any Children Under 18 Living in Your Home?,CHILD12,NH,Northeast,New England,Yes,33,49,49
-Any Children Under 18 Living in Your Home?,CHILD12,NH,Northeast,New England,No,67,56,43
-Vote by Marital Status and Children,MARCHILD,NH,Northeast,New England,Married With Children,25,46,52
-Vote by Marital Status and Children,MARCHILD,NH,Northeast,New England,All Others,75,56,43
-Vote by Gender and Children in Household,PARENTS,NH,Northeast,New England,Fathers,16,44,53
-Vote by Gender and Children in Household,PARENTS,NH,Northeast,New England,Mothers,17,55,45
-Vote by Gender and Children in Household,PARENTS,NH,Northeast,New England,Men With No Children,33,50,49
-Vote by Gender and Children in Household,PARENTS,NH,Northeast,New England,Women With No Children,34,61,37
-Do You Work Full-Time For Pay?,WORK,NH,Northeast,New England,Yes,65,51,48
-Do You Work Full-Time For Pay?,WORK,NH,Northeast,New England,No,35,57,41
-Gun Owner in Household?,GUNOWNER12,NH,Northeast,New England,Yes,40,39,59
-Gun Owner in Household?,GUNOWNER12,NH,Northeast,New England,No,60,63,36
-Should Same-Sex Marriages Be Legal in Your State?,SAMESEXM12,NH,Northeast,New England,Yes,62,70,28
-Should Same-Sex Marriages Be Legal in Your State?,SAMESEXM12,NH,Northeast,New England,No,35,16,83
-Vote for Governor,GOVNH12,NH,Northeast,New England,Hassan,55,89,10
-Vote for Governor,GOVNH12,NH,Northeast,New England,Lamontagne,42,5,94
-Vote by Size of Place,SIZEPLC3,NH,Northeast,New England,Urban,11,53,46
-Vote by Size of Place,SIZEPLC3,NH,Northeast,New England,Suburban,51,49,50
-Vote by Size of Place,SIZEPLC3,NH,Northeast,New England,Rural,38,57,41
-Vote by Region,GEOCOD,NH,Northeast,New England,Seacoast,16,57,42
-Vote by Region,GEOCOD,NH,Northeast,New England,Manchester/Nashua Area,19,52,47
-Vote by Region,GEOCOD,NH,Northeast,New England,Concord/Conn. Valley,21,61,38
-Vote by Region,GEOCOD,NH,Northeast,New England,Southern New Hampshire,27,44,55
-Vote by Region,GEOCOD,NH,Northeast,New England,Northern New Hampshire,17,51,48
+year,question,pollname,state,region,subregion,answer,percent,dem,rep
+2012,Vote by Gender,SEX,NH,Northeast,New England,Men,48,47,51
+2012,Vote by Gender,SEX,NH,Northeast,New England,Women,52,58,42
+2012,Vote by Age,AGE,NH,Northeast,New England,18-29,19,62,34
+2012,Vote by Age,AGE,NH,Northeast,New England,30-44,23,48,50
+2012,Vote by Age,AGE,NH,Northeast,New England,45-64,43,49,50
+2012,Vote by Age,AGE,NH,Northeast,New England,65 and Older,15,55,45
+2012,Vote by Age,AGE65,NH,Northeast,New England,18-24,12,67,30
+2012,Vote by Age,AGE65,NH,Northeast,New England,25-29,7,56,42
+2012,Vote by Age,AGE65,NH,Northeast,New England,30-39,13,53,45
+2012,Vote by Age,AGE65,NH,Northeast,New England,40-49,21,45,54
+2012,Vote by Age,AGE65,NH,Northeast,New England,50-64,31,50,49
+2012,Vote by Age,AGE65,NH,Northeast,New England,65 and Older,15,55,45
+2012,Vote by Race,RACE,NH,Northeast,New England,White,93,51,47
+2012,Vote by Race,RACE,NH,Northeast,New England,African-American,2,N/A,N/A
+2012,Vote by Race,RACE,NH,Northeast,New England,Latino,3,N/A,N/A
+2012,Vote by Race,RACE,NH,Northeast,New England,Asian,1,N/A,N/A
+2012,Vote by Race,RACE,NH,Northeast,New England,Other,1,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,NH,Northeast,New England,White Men,45,46,52
+2012,Vote by Gender and Race,SEXBYRACE,NH,Northeast,New England,White Women,48,56,43
+2012,Vote by Gender and Race,SEXBYRACE,NH,Northeast,New England,Black Men,0,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,NH,Northeast,New England,Black Women,1,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,NH,Northeast,New England,Latino Men,2,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,NH,Northeast,New England,Latino Women,1,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,NH,Northeast,New England,All Others,2,N/A,N/A
+2012,Vote by Ideology,PHIL3,NH,Northeast,New England,Liberal,26,92,6
+2012,Vote by Ideology,PHIL3,NH,Northeast,New England,Moderate,44,56,42
+2012,Vote by Ideology,PHIL3,NH,Northeast,New England,Conservative,30,12,86
+2012,Vote by Party ID,PARTY,NH,Northeast,New England,Democratic,30,96,4
+2012,Vote by Party ID,PARTY,NH,Northeast,New England,Republican,27,6,94
+2012,Vote by Party ID,PARTY,NH,Northeast,New England,Independent,43,52,45
+2012,Vote by Education,EDUC10,NH,Northeast,New England,No High School,3,N/A,N/A
+2012,Vote by Education,EDUC10,NH,Northeast,New England,High School Graduate,19,48,50
+2012,Vote by Education,EDUC10,NH,Northeast,New England,Some College,27,50,48
+2012,Vote by Education,EDUC10,NH,Northeast,New England,College Graduate,29,50,48
+2012,Vote by Education,EDUC10,NH,Northeast,New England,Postgraduate,23,60,39
+2012,Are You a College Graduate?,EDUCCOLL,NH,Northeast,New England,Yes,51,55,44
+2012,Are You a College Graduate?,EDUCCOLL,NH,Northeast,New England,No,49,50,48
+2012,Did You Attend College?,EDUCHS,NH,Northeast,New England,Yes,79,53,45
+2012,Did You Attend College?,EDUCHS,NH,Northeast,New England,No,21,50,48
+2012,Vote by Income,INCOME3,NH,Northeast,New England,Less Than $50K,32,60,38
+2012,Vote by Income,INCOME3,NH,Northeast,New England,$50-100K,36,51,47
+2012,Vote by Income,INCOME3,NH,Northeast,New England,$100K or More,33,47,51
+2012,Vote by Income,INC50K,NH,Northeast,New England,Less Than $50K,32,60,38
+2012,Vote by Income,INC50K,NH,Northeast,New England,$50K or More,68,49,49
+2012,Vote by Income,INC100K,NH,Northeast,New England,Less Than $100K,67,56,43
+2012,Vote by Income,INC100K,NH,Northeast,New England,$100K or More,33,47,51
+2012,How Often Do You Attend Religious Services?,ATTEND,NH,Northeast,New England,More Than Weekly,6,N/A,N/A
+2012,How Often Do You Attend Religious Services?,ATTEND,NH,Northeast,New England,Weekly,19,38,60
+2012,How Often Do You Attend Religious Services?,ATTEND,NH,Northeast,New England,Monthly,9,N/A,N/A
+2012,How Often Do You Attend Religious Services?,ATTEND,NH,Northeast,New England,Few Times a Year,33,54,45
+2012,How Often Do You Attend Religious Services?,ATTEND,NH,Northeast,New England,Never,30,66,32
+2012,How Often Do You Attend Religious Services?,ATTEND2,NH,Northeast,New England,Weekly,25,37,62
+2012,How Often Do You Attend Religious Services?,ATTEND2,NH,Northeast,New England,Occasionally,42,51,49
+2012,How Often Do You Attend Religious Services?,ATTEND2,NH,Northeast,New England,Never,30,66,32
+2012,Vote by Religion,REL5,NH,Northeast,New England,Protestant,34,42,57
+2012,Vote by Religion,REL5,NH,Northeast,New England,Catholic,39,46,54
+2012,Vote by Religion,REL5,NH,Northeast,New England,Jewish,2,N/A,N/A
+2012,Vote by Religion,REL5,NH,Northeast,New England,Other,7,N/A,N/A
+2012,Vote by Religion,REL5,NH,Northeast,New England,None,18,71,28
+2012,Vote by Religion and Race,WHITEREL,NH,Northeast,New England,White Protestant,31,43,56
+2012,Vote by Religion and Race,WHITEREL,NH,Northeast,New England,White Catholic,36,45,54
+2012,Vote by Religion and Race,WHITEREL,NH,Northeast,New England,White Jewish,2,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,NH,Northeast,New England,Whites/Other Religion,6,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,NH,Northeast,New England,Whites/No Religion,17,70,29
+2012,Vote by Religion and Race,WHITEREL,NH,Northeast,New England,Non-white,8,N/A,N/A
+2012,Vote by Religion and Church Attendance,ATTREL,NH,Northeast,New England,Protestant/Attend Weekly,7,N/A,N/A
+2012,Vote by Religion and Church Attendance,ATTREL,NH,Northeast,New England,Protestant/Not Weekly ,15,44,56
+2012,Vote by Religion and Church Attendance,ATTREL,NH,Northeast,New England,Catholic/Attend Weekly,11,35,64
+2012,Vote by Religion and Church Attendance,ATTREL,NH,Northeast,New England,Catholic/Not Weekly,27,50,50
+2012,Vote by Religion and Church Attendance,ATTREL,NH,Northeast,New England,All Others,39,64,33
+2012,Are You White Born-Again Christian?,WHTEVANG,NH,Northeast,New England,Yes,12,25,73
+2012,Are You White Born-Again Christian?,WHTEVANG,NH,Northeast,New England,No,88,55,43
+2012,Abortion Should Be...,ABORTION,NH,Northeast,New England,Always Legal,40,76,22
+2012,Abortion Should Be...,ABORTION,NH,Northeast,New England,Mostly Legal,32,50,49
+2012,Abortion Should Be...,ABORTION,NH,Northeast,New England,Mostly Illegal,18,17,82
+2012,Abortion Should Be...,ABORTION,NH,Northeast,New England,Always Illegal,7,N/A,N/A
+2012,Abortion Should Be...,ABORT2,NH,Northeast,New England,Legal,72,64,34
+2012,Abortion Should Be...,ABORT2,NH,Northeast,New England,Illegal,25,15,84
+2012,Most Important Issue Facing Country,ISSUE12,NH,Northeast,New England,Foreign Policy,5,N/A,N/A
+2012,Most Important Issue Facing Country,ISSUE12,NH,Northeast,New England,Deficit,16,37,60
+2012,Most Important Issue Facing Country,ISSUE12,NH,Northeast,New England,Economy,59,48,51
+2012,Most Important Issue Facing Country,ISSUE12,NH,Northeast,New England,Health Care,18,84,16
+2012,Most Important Candidate Quality,QLT12,NH,Northeast,New England,Shares My Values,27,55,42
+2012,Most Important Candidate Quality,QLT12,NH,Northeast,New England,Strong Leader,19,32,67
+2012,Most Important Candidate Quality,QLT12,NH,Northeast,New England,Cares About People,21,83,16
+2012,Most Important Candidate Quality,QLT12,NH,Northeast,New England,Vision for Future,30,44,55
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,NH,Northeast,New England,Housing Market,8,N/A,N/A
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,NH,Northeast,New England,Unemployment,40,54,44
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,NH,Northeast,New England,Taxes,18,48,50
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,NH,Northeast,New England,Rising Prices,31,56,42
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,NH,Northeast,New England,Expanded,32,93,5
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,NH,Northeast,New England,Kept As Is,17,82,18
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,NH,Northeast,New England,Repealed In Part,24,32,66
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,NH,Northeast,New England,Repealed Completely,24,4,94
+2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,NH,Northeast,New England,No,48,89,9
+2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,NH,Northeast,New England,Yes,48,18,80
+2012,Income Tax Rates Should Be...,TAXINC12,NH,Northeast,New England,Increased For All,11,67,33
+2012,Income Tax Rates Should Be...,TAXINC12,NH,Northeast,New England,Increased for $250K+,50,73,26
+2012,Income Tax Rates Should Be...,TAXINC12,NH,Northeast,New England,Not Increased,37,17,82
+2012,Who Is More In Touch With People Like You?,INTOUCH12,NH,Northeast,New England,Obama,55,94,5
+2012,Who Is More In Touch With People Like You?,INTOUCH12,NH,Northeast,New England,Romney,42,1,98
+2012,Who Would Better Handle Economy?,HANDLEECON12,NH,Northeast,New England,Obama,50,98,1
+2012,Who Would Better Handle Economy?,HANDLEECON12,NH,Northeast,New England,Romney,47,6,93
+2012,Who Would Better Handle Medicare?,HANDLEMED12,NH,Northeast,New England,Obama,51,95,4
+2012,Who Would Better Handle Medicare?,HANDLEMED12,NH,Northeast,New England,Romney,46,2,97
+2012,Who Would Better Handle Deficit?,HANDLEDEF12,NH,Northeast,New England,Obama,47,98,1
+2012,Who Would Better Handle Deficit?,HANDLEDEF12,NH,Northeast,New England,Romney,51,11,88
+2012,Opinion of Government,GOVTDO10,NH,Northeast,New England,Government Should Do More,43,91,9
+2012,Opinion of Government,GOVTDO10,NH,Northeast,New England,Government Doing Too Much,53,22,75
+2012,National Economic Conditions,NEC,NH,Northeast,New England,Excellent,1,N/A,N/A
+2012,National Economic Conditions,NEC,NH,Northeast,New England,Good,24,90,10
+2012,National Economic Conditions,NEC,NH,Northeast,New England,Not So Good,48,55,43
+2012,National Economic Conditions,NEC,NH,Northeast,New England,Poor,25,10,88
+2012,National Economic Conditions,NEC2,NH,Northeast,New England,Excellent/Good,26,89,10
+2012,National Economic Conditions,NEC2,NH,Northeast,New England,Not So Good/Poor,73,39,59
+2012,U.S. Economic Conditions Are...,ECONBETT,NH,Northeast,New England,Getting Better,43,93,6
+2012,U.S. Economic Conditions Are...,ECONBETT,NH,Northeast,New England,Getting Worse,34,8,89
+2012,U.S. Economic Conditions Are...,ECONBETT,NH,Northeast,New England,Staying About the Same,22,43,56
+2012,U.S. Economic Conditions Are...,ECONDIR,NH,Northeast,New England,Getting Better,43,93,6
+2012,U.S. Economic Conditions Are...,ECONDIR,NH,Northeast,New England,Good and Staying the Same,4,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,NH,Northeast,New England,Poor and Staying the Same,18,38,61
+2012,U.S. Economic Conditions Are...,ECONDIR,NH,Northeast,New England,Getting Worse,34,8,89
+2012,Your Family's Financial Situation,FINSIT,NH,Northeast,New England,Better,22,88,10
+2012,Your Family's Financial Situation,FINSIT,NH,Northeast,New England,Worse,36,16,82
+2012,Your Family's Financial Situation,FINSIT,NH,Northeast,New England,Same,41,67,31
+2012,More to Blame for Current Economic Problems?,ECONBLAME12,NH,Northeast,New England,Barack Obama,38,9,89
+2012,More to Blame for Current Economic Problems?,ECONBLAME12,NH,Northeast,New England,George W. Bush,57,83,16
+2012,Opinion of Obama Administration,OBAMANG,NH,Northeast,New England,Enthusiastic,28,98,2
+2012,Opinion of Obama Administration,OBAMANG,NH,Northeast,New England,Satisfied,23,91,9
+2012,Opinion of Obama Administration,OBAMANG,NH,Northeast,New England,Dissatisfied,27,7,90
+2012,Opinion of Obama Administration,OBAMANG,NH,Northeast,New England,Angry,21,1,96
+2012,Opinion of Obama Administration,OBAMANG2,NH,Northeast,New England,Enthusiastic/Satisfied,50,95,5
+2012,Opinion of Obama Administration,OBAMANG2,NH,Northeast,New England,Dissatisfied/Angry,48,4,93
+2012,Opinion of Barack Obama,FAVOBAMA2,NH,Northeast,New England,Favorable,57,93,7
+2012,Opinion of Barack Obama,FAVOBAMA2,NH,Northeast,New England,Unfavorable,41,2,95
+2012,Opinion of Mitt Romney,FAVROMN2,NH,Northeast,New England,Favorable,47,11,88
+2012,Opinion of Mitt Romney,FAVROMN2,NH,Northeast,New England,Unfavorable,51,94,4
+2012,Do Obama Policies Generally Favor...,OBAMARICH,NH,Northeast,New England,Rich,9,N/A,N/A
+2012,Do Obama Policies Generally Favor...,OBAMARICH,NH,Northeast,New England,Middle Class,49,86,14
+2012,Do Obama Policies Generally Favor...,OBAMARICH,NH,Northeast,New England,Poor,33,14,85
+2012,Would Romney Policies Generally Favor...,ROMNRICH,NH,Northeast,New England,Rich,55,88,10
+2012,Would Romney Policies Generally Favor...,ROMNRICH,NH,Northeast,New England,Middle Class,38,4,95
+2012,Would Romney Policies Generally Favor...,ROMNRICH,NH,Northeast,New England,Poor,1,N/A,N/A
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NH,Northeast,New England,Strongly Favor,70,56,43
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NH,Northeast,New England,Have Reservations,23,46,54
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NH,Northeast,New England,Dislike Opponent,7,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,NH,Northeast,New England,Just Today,5,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,NH,Northeast,New England,Last Few Days,8,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,NH,Northeast,New England,In October,10,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,NH,Northeast,New England,In September,5,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,NH,Northeast,New England,Before That,71,54,45
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,NH,Northeast,New England,Today/Last Few Days,13,54,43
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,NH,Northeast,New England,Before That,86,53,45
+2012,When Did You Decide Presidential Vote?,TIME12MTH,NH,Northeast,New England,In October or November,23,52,45
+2012,When Did You Decide Presidential Vote?,TIME12MTH,NH,Northeast,New England,Before That,77,54,45
+2012,Vote by Marital Status,MARRIED,NH,Northeast,New England,Married,62,49,50
+2012,Vote by Marital Status,MARRIED,NH,Northeast,New England,Unmarried,38,58,40
+2012,Vote by Gender and Marital Status,SEXWED,NH,Northeast,New England,Married Men,30,43,55
+2012,Vote by Gender and Marital Status,SEXWED,NH,Northeast,New England,Married Women,32,54,45
+2012,Vote by Gender and Marital Status,SEXWED,NH,Northeast,New England,Unmarried Men,18,52,45
+2012,Vote by Gender and Marital Status,SEXWED,NH,Northeast,New England,Unmarried Women,20,63,35
+2012,Any Children Under 18 Living in Your Home?,CHILD12,NH,Northeast,New England,Yes,33,49,49
+2012,Any Children Under 18 Living in Your Home?,CHILD12,NH,Northeast,New England,No,67,56,43
+2012,Vote by Marital Status and Children,MARCHILD,NH,Northeast,New England,Married With Children,25,46,52
+2012,Vote by Marital Status and Children,MARCHILD,NH,Northeast,New England,All Others,75,56,43
+2012,Vote by Gender and Children in Household,PARENTS,NH,Northeast,New England,Fathers,16,44,53
+2012,Vote by Gender and Children in Household,PARENTS,NH,Northeast,New England,Mothers,17,55,45
+2012,Vote by Gender and Children in Household,PARENTS,NH,Northeast,New England,Men With No Children,33,50,49
+2012,Vote by Gender and Children in Household,PARENTS,NH,Northeast,New England,Women With No Children,34,61,37
+2012,Do You Work Full-Time For Pay?,WORK,NH,Northeast,New England,Yes,65,51,48
+2012,Do You Work Full-Time For Pay?,WORK,NH,Northeast,New England,No,35,57,41
+2012,Gun Owner in Household?,GUNOWNER12,NH,Northeast,New England,Yes,40,39,59
+2012,Gun Owner in Household?,GUNOWNER12,NH,Northeast,New England,No,60,63,36
+2012,Should Same-Sex Marriages Be Legal in Your State?,SAMESEXM12,NH,Northeast,New England,Yes,62,70,28
+2012,Should Same-Sex Marriages Be Legal in Your State?,SAMESEXM12,NH,Northeast,New England,No,35,16,83
+2012,Vote for Governor,GOVNH12,NH,Northeast,New England,Hassan,55,89,10
+2012,Vote for Governor,GOVNH12,NH,Northeast,New England,Lamontagne,42,5,94
+2012,Vote by Size of Place,SIZEPLC3,NH,Northeast,New England,Urban,11,53,46
+2012,Vote by Size of Place,SIZEPLC3,NH,Northeast,New England,Suburban,51,49,50
+2012,Vote by Size of Place,SIZEPLC3,NH,Northeast,New England,Rural,38,57,41
+2012,Vote by Region,GEOCOD,NH,Northeast,New England,Seacoast,16,57,42
+2012,Vote by Region,GEOCOD,NH,Northeast,New England,Manchester/Nashua Area,19,52,47
+2012,Vote by Region,GEOCOD,NH,Northeast,New England,Concord/Conn. Valley,21,61,38
+2012,Vote by Region,GEOCOD,NH,Northeast,New England,Southern New Hampshire,27,44,55
+2012,Vote by Region,GEOCOD,NH,Northeast,New England,Northern New Hampshire,17,51,48

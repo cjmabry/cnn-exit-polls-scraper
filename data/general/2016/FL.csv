@@ -1,213 +1,213 @@
-question,pollname,state,region,subregion,answer,percent,dem,rep
-Gender,SEX,FL,South,South Atlantic,Male,47,43,52
-Gender,SEX,FL,South,South Atlantic,Female,53,50,46
-Age,AGE,FL,South,South Atlantic,18-29,17,54,36
-Age,AGE,FL,South,South Atlantic,30-44,23,54,39
-Age,AGE,FL,South,South Atlantic,45-64,38,43,56
-Age,AGE,FL,South,South Atlantic,65 and older,21,40,57
-Age,AGE65,FL,South,South Atlantic,18-24,10,63,27
-Age,AGE65,FL,South,South Atlantic,25-29,7,43,49
-Age,AGE65,FL,South,South Atlantic,30-39,15,56,38
-Age,AGE65,FL,South,South Atlantic,40-49,17,46,50
-Age,AGE65,FL,South,South Atlantic,50-64,29,43,55
-Age,AGE65,FL,South,South Atlantic,65 and older,21,40,57
-Age,AGE45,FL,South,South Atlantic,18-44,40,54,38
-Age,AGE45,FL,South,South Atlantic,45 and older,60,42,56
-Race,RACE,FL,South,South Atlantic,White,62,32,64
-Race,RACE,FL,South,South Atlantic,Black,14,84,8
-Race,RACE,FL,South,South Atlantic,Latino,18,62,35
-Race,RACE,FL,South,South Atlantic,Asian,2,N/A,N/A
-Race,RACE,FL,South,South Atlantic,Other race,4,58,36
-Race,RACE2B,FL,South,South Atlantic,White,62,32,64
-Race,RACE2B,FL,South,South Atlantic,Non-white,38,71,24
-Race and gender,SEXBYRACE,FL,South,South Atlantic,White men,29,28,67
-Race and gender,SEXBYRACE,FL,South,South Atlantic,White women,33,36,60
-Race and gender,SEXBYRACE,FL,South,South Atlantic,Black men,6,81,10
-Race and gender,SEXBYRACE,FL,South,South Atlantic,Black women,8,87,6
-Race and gender,SEXBYRACE,FL,South,South Atlantic,Latino men,8,60,36
-Race and gender,SEXBYRACE,FL,South,South Atlantic,Latino women,10,63,34
-Race and gender,SEXBYRACE,FL,South,South Atlantic,Others,6,65,28
-Ethnicity,CUBAN3,FL,South,South Atlantic,Cuban,6,41,54
-Ethnicity,CUBAN3,FL,South,South Atlantic,Other Latino,10,71,26
-Ethnicity,CUBAN3,FL,South,South Atlantic,Not Latino,84,45,51
-Education,EDUC12R,FL,South,South Atlantic,High school or less,18,51,46
-Education,EDUC12R,FL,South,South Atlantic,Some college,30,45,49
-Education,EDUC12R,FL,South,South Atlantic,College graduate,36,42,54
-Education,EDUC12R,FL,South,South Atlantic,Postgraduate,16,56,39
-Are you a college graduate?,EDUCCOLL,FL,South,South Atlantic,Yes,52,46,49
-Are you a college graduate?,EDUCCOLL,FL,South,South Atlantic,No,48,47,48
-Education and race,EDUCWHITE,FL,South,South Atlantic,White college graduates,35,35,62
-Education and race,EDUCWHITE,FL,South,South Atlantic,Whites no degree,27,30,66
-Education and race,EDUCWHITE,FL,South,South Atlantic,Non-whites college grads,18,69,24
-Education and race,EDUCWHITE,FL,South,South Atlantic,Non-whites no degree,20,71,24
-Education among whites by sex,EDUCWHITEBYSEX,FL,South,South Atlantic,White college-grad women,18,37,60
-Education among whites by sex,EDUCWHITEBYSEX,FL,South,South Atlantic,White non-college women,15,33,62
-Education among whites by sex,EDUCWHITEBYSEX,FL,South,South Atlantic,White college-grad men,17,32,64
-Education among whites by sex,EDUCWHITEBYSEX,FL,South,South Atlantic,White non-college men,12,25,70
-Education among whites by sex,EDUCWHITEBYSEX,FL,South,South Atlantic,Non-whites,38,70,24
-Income,INCOME16GEN,FL,South,South Atlantic,"Under $30,000",20,56,38
-Income,INCOME16GEN,FL,South,South Atlantic,"$30K-$49,999",19,51,46
-Income,INCOME16GEN,FL,South,South Atlantic,"$50K-$99,999",32,45,52
-Income,INCOME16GEN,FL,South,South Atlantic,"$100K-$199,999",21,42,54
-Income,INCOME16GEN,FL,South,South Atlantic,"$200K-$249,999",3,N/A,N/A
-Income,INCOME16GEN,FL,South,South Atlantic,"$250,000 or more",5,N/A,N/A
-Income,INCOME3,FL,South,South Atlantic,Under $50K,39,54,42
-Income,INCOME3,FL,South,South Atlantic,$50K-$100K,32,45,52
-Income,INCOME3,FL,South,South Atlantic,$100K or more,29,40,56
-Income,INC50K,FL,South,South Atlantic,Under $50K,39,54,42
-Income,INC50K,FL,South,South Atlantic,$50K or more,61,43,54
-Income,INC100K,FL,South,South Atlantic,Under $100K,71,50,47
-Income,INC100K,FL,South,South Atlantic,$100K or more,29,40,56
-Party ID,PARTY,FL,South,South Atlantic,Democrats,32,90,8
-Party ID,PARTY,FL,South,South Atlantic,Republicans,33,8,89
-Party ID,PARTY,FL,South,South Atlantic,Independents,34,43,47
-Party by gender,PARTYGENDER,FL,South,South Atlantic,Democratic men,12,88,11
-Party by gender,PARTYGENDER,FL,South,South Atlantic,Democratic women,20,92,7
-Party by gender,PARTYGENDER,FL,South,South Atlantic,Republican men,15,9,88
-Party by gender,PARTYGENDER,FL,South,South Atlantic,Republican women,18,8,90
-Party by gender,PARTYGENDER,FL,South,South Atlantic,Independent men,19,42,49
-Party by gender,PARTYGENDER,FL,South,South Atlantic,Independent women,15,45,45
-Ideology,PHIL3,FL,South,South Atlantic,Liberal,25,81,14
-Ideology,PHIL3,FL,South,South Atlantic,Moderate,38,51,43
-Ideology,PHIL3,FL,South,South Atlantic,Conservative,36,17,79
-Religion,REL5,FL,South,South Atlantic,Protestant,49,38,60
-Religion,REL5,FL,South,South Atlantic,Catholic,25,44,54
-Religion,REL5,FL,South,South Atlantic,Jewish,4,N/A,N/A
-Religion,REL5,FL,South,South Atlantic,Another religion,6,64,34
-Religion,REL5,FL,South,South Atlantic,No religion,17,58,32
-White born-again or evangelical Christian?,WHTEVANG,FL,South,South Atlantic,Yes,21,14,85
-White born-again or evangelical Christian?,WHTEVANG,FL,South,South Atlantic,No,79,53,41
-Marital status,MARRIED,FL,South,South Atlantic,Married,54,44,51
-Marital status,MARRIED,FL,South,South Atlantic,Unmarried,46,52,42
-Marital status by gender,SEXWED,FL,South,South Atlantic,Married men,25,42,52
-Marital status by gender,SEXWED,FL,South,South Atlantic,Married women,28,46,50
-Marital status by gender,SEXWED,FL,South,South Atlantic,Unmarried men,23,52,40
-Marital status by gender,SEXWED,FL,South,South Atlantic,Unmarried women,23,52,44
-When did you decide presidential vote?,TIME16,FL,South,South Atlantic,Last few days,6,46,48
-When did you decide presidential vote?,TIME16,FL,South,South Atlantic,Last week,5,N/A,N/A
-When did you decide presidential vote?,TIME16,FL,South,South Atlantic,In October,15,46,47
-When did you decide presidential vote?,TIME16,FL,South,South Atlantic,In September,12,46,52
-When did you decide presidential vote?,TIME16,FL,South,South Atlantic,Before September,61,50,48
-When did you decide presidential vote?,TIME16WEEK,FL,South,South Atlantic,In the last week,11,38,55
-When did you decide presidential vote?,TIME16WEEK,FL,South,South Atlantic,Before that,88,49,48
-When did you decide presidential vote?,TIME16MONTH,FL,South,South Atlantic,In the last month,26,43,50
-When did you decide presidential vote?,TIME16MONTH,FL,South,South Atlantic,Before that,73,49,49
-Opinion of presidential candidate you voted for,DESCRIBP12,FL,South,South Atlantic,Strongly favor ,50,46,49
-Opinion of presidential candidate you voted for,DESCRIBP12,FL,South,South Atlantic,Have reservations,24,44,53
-Opinion of presidential candidate you voted for,DESCRIBP12,FL,South,South Atlantic,Dislike opponents,24,50,44
-Most important issue facing the country,ISSUE16,FL,South,South Atlantic,Foreign policy,12,66,30
-Most important issue facing the country,ISSUE16,FL,South,South Atlantic,Immigration,10,30,69
-Most important issue facing the country,ISSUE16,FL,South,South Atlantic,Economy,48,49,46
-Most important issue facing the country,ISSUE16,FL,South,South Atlantic,Terrorism,26,43,55
-Which candidate quality mattered most?,QLT16,FL,South,South Atlantic,Cares about me,16,63,32
-Which candidate quality mattered most?,QLT16,FL,South,South Atlantic,Can bring change,40,13,85
-Which candidate quality mattered most?,QLT16,FL,South,South Atlantic,Right experience,21,88,8
-Which candidate quality mattered most?,QLT16,FL,South,South Atlantic,Good judgment,18,63,31
-Illegal immigrants working in the U.S. should be:,IMMDEPORT,FL,South,South Atlantic,Offered legal status,70,62,33
-Illegal immigrants working in the U.S. should be:,IMMDEPORT,FL,South,South Atlantic,Deported to home country,23,5,92
-Do you think immigrants to the U.S. today:,IMMBETTER,FL,South,South Atlantic,Help the country,59,67,27
-Do you think immigrants to the U.S. today:,IMMBETTER,FL,South,South Atlantic,Hurt the country,28,13,87
-Effect of international trade,TRADE16,FL,South,South Atlantic,Creates U.S. jobs,39,58,37
-Effect of international trade,TRADE16,FL,South,South Atlantic,Takes away U.S. jobs,34,28,70
-Effect of international trade,TRADE16,FL,South,South Atlantic,Does not affect jobs,14,61,31
-How do things work in the U.S. today?,RACEFACTOR,FL,South,South Atlantic,Whites are favored,36,80,13
-How do things work in the U.S. today?,RACEFACTOR,FL,South,South Atlantic,Minorities are favored,20,12,86
-How do things work in the U.S. today?,RACEFACTOR,FL,South,South Atlantic,No group is favored,38,36,61
-Does the country's criminal justice system:,FAIRJUSTICE,FL,South,South Atlantic,Treat all fairly,45,27,69
-Does the country's criminal justice system:,FAIRJUSTICE,FL,South,South Atlantic,Treat blacks unfairly,42,69,26
-Is climate change a serious problem?,CLIMATECHANGE,FL,South,South Atlantic,Yes,66,61,35
-Is climate change a serious problem?,CLIMATECHANGE,FL,South,South Atlantic,No,31,13,87
-View on Obamacare,HEALTHCARE16,FL,South,South Atlantic,Did not go far enough,30,71,26
-View on Obamacare,HEALTHCARE16,FL,South,South Atlantic,Was about right,13,90,5
-View on Obamacare,HEALTHCARE16,FL,South,South Atlantic,Went too far,47,18,77
-Feelings about the federal government,GOVTANGR16,FL,South,South Atlantic,Enthusiastic,3,N/A,N/A
-Feelings about the federal government,GOVTANGR16,FL,South,South Atlantic,Satisfied,21,76,19
-Feelings about the federal government,GOVTANGR16,FL,South,South Atlantic,Dissatisfied,44,43,53
-Feelings about the federal government,GOVTANGR16,FL,South,South Atlantic,Angry,29,26,68
-Feelings about the federal government,GOVTANGR16B,FL,South,South Atlantic,Enthusiastic/Satisfied,25,77,20
-Feelings about the federal government,GOVTANGR16B,FL,South,South Atlantic,Dissatisfied/Angry,73,37,59
-Opinion of Barack Obama as president,OBAMA4,FL,South,South Atlantic,Strongly approve,32,95,2
-Opinion of Barack Obama as president,OBAMA4,FL,South,South Atlantic,Somewhat approve,20,74,21
-Opinion of Barack Obama as president,OBAMA4,FL,South,South Atlantic,Somewhat disapprove,13,14,81
-Opinion of Barack Obama as president,OBAMA4,FL,South,South Atlantic,Strongly disapprove,34,2,98
-Opinion of Barack Obama as president,OBAMA2,FL,South,South Atlantic,Approve,51,87,9
-Opinion of Barack Obama as president,OBAMA2,FL,South,South Atlantic,Disapprove,47,5,93
-Opinion of Hillary Clinton,FAVHCLIN16,FL,South,South Atlantic,Favorable,45,96,2
-Opinion of Hillary Clinton,FAVHCLIN16,FL,South,South Atlantic,Unfavorable,53,7,90
-Opinion of Donald Trump,FAVTRUMP,FL,South,South Atlantic,Favorable,41,4,96
-Opinion of Donald Trump,FAVTRUMP,FL,South,South Atlantic,Unfavorable,57,80,15
-Opinion of Clinton and Trump,FAVPRES16,FL,South,South Atlantic,Both favorable,2,N/A,N/A
-Opinion of Clinton and Trump,FAVPRES16,FL,South,South Atlantic,Only Clinton favorable,43,98,0
-Opinion of Clinton and Trump,FAVPRES16,FL,South,South Atlantic,Only Trump favorable,39,1,99
-Opinion of Clinton and Trump,FAVPRES16,FL,South,South Atlantic,Both unfavorable,14,24,61
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,FL,South,South Atlantic,Yes,33,96,2
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,FL,South,South Atlantic,No,63,20,75
-Is Donald Trump honest and trustworthy?,TRUMPHONEST,FL,South,South Atlantic,Yes,37,4,96
-Is Donald Trump honest and trustworthy?,TRUMPHONEST,FL,South,South Atlantic,No,58,76,18
-Which candidate is honest?,HONEST16,FL,South,South Atlantic,Both are,1,N/A,N/A
-Which candidate is honest?,HONEST16,FL,South,South Atlantic,Only Clinton is,31,98,1
-Which candidate is honest?,HONEST16,FL,South,South Atlantic,Only Trump is,35,1,98
-Which candidate is honest?,HONEST16,FL,South,South Atlantic,Neither is,25,47,41
-Is Clinton qualified to serve as president?,QUALCLINTON,FL,South,South Atlantic,Yes,52,84,11
-Is Clinton qualified to serve as president?,QUALCLINTON,FL,South,South Atlantic,No,47,3,96
-Is Trump qualified to serve as president?,QUALTRUMP,FL,South,South Atlantic,Yes,43,3,96
-Is Trump qualified to serve as president?,QUALTRUMP,FL,South,South Atlantic,No,55,77,16
-Who is qualified to serve as president?,QUALIFIED16,FL,South,South Atlantic,Both are,7,N/A,N/A
-Who is qualified to serve as president?,QUALIFIED16,FL,South,South Atlantic,Only Clinton is,45,93,1
-Who is qualified to serve as president?,QUALIFIED16,FL,South,South Atlantic,Only Trump is,36,0,100
-Who is qualified to serve as president?,QUALIFIED16,FL,South,South Atlantic,Neither is,10,11,81
-Does Clinton have the temperament to be president?,TEMPCLINTON,FL,South,South Atlantic,Yes,53,84,13
-Does Clinton have the temperament to be president?,TEMPCLINTON,FL,South,South Atlantic,No,45,4,91
-Does Trump have the temperament to be president?,TEMPTRUMP,FL,South,South Atlantic,Yes,41,5,95
-Does Trump have the temperament to be president?,TEMPTRUMP,FL,South,South Atlantic,No,56,79,15
-Which candidate has the right temperament?,TEMPERAMENT16,FL,South,South Atlantic,Both do,6,N/A,N/A
-Which candidate has the right temperament?,TEMPERAMENT16,FL,South,South Atlantic,Only Clinton does,47,92,4
-Which candidate has the right temperament?,TEMPERAMENT16,FL,South,South Atlantic,Only Trump does,35,2,98
-Which candidate has the right temperament?,TEMPERAMENT16,FL,South,South Atlantic,Neither does,9,14,67
-Does Clinton's use of private email bother you:,CLINTONEMAIL,FL,South,South Atlantic,A lot,47,5,88
-Does Clinton's use of private email bother you:,CLINTONEMAIL,FL,South,South Atlantic,Some,17,73,18
-Does Clinton's use of private email bother you:,CLINTONEMAIL,FL,South,South Atlantic,Not much,11,87,7
-Does Clinton's use of private email bother you:,CLINTONEMAIL,FL,South,South Atlantic,Not at all,24,90,9
-Does Clinton's use of private email bother you?,CLINTONEMAILB,FL,South,South Atlantic,Yes,63,23,70
-Does Clinton's use of private email bother you?,CLINTONEMAILB,FL,South,South Atlantic,No,35,89,9
-Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,FL,South,South Atlantic,A lot,51,81,11
-Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,FL,South,South Atlantic,Some,16,17,74
-Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,FL,South,South Atlantic,Not much,10,6,94
-Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,FL,South,South Atlantic,Not at all,21,8,89
-Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,FL,South,South Atlantic,Yes,66,66,26
-Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,FL,South,South Atlantic,No,32,7,91
-Who would better handle the economy?,HANDLEECON16,FL,South,South Atlantic,Clinton,44,97,2
-Who would better handle the economy?,HANDLEECON16,FL,South,South Atlantic,Trump,50,5,92
-Who would better handle foreign policy?,HANDLEFP16,FL,South,South Atlantic,Clinton,54,85,11
-Who would better handle foreign policy?,HANDLEFP16,FL,South,South Atlantic,Trump,42,1,96
-Condition of national economy,NEC,FL,South,South Atlantic,Excellent,3,N/A,N/A
-Condition of national economy,NEC,FL,South,South Atlantic,Good,31,82,15
-Condition of national economy,NEC,FL,South,South Atlantic,Not good,39,37,57
-Condition of national economy,NEC,FL,South,South Atlantic,Poor,26,16,83
-Condition of national economy,NEC2,FL,South,South Atlantic,Good,34,83,14
-Condition of national economy,NEC2,FL,South,South Atlantic,Poor,66,28,67
-Financial situation compared to four years ago:,FINSIT,FL,South,South Atlantic,Better today,27,77,20
-Financial situation compared to four years ago:,FINSIT,FL,South,South Atlantic,Worse today,27,28,70
-Financial situation compared to four years ago:,FINSIT,FL,South,South Atlantic,About the same,44,43,51
-Life for the next generation of Americans will be:,LIFE,FL,South,South Atlantic,Better than today,35,65,32
-Life for the next generation of Americans will be:,LIFE,FL,South,South Atlantic,Worse than today,33,27,65
-Life for the next generation of Americans will be:,LIFE,FL,South,South Atlantic,About the same,22,53,43
-Did any campaign contact you?,GOTV16,FL,South,South Atlantic,Only Clinton,11,72,27
-Did any campaign contact you?,GOTV16,FL,South,South Atlantic,Only Trump,9,11,88
-Did any campaign contact you?,GOTV16,FL,South,South Atlantic,Both,8,N/A,N/A
-Did any campaign contact you?,GOTV16,FL,South,South Atlantic,Neither,70,48,48
-Were you contacted by the Clinton campaign?,GOTVCLINTON,FL,South,South Atlantic,Yes,19,62,34
-Were you contacted by the Clinton campaign?,GOTVCLINTON,FL,South,South Atlantic,No,79,43,52
-Were you contacted by the Trump campaign?,GOTVTRUMP,FL,South,South Atlantic,Yes,17,28,67
-Were you contacted by the Trump campaign?,GOTVTRUMP,FL,South,South Atlantic,No,82,51,45
-Vote for president in a two-way race,2WAYPRES16,FL,South,South Atlantic,Clinton,46,96,0
-Vote for president in a two-way race,2WAYPRES16,FL,South,South Atlantic,Trump,48,0,98
-Vote for president in a two-way race,2WAYPRES16,FL,South,South Atlantic,Would not vote,5,N/A,N/A
-Area type,SIZEPLC3,FL,South,South Atlantic,Urban area,46,53,41
-Area type,SIZEPLC3,FL,South,South Atlantic,Suburban area,45,43,53
-Area type,SIZEPLC3,FL,South,South Atlantic,Rural area,9,36,61
-Region,GEOCOD,FL,South,South Atlantic,North / Panhandle,20,36,58
-Region,GEOCOD,FL,South,South Atlantic,Orlando / Atlantic Coast,20,48,48
-Region,GEOCOD,FL,South,South Atlantic,Tampa Bay Area,16,47,46
-Region,GEOCOD,FL,South,South Atlantic,Gulf Coast / Mid-FL,17,34,64
-Region,GEOCOD,FL,South,South Atlantic,Miami / Gold Coast,27,62,34
+year,question,pollname,state,region,subregion,answer,percent,dem,rep
+2016,Gender,SEX,FL,South,South Atlantic,Male,47,43,52
+2016,Gender,SEX,FL,South,South Atlantic,Female,53,50,46
+2016,Age,AGE,FL,South,South Atlantic,18-29,17,54,36
+2016,Age,AGE,FL,South,South Atlantic,30-44,23,54,39
+2016,Age,AGE,FL,South,South Atlantic,45-64,38,43,56
+2016,Age,AGE,FL,South,South Atlantic,65 and older,21,40,57
+2016,Age,AGE65,FL,South,South Atlantic,18-24,10,63,27
+2016,Age,AGE65,FL,South,South Atlantic,25-29,7,43,49
+2016,Age,AGE65,FL,South,South Atlantic,30-39,15,56,38
+2016,Age,AGE65,FL,South,South Atlantic,40-49,17,46,50
+2016,Age,AGE65,FL,South,South Atlantic,50-64,29,43,55
+2016,Age,AGE65,FL,South,South Atlantic,65 and older,21,40,57
+2016,Age,AGE45,FL,South,South Atlantic,18-44,40,54,38
+2016,Age,AGE45,FL,South,South Atlantic,45 and older,60,42,56
+2016,Race,RACE,FL,South,South Atlantic,White,62,32,64
+2016,Race,RACE,FL,South,South Atlantic,Black,14,84,8
+2016,Race,RACE,FL,South,South Atlantic,Latino,18,62,35
+2016,Race,RACE,FL,South,South Atlantic,Asian,2,N/A,N/A
+2016,Race,RACE,FL,South,South Atlantic,Other race,4,58,36
+2016,Race,RACE2B,FL,South,South Atlantic,White,62,32,64
+2016,Race,RACE2B,FL,South,South Atlantic,Non-white,38,71,24
+2016,Race and gender,SEXBYRACE,FL,South,South Atlantic,White men,29,28,67
+2016,Race and gender,SEXBYRACE,FL,South,South Atlantic,White women,33,36,60
+2016,Race and gender,SEXBYRACE,FL,South,South Atlantic,Black men,6,81,10
+2016,Race and gender,SEXBYRACE,FL,South,South Atlantic,Black women,8,87,6
+2016,Race and gender,SEXBYRACE,FL,South,South Atlantic,Latino men,8,60,36
+2016,Race and gender,SEXBYRACE,FL,South,South Atlantic,Latino women,10,63,34
+2016,Race and gender,SEXBYRACE,FL,South,South Atlantic,Others,6,65,28
+2016,Ethnicity,CUBAN3,FL,South,South Atlantic,Cuban,6,41,54
+2016,Ethnicity,CUBAN3,FL,South,South Atlantic,Other Latino,10,71,26
+2016,Ethnicity,CUBAN3,FL,South,South Atlantic,Not Latino,84,45,51
+2016,Education,EDUC12R,FL,South,South Atlantic,High school or less,18,51,46
+2016,Education,EDUC12R,FL,South,South Atlantic,Some college,30,45,49
+2016,Education,EDUC12R,FL,South,South Atlantic,College graduate,36,42,54
+2016,Education,EDUC12R,FL,South,South Atlantic,Postgraduate,16,56,39
+2016,Are you a college graduate?,EDUCCOLL,FL,South,South Atlantic,Yes,52,46,49
+2016,Are you a college graduate?,EDUCCOLL,FL,South,South Atlantic,No,48,47,48
+2016,Education and race,EDUCWHITE,FL,South,South Atlantic,White college graduates,35,35,62
+2016,Education and race,EDUCWHITE,FL,South,South Atlantic,Whites no degree,27,30,66
+2016,Education and race,EDUCWHITE,FL,South,South Atlantic,Non-whites college grads,18,69,24
+2016,Education and race,EDUCWHITE,FL,South,South Atlantic,Non-whites no degree,20,71,24
+2016,Education among whites by sex,EDUCWHITEBYSEX,FL,South,South Atlantic,White college-grad women,18,37,60
+2016,Education among whites by sex,EDUCWHITEBYSEX,FL,South,South Atlantic,White non-college women,15,33,62
+2016,Education among whites by sex,EDUCWHITEBYSEX,FL,South,South Atlantic,White college-grad men,17,32,64
+2016,Education among whites by sex,EDUCWHITEBYSEX,FL,South,South Atlantic,White non-college men,12,25,70
+2016,Education among whites by sex,EDUCWHITEBYSEX,FL,South,South Atlantic,Non-whites,38,70,24
+2016,Income,INCOME16GEN,FL,South,South Atlantic,"Under $30,000",20,56,38
+2016,Income,INCOME16GEN,FL,South,South Atlantic,"$30K-$49,999",19,51,46
+2016,Income,INCOME16GEN,FL,South,South Atlantic,"$50K-$99,999",32,45,52
+2016,Income,INCOME16GEN,FL,South,South Atlantic,"$100K-$199,999",21,42,54
+2016,Income,INCOME16GEN,FL,South,South Atlantic,"$200K-$249,999",3,N/A,N/A
+2016,Income,INCOME16GEN,FL,South,South Atlantic,"$250,000 or more",5,N/A,N/A
+2016,Income,INCOME3,FL,South,South Atlantic,Under $50K,39,54,42
+2016,Income,INCOME3,FL,South,South Atlantic,$50K-$100K,32,45,52
+2016,Income,INCOME3,FL,South,South Atlantic,$100K or more,29,40,56
+2016,Income,INC50K,FL,South,South Atlantic,Under $50K,39,54,42
+2016,Income,INC50K,FL,South,South Atlantic,$50K or more,61,43,54
+2016,Income,INC100K,FL,South,South Atlantic,Under $100K,71,50,47
+2016,Income,INC100K,FL,South,South Atlantic,$100K or more,29,40,56
+2016,Party ID,PARTY,FL,South,South Atlantic,Democrats,32,90,8
+2016,Party ID,PARTY,FL,South,South Atlantic,Republicans,33,8,89
+2016,Party ID,PARTY,FL,South,South Atlantic,Independents,34,43,47
+2016,Party by gender,PARTYGENDER,FL,South,South Atlantic,Democratic men,12,88,11
+2016,Party by gender,PARTYGENDER,FL,South,South Atlantic,Democratic women,20,92,7
+2016,Party by gender,PARTYGENDER,FL,South,South Atlantic,Republican men,15,9,88
+2016,Party by gender,PARTYGENDER,FL,South,South Atlantic,Republican women,18,8,90
+2016,Party by gender,PARTYGENDER,FL,South,South Atlantic,Independent men,19,42,49
+2016,Party by gender,PARTYGENDER,FL,South,South Atlantic,Independent women,15,45,45
+2016,Ideology,PHIL3,FL,South,South Atlantic,Liberal,25,81,14
+2016,Ideology,PHIL3,FL,South,South Atlantic,Moderate,38,51,43
+2016,Ideology,PHIL3,FL,South,South Atlantic,Conservative,36,17,79
+2016,Religion,REL5,FL,South,South Atlantic,Protestant,49,38,60
+2016,Religion,REL5,FL,South,South Atlantic,Catholic,25,44,54
+2016,Religion,REL5,FL,South,South Atlantic,Jewish,4,N/A,N/A
+2016,Religion,REL5,FL,South,South Atlantic,Another religion,6,64,34
+2016,Religion,REL5,FL,South,South Atlantic,No religion,17,58,32
+2016,White born-again or evangelical Christian?,WHTEVANG,FL,South,South Atlantic,Yes,21,14,85
+2016,White born-again or evangelical Christian?,WHTEVANG,FL,South,South Atlantic,No,79,53,41
+2016,Marital status,MARRIED,FL,South,South Atlantic,Married,54,44,51
+2016,Marital status,MARRIED,FL,South,South Atlantic,Unmarried,46,52,42
+2016,Marital status by gender,SEXWED,FL,South,South Atlantic,Married men,25,42,52
+2016,Marital status by gender,SEXWED,FL,South,South Atlantic,Married women,28,46,50
+2016,Marital status by gender,SEXWED,FL,South,South Atlantic,Unmarried men,23,52,40
+2016,Marital status by gender,SEXWED,FL,South,South Atlantic,Unmarried women,23,52,44
+2016,When did you decide presidential vote?,TIME16,FL,South,South Atlantic,Last few days,6,46,48
+2016,When did you decide presidential vote?,TIME16,FL,South,South Atlantic,Last week,5,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,FL,South,South Atlantic,In October,15,46,47
+2016,When did you decide presidential vote?,TIME16,FL,South,South Atlantic,In September,12,46,52
+2016,When did you decide presidential vote?,TIME16,FL,South,South Atlantic,Before September,61,50,48
+2016,When did you decide presidential vote?,TIME16WEEK,FL,South,South Atlantic,In the last week,11,38,55
+2016,When did you decide presidential vote?,TIME16WEEK,FL,South,South Atlantic,Before that,88,49,48
+2016,When did you decide presidential vote?,TIME16MONTH,FL,South,South Atlantic,In the last month,26,43,50
+2016,When did you decide presidential vote?,TIME16MONTH,FL,South,South Atlantic,Before that,73,49,49
+2016,Opinion of presidential candidate you voted for,DESCRIBP12,FL,South,South Atlantic,Strongly favor ,50,46,49
+2016,Opinion of presidential candidate you voted for,DESCRIBP12,FL,South,South Atlantic,Have reservations,24,44,53
+2016,Opinion of presidential candidate you voted for,DESCRIBP12,FL,South,South Atlantic,Dislike opponents,24,50,44
+2016,Most important issue facing the country,ISSUE16,FL,South,South Atlantic,Foreign policy,12,66,30
+2016,Most important issue facing the country,ISSUE16,FL,South,South Atlantic,Immigration,10,30,69
+2016,Most important issue facing the country,ISSUE16,FL,South,South Atlantic,Economy,48,49,46
+2016,Most important issue facing the country,ISSUE16,FL,South,South Atlantic,Terrorism,26,43,55
+2016,Which candidate quality mattered most?,QLT16,FL,South,South Atlantic,Cares about me,16,63,32
+2016,Which candidate quality mattered most?,QLT16,FL,South,South Atlantic,Can bring change,40,13,85
+2016,Which candidate quality mattered most?,QLT16,FL,South,South Atlantic,Right experience,21,88,8
+2016,Which candidate quality mattered most?,QLT16,FL,South,South Atlantic,Good judgment,18,63,31
+2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,FL,South,South Atlantic,Offered legal status,70,62,33
+2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,FL,South,South Atlantic,Deported to home country,23,5,92
+2016,Do you think immigrants to the U.S. today:,IMMBETTER,FL,South,South Atlantic,Help the country,59,67,27
+2016,Do you think immigrants to the U.S. today:,IMMBETTER,FL,South,South Atlantic,Hurt the country,28,13,87
+2016,Effect of international trade,TRADE16,FL,South,South Atlantic,Creates U.S. jobs,39,58,37
+2016,Effect of international trade,TRADE16,FL,South,South Atlantic,Takes away U.S. jobs,34,28,70
+2016,Effect of international trade,TRADE16,FL,South,South Atlantic,Does not affect jobs,14,61,31
+2016,How do things work in the U.S. today?,RACEFACTOR,FL,South,South Atlantic,Whites are favored,36,80,13
+2016,How do things work in the U.S. today?,RACEFACTOR,FL,South,South Atlantic,Minorities are favored,20,12,86
+2016,How do things work in the U.S. today?,RACEFACTOR,FL,South,South Atlantic,No group is favored,38,36,61
+2016,Does the country's criminal justice system:,FAIRJUSTICE,FL,South,South Atlantic,Treat all fairly,45,27,69
+2016,Does the country's criminal justice system:,FAIRJUSTICE,FL,South,South Atlantic,Treat blacks unfairly,42,69,26
+2016,Is climate change a serious problem?,CLIMATECHANGE,FL,South,South Atlantic,Yes,66,61,35
+2016,Is climate change a serious problem?,CLIMATECHANGE,FL,South,South Atlantic,No,31,13,87
+2016,View on Obamacare,HEALTHCARE16,FL,South,South Atlantic,Did not go far enough,30,71,26
+2016,View on Obamacare,HEALTHCARE16,FL,South,South Atlantic,Was about right,13,90,5
+2016,View on Obamacare,HEALTHCARE16,FL,South,South Atlantic,Went too far,47,18,77
+2016,Feelings about the federal government,GOVTANGR16,FL,South,South Atlantic,Enthusiastic,3,N/A,N/A
+2016,Feelings about the federal government,GOVTANGR16,FL,South,South Atlantic,Satisfied,21,76,19
+2016,Feelings about the federal government,GOVTANGR16,FL,South,South Atlantic,Dissatisfied,44,43,53
+2016,Feelings about the federal government,GOVTANGR16,FL,South,South Atlantic,Angry,29,26,68
+2016,Feelings about the federal government,GOVTANGR16B,FL,South,South Atlantic,Enthusiastic/Satisfied,25,77,20
+2016,Feelings about the federal government,GOVTANGR16B,FL,South,South Atlantic,Dissatisfied/Angry,73,37,59
+2016,Opinion of Barack Obama as president,OBAMA4,FL,South,South Atlantic,Strongly approve,32,95,2
+2016,Opinion of Barack Obama as president,OBAMA4,FL,South,South Atlantic,Somewhat approve,20,74,21
+2016,Opinion of Barack Obama as president,OBAMA4,FL,South,South Atlantic,Somewhat disapprove,13,14,81
+2016,Opinion of Barack Obama as president,OBAMA4,FL,South,South Atlantic,Strongly disapprove,34,2,98
+2016,Opinion of Barack Obama as president,OBAMA2,FL,South,South Atlantic,Approve,51,87,9
+2016,Opinion of Barack Obama as president,OBAMA2,FL,South,South Atlantic,Disapprove,47,5,93
+2016,Opinion of Hillary Clinton,FAVHCLIN16,FL,South,South Atlantic,Favorable,45,96,2
+2016,Opinion of Hillary Clinton,FAVHCLIN16,FL,South,South Atlantic,Unfavorable,53,7,90
+2016,Opinion of Donald Trump,FAVTRUMP,FL,South,South Atlantic,Favorable,41,4,96
+2016,Opinion of Donald Trump,FAVTRUMP,FL,South,South Atlantic,Unfavorable,57,80,15
+2016,Opinion of Clinton and Trump,FAVPRES16,FL,South,South Atlantic,Both favorable,2,N/A,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,FL,South,South Atlantic,Only Clinton favorable,43,98,0
+2016,Opinion of Clinton and Trump,FAVPRES16,FL,South,South Atlantic,Only Trump favorable,39,1,99
+2016,Opinion of Clinton and Trump,FAVPRES16,FL,South,South Atlantic,Both unfavorable,14,24,61
+2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,FL,South,South Atlantic,Yes,33,96,2
+2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,FL,South,South Atlantic,No,63,20,75
+2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,FL,South,South Atlantic,Yes,37,4,96
+2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,FL,South,South Atlantic,No,58,76,18
+2016,Which candidate is honest?,HONEST16,FL,South,South Atlantic,Both are,1,N/A,N/A
+2016,Which candidate is honest?,HONEST16,FL,South,South Atlantic,Only Clinton is,31,98,1
+2016,Which candidate is honest?,HONEST16,FL,South,South Atlantic,Only Trump is,35,1,98
+2016,Which candidate is honest?,HONEST16,FL,South,South Atlantic,Neither is,25,47,41
+2016,Is Clinton qualified to serve as president?,QUALCLINTON,FL,South,South Atlantic,Yes,52,84,11
+2016,Is Clinton qualified to serve as president?,QUALCLINTON,FL,South,South Atlantic,No,47,3,96
+2016,Is Trump qualified to serve as president?,QUALTRUMP,FL,South,South Atlantic,Yes,43,3,96
+2016,Is Trump qualified to serve as president?,QUALTRUMP,FL,South,South Atlantic,No,55,77,16
+2016,Who is qualified to serve as president?,QUALIFIED16,FL,South,South Atlantic,Both are,7,N/A,N/A
+2016,Who is qualified to serve as president?,QUALIFIED16,FL,South,South Atlantic,Only Clinton is,45,93,1
+2016,Who is qualified to serve as president?,QUALIFIED16,FL,South,South Atlantic,Only Trump is,36,0,100
+2016,Who is qualified to serve as president?,QUALIFIED16,FL,South,South Atlantic,Neither is,10,11,81
+2016,Does Clinton have the temperament to be president?,TEMPCLINTON,FL,South,South Atlantic,Yes,53,84,13
+2016,Does Clinton have the temperament to be president?,TEMPCLINTON,FL,South,South Atlantic,No,45,4,91
+2016,Does Trump have the temperament to be president?,TEMPTRUMP,FL,South,South Atlantic,Yes,41,5,95
+2016,Does Trump have the temperament to be president?,TEMPTRUMP,FL,South,South Atlantic,No,56,79,15
+2016,Which candidate has the right temperament?,TEMPERAMENT16,FL,South,South Atlantic,Both do,6,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,FL,South,South Atlantic,Only Clinton does,47,92,4
+2016,Which candidate has the right temperament?,TEMPERAMENT16,FL,South,South Atlantic,Only Trump does,35,2,98
+2016,Which candidate has the right temperament?,TEMPERAMENT16,FL,South,South Atlantic,Neither does,9,14,67
+2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,FL,South,South Atlantic,A lot,47,5,88
+2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,FL,South,South Atlantic,Some,17,73,18
+2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,FL,South,South Atlantic,Not much,11,87,7
+2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,FL,South,South Atlantic,Not at all,24,90,9
+2016,Does Clinton's use of private email bother you?,CLINTONEMAILB,FL,South,South Atlantic,Yes,63,23,70
+2016,Does Clinton's use of private email bother you?,CLINTONEMAILB,FL,South,South Atlantic,No,35,89,9
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,FL,South,South Atlantic,A lot,51,81,11
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,FL,South,South Atlantic,Some,16,17,74
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,FL,South,South Atlantic,Not much,10,6,94
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,FL,South,South Atlantic,Not at all,21,8,89
+2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,FL,South,South Atlantic,Yes,66,66,26
+2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,FL,South,South Atlantic,No,32,7,91
+2016,Who would better handle the economy?,HANDLEECON16,FL,South,South Atlantic,Clinton,44,97,2
+2016,Who would better handle the economy?,HANDLEECON16,FL,South,South Atlantic,Trump,50,5,92
+2016,Who would better handle foreign policy?,HANDLEFP16,FL,South,South Atlantic,Clinton,54,85,11
+2016,Who would better handle foreign policy?,HANDLEFP16,FL,South,South Atlantic,Trump,42,1,96
+2016,Condition of national economy,NEC,FL,South,South Atlantic,Excellent,3,N/A,N/A
+2016,Condition of national economy,NEC,FL,South,South Atlantic,Good,31,82,15
+2016,Condition of national economy,NEC,FL,South,South Atlantic,Not good,39,37,57
+2016,Condition of national economy,NEC,FL,South,South Atlantic,Poor,26,16,83
+2016,Condition of national economy,NEC2,FL,South,South Atlantic,Good,34,83,14
+2016,Condition of national economy,NEC2,FL,South,South Atlantic,Poor,66,28,67
+2016,Financial situation compared to four years ago:,FINSIT,FL,South,South Atlantic,Better today,27,77,20
+2016,Financial situation compared to four years ago:,FINSIT,FL,South,South Atlantic,Worse today,27,28,70
+2016,Financial situation compared to four years ago:,FINSIT,FL,South,South Atlantic,About the same,44,43,51
+2016,Life for the next generation of Americans will be:,LIFE,FL,South,South Atlantic,Better than today,35,65,32
+2016,Life for the next generation of Americans will be:,LIFE,FL,South,South Atlantic,Worse than today,33,27,65
+2016,Life for the next generation of Americans will be:,LIFE,FL,South,South Atlantic,About the same,22,53,43
+2016,Did any campaign contact you?,GOTV16,FL,South,South Atlantic,Only Clinton,11,72,27
+2016,Did any campaign contact you?,GOTV16,FL,South,South Atlantic,Only Trump,9,11,88
+2016,Did any campaign contact you?,GOTV16,FL,South,South Atlantic,Both,8,N/A,N/A
+2016,Did any campaign contact you?,GOTV16,FL,South,South Atlantic,Neither,70,48,48
+2016,Were you contacted by the Clinton campaign?,GOTVCLINTON,FL,South,South Atlantic,Yes,19,62,34
+2016,Were you contacted by the Clinton campaign?,GOTVCLINTON,FL,South,South Atlantic,No,79,43,52
+2016,Were you contacted by the Trump campaign?,GOTVTRUMP,FL,South,South Atlantic,Yes,17,28,67
+2016,Were you contacted by the Trump campaign?,GOTVTRUMP,FL,South,South Atlantic,No,82,51,45
+2016,Vote for president in a two-way race,2WAYPRES16,FL,South,South Atlantic,Clinton,46,96,0
+2016,Vote for president in a two-way race,2WAYPRES16,FL,South,South Atlantic,Trump,48,0,98
+2016,Vote for president in a two-way race,2WAYPRES16,FL,South,South Atlantic,Would not vote,5,N/A,N/A
+2016,Area type,SIZEPLC3,FL,South,South Atlantic,Urban area,46,53,41
+2016,Area type,SIZEPLC3,FL,South,South Atlantic,Suburban area,45,43,53
+2016,Area type,SIZEPLC3,FL,South,South Atlantic,Rural area,9,36,61
+2016,Region,GEOCOD,FL,South,South Atlantic,North / Panhandle,20,36,58
+2016,Region,GEOCOD,FL,South,South Atlantic,Orlando / Atlantic Coast,20,48,48
+2016,Region,GEOCOD,FL,South,South Atlantic,Tampa Bay Area,16,47,46
+2016,Region,GEOCOD,FL,South,South Atlantic,Gulf Coast / Mid-FL,17,34,64
+2016,Region,GEOCOD,FL,South,South Atlantic,Miami / Gold Coast,27,62,34

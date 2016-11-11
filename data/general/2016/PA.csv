@@ -1,187 +1,187 @@
-question,pollname,state,region,subregion,answer,percent,dem,rep
-Gender,SEX,PA,Northeast,Middle Atlantic,Male,47,40,57
-Gender,SEX,PA,Northeast,Middle Atlantic,Female,53,55,42
-Age,AGE,PA,Northeast,Middle Atlantic,18-29,16,52,43
-Age,AGE,PA,Northeast,Middle Atlantic,30-44,24,53,42
-Age,AGE,PA,Northeast,Middle Atlantic,45-64,38,45,52
-Age,AGE,PA,Northeast,Middle Atlantic,65 and older,21,44,54
-Age,AGE65,PA,Northeast,Middle Atlantic,18-24,8,50,45
-Age,AGE65,PA,Northeast,Middle Atlantic,25-29,8,53,40
-Age,AGE65,PA,Northeast,Middle Atlantic,30-39,16,54,40
-Age,AGE65,PA,Northeast,Middle Atlantic,40-49,17,47,49
-Age,AGE65,PA,Northeast,Middle Atlantic,50-64,30,45,53
-Age,AGE65,PA,Northeast,Middle Atlantic,65 and older,21,44,54
-Age,AGE45,PA,Northeast,Middle Atlantic,18-44,40,52,42
-Age,AGE45,PA,Northeast,Middle Atlantic,45 and older,60,45,53
-Race,RACE,PA,Northeast,Middle Atlantic,White,81,40,56
-Race,RACE,PA,Northeast,Middle Atlantic,Black,10,92,7
-Race,RACE,PA,Northeast,Middle Atlantic,Latino,6,74,22
-Race,RACE,PA,Northeast,Middle Atlantic,Asian,1,N/A,N/A
-Race,RACE,PA,Northeast,Middle Atlantic,Other race,2,N/A,N/A
-Race,RACE2B,PA,Northeast,Middle Atlantic,White,81,40,56
-Race,RACE2B,PA,Northeast,Middle Atlantic,Non-white,19,81,16
-Race and gender,SEXBYRACE,PA,Northeast,Middle Atlantic,White men,38,32,64
-Race and gender,SEXBYRACE,PA,Northeast,Middle Atlantic,White women,43,47,50
-Race and gender,SEXBYRACE,PA,Northeast,Middle Atlantic,Black men,4,83,14
-Race and gender,SEXBYRACE,PA,Northeast,Middle Atlantic,Black women,6,99,1
-Race and gender,SEXBYRACE,PA,Northeast,Middle Atlantic,Latino men,3,N/A,N/A
-Race and gender,SEXBYRACE,PA,Northeast,Middle Atlantic,Latino women,3,82,14
-Race and gender,SEXBYRACE,PA,Northeast,Middle Atlantic,Others,3,N/A,N/A
-Education,EDUC12R,PA,Northeast,Middle Atlantic,High school or less,22,43,56
-Education,EDUC12R,PA,Northeast,Middle Atlantic,Some college,30,46,49
-Education,EDUC12R,PA,Northeast,Middle Atlantic,College graduate,29,46,50
-Education,EDUC12R,PA,Northeast,Middle Atlantic,Postgraduate,19,59,37
-Are you a college graduate?,EDUCCOLL,PA,Northeast,Middle Atlantic,Yes,48,52,45
-Are you a college graduate?,EDUCCOLL,PA,Northeast,Middle Atlantic,No,52,45,52
-Education and race,EDUCWHITE,PA,Northeast,Middle Atlantic,White college graduates,41,48,48
-Education and race,EDUCWHITE,PA,Northeast,Middle Atlantic,Whites no degree,40,32,64
-Education and race,EDUCWHITE,PA,Northeast,Middle Atlantic,Non-whites college grads,7,75,24
-Education and race,EDUCWHITE,PA,Northeast,Middle Atlantic,Non-whites no degree,12,86,10
-Education among whites by sex,EDUCWHITEBYSEX,PA,Northeast,Middle Atlantic,White college-grad women,22,55,41
-Education among whites by sex,EDUCWHITEBYSEX,PA,Northeast,Middle Atlantic,White non-college women,21,38,58
-Education among whites by sex,EDUCWHITEBYSEX,PA,Northeast,Middle Atlantic,White college-grad men,18,39,56
-Education among whites by sex,EDUCWHITEBYSEX,PA,Northeast,Middle Atlantic,White non-college men,19,26,71
-Education among whites by sex,EDUCWHITEBYSEX,PA,Northeast,Middle Atlantic,Non-whites,19,82,15
-Income,INCOME16GEN,PA,Northeast,Middle Atlantic,"Under $30,000",16,56,39
-Income,INCOME16GEN,PA,Northeast,Middle Atlantic,"$30K-$49,999",22,53,44
-Income,INCOME16GEN,PA,Northeast,Middle Atlantic,"$50K-$99,999",31,41,55
-Income,INCOME16GEN,PA,Northeast,Middle Atlantic,"$100K-$199,999",21,46,51
-Income,INCOME16GEN,PA,Northeast,Middle Atlantic,"$200K-$249,999",4,N/A,N/A
-Income,INCOME16GEN,PA,Northeast,Middle Atlantic,"$250,000 or more",6,N/A,N/A
-Income,INCOME3,PA,Northeast,Middle Atlantic,Under $50K,38,54,42
-Income,INCOME3,PA,Northeast,Middle Atlantic,$50K-$100K,31,41,55
-Income,INCOME3,PA,Northeast,Middle Atlantic,$100K or more,31,45,52
-Income,INC50K,PA,Northeast,Middle Atlantic,Under $50K,38,54,42
-Income,INC50K,PA,Northeast,Middle Atlantic,$50K or more,62,43,54
-Income,INC100K,PA,Northeast,Middle Atlantic,Under $100K,69,49,48
-Income,INC100K,PA,Northeast,Middle Atlantic,$100K or more,31,45,52
-Party ID,PARTY,PA,Northeast,Middle Atlantic,Democrats,42,87,11
-Party ID,PARTY,PA,Northeast,Middle Atlantic,Republicans,39,9,89
-Party ID,PARTY,PA,Northeast,Middle Atlantic,Independents,20,41,48
-Party by gender,PARTYGENDER,PA,Northeast,Middle Atlantic,Democratic men,16,83,15
-Party by gender,PARTYGENDER,PA,Northeast,Middle Atlantic,Democratic women,26,89,9
-Party by gender,PARTYGENDER,PA,Northeast,Middle Atlantic,Republican men,19,7,91
-Party by gender,PARTYGENDER,PA,Northeast,Middle Atlantic,Republican women,19,11,87
-Party by gender,PARTYGENDER,PA,Northeast,Middle Atlantic,Independent men,10,33,56
-Party by gender,PARTYGENDER,PA,Northeast,Middle Atlantic,Independent women,9,51,40
-Ideology,PHIL3,PA,Northeast,Middle Atlantic,Liberal,27,85,12
-Ideology,PHIL3,PA,Northeast,Middle Atlantic,Moderate,40,53,43
-Ideology,PHIL3,PA,Northeast,Middle Atlantic,Conservative,33,12,85
-Marital status,MARRIED,PA,Northeast,Middle Atlantic,Married,61,45,51
-Marital status,MARRIED,PA,Northeast,Middle Atlantic,Unmarried,39,55,42
-Marital status by gender,SEXWED,PA,Northeast,Middle Atlantic,Married men,29,40,56
-Marital status by gender,SEXWED,PA,Northeast,Middle Atlantic,Married women,31,50,47
-Marital status by gender,SEXWED,PA,Northeast,Middle Atlantic,Unmarried men,17,44,53
-Marital status by gender,SEXWED,PA,Northeast,Middle Atlantic,Unmarried women,22,64,33
-When did you decide presidential vote?,TIME16,PA,Northeast,Middle Atlantic,Last few days,10,37,53
-When did you decide presidential vote?,TIME16,PA,Northeast,Middle Atlantic,Last week,5,N/A,N/A
-When did you decide presidential vote?,TIME16,PA,Northeast,Middle Atlantic,In October,9,54,41
-When did you decide presidential vote?,TIME16,PA,Northeast,Middle Atlantic,In September,10,42,56
-When did you decide presidential vote?,TIME16,PA,Northeast,Middle Atlantic,Before September,65,48,51
-When did you decide presidential vote?,TIME16WEEK,PA,Northeast,Middle Atlantic,In the last week,15,37,54
-When did you decide presidential vote?,TIME16WEEK,PA,Northeast,Middle Atlantic,Before that,84,48,50
-When did you decide presidential vote?,TIME16MONTH,PA,Northeast,Middle Atlantic,In the last month,24,43,49
-When did you decide presidential vote?,TIME16MONTH,PA,Northeast,Middle Atlantic,Before that,75,47,51
-Opinion of presidential candidate you voted for,DESCRIBP12,PA,Northeast,Middle Atlantic,Strongly favor ,51,49,50
-Opinion of presidential candidate you voted for,DESCRIBP12,PA,Northeast,Middle Atlantic,Have reservations,32,50,49
-Opinion of presidential candidate you voted for,DESCRIBP12,PA,Northeast,Middle Atlantic,Dislike opponents,15,37,49
-Most important issue facing the country,ISSUE16,PA,Northeast,Middle Atlantic,Foreign policy,12,67,31
-Most important issue facing the country,ISSUE16,PA,Northeast,Middle Atlantic,Immigration,10,21,78
-Most important issue facing the country,ISSUE16,PA,Northeast,Middle Atlantic,Economy,56,50,46
-Most important issue facing the country,ISSUE16,PA,Northeast,Middle Atlantic,Terrorism,19,40,58
-Which candidate quality mattered most?,QLT16,PA,Northeast,Middle Atlantic,Cares about me,15,61,36
-Which candidate quality mattered most?,QLT16,PA,Northeast,Middle Atlantic,Can bring change,46,15,83
-Which candidate quality mattered most?,QLT16,PA,Northeast,Middle Atlantic,Right experience,21,93,7
-Which candidate quality mattered most?,QLT16,PA,Northeast,Middle Atlantic,Good judgment,16,69,22
-Illegal immigrants working in the U.S. should be:,IMMDEPORT,PA,Northeast,Middle Atlantic,Offered legal status,67,63,33
-Illegal immigrants working in the U.S. should be:,IMMDEPORT,PA,Northeast,Middle Atlantic,Deported to home country,31,14,83
-How do things work in the U.S. today?,RACEFACTOR,PA,Northeast,Middle Atlantic,Whites are favored,36,82,14
-How do things work in the U.S. today?,RACEFACTOR,PA,Northeast,Middle Atlantic,Minorities are favored,31,14,84
-How do things work in the U.S. today?,RACEFACTOR,PA,Northeast,Middle Atlantic,No group is favored,29,36,61
-Effect of international trade,TRADE16,PA,Northeast,Middle Atlantic,Creates U.S. jobs,34,65,32
-Effect of international trade,TRADE16,PA,Northeast,Middle Atlantic,Takes away U.S. jobs,53,32,64
-Effect of international trade,TRADE16,PA,Northeast,Middle Atlantic,Does not affect jobs,9,N/A,N/A
-Feelings about the federal government,GOVTANGR16,PA,Northeast,Middle Atlantic,Enthusiastic,4,N/A,N/A
-Feelings about the federal government,GOVTANGR16,PA,Northeast,Middle Atlantic,Satisfied,28,79,20
-Feelings about the federal government,GOVTANGR16,PA,Northeast,Middle Atlantic,Dissatisfied,43,41,55
-Feelings about the federal government,GOVTANGR16,PA,Northeast,Middle Atlantic,Angry,24,14,80
-Feelings about the federal government,GOVTANGR16B,PA,Northeast,Middle Atlantic,Enthusiastic/Satisfied,32,80,19
-Feelings about the federal government,GOVTANGR16B,PA,Northeast,Middle Atlantic,Dissatisfied/Angry,67,32,64
-Opinion of Barack Obama as president,OBAMA4,PA,Northeast,Middle Atlantic,Strongly approve,30,94,3
-Opinion of Barack Obama as president,OBAMA4,PA,Northeast,Middle Atlantic,Somewhat approve,21,72,22
-Opinion of Barack Obama as president,OBAMA4,PA,Northeast,Middle Atlantic,Somewhat disapprove,14,12,84
-Opinion of Barack Obama as president,OBAMA4,PA,Northeast,Middle Atlantic,Strongly disapprove,34,2,97
-Opinion of Barack Obama as president,OBAMA2,PA,Northeast,Middle Atlantic,Approve,51,85,11
-Opinion of Barack Obama as president,OBAMA2,PA,Northeast,Middle Atlantic,Disapprove,48,5,93
-Opinion of Hillary Clinton,FAVHCLIN16,PA,Northeast,Middle Atlantic,Favorable,42,96,2
-Opinion of Hillary Clinton,FAVHCLIN16,PA,Northeast,Middle Atlantic,Unfavorable,57,10,86
-Opinion of Donald Trump,FAVTRUMP,PA,Northeast,Middle Atlantic,Favorable,42,4,96
-Opinion of Donald Trump,FAVTRUMP,PA,Northeast,Middle Atlantic,Unfavorable,56,78,17
-Opinion of Clinton and Trump,FAVPRES16,PA,Northeast,Middle Atlantic,Both favorable,2,N/A,N/A
-Opinion of Clinton and Trump,FAVPRES16,PA,Northeast,Middle Atlantic,Only Clinton favorable,39,98,0
-Opinion of Clinton and Trump,FAVPRES16,PA,Northeast,Middle Atlantic,Only Trump favorable,40,1,99
-Opinion of Clinton and Trump,FAVPRES16,PA,Northeast,Middle Atlantic,Both unfavorable,17,31,56
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,PA,Northeast,Middle Atlantic,Yes,33,98,2
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,PA,Northeast,Middle Atlantic,No,64,20,75
-Is Donald Trump honest and trustworthy?,TRUMPHONEST,PA,Northeast,Middle Atlantic,Yes,38,5,95
-Is Donald Trump honest and trustworthy?,TRUMPHONEST,PA,Northeast,Middle Atlantic,No,60,74,21
-Which candidate is honest?,HONEST16,PA,Northeast,Middle Atlantic,Both are,2,N/A,N/A
-Which candidate is honest?,HONEST16,PA,Northeast,Middle Atlantic,Only Clinton is,31,99,1
-Which candidate is honest?,HONEST16,PA,Northeast,Middle Atlantic,Only Trump is,36,2,98
-Which candidate is honest?,HONEST16,PA,Northeast,Middle Atlantic,Neither is,28,45,43
-Is Clinton qualified to serve as president?,QUALCLINTON,PA,Northeast,Middle Atlantic,Yes,47,91,6
-Is Clinton qualified to serve as president?,QUALCLINTON,PA,Northeast,Middle Atlantic,No,52,6,91
-Is Trump qualified to serve as president?,QUALTRUMP,PA,Northeast,Middle Atlantic,Yes,43,5,94
-Is Trump qualified to serve as president?,QUALTRUMP,PA,Northeast,Middle Atlantic,No,56,78,17
-Who is qualified to serve as president?,QUALIFIED16,PA,Northeast,Middle Atlantic,Both are,4,N/A,N/A
-Who is qualified to serve as president?,QUALIFIED16,PA,Northeast,Middle Atlantic,Only Clinton is,43,96,1
-Who is qualified to serve as president?,QUALIFIED16,PA,Northeast,Middle Atlantic,Only Trump is,39,1,99
-Who is qualified to serve as president?,QUALIFIED16,PA,Northeast,Middle Atlantic,Neither is,13,21,67
-Does Clinton have the temperament to be president?,TEMPCLINTON,PA,Northeast,Middle Atlantic,Yes,52,86,12
-Does Clinton have the temperament to be president?,TEMPCLINTON,PA,Northeast,Middle Atlantic,No,46,4,91
-Does Trump have the temperament to be president?,TEMPTRUMP,PA,Northeast,Middle Atlantic,Yes,37,2,98
-Does Trump have the temperament to be president?,TEMPTRUMP,PA,Northeast,Middle Atlantic,No,62,74,21
-Which candidate has the right temperament?,TEMPERAMENT16,PA,Northeast,Middle Atlantic,Both do,5,N/A,N/A
-Which candidate has the right temperament?,TEMPERAMENT16,PA,Northeast,Middle Atlantic,Only Clinton does,47,94,4
-Which candidate has the right temperament?,TEMPERAMENT16,PA,Northeast,Middle Atlantic,Only Trump does,31,0,99
-Which candidate has the right temperament?,TEMPERAMENT16,PA,Northeast,Middle Atlantic,Neither does,15,11,74
-Does Clinton's use of private email bother you:,CLINTONEMAIL,PA,Northeast,Middle Atlantic,A lot,45,6,91
-Does Clinton's use of private email bother you:,CLINTONEMAIL,PA,Northeast,Middle Atlantic,Some,20,66,29
-Does Clinton's use of private email bother you:,CLINTONEMAIL,PA,Northeast,Middle Atlantic,Not much,18,90,7
-Does Clinton's use of private email bother you:,CLINTONEMAIL,PA,Northeast,Middle Atlantic,Not at all,16,94,3
-Does Clinton's use of private email bother you?,CLINTONEMAILB,PA,Northeast,Middle Atlantic,Yes,65,24,72
-Does Clinton's use of private email bother you?,CLINTONEMAILB,PA,Northeast,Middle Atlantic,No,34,92,5
-Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,PA,Northeast,Middle Atlantic,A lot,50,82,13
-Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,PA,Northeast,Middle Atlantic,Some,20,21,74
-Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,PA,Northeast,Middle Atlantic,Not much,15,7,93
-Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,PA,Northeast,Middle Atlantic,Not at all,14,5,94
-Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,PA,Northeast,Middle Atlantic,Yes,70,65,30
-Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,PA,Northeast,Middle Atlantic,No,29,6,93
-Condition of national economy,NEC,PA,Northeast,Middle Atlantic,Excellent,4,N/A,N/A
-Condition of national economy,NEC,PA,Northeast,Middle Atlantic,Good,30,82,16
-Condition of national economy,NEC,PA,Northeast,Middle Atlantic,Not good,45,37,58
-Condition of national economy,NEC,PA,Northeast,Middle Atlantic,Poor,20,10,86
-Condition of national economy,NEC2,PA,Northeast,Middle Atlantic,Good,34,82,17
-Condition of national economy,NEC2,PA,Northeast,Middle Atlantic,Poor,65,29,67
-Life for the next generation of Americans will be:,LIFE,PA,Northeast,Middle Atlantic,Better than today,38,56,41
-Life for the next generation of Americans will be:,LIFE,PA,Northeast,Middle Atlantic,Worse than today,32,26,71
-Life for the next generation of Americans will be:,LIFE,PA,Northeast,Middle Atlantic,About the same,27,59,36
-Did any campaign contact you?,GOTV16,PA,Northeast,Middle Atlantic,Only Clinton,21,81,16
-Did any campaign contact you?,GOTV16,PA,Northeast,Middle Atlantic,Only Trump,12,7,93
-Did any campaign contact you?,GOTV16,PA,Northeast,Middle Atlantic,Both,16,36,61
-Did any campaign contact you?,GOTV16,PA,Northeast,Middle Atlantic,Neither,49,42,54
-Were you contacted by the Trump campaign?,GOTVTRUMP,PA,Northeast,Middle Atlantic,Yes,28,23,74
-Were you contacted by the Trump campaign?,GOTVTRUMP,PA,Northeast,Middle Atlantic,No,70,54,42
-Were you contacted by the Clinton campaign?,GOTVCLINTON,PA,Northeast,Middle Atlantic,Yes,37,62,35
-Were you contacted by the Clinton campaign?,GOTVCLINTON,PA,Northeast,Middle Atlantic,No,61,35,61
-Vote for president in a two-way race,2WAYPRES16,PA,Northeast,Middle Atlantic,Clinton,48,96,1
-Vote for president in a two-way race,2WAYPRES16,PA,Northeast,Middle Atlantic,Trump,48,1,98
-Vote for president in a two-way race,2WAYPRES16,PA,Northeast,Middle Atlantic,Would not vote,3,N/A,N/A
-Area type,SIZEPLC3,PA,Northeast,Middle Atlantic,Urban area,27,70,26
-Area type,SIZEPLC3,PA,Northeast,Middle Atlantic,Suburban area,53,44,52
-Area type,SIZEPLC3,PA,Northeast,Middle Atlantic,Rural area,19,26,71
-Region,GEOCOD,PA,Northeast,Middle Atlantic,Philadelphia,12,83,15
-Region,GEOCOD,PA,Northeast,Middle Atlantic,Philadelphia suburbs,22,55,42
-Region,GEOCOD,PA,Northeast,Middle Atlantic,Northeast,16,42,55
-Region,GEOCOD,PA,Northeast,Middle Atlantic,Central,22,34,62
-Region,GEOCOD,PA,Northeast,Middle Atlantic,West,28,42,54
+year,question,pollname,state,region,subregion,answer,percent,dem,rep
+2016,Gender,SEX,PA,Northeast,Middle Atlantic,Male,47,40,57
+2016,Gender,SEX,PA,Northeast,Middle Atlantic,Female,53,55,42
+2016,Age,AGE,PA,Northeast,Middle Atlantic,18-29,16,52,43
+2016,Age,AGE,PA,Northeast,Middle Atlantic,30-44,24,53,42
+2016,Age,AGE,PA,Northeast,Middle Atlantic,45-64,38,45,52
+2016,Age,AGE,PA,Northeast,Middle Atlantic,65 and older,21,44,54
+2016,Age,AGE65,PA,Northeast,Middle Atlantic,18-24,8,50,45
+2016,Age,AGE65,PA,Northeast,Middle Atlantic,25-29,8,53,40
+2016,Age,AGE65,PA,Northeast,Middle Atlantic,30-39,16,54,40
+2016,Age,AGE65,PA,Northeast,Middle Atlantic,40-49,17,47,49
+2016,Age,AGE65,PA,Northeast,Middle Atlantic,50-64,30,45,53
+2016,Age,AGE65,PA,Northeast,Middle Atlantic,65 and older,21,44,54
+2016,Age,AGE45,PA,Northeast,Middle Atlantic,18-44,40,52,42
+2016,Age,AGE45,PA,Northeast,Middle Atlantic,45 and older,60,45,53
+2016,Race,RACE,PA,Northeast,Middle Atlantic,White,81,40,56
+2016,Race,RACE,PA,Northeast,Middle Atlantic,Black,10,92,7
+2016,Race,RACE,PA,Northeast,Middle Atlantic,Latino,6,74,22
+2016,Race,RACE,PA,Northeast,Middle Atlantic,Asian,1,N/A,N/A
+2016,Race,RACE,PA,Northeast,Middle Atlantic,Other race,2,N/A,N/A
+2016,Race,RACE2B,PA,Northeast,Middle Atlantic,White,81,40,56
+2016,Race,RACE2B,PA,Northeast,Middle Atlantic,Non-white,19,81,16
+2016,Race and gender,SEXBYRACE,PA,Northeast,Middle Atlantic,White men,38,32,64
+2016,Race and gender,SEXBYRACE,PA,Northeast,Middle Atlantic,White women,43,47,50
+2016,Race and gender,SEXBYRACE,PA,Northeast,Middle Atlantic,Black men,4,83,14
+2016,Race and gender,SEXBYRACE,PA,Northeast,Middle Atlantic,Black women,6,99,1
+2016,Race and gender,SEXBYRACE,PA,Northeast,Middle Atlantic,Latino men,3,N/A,N/A
+2016,Race and gender,SEXBYRACE,PA,Northeast,Middle Atlantic,Latino women,3,82,14
+2016,Race and gender,SEXBYRACE,PA,Northeast,Middle Atlantic,Others,3,N/A,N/A
+2016,Education,EDUC12R,PA,Northeast,Middle Atlantic,High school or less,22,43,56
+2016,Education,EDUC12R,PA,Northeast,Middle Atlantic,Some college,30,46,49
+2016,Education,EDUC12R,PA,Northeast,Middle Atlantic,College graduate,29,46,50
+2016,Education,EDUC12R,PA,Northeast,Middle Atlantic,Postgraduate,19,59,37
+2016,Are you a college graduate?,EDUCCOLL,PA,Northeast,Middle Atlantic,Yes,48,52,45
+2016,Are you a college graduate?,EDUCCOLL,PA,Northeast,Middle Atlantic,No,52,45,52
+2016,Education and race,EDUCWHITE,PA,Northeast,Middle Atlantic,White college graduates,41,48,48
+2016,Education and race,EDUCWHITE,PA,Northeast,Middle Atlantic,Whites no degree,40,32,64
+2016,Education and race,EDUCWHITE,PA,Northeast,Middle Atlantic,Non-whites college grads,7,75,24
+2016,Education and race,EDUCWHITE,PA,Northeast,Middle Atlantic,Non-whites no degree,12,86,10
+2016,Education among whites by sex,EDUCWHITEBYSEX,PA,Northeast,Middle Atlantic,White college-grad women,22,55,41
+2016,Education among whites by sex,EDUCWHITEBYSEX,PA,Northeast,Middle Atlantic,White non-college women,21,38,58
+2016,Education among whites by sex,EDUCWHITEBYSEX,PA,Northeast,Middle Atlantic,White college-grad men,18,39,56
+2016,Education among whites by sex,EDUCWHITEBYSEX,PA,Northeast,Middle Atlantic,White non-college men,19,26,71
+2016,Education among whites by sex,EDUCWHITEBYSEX,PA,Northeast,Middle Atlantic,Non-whites,19,82,15
+2016,Income,INCOME16GEN,PA,Northeast,Middle Atlantic,"Under $30,000",16,56,39
+2016,Income,INCOME16GEN,PA,Northeast,Middle Atlantic,"$30K-$49,999",22,53,44
+2016,Income,INCOME16GEN,PA,Northeast,Middle Atlantic,"$50K-$99,999",31,41,55
+2016,Income,INCOME16GEN,PA,Northeast,Middle Atlantic,"$100K-$199,999",21,46,51
+2016,Income,INCOME16GEN,PA,Northeast,Middle Atlantic,"$200K-$249,999",4,N/A,N/A
+2016,Income,INCOME16GEN,PA,Northeast,Middle Atlantic,"$250,000 or more",6,N/A,N/A
+2016,Income,INCOME3,PA,Northeast,Middle Atlantic,Under $50K,38,54,42
+2016,Income,INCOME3,PA,Northeast,Middle Atlantic,$50K-$100K,31,41,55
+2016,Income,INCOME3,PA,Northeast,Middle Atlantic,$100K or more,31,45,52
+2016,Income,INC50K,PA,Northeast,Middle Atlantic,Under $50K,38,54,42
+2016,Income,INC50K,PA,Northeast,Middle Atlantic,$50K or more,62,43,54
+2016,Income,INC100K,PA,Northeast,Middle Atlantic,Under $100K,69,49,48
+2016,Income,INC100K,PA,Northeast,Middle Atlantic,$100K or more,31,45,52
+2016,Party ID,PARTY,PA,Northeast,Middle Atlantic,Democrats,42,87,11
+2016,Party ID,PARTY,PA,Northeast,Middle Atlantic,Republicans,39,9,89
+2016,Party ID,PARTY,PA,Northeast,Middle Atlantic,Independents,20,41,48
+2016,Party by gender,PARTYGENDER,PA,Northeast,Middle Atlantic,Democratic men,16,83,15
+2016,Party by gender,PARTYGENDER,PA,Northeast,Middle Atlantic,Democratic women,26,89,9
+2016,Party by gender,PARTYGENDER,PA,Northeast,Middle Atlantic,Republican men,19,7,91
+2016,Party by gender,PARTYGENDER,PA,Northeast,Middle Atlantic,Republican women,19,11,87
+2016,Party by gender,PARTYGENDER,PA,Northeast,Middle Atlantic,Independent men,10,33,56
+2016,Party by gender,PARTYGENDER,PA,Northeast,Middle Atlantic,Independent women,9,51,40
+2016,Ideology,PHIL3,PA,Northeast,Middle Atlantic,Liberal,27,85,12
+2016,Ideology,PHIL3,PA,Northeast,Middle Atlantic,Moderate,40,53,43
+2016,Ideology,PHIL3,PA,Northeast,Middle Atlantic,Conservative,33,12,85
+2016,Marital status,MARRIED,PA,Northeast,Middle Atlantic,Married,61,45,51
+2016,Marital status,MARRIED,PA,Northeast,Middle Atlantic,Unmarried,39,55,42
+2016,Marital status by gender,SEXWED,PA,Northeast,Middle Atlantic,Married men,29,40,56
+2016,Marital status by gender,SEXWED,PA,Northeast,Middle Atlantic,Married women,31,50,47
+2016,Marital status by gender,SEXWED,PA,Northeast,Middle Atlantic,Unmarried men,17,44,53
+2016,Marital status by gender,SEXWED,PA,Northeast,Middle Atlantic,Unmarried women,22,64,33
+2016,When did you decide presidential vote?,TIME16,PA,Northeast,Middle Atlantic,Last few days,10,37,53
+2016,When did you decide presidential vote?,TIME16,PA,Northeast,Middle Atlantic,Last week,5,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,PA,Northeast,Middle Atlantic,In October,9,54,41
+2016,When did you decide presidential vote?,TIME16,PA,Northeast,Middle Atlantic,In September,10,42,56
+2016,When did you decide presidential vote?,TIME16,PA,Northeast,Middle Atlantic,Before September,65,48,51
+2016,When did you decide presidential vote?,TIME16WEEK,PA,Northeast,Middle Atlantic,In the last week,15,37,54
+2016,When did you decide presidential vote?,TIME16WEEK,PA,Northeast,Middle Atlantic,Before that,84,48,50
+2016,When did you decide presidential vote?,TIME16MONTH,PA,Northeast,Middle Atlantic,In the last month,24,43,49
+2016,When did you decide presidential vote?,TIME16MONTH,PA,Northeast,Middle Atlantic,Before that,75,47,51
+2016,Opinion of presidential candidate you voted for,DESCRIBP12,PA,Northeast,Middle Atlantic,Strongly favor ,51,49,50
+2016,Opinion of presidential candidate you voted for,DESCRIBP12,PA,Northeast,Middle Atlantic,Have reservations,32,50,49
+2016,Opinion of presidential candidate you voted for,DESCRIBP12,PA,Northeast,Middle Atlantic,Dislike opponents,15,37,49
+2016,Most important issue facing the country,ISSUE16,PA,Northeast,Middle Atlantic,Foreign policy,12,67,31
+2016,Most important issue facing the country,ISSUE16,PA,Northeast,Middle Atlantic,Immigration,10,21,78
+2016,Most important issue facing the country,ISSUE16,PA,Northeast,Middle Atlantic,Economy,56,50,46
+2016,Most important issue facing the country,ISSUE16,PA,Northeast,Middle Atlantic,Terrorism,19,40,58
+2016,Which candidate quality mattered most?,QLT16,PA,Northeast,Middle Atlantic,Cares about me,15,61,36
+2016,Which candidate quality mattered most?,QLT16,PA,Northeast,Middle Atlantic,Can bring change,46,15,83
+2016,Which candidate quality mattered most?,QLT16,PA,Northeast,Middle Atlantic,Right experience,21,93,7
+2016,Which candidate quality mattered most?,QLT16,PA,Northeast,Middle Atlantic,Good judgment,16,69,22
+2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,PA,Northeast,Middle Atlantic,Offered legal status,67,63,33
+2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,PA,Northeast,Middle Atlantic,Deported to home country,31,14,83
+2016,How do things work in the U.S. today?,RACEFACTOR,PA,Northeast,Middle Atlantic,Whites are favored,36,82,14
+2016,How do things work in the U.S. today?,RACEFACTOR,PA,Northeast,Middle Atlantic,Minorities are favored,31,14,84
+2016,How do things work in the U.S. today?,RACEFACTOR,PA,Northeast,Middle Atlantic,No group is favored,29,36,61
+2016,Effect of international trade,TRADE16,PA,Northeast,Middle Atlantic,Creates U.S. jobs,34,65,32
+2016,Effect of international trade,TRADE16,PA,Northeast,Middle Atlantic,Takes away U.S. jobs,53,32,64
+2016,Effect of international trade,TRADE16,PA,Northeast,Middle Atlantic,Does not affect jobs,9,N/A,N/A
+2016,Feelings about the federal government,GOVTANGR16,PA,Northeast,Middle Atlantic,Enthusiastic,4,N/A,N/A
+2016,Feelings about the federal government,GOVTANGR16,PA,Northeast,Middle Atlantic,Satisfied,28,79,20
+2016,Feelings about the federal government,GOVTANGR16,PA,Northeast,Middle Atlantic,Dissatisfied,43,41,55
+2016,Feelings about the federal government,GOVTANGR16,PA,Northeast,Middle Atlantic,Angry,24,14,80
+2016,Feelings about the federal government,GOVTANGR16B,PA,Northeast,Middle Atlantic,Enthusiastic/Satisfied,32,80,19
+2016,Feelings about the federal government,GOVTANGR16B,PA,Northeast,Middle Atlantic,Dissatisfied/Angry,67,32,64
+2016,Opinion of Barack Obama as president,OBAMA4,PA,Northeast,Middle Atlantic,Strongly approve,30,94,3
+2016,Opinion of Barack Obama as president,OBAMA4,PA,Northeast,Middle Atlantic,Somewhat approve,21,72,22
+2016,Opinion of Barack Obama as president,OBAMA4,PA,Northeast,Middle Atlantic,Somewhat disapprove,14,12,84
+2016,Opinion of Barack Obama as president,OBAMA4,PA,Northeast,Middle Atlantic,Strongly disapprove,34,2,97
+2016,Opinion of Barack Obama as president,OBAMA2,PA,Northeast,Middle Atlantic,Approve,51,85,11
+2016,Opinion of Barack Obama as president,OBAMA2,PA,Northeast,Middle Atlantic,Disapprove,48,5,93
+2016,Opinion of Hillary Clinton,FAVHCLIN16,PA,Northeast,Middle Atlantic,Favorable,42,96,2
+2016,Opinion of Hillary Clinton,FAVHCLIN16,PA,Northeast,Middle Atlantic,Unfavorable,57,10,86
+2016,Opinion of Donald Trump,FAVTRUMP,PA,Northeast,Middle Atlantic,Favorable,42,4,96
+2016,Opinion of Donald Trump,FAVTRUMP,PA,Northeast,Middle Atlantic,Unfavorable,56,78,17
+2016,Opinion of Clinton and Trump,FAVPRES16,PA,Northeast,Middle Atlantic,Both favorable,2,N/A,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,PA,Northeast,Middle Atlantic,Only Clinton favorable,39,98,0
+2016,Opinion of Clinton and Trump,FAVPRES16,PA,Northeast,Middle Atlantic,Only Trump favorable,40,1,99
+2016,Opinion of Clinton and Trump,FAVPRES16,PA,Northeast,Middle Atlantic,Both unfavorable,17,31,56
+2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,PA,Northeast,Middle Atlantic,Yes,33,98,2
+2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,PA,Northeast,Middle Atlantic,No,64,20,75
+2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,PA,Northeast,Middle Atlantic,Yes,38,5,95
+2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,PA,Northeast,Middle Atlantic,No,60,74,21
+2016,Which candidate is honest?,HONEST16,PA,Northeast,Middle Atlantic,Both are,2,N/A,N/A
+2016,Which candidate is honest?,HONEST16,PA,Northeast,Middle Atlantic,Only Clinton is,31,99,1
+2016,Which candidate is honest?,HONEST16,PA,Northeast,Middle Atlantic,Only Trump is,36,2,98
+2016,Which candidate is honest?,HONEST16,PA,Northeast,Middle Atlantic,Neither is,28,45,43
+2016,Is Clinton qualified to serve as president?,QUALCLINTON,PA,Northeast,Middle Atlantic,Yes,47,91,6
+2016,Is Clinton qualified to serve as president?,QUALCLINTON,PA,Northeast,Middle Atlantic,No,52,6,91
+2016,Is Trump qualified to serve as president?,QUALTRUMP,PA,Northeast,Middle Atlantic,Yes,43,5,94
+2016,Is Trump qualified to serve as president?,QUALTRUMP,PA,Northeast,Middle Atlantic,No,56,78,17
+2016,Who is qualified to serve as president?,QUALIFIED16,PA,Northeast,Middle Atlantic,Both are,4,N/A,N/A
+2016,Who is qualified to serve as president?,QUALIFIED16,PA,Northeast,Middle Atlantic,Only Clinton is,43,96,1
+2016,Who is qualified to serve as president?,QUALIFIED16,PA,Northeast,Middle Atlantic,Only Trump is,39,1,99
+2016,Who is qualified to serve as president?,QUALIFIED16,PA,Northeast,Middle Atlantic,Neither is,13,21,67
+2016,Does Clinton have the temperament to be president?,TEMPCLINTON,PA,Northeast,Middle Atlantic,Yes,52,86,12
+2016,Does Clinton have the temperament to be president?,TEMPCLINTON,PA,Northeast,Middle Atlantic,No,46,4,91
+2016,Does Trump have the temperament to be president?,TEMPTRUMP,PA,Northeast,Middle Atlantic,Yes,37,2,98
+2016,Does Trump have the temperament to be president?,TEMPTRUMP,PA,Northeast,Middle Atlantic,No,62,74,21
+2016,Which candidate has the right temperament?,TEMPERAMENT16,PA,Northeast,Middle Atlantic,Both do,5,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,PA,Northeast,Middle Atlantic,Only Clinton does,47,94,4
+2016,Which candidate has the right temperament?,TEMPERAMENT16,PA,Northeast,Middle Atlantic,Only Trump does,31,0,99
+2016,Which candidate has the right temperament?,TEMPERAMENT16,PA,Northeast,Middle Atlantic,Neither does,15,11,74
+2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,PA,Northeast,Middle Atlantic,A lot,45,6,91
+2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,PA,Northeast,Middle Atlantic,Some,20,66,29
+2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,PA,Northeast,Middle Atlantic,Not much,18,90,7
+2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,PA,Northeast,Middle Atlantic,Not at all,16,94,3
+2016,Does Clinton's use of private email bother you?,CLINTONEMAILB,PA,Northeast,Middle Atlantic,Yes,65,24,72
+2016,Does Clinton's use of private email bother you?,CLINTONEMAILB,PA,Northeast,Middle Atlantic,No,34,92,5
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,PA,Northeast,Middle Atlantic,A lot,50,82,13
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,PA,Northeast,Middle Atlantic,Some,20,21,74
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,PA,Northeast,Middle Atlantic,Not much,15,7,93
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,PA,Northeast,Middle Atlantic,Not at all,14,5,94
+2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,PA,Northeast,Middle Atlantic,Yes,70,65,30
+2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,PA,Northeast,Middle Atlantic,No,29,6,93
+2016,Condition of national economy,NEC,PA,Northeast,Middle Atlantic,Excellent,4,N/A,N/A
+2016,Condition of national economy,NEC,PA,Northeast,Middle Atlantic,Good,30,82,16
+2016,Condition of national economy,NEC,PA,Northeast,Middle Atlantic,Not good,45,37,58
+2016,Condition of national economy,NEC,PA,Northeast,Middle Atlantic,Poor,20,10,86
+2016,Condition of national economy,NEC2,PA,Northeast,Middle Atlantic,Good,34,82,17
+2016,Condition of national economy,NEC2,PA,Northeast,Middle Atlantic,Poor,65,29,67
+2016,Life for the next generation of Americans will be:,LIFE,PA,Northeast,Middle Atlantic,Better than today,38,56,41
+2016,Life for the next generation of Americans will be:,LIFE,PA,Northeast,Middle Atlantic,Worse than today,32,26,71
+2016,Life for the next generation of Americans will be:,LIFE,PA,Northeast,Middle Atlantic,About the same,27,59,36
+2016,Did any campaign contact you?,GOTV16,PA,Northeast,Middle Atlantic,Only Clinton,21,81,16
+2016,Did any campaign contact you?,GOTV16,PA,Northeast,Middle Atlantic,Only Trump,12,7,93
+2016,Did any campaign contact you?,GOTV16,PA,Northeast,Middle Atlantic,Both,16,36,61
+2016,Did any campaign contact you?,GOTV16,PA,Northeast,Middle Atlantic,Neither,49,42,54
+2016,Were you contacted by the Trump campaign?,GOTVTRUMP,PA,Northeast,Middle Atlantic,Yes,28,23,74
+2016,Were you contacted by the Trump campaign?,GOTVTRUMP,PA,Northeast,Middle Atlantic,No,70,54,42
+2016,Were you contacted by the Clinton campaign?,GOTVCLINTON,PA,Northeast,Middle Atlantic,Yes,37,62,35
+2016,Were you contacted by the Clinton campaign?,GOTVCLINTON,PA,Northeast,Middle Atlantic,No,61,35,61
+2016,Vote for president in a two-way race,2WAYPRES16,PA,Northeast,Middle Atlantic,Clinton,48,96,1
+2016,Vote for president in a two-way race,2WAYPRES16,PA,Northeast,Middle Atlantic,Trump,48,1,98
+2016,Vote for president in a two-way race,2WAYPRES16,PA,Northeast,Middle Atlantic,Would not vote,3,N/A,N/A
+2016,Area type,SIZEPLC3,PA,Northeast,Middle Atlantic,Urban area,27,70,26
+2016,Area type,SIZEPLC3,PA,Northeast,Middle Atlantic,Suburban area,53,44,52
+2016,Area type,SIZEPLC3,PA,Northeast,Middle Atlantic,Rural area,19,26,71
+2016,Region,GEOCOD,PA,Northeast,Middle Atlantic,Philadelphia,12,83,15
+2016,Region,GEOCOD,PA,Northeast,Middle Atlantic,Philadelphia suburbs,22,55,42
+2016,Region,GEOCOD,PA,Northeast,Middle Atlantic,Northeast,16,42,55
+2016,Region,GEOCOD,PA,Northeast,Middle Atlantic,Central,22,34,62
+2016,Region,GEOCOD,PA,Northeast,Middle Atlantic,West,28,42,54

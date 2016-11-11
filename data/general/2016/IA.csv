@@ -1,216 +1,216 @@
-question,pollname,state,region,subregion,answer,percent,dem,rep
-Gender,SEX,IA,Midwest,West North Central,Male,47,33,61
-Gender,SEX,IA,Midwest,West North Central,Female,53,51,44
-Age,AGE,IA,Midwest,West North Central,18-29,18,42,48
-Age,AGE,IA,Midwest,West North Central,30-44,23,38,52
-Age,AGE,IA,Midwest,West North Central,45-64,37,43,53
-Age,AGE,IA,Midwest,West North Central,65 and older,22,47,51
-Age,AGE65,IA,Midwest,West North Central,18-24,10,48,39
-Age,AGE65,IA,Midwest,West North Central,25-29,8,34,58
-Age,AGE65,IA,Midwest,West North Central,30-39,17,39,49
-Age,AGE65,IA,Midwest,West North Central,40-49,16,35,60
-Age,AGE65,IA,Midwest,West North Central,50-64,28,46,51
-Age,AGE65,IA,Midwest,West North Central,65 and older,22,47,51
-Age,AGE45,IA,Midwest,West North Central,18-44,41,40,50
-Age,AGE45,IA,Midwest,West North Central,45 and older,59,44,52
-Race,RACE,IA,Midwest,West North Central,White,90,40,54
-Race,RACE,IA,Midwest,West North Central,Black,2,N/A,N/A
-Race,RACE,IA,Midwest,West North Central,Latino,5,63,26
-Race,RACE,IA,Midwest,West North Central,Asian,1,N/A,N/A
-Race,RACE,IA,Midwest,West North Central,Other race,2,N/A,N/A
-Race,RACE2B,IA,Midwest,West North Central,White,90,40,54
-Race,RACE2B,IA,Midwest,West North Central,Non-white,10,63,25
-Race and gender,SEXBYRACE,IA,Midwest,West North Central,White men,43,31,64
-Race and gender,SEXBYRACE,IA,Midwest,West North Central,White women,48,49,46
-Race and gender,SEXBYRACE,IA,Midwest,West North Central,Black men,1,N/A,N/A
-Race and gender,SEXBYRACE,IA,Midwest,West North Central,Black women,1,N/A,N/A
-Race and gender,SEXBYRACE,IA,Midwest,West North Central,Latino men,3,N/A,N/A
-Race and gender,SEXBYRACE,IA,Midwest,West North Central,Latino women,3,N/A,N/A
-Race and gender,SEXBYRACE,IA,Midwest,West North Central,Others,2,N/A,N/A
-Education,EDUC12R,IA,Midwest,West North Central,High school or less,24,44,51
-Education,EDUC12R,IA,Midwest,West North Central,Some college,33,38,56
-Education,EDUC12R,IA,Midwest,West North Central,College graduate,30,40,53
-Education,EDUC12R,IA,Midwest,West North Central,Postgraduate,14,57,36
-Are you a college graduate?,EDUCCOLL,IA,Midwest,West North Central,Yes,43,46,48
-Are you a college graduate?,EDUCCOLL,IA,Midwest,West North Central,No,57,40,54
-Education and race,EDUCWHITE,IA,Midwest,West North Central,White college graduates,40,44,49
-Education and race,EDUCWHITE,IA,Midwest,West North Central,Whites no degree,50,38,58
-Education and race,EDUCWHITE,IA,Midwest,West North Central,Non-whites college grads,3,N/A,N/A
-Education and race,EDUCWHITE,IA,Midwest,West North Central,Non-whites no degree,6,62,23
-Education among whites by sex,EDUCWHITEBYSEX,IA,Midwest,West North Central,White college-grad women,22,52,41
-Education among whites by sex,EDUCWHITEBYSEX,IA,Midwest,West North Central,White non-college women,26,47,49
-Education among whites by sex,EDUCWHITEBYSEX,IA,Midwest,West North Central,White college-grad men,18,33,60
-Education among whites by sex,EDUCWHITEBYSEX,IA,Midwest,West North Central,White non-college men,24,29,67
-Education among whites by sex,EDUCWHITEBYSEX,IA,Midwest,West North Central,Non-whites,10,63,25
-Income,INCOME16GEN,IA,Midwest,West North Central,"Under $30,000",15,48,39
-Income,INCOME16GEN,IA,Midwest,West North Central,"$30K-$49,999",22,56,37
-Income,INCOME16GEN,IA,Midwest,West North Central,"$50K-$99,999",36,39,55
-Income,INCOME16GEN,IA,Midwest,West North Central,"$100K-$199,999",21,43,49
-Income,INCOME16GEN,IA,Midwest,West North Central,"$200K-$249,999",3,N/A,N/A
-Income,INCOME16GEN,IA,Midwest,West North Central,"$250,000 or more",3,N/A,N/A
-Income,INCOME3,IA,Midwest,West North Central,Under $50K,36,52,38
-Income,INCOME3,IA,Midwest,West North Central,$50K-$100K,36,39,55
-Income,INCOME3,IA,Midwest,West North Central,$100K or more,27,43,51
-Income,INC50K,IA,Midwest,West North Central,Under $50K,36,52,38
-Income,INC50K,IA,Midwest,West North Central,$50K or more,64,41,53
-Income,INC100K,IA,Midwest,West North Central,Under $100K,73,46,46
-Income,INC100K,IA,Midwest,West North Central,$100K or more,27,43,51
-Party ID,PARTY,IA,Midwest,West North Central,Democrats,31,88,10
-Party ID,PARTY,IA,Midwest,West North Central,Republicans,34,6,90
-Party ID,PARTY,IA,Midwest,West North Central,Independents,35,38,51
-Party by gender,PARTYGENDER,IA,Midwest,West North Central,Democratic men,12,85,13
-Party by gender,PARTYGENDER,IA,Midwest,West North Central,Democratic women,19,90,7
-Party by gender,PARTYGENDER,IA,Midwest,West North Central,Republican men,18,5,92
-Party by gender,PARTYGENDER,IA,Midwest,West North Central,Republican women,16,7,88
-Party by gender,PARTYGENDER,IA,Midwest,West North Central,Independent men,17,26,61
-Party by gender,PARTYGENDER,IA,Midwest,West North Central,Independent women,18,50,42
-Ideology,PHIL3,IA,Midwest,West North Central,Liberal,23,81,12
-Ideology,PHIL3,IA,Midwest,West North Central,Moderate,37,51,42
-Ideology,PHIL3,IA,Midwest,West North Central,Conservative,40,11,84
-Religion,REL5,IA,Midwest,West North Central,Protestant,58,31,63
-Religion,REL5,IA,Midwest,West North Central,Catholic,20,42,56
-Religion,REL5,IA,Midwest,West North Central,Jewish,0,N/A,N/A
-Religion,REL5,IA,Midwest,West North Central,Another religion,6,N/A,N/A
-Religion,REL5,IA,Midwest,West North Central,No religion,17,65,22
-How often do you attend religious services?,ATTEND16,IA,Midwest,West North Central,Weekly or more,31,33,61
-How often do you attend religious services?,ATTEND16,IA,Midwest,West North Central,Monthly,19,26,71
-How often do you attend religious services?,ATTEND16,IA,Midwest,West North Central,Few times a year,28,46,48
-How often do you attend religious services?,ATTEND16,IA,Midwest,West North Central,Never,22,65,25
-How often do you attend religious services?,ATTEND16B,IA,Midwest,West North Central,Monthly or more,50,30,65
-How often do you attend religious services?,ATTEND16B,IA,Midwest,West North Central,Less often than that,50,54,38
-White born-again or evangelical Christian?,WHTEVANG,IA,Midwest,West North Central,Yes,34,25,70
-White born-again or evangelical Christian?,WHTEVANG,IA,Midwest,West North Central,No,66,51,42
-Marital status,MARRIED,IA,Midwest,West North Central,Married,67,38,58
-Marital status,MARRIED,IA,Midwest,West North Central,Unmarried,33,54,43
-Marital status by gender,SEXWED,IA,Midwest,West North Central,Married men,32,30,67
-Marital status by gender,SEXWED,IA,Midwest,West North Central,Married women,36,45,50
-Marital status by gender,SEXWED,IA,Midwest,West North Central,Unmarried men,14,40,54
-Marital status by gender,SEXWED,IA,Midwest,West North Central,Unmarried women,19,64,34
-Served in the U.S. military,VETVOTER,IA,Midwest,West North Central,Veterans,13,31,61
-Served in the U.S. military,VETVOTER,IA,Midwest,West North Central,Non-veterans,87,46,46
-When did you decide presidential vote?,TIME16,IA,Midwest,West North Central,Last few days,10,34,56
-When did you decide presidential vote?,TIME16,IA,Midwest,West North Central,Last week,4,N/A,N/A
-When did you decide presidential vote?,TIME16,IA,Midwest,West North Central,In October,12,35,51
-When did you decide presidential vote?,TIME16,IA,Midwest,West North Central,In September,11,37,55
-When did you decide presidential vote?,TIME16,IA,Midwest,West North Central,Before September,62,49,46
-When did you decide presidential vote?,TIME16WEEK,IA,Midwest,West North Central,In the last week,14,34,54
-When did you decide presidential vote?,TIME16WEEK,IA,Midwest,West North Central,Before that,84,45,48
-When did you decide presidential vote?,TIME16MONTH,IA,Midwest,West North Central,In the last month,26,35,53
-When did you decide presidential vote?,TIME16MONTH,IA,Midwest,West North Central,Before that,73,47,47
-Opinion of presidential candidate you voted for,DESCRIBP12,IA,Midwest,West North Central,Strongly favor ,40,45,52
-Opinion of presidential candidate you voted for,DESCRIBP12,IA,Midwest,West North Central,Have reservations,29,39,58
-Opinion of presidential candidate you voted for,DESCRIBP12,IA,Midwest,West North Central,Dislike opponents,29,33,52
-Most important issue facing the country,ISSUE16,IA,Midwest,West North Central,Foreign policy,12,62,30
-Most important issue facing the country,ISSUE16,IA,Midwest,West North Central,Immigration,12,18,80
-Most important issue facing the country,ISSUE16,IA,Midwest,West North Central,Economy,54,46,46
-Most important issue facing the country,ISSUE16,IA,Midwest,West North Central,Terrorism,18,36,57
-Which candidate quality mattered most?,QLT16,IA,Midwest,West North Central,Cares about me,12,57,33
-Which candidate quality mattered most?,QLT16,IA,Midwest,West North Central,Can bring change,43,10,87
-Which candidate quality mattered most?,QLT16,IA,Midwest,West North Central,Right experience,19,87,8
-Which candidate quality mattered most?,QLT16,IA,Midwest,West North Central,Good judgment,22,58,28
-Illegal immigrants working in the U.S. should be:,IMMDEPORT,IA,Midwest,West North Central,Offered legal status,65,60,35
-Illegal immigrants working in the U.S. should be:,IMMDEPORT,IA,Midwest,West North Central,Deported to home country,29,10,88
-Do you think immigrants to the U.S. today:,IMMBETTER,IA,Midwest,West North Central,Help the country,56,60,33
-Do you think immigrants to the U.S. today:,IMMBETTER,IA,Midwest,West North Central,Hurt the country,37,16,82
-Effect of international trade,TRADE16,IA,Midwest,West North Central,Creates U.S. jobs,41,48,47
-Effect of international trade,TRADE16,IA,Midwest,West North Central,Takes away U.S. jobs,37,29,66
-Effect of international trade,TRADE16,IA,Midwest,West North Central,Does not affect jobs,11,N/A,N/A
-How do things work in the U.S. today?,RACEFACTOR,IA,Midwest,West North Central,Whites are favored,30,74,22
-How do things work in the U.S. today?,RACEFACTOR,IA,Midwest,West North Central,Minorities are favored,23,15,84
-How do things work in the U.S. today?,RACEFACTOR,IA,Midwest,West North Central,No group is favored,40,36,58
-Feelings about the federal government,GOVTANGR16,IA,Midwest,West North Central,Enthusiastic,2,N/A,N/A
-Feelings about the federal government,GOVTANGR16,IA,Midwest,West North Central,Satisfied,26,74,22
-Feelings about the federal government,GOVTANGR16,IA,Midwest,West North Central,Dissatisfied,46,33,59
-Feelings about the federal government,GOVTANGR16,IA,Midwest,West North Central,Angry,24,11,81
-Feelings about the federal government,GOVTANGR16B,IA,Midwest,West North Central,Enthusiastic/Satisfied,28,75,21
-Feelings about the federal government,GOVTANGR16B,IA,Midwest,West North Central,Dissatisfied/Angry,71,26,67
-Opinion of Barack Obama as president,OBAMA4,IA,Midwest,West North Central,Strongly approve,26,95,2
-Opinion of Barack Obama as president,OBAMA4,IA,Midwest,West North Central,Somewhat approve,26,64,20
-Opinion of Barack Obama as president,OBAMA4,IA,Midwest,West North Central,Somewhat disapprove,13,14,72
-Opinion of Barack Obama as president,OBAMA4,IA,Midwest,West North Central,Strongly disapprove,34,1,96
-Opinion of Barack Obama as president,OBAMA2,IA,Midwest,West North Central,Approve,52,80,11
-Opinion of Barack Obama as president,OBAMA2,IA,Midwest,West North Central,Disapprove,47,5,89
-Should the next president:,OBAMAPLCY16,IA,Midwest,West North Central,Continue Obama's policies,26,94,5
-Should the next president:,OBAMAPLCY16,IA,Midwest,West North Central,Be more conservative,53,10,86
-Should the next president:,OBAMAPLCY16,IA,Midwest,West North Central,Be more liberal,14,61,34
-Opinion of Hillary Clinton,FAVHCLIN16,IA,Midwest,West North Central,Favorable,41,96,0
-Opinion of Hillary Clinton,FAVHCLIN16,IA,Midwest,West North Central,Unfavorable,57,8,81
-Opinion of Donald Trump,FAVTRUMP,IA,Midwest,West North Central,Favorable,39,2,97
-Opinion of Donald Trump,FAVTRUMP,IA,Midwest,West North Central,Unfavorable,59,73,15
-Opinion of Clinton and Trump,FAVPRES16,IA,Midwest,West North Central,Both favorable,1,N/A,N/A
-Opinion of Clinton and Trump,FAVPRES16,IA,Midwest,West North Central,Only Clinton favorable,40,96,0
-Opinion of Clinton and Trump,FAVPRES16,IA,Midwest,West North Central,Only Trump favorable,38,1,99
-Opinion of Clinton and Trump,FAVPRES16,IA,Midwest,West North Central,Both unfavorable,19,24,45
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,IA,Midwest,West North Central,Yes,33,91,7
-Is Hillary Clinton honest and trustworthy?,CLINHONEST,IA,Midwest,West North Central,No,65,13,78
-Is Donald Trump honest and trustworthy?,TRUMPHONEST,IA,Midwest,West North Central,Yes,40,1,97
-Is Donald Trump honest and trustworthy?,TRUMPHONEST,IA,Midwest,West North Central,No,58,68,22
-Which candidate is honest?,HONEST16,IA,Midwest,West North Central,Both are,2,N/A,N/A
-Which candidate is honest?,HONEST16,IA,Midwest,West North Central,Only Clinton is,31,98,1
-Which candidate is honest?,HONEST16,IA,Midwest,West North Central,Only Trump is,38,N/A,98
-Which candidate is honest?,HONEST16,IA,Midwest,West North Central,Neither is,26,32,47
-Does Clinton have the temperament to be president?,TEMPCLINTON,IA,Midwest,West North Central,Yes,50,78,15
-Does Clinton have the temperament to be president?,TEMPCLINTON,IA,Midwest,West North Central,No,49,1,92
-Does Trump have the temperament to be president?,TEMPTRUMP,IA,Midwest,West North Central,Yes,43,0,98
-Does Trump have the temperament to be president?,TEMPTRUMP,IA,Midwest,West North Central,No,55,72,17
-Which candidate has the right temperament?,TEMPERAMENT16,IA,Midwest,West North Central,Both do,6,N/A,N/A
-Which candidate has the right temperament?,TEMPERAMENT16,IA,Midwest,West North Central,Only Clinton does,44,89,4
-Which candidate has the right temperament?,TEMPERAMENT16,IA,Midwest,West North Central,Only Trump does,37,N/A,99
-Which candidate has the right temperament?,TEMPERAMENT16,IA,Midwest,West North Central,Neither does,11,5,69
-Is Clinton qualified to serve as president?,QUALCLINTON,IA,Midwest,West North Central,Yes,48,88,7
-Is Clinton qualified to serve as president?,QUALCLINTON,IA,Midwest,West North Central,No,51,5,85
-Is Trump qualified to serve as president?,QUALTRUMP,IA,Midwest,West North Central,Yes,39,2,97
-Is Trump qualified to serve as president?,QUALTRUMP,IA,Midwest,West North Central,No,60,74,14
-Who is qualified to serve as president?,QUALIFIED16,IA,Midwest,West North Central,Both are,4,N/A,N/A
-Who is qualified to serve as president?,QUALIFIED16,IA,Midwest,West North Central,Only Clinton is,44,95,1
-Who is qualified to serve as president?,QUALIFIED16,IA,Midwest,West North Central,Only Trump is,35,1,99
-Who is qualified to serve as president?,QUALIFIED16,IA,Midwest,West North Central,Neither is,16,15,53
-Does Clinton's use of private email bother you:,CLINTONEMAIL,IA,Midwest,West North Central,A lot,47,6,90
-Does Clinton's use of private email bother you:,CLINTONEMAIL,IA,Midwest,West North Central,Some,15,57,36
-Does Clinton's use of private email bother you:,CLINTONEMAIL,IA,Midwest,West North Central,Not much,14,77,17
-Does Clinton's use of private email bother you:,CLINTONEMAIL,IA,Midwest,West North Central,Not at all,22,92,7
-Does Clinton's use of private email bother you?,CLINTONEMAILB,IA,Midwest,West North Central,Yes,62,19,77
-Does Clinton's use of private email bother you?,CLINTONEMAILB,IA,Midwest,West North Central,No,36,86,11
-Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,IA,Midwest,West North Central,A lot,47,79,14
-Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,IA,Midwest,West North Central,Some,20,23,73
-Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,IA,Midwest,West North Central,Not much,14,5,94
-Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,IA,Midwest,West North Central,Not at all,17,2,97
-Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,IA,Midwest,West North Central,Yes,68,62,32
-Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,IA,Midwest,West North Central,No,32,4,96
-Who would better handle the economy?,HANDLEECON16,IA,Midwest,West North Central,Clinton,43,93,0
-Who would better handle the economy?,HANDLEECON16,IA,Midwest,West North Central,Trump,52,5,90
-Who would better handle foreign policy?,HANDLEFP16,IA,Midwest,West North Central,Clinton,51,82,8
-Who would better handle foreign policy?,HANDLEFP16,IA,Midwest,West North Central,Trump,44,1,96
-Condition of national economy,NEC,IA,Midwest,West North Central,Excellent,3,N/A,N/A
-Condition of national economy,NEC,IA,Midwest,West North Central,Good,33,70,24
-Condition of national economy,NEC,IA,Midwest,West North Central,Not good,40,29,63
-Condition of national economy,NEC,IA,Midwest,West North Central,Poor,23,10,84
-Condition of national economy,NEC2,IA,Midwest,West North Central,Good,36,71,23
-Condition of national economy,NEC2,IA,Midwest,West North Central,Poor,63,22,71
-Financial situation compared to four years ago:,FINSIT,IA,Midwest,West North Central,Better today,28,66,23
-Financial situation compared to four years ago:,FINSIT,IA,Midwest,West North Central,Worse today,27,11,82
-Financial situation compared to four years ago:,FINSIT,IA,Midwest,West North Central,About the same,44,50,44
-U.S. economic system generally:,ECONFAIR,IA,Midwest,West North Central,Favors the wealthy,60,50,43
-U.S. economic system generally:,ECONFAIR,IA,Midwest,West North Central,Is fair to most Americans,34,27,71
-Life for the next generation of Americans will be:,LIFE,IA,Midwest,West North Central,Better than today,22,59,37
-Life for the next generation of Americans will be:,LIFE,IA,Midwest,West North Central,Worse than today,43,24,73
-Life for the next generation of Americans will be:,LIFE,IA,Midwest,West North Central,About the same,31,56,38
-Did any campaign contact you?,GOTV16,IA,Midwest,West North Central,Only Clinton,13,88,11
-Did any campaign contact you?,GOTV16,IA,Midwest,West North Central,Only Trump,8,N/A,N/A
-Did any campaign contact you?,GOTV16,IA,Midwest,West North Central,Both,15,42,53
-Did any campaign contact you?,GOTV16,IA,Midwest,West North Central,Neither,61,37,58
-Were you contacted by the Clinton campaign?,GOTVCLINTON,IA,Midwest,West North Central,Yes,27,63,33
-Were you contacted by the Clinton campaign?,GOTVCLINTON,IA,Midwest,West North Central,No,69,33,63
-Were you contacted by the Trump campaign?,GOTVTRUMP,IA,Midwest,West North Central,Yes,23,28,69
-Were you contacted by the Trump campaign?,GOTVTRUMP,IA,Midwest,West North Central,No,73,46,50
-Vote for president in a two-way race,2WAYPRES16,IA,Midwest,West North Central,Clinton,45,96,1
-Vote for president in a two-way race,2WAYPRES16,IA,Midwest,West North Central,Trump,52,1,98
-Vote for president in a two-way race,2WAYPRES16,IA,Midwest,West North Central,Would not vote,3,N/A,N/A
-Area type,SIZEPLC3,IA,Midwest,West North Central,Urban area,28,57,37
-Area type,SIZEPLC3,IA,Midwest,West North Central,Suburban area,33,42,51
-Area type,SIZEPLC3,IA,Midwest,West North Central,Rural area,39,33,63
-Region,GEOCOD,IA,Midwest,West North Central,Eastern Iowa,24,50,45
-Region,GEOCOD,IA,Midwest,West North Central,East Central Iowa,19,41,52
-Region,GEOCOD,IA,Midwest,West North Central,Des Moines Area,24,51,40
-Region,GEOCOD,IA,Midwest,West North Central,Central Iowa,16,34,63
-Region,GEOCOD,IA,Midwest,West North Central,Western Iowa,16,28,67
+year,question,pollname,state,region,subregion,answer,percent,dem,rep
+2016,Gender,SEX,IA,Midwest,West North Central,Male,47,33,61
+2016,Gender,SEX,IA,Midwest,West North Central,Female,53,51,44
+2016,Age,AGE,IA,Midwest,West North Central,18-29,18,42,48
+2016,Age,AGE,IA,Midwest,West North Central,30-44,23,38,52
+2016,Age,AGE,IA,Midwest,West North Central,45-64,37,43,53
+2016,Age,AGE,IA,Midwest,West North Central,65 and older,22,47,51
+2016,Age,AGE65,IA,Midwest,West North Central,18-24,10,48,39
+2016,Age,AGE65,IA,Midwest,West North Central,25-29,8,34,58
+2016,Age,AGE65,IA,Midwest,West North Central,30-39,17,39,49
+2016,Age,AGE65,IA,Midwest,West North Central,40-49,16,35,60
+2016,Age,AGE65,IA,Midwest,West North Central,50-64,28,46,51
+2016,Age,AGE65,IA,Midwest,West North Central,65 and older,22,47,51
+2016,Age,AGE45,IA,Midwest,West North Central,18-44,41,40,50
+2016,Age,AGE45,IA,Midwest,West North Central,45 and older,59,44,52
+2016,Race,RACE,IA,Midwest,West North Central,White,90,40,54
+2016,Race,RACE,IA,Midwest,West North Central,Black,2,N/A,N/A
+2016,Race,RACE,IA,Midwest,West North Central,Latino,5,63,26
+2016,Race,RACE,IA,Midwest,West North Central,Asian,1,N/A,N/A
+2016,Race,RACE,IA,Midwest,West North Central,Other race,2,N/A,N/A
+2016,Race,RACE2B,IA,Midwest,West North Central,White,90,40,54
+2016,Race,RACE2B,IA,Midwest,West North Central,Non-white,10,63,25
+2016,Race and gender,SEXBYRACE,IA,Midwest,West North Central,White men,43,31,64
+2016,Race and gender,SEXBYRACE,IA,Midwest,West North Central,White women,48,49,46
+2016,Race and gender,SEXBYRACE,IA,Midwest,West North Central,Black men,1,N/A,N/A
+2016,Race and gender,SEXBYRACE,IA,Midwest,West North Central,Black women,1,N/A,N/A
+2016,Race and gender,SEXBYRACE,IA,Midwest,West North Central,Latino men,3,N/A,N/A
+2016,Race and gender,SEXBYRACE,IA,Midwest,West North Central,Latino women,3,N/A,N/A
+2016,Race and gender,SEXBYRACE,IA,Midwest,West North Central,Others,2,N/A,N/A
+2016,Education,EDUC12R,IA,Midwest,West North Central,High school or less,24,44,51
+2016,Education,EDUC12R,IA,Midwest,West North Central,Some college,33,38,56
+2016,Education,EDUC12R,IA,Midwest,West North Central,College graduate,30,40,53
+2016,Education,EDUC12R,IA,Midwest,West North Central,Postgraduate,14,57,36
+2016,Are you a college graduate?,EDUCCOLL,IA,Midwest,West North Central,Yes,43,46,48
+2016,Are you a college graduate?,EDUCCOLL,IA,Midwest,West North Central,No,57,40,54
+2016,Education and race,EDUCWHITE,IA,Midwest,West North Central,White college graduates,40,44,49
+2016,Education and race,EDUCWHITE,IA,Midwest,West North Central,Whites no degree,50,38,58
+2016,Education and race,EDUCWHITE,IA,Midwest,West North Central,Non-whites college grads,3,N/A,N/A
+2016,Education and race,EDUCWHITE,IA,Midwest,West North Central,Non-whites no degree,6,62,23
+2016,Education among whites by sex,EDUCWHITEBYSEX,IA,Midwest,West North Central,White college-grad women,22,52,41
+2016,Education among whites by sex,EDUCWHITEBYSEX,IA,Midwest,West North Central,White non-college women,26,47,49
+2016,Education among whites by sex,EDUCWHITEBYSEX,IA,Midwest,West North Central,White college-grad men,18,33,60
+2016,Education among whites by sex,EDUCWHITEBYSEX,IA,Midwest,West North Central,White non-college men,24,29,67
+2016,Education among whites by sex,EDUCWHITEBYSEX,IA,Midwest,West North Central,Non-whites,10,63,25
+2016,Income,INCOME16GEN,IA,Midwest,West North Central,"Under $30,000",15,48,39
+2016,Income,INCOME16GEN,IA,Midwest,West North Central,"$30K-$49,999",22,56,37
+2016,Income,INCOME16GEN,IA,Midwest,West North Central,"$50K-$99,999",36,39,55
+2016,Income,INCOME16GEN,IA,Midwest,West North Central,"$100K-$199,999",21,43,49
+2016,Income,INCOME16GEN,IA,Midwest,West North Central,"$200K-$249,999",3,N/A,N/A
+2016,Income,INCOME16GEN,IA,Midwest,West North Central,"$250,000 or more",3,N/A,N/A
+2016,Income,INCOME3,IA,Midwest,West North Central,Under $50K,36,52,38
+2016,Income,INCOME3,IA,Midwest,West North Central,$50K-$100K,36,39,55
+2016,Income,INCOME3,IA,Midwest,West North Central,$100K or more,27,43,51
+2016,Income,INC50K,IA,Midwest,West North Central,Under $50K,36,52,38
+2016,Income,INC50K,IA,Midwest,West North Central,$50K or more,64,41,53
+2016,Income,INC100K,IA,Midwest,West North Central,Under $100K,73,46,46
+2016,Income,INC100K,IA,Midwest,West North Central,$100K or more,27,43,51
+2016,Party ID,PARTY,IA,Midwest,West North Central,Democrats,31,88,10
+2016,Party ID,PARTY,IA,Midwest,West North Central,Republicans,34,6,90
+2016,Party ID,PARTY,IA,Midwest,West North Central,Independents,35,38,51
+2016,Party by gender,PARTYGENDER,IA,Midwest,West North Central,Democratic men,12,85,13
+2016,Party by gender,PARTYGENDER,IA,Midwest,West North Central,Democratic women,19,90,7
+2016,Party by gender,PARTYGENDER,IA,Midwest,West North Central,Republican men,18,5,92
+2016,Party by gender,PARTYGENDER,IA,Midwest,West North Central,Republican women,16,7,88
+2016,Party by gender,PARTYGENDER,IA,Midwest,West North Central,Independent men,17,26,61
+2016,Party by gender,PARTYGENDER,IA,Midwest,West North Central,Independent women,18,50,42
+2016,Ideology,PHIL3,IA,Midwest,West North Central,Liberal,23,81,12
+2016,Ideology,PHIL3,IA,Midwest,West North Central,Moderate,37,51,42
+2016,Ideology,PHIL3,IA,Midwest,West North Central,Conservative,40,11,84
+2016,Religion,REL5,IA,Midwest,West North Central,Protestant,58,31,63
+2016,Religion,REL5,IA,Midwest,West North Central,Catholic,20,42,56
+2016,Religion,REL5,IA,Midwest,West North Central,Jewish,0,N/A,N/A
+2016,Religion,REL5,IA,Midwest,West North Central,Another religion,6,N/A,N/A
+2016,Religion,REL5,IA,Midwest,West North Central,No religion,17,65,22
+2016,How often do you attend religious services?,ATTEND16,IA,Midwest,West North Central,Weekly or more,31,33,61
+2016,How often do you attend religious services?,ATTEND16,IA,Midwest,West North Central,Monthly,19,26,71
+2016,How often do you attend religious services?,ATTEND16,IA,Midwest,West North Central,Few times a year,28,46,48
+2016,How often do you attend religious services?,ATTEND16,IA,Midwest,West North Central,Never,22,65,25
+2016,How often do you attend religious services?,ATTEND16B,IA,Midwest,West North Central,Monthly or more,50,30,65
+2016,How often do you attend religious services?,ATTEND16B,IA,Midwest,West North Central,Less often than that,50,54,38
+2016,White born-again or evangelical Christian?,WHTEVANG,IA,Midwest,West North Central,Yes,34,25,70
+2016,White born-again or evangelical Christian?,WHTEVANG,IA,Midwest,West North Central,No,66,51,42
+2016,Marital status,MARRIED,IA,Midwest,West North Central,Married,67,38,58
+2016,Marital status,MARRIED,IA,Midwest,West North Central,Unmarried,33,54,43
+2016,Marital status by gender,SEXWED,IA,Midwest,West North Central,Married men,32,30,67
+2016,Marital status by gender,SEXWED,IA,Midwest,West North Central,Married women,36,45,50
+2016,Marital status by gender,SEXWED,IA,Midwest,West North Central,Unmarried men,14,40,54
+2016,Marital status by gender,SEXWED,IA,Midwest,West North Central,Unmarried women,19,64,34
+2016,Served in the U.S. military,VETVOTER,IA,Midwest,West North Central,Veterans,13,31,61
+2016,Served in the U.S. military,VETVOTER,IA,Midwest,West North Central,Non-veterans,87,46,46
+2016,When did you decide presidential vote?,TIME16,IA,Midwest,West North Central,Last few days,10,34,56
+2016,When did you decide presidential vote?,TIME16,IA,Midwest,West North Central,Last week,4,N/A,N/A
+2016,When did you decide presidential vote?,TIME16,IA,Midwest,West North Central,In October,12,35,51
+2016,When did you decide presidential vote?,TIME16,IA,Midwest,West North Central,In September,11,37,55
+2016,When did you decide presidential vote?,TIME16,IA,Midwest,West North Central,Before September,62,49,46
+2016,When did you decide presidential vote?,TIME16WEEK,IA,Midwest,West North Central,In the last week,14,34,54
+2016,When did you decide presidential vote?,TIME16WEEK,IA,Midwest,West North Central,Before that,84,45,48
+2016,When did you decide presidential vote?,TIME16MONTH,IA,Midwest,West North Central,In the last month,26,35,53
+2016,When did you decide presidential vote?,TIME16MONTH,IA,Midwest,West North Central,Before that,73,47,47
+2016,Opinion of presidential candidate you voted for,DESCRIBP12,IA,Midwest,West North Central,Strongly favor ,40,45,52
+2016,Opinion of presidential candidate you voted for,DESCRIBP12,IA,Midwest,West North Central,Have reservations,29,39,58
+2016,Opinion of presidential candidate you voted for,DESCRIBP12,IA,Midwest,West North Central,Dislike opponents,29,33,52
+2016,Most important issue facing the country,ISSUE16,IA,Midwest,West North Central,Foreign policy,12,62,30
+2016,Most important issue facing the country,ISSUE16,IA,Midwest,West North Central,Immigration,12,18,80
+2016,Most important issue facing the country,ISSUE16,IA,Midwest,West North Central,Economy,54,46,46
+2016,Most important issue facing the country,ISSUE16,IA,Midwest,West North Central,Terrorism,18,36,57
+2016,Which candidate quality mattered most?,QLT16,IA,Midwest,West North Central,Cares about me,12,57,33
+2016,Which candidate quality mattered most?,QLT16,IA,Midwest,West North Central,Can bring change,43,10,87
+2016,Which candidate quality mattered most?,QLT16,IA,Midwest,West North Central,Right experience,19,87,8
+2016,Which candidate quality mattered most?,QLT16,IA,Midwest,West North Central,Good judgment,22,58,28
+2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,IA,Midwest,West North Central,Offered legal status,65,60,35
+2016,Illegal immigrants working in the U.S. should be:,IMMDEPORT,IA,Midwest,West North Central,Deported to home country,29,10,88
+2016,Do you think immigrants to the U.S. today:,IMMBETTER,IA,Midwest,West North Central,Help the country,56,60,33
+2016,Do you think immigrants to the U.S. today:,IMMBETTER,IA,Midwest,West North Central,Hurt the country,37,16,82
+2016,Effect of international trade,TRADE16,IA,Midwest,West North Central,Creates U.S. jobs,41,48,47
+2016,Effect of international trade,TRADE16,IA,Midwest,West North Central,Takes away U.S. jobs,37,29,66
+2016,Effect of international trade,TRADE16,IA,Midwest,West North Central,Does not affect jobs,11,N/A,N/A
+2016,How do things work in the U.S. today?,RACEFACTOR,IA,Midwest,West North Central,Whites are favored,30,74,22
+2016,How do things work in the U.S. today?,RACEFACTOR,IA,Midwest,West North Central,Minorities are favored,23,15,84
+2016,How do things work in the U.S. today?,RACEFACTOR,IA,Midwest,West North Central,No group is favored,40,36,58
+2016,Feelings about the federal government,GOVTANGR16,IA,Midwest,West North Central,Enthusiastic,2,N/A,N/A
+2016,Feelings about the federal government,GOVTANGR16,IA,Midwest,West North Central,Satisfied,26,74,22
+2016,Feelings about the federal government,GOVTANGR16,IA,Midwest,West North Central,Dissatisfied,46,33,59
+2016,Feelings about the federal government,GOVTANGR16,IA,Midwest,West North Central,Angry,24,11,81
+2016,Feelings about the federal government,GOVTANGR16B,IA,Midwest,West North Central,Enthusiastic/Satisfied,28,75,21
+2016,Feelings about the federal government,GOVTANGR16B,IA,Midwest,West North Central,Dissatisfied/Angry,71,26,67
+2016,Opinion of Barack Obama as president,OBAMA4,IA,Midwest,West North Central,Strongly approve,26,95,2
+2016,Opinion of Barack Obama as president,OBAMA4,IA,Midwest,West North Central,Somewhat approve,26,64,20
+2016,Opinion of Barack Obama as president,OBAMA4,IA,Midwest,West North Central,Somewhat disapprove,13,14,72
+2016,Opinion of Barack Obama as president,OBAMA4,IA,Midwest,West North Central,Strongly disapprove,34,1,96
+2016,Opinion of Barack Obama as president,OBAMA2,IA,Midwest,West North Central,Approve,52,80,11
+2016,Opinion of Barack Obama as president,OBAMA2,IA,Midwest,West North Central,Disapprove,47,5,89
+2016,Should the next president:,OBAMAPLCY16,IA,Midwest,West North Central,Continue Obama's policies,26,94,5
+2016,Should the next president:,OBAMAPLCY16,IA,Midwest,West North Central,Be more conservative,53,10,86
+2016,Should the next president:,OBAMAPLCY16,IA,Midwest,West North Central,Be more liberal,14,61,34
+2016,Opinion of Hillary Clinton,FAVHCLIN16,IA,Midwest,West North Central,Favorable,41,96,0
+2016,Opinion of Hillary Clinton,FAVHCLIN16,IA,Midwest,West North Central,Unfavorable,57,8,81
+2016,Opinion of Donald Trump,FAVTRUMP,IA,Midwest,West North Central,Favorable,39,2,97
+2016,Opinion of Donald Trump,FAVTRUMP,IA,Midwest,West North Central,Unfavorable,59,73,15
+2016,Opinion of Clinton and Trump,FAVPRES16,IA,Midwest,West North Central,Both favorable,1,N/A,N/A
+2016,Opinion of Clinton and Trump,FAVPRES16,IA,Midwest,West North Central,Only Clinton favorable,40,96,0
+2016,Opinion of Clinton and Trump,FAVPRES16,IA,Midwest,West North Central,Only Trump favorable,38,1,99
+2016,Opinion of Clinton and Trump,FAVPRES16,IA,Midwest,West North Central,Both unfavorable,19,24,45
+2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,IA,Midwest,West North Central,Yes,33,91,7
+2016,Is Hillary Clinton honest and trustworthy?,CLINHONEST,IA,Midwest,West North Central,No,65,13,78
+2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,IA,Midwest,West North Central,Yes,40,1,97
+2016,Is Donald Trump honest and trustworthy?,TRUMPHONEST,IA,Midwest,West North Central,No,58,68,22
+2016,Which candidate is honest?,HONEST16,IA,Midwest,West North Central,Both are,2,N/A,N/A
+2016,Which candidate is honest?,HONEST16,IA,Midwest,West North Central,Only Clinton is,31,98,1
+2016,Which candidate is honest?,HONEST16,IA,Midwest,West North Central,Only Trump is,38,N/A,98
+2016,Which candidate is honest?,HONEST16,IA,Midwest,West North Central,Neither is,26,32,47
+2016,Does Clinton have the temperament to be president?,TEMPCLINTON,IA,Midwest,West North Central,Yes,50,78,15
+2016,Does Clinton have the temperament to be president?,TEMPCLINTON,IA,Midwest,West North Central,No,49,1,92
+2016,Does Trump have the temperament to be president?,TEMPTRUMP,IA,Midwest,West North Central,Yes,43,0,98
+2016,Does Trump have the temperament to be president?,TEMPTRUMP,IA,Midwest,West North Central,No,55,72,17
+2016,Which candidate has the right temperament?,TEMPERAMENT16,IA,Midwest,West North Central,Both do,6,N/A,N/A
+2016,Which candidate has the right temperament?,TEMPERAMENT16,IA,Midwest,West North Central,Only Clinton does,44,89,4
+2016,Which candidate has the right temperament?,TEMPERAMENT16,IA,Midwest,West North Central,Only Trump does,37,N/A,99
+2016,Which candidate has the right temperament?,TEMPERAMENT16,IA,Midwest,West North Central,Neither does,11,5,69
+2016,Is Clinton qualified to serve as president?,QUALCLINTON,IA,Midwest,West North Central,Yes,48,88,7
+2016,Is Clinton qualified to serve as president?,QUALCLINTON,IA,Midwest,West North Central,No,51,5,85
+2016,Is Trump qualified to serve as president?,QUALTRUMP,IA,Midwest,West North Central,Yes,39,2,97
+2016,Is Trump qualified to serve as president?,QUALTRUMP,IA,Midwest,West North Central,No,60,74,14
+2016,Who is qualified to serve as president?,QUALIFIED16,IA,Midwest,West North Central,Both are,4,N/A,N/A
+2016,Who is qualified to serve as president?,QUALIFIED16,IA,Midwest,West North Central,Only Clinton is,44,95,1
+2016,Who is qualified to serve as president?,QUALIFIED16,IA,Midwest,West North Central,Only Trump is,35,1,99
+2016,Who is qualified to serve as president?,QUALIFIED16,IA,Midwest,West North Central,Neither is,16,15,53
+2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,IA,Midwest,West North Central,A lot,47,6,90
+2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,IA,Midwest,West North Central,Some,15,57,36
+2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,IA,Midwest,West North Central,Not much,14,77,17
+2016,Does Clinton's use of private email bother you:,CLINTONEMAIL,IA,Midwest,West North Central,Not at all,22,92,7
+2016,Does Clinton's use of private email bother you?,CLINTONEMAILB,IA,Midwest,West North Central,Yes,62,19,77
+2016,Does Clinton's use of private email bother you?,CLINTONEMAILB,IA,Midwest,West North Central,No,36,86,11
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,IA,Midwest,West North Central,A lot,47,79,14
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,IA,Midwest,West North Central,Some,20,23,73
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,IA,Midwest,West North Central,Not much,14,5,94
+2016,Does Donald Trump's treatment of women bother you:,TRUMPWOMEN,IA,Midwest,West North Central,Not at all,17,2,97
+2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,IA,Midwest,West North Central,Yes,68,62,32
+2016,Does Donald Trump's treatment of women bother you?,TRUMPWOMENB,IA,Midwest,West North Central,No,32,4,96
+2016,Who would better handle the economy?,HANDLEECON16,IA,Midwest,West North Central,Clinton,43,93,0
+2016,Who would better handle the economy?,HANDLEECON16,IA,Midwest,West North Central,Trump,52,5,90
+2016,Who would better handle foreign policy?,HANDLEFP16,IA,Midwest,West North Central,Clinton,51,82,8
+2016,Who would better handle foreign policy?,HANDLEFP16,IA,Midwest,West North Central,Trump,44,1,96
+2016,Condition of national economy,NEC,IA,Midwest,West North Central,Excellent,3,N/A,N/A
+2016,Condition of national economy,NEC,IA,Midwest,West North Central,Good,33,70,24
+2016,Condition of national economy,NEC,IA,Midwest,West North Central,Not good,40,29,63
+2016,Condition of national economy,NEC,IA,Midwest,West North Central,Poor,23,10,84
+2016,Condition of national economy,NEC2,IA,Midwest,West North Central,Good,36,71,23
+2016,Condition of national economy,NEC2,IA,Midwest,West North Central,Poor,63,22,71
+2016,Financial situation compared to four years ago:,FINSIT,IA,Midwest,West North Central,Better today,28,66,23
+2016,Financial situation compared to four years ago:,FINSIT,IA,Midwest,West North Central,Worse today,27,11,82
+2016,Financial situation compared to four years ago:,FINSIT,IA,Midwest,West North Central,About the same,44,50,44
+2016,U.S. economic system generally:,ECONFAIR,IA,Midwest,West North Central,Favors the wealthy,60,50,43
+2016,U.S. economic system generally:,ECONFAIR,IA,Midwest,West North Central,Is fair to most Americans,34,27,71
+2016,Life for the next generation of Americans will be:,LIFE,IA,Midwest,West North Central,Better than today,22,59,37
+2016,Life for the next generation of Americans will be:,LIFE,IA,Midwest,West North Central,Worse than today,43,24,73
+2016,Life for the next generation of Americans will be:,LIFE,IA,Midwest,West North Central,About the same,31,56,38
+2016,Did any campaign contact you?,GOTV16,IA,Midwest,West North Central,Only Clinton,13,88,11
+2016,Did any campaign contact you?,GOTV16,IA,Midwest,West North Central,Only Trump,8,N/A,N/A
+2016,Did any campaign contact you?,GOTV16,IA,Midwest,West North Central,Both,15,42,53
+2016,Did any campaign contact you?,GOTV16,IA,Midwest,West North Central,Neither,61,37,58
+2016,Were you contacted by the Clinton campaign?,GOTVCLINTON,IA,Midwest,West North Central,Yes,27,63,33
+2016,Were you contacted by the Clinton campaign?,GOTVCLINTON,IA,Midwest,West North Central,No,69,33,63
+2016,Were you contacted by the Trump campaign?,GOTVTRUMP,IA,Midwest,West North Central,Yes,23,28,69
+2016,Were you contacted by the Trump campaign?,GOTVTRUMP,IA,Midwest,West North Central,No,73,46,50
+2016,Vote for president in a two-way race,2WAYPRES16,IA,Midwest,West North Central,Clinton,45,96,1
+2016,Vote for president in a two-way race,2WAYPRES16,IA,Midwest,West North Central,Trump,52,1,98
+2016,Vote for president in a two-way race,2WAYPRES16,IA,Midwest,West North Central,Would not vote,3,N/A,N/A
+2016,Area type,SIZEPLC3,IA,Midwest,West North Central,Urban area,28,57,37
+2016,Area type,SIZEPLC3,IA,Midwest,West North Central,Suburban area,33,42,51
+2016,Area type,SIZEPLC3,IA,Midwest,West North Central,Rural area,39,33,63
+2016,Region,GEOCOD,IA,Midwest,West North Central,Eastern Iowa,24,50,45
+2016,Region,GEOCOD,IA,Midwest,West North Central,East Central Iowa,19,41,52
+2016,Region,GEOCOD,IA,Midwest,West North Central,Des Moines Area,24,51,40
+2016,Region,GEOCOD,IA,Midwest,West North Central,Central Iowa,16,34,63
+2016,Region,GEOCOD,IA,Midwest,West North Central,Western Iowa,16,28,67

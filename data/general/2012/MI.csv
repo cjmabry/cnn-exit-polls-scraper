@@ -1,175 +1,175 @@
-question,pollname,state,region,subregion,answer,percent,dem,rep
-Vote by Gender,SEX,MI,Midwest,East North Central,Men,49,50,48
-Vote by Gender,SEX,MI,Midwest,East North Central,Women,51,57,42
-Vote by Age,AGE,MI,Midwest,East North Central,18-29,19,63,35
-Vote by Age,AGE,MI,Midwest,East North Central,30-44,23,56,43
-Vote by Age,AGE,MI,Midwest,East North Central,45-64,41,51,49
-Vote by Age,AGE,MI,Midwest,East North Central,65 and Older,17,48,52
-Vote by Age,AGE65,MI,Midwest,East North Central,18-24,10,65,32
-Vote by Age,AGE65,MI,Midwest,East North Central,25-29,9,60,39
-Vote by Age,AGE65,MI,Midwest,East North Central,30-39,14,59,39
-Vote by Age,AGE65,MI,Midwest,East North Central,40-49,19,51,48
-Vote by Age,AGE65,MI,Midwest,East North Central,50-64,32,51,49
-Vote by Age,AGE65,MI,Midwest,East North Central,65 and Older,17,48,52
-Vote by Race,RACE,MI,Midwest,East North Central,White,77,44,55
-Vote by Race,RACE,MI,Midwest,East North Central,African-American,16,95,5
-Vote by Race,RACE,MI,Midwest,East North Central,Latino,3,63,34
-Vote by Race,RACE,MI,Midwest,East North Central,Asian,2,N/A,N/A
-Vote by Race,RACE,MI,Midwest,East North Central,Other,2,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,MI,Midwest,East North Central,White Men,38,41,58
-Vote by Gender and Race,SEXBYRACE,MI,Midwest,East North Central,White Women,39,47,53
-Vote by Gender and Race,SEXBYRACE,MI,Midwest,East North Central,Black Men,7,92,7
-Vote by Gender and Race,SEXBYRACE,MI,Midwest,East North Central,Black Women,9,96,3
-Vote by Gender and Race,SEXBYRACE,MI,Midwest,East North Central,Latino Men,2,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,MI,Midwest,East North Central,Latino Women,1,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,MI,Midwest,East North Central,All Others,4,71,28
-Vote by Ideology,PHIL3,MI,Midwest,East North Central,Liberal,26,91,7
-Vote by Ideology,PHIL3,MI,Midwest,East North Central,Moderate,39,60,39
-Vote by Ideology,PHIL3,MI,Midwest,East North Central,Conservative,35,16,83
-Vote by Party ID,PARTY,MI,Midwest,East North Central,Democratic,40,95,4
-Vote by Party ID,PARTY,MI,Midwest,East North Central,Republican,30,4,96
-Vote by Party ID,PARTY,MI,Midwest,East North Central,Independent,30,48,49
-Vote by Education,EDUC10,MI,Midwest,East North Central,No High School,3,N/A,N/A
-Vote by Education,EDUC10,MI,Midwest,East North Central,High School Graduate,19,59,41
-Vote by Education,EDUC10,MI,Midwest,East North Central,Some College,32,54,45
-Vote by Education,EDUC10,MI,Midwest,East North Central,College Graduate,27,44,55
-Vote by Education,EDUC10,MI,Midwest,East North Central,Postgraduate,19,60,39
-Are You a College Graduate?,EDUCCOLL,MI,Midwest,East North Central,Yes,46,51,48
-Are You a College Graduate?,EDUCCOLL,MI,Midwest,East North Central,No,54,56,43
-Did You Attend College?,EDUCHS,MI,Midwest,East North Central,Yes,78,52,47
-Did You Attend College?,EDUCHS,MI,Midwest,East North Central,No,22,60,40
-Vote by Income,INCOME3,MI,Midwest,East North Central,Less Than $50K,42,62,36
-Vote by Income,INCOME3,MI,Midwest,East North Central,$50-100K,32,49,50
-Vote by Income,INCOME3,MI,Midwest,East North Central,$100K or More,26,48,52
-Vote by Income,INC50K,MI,Midwest,East North Central,Less Than $50K,42,62,36
-Vote by Income,INC50K,MI,Midwest,East North Central,$50K or More,58,48,51
-Vote by Income,INC100K,MI,Midwest,East North Central,Less Than $100K,74,57,42
-Vote by Income,INC100K,MI,Midwest,East North Central,$100K or More,26,48,52
-Vote by Religion,REL5,MI,Midwest,East North Central,Protestant,53,48,51
-Vote by Religion,REL5,MI,Midwest,East North Central,Catholic,25,44,55
-Vote by Religion,REL5,MI,Midwest,East North Central,Jewish,2,N/A,N/A
-Vote by Religion,REL5,MI,Midwest,East North Central,Other,6,N/A,N/A
-Vote by Religion,REL5,MI,Midwest,East North Central,None,13,78,19
-Vote by Religion and Race,WHITEREL,MI,Midwest,East North Central,White Protestant,38,34,65
-Vote by Religion and Race,WHITEREL,MI,Midwest,East North Central,White Catholic,23,41,58
-Vote by Religion and Race,WHITEREL,MI,Midwest,East North Central,White Jewish,2,N/A,N/A
-Vote by Religion and Race,WHITEREL,MI,Midwest,East North Central,Whites/Other Religion,3,N/A,N/A
-Vote by Religion and Race,WHITEREL,MI,Midwest,East North Central,Whites/No Religion,10,76,22
-Vote by Religion and Race,WHITEREL,MI,Midwest,East North Central,Non-white,23,86,13
-Are You White Born-Again Christian?,WHTEVANG,MI,Midwest,East North Central,Yes,28,24,74
-Are You White Born-Again Christian?,WHTEVANG,MI,Midwest,East North Central,No,72,64,35
-Abortion Should Be...,ABORTION,MI,Midwest,East North Central,Always Legal,31,77,21
-Abortion Should Be...,ABORTION,MI,Midwest,East North Central,Mostly Legal,25,67,31
-Abortion Should Be...,ABORTION,MI,Midwest,East North Central,Mostly Illegal,24,26,73
-Abortion Should Be...,ABORTION,MI,Midwest,East North Central,Always Illegal,15,19,80
-Abortion Should Be...,ABORT2,MI,Midwest,East North Central,Legal,56,73,25
-Abortion Should Be...,ABORT2,MI,Midwest,East North Central,Illegal,39,24,76
-Most Important Issue Facing Country,ISSUE12,MI,Midwest,East North Central,Foreign Policy,5,62,37
-Most Important Issue Facing Country,ISSUE12,MI,Midwest,East North Central,Deficit,15,37,61
-Most Important Issue Facing Country,ISSUE12,MI,Midwest,East North Central,Economy,60,51,48
-Most Important Issue Facing Country,ISSUE12,MI,Midwest,East North Central,Health Care,17,78,21
-Most Important Candidate Quality,QLT12,MI,Midwest,East North Central,Shares My Values,28,47,51
-Most Important Candidate Quality,QLT12,MI,Midwest,East North Central,Strong Leader,18,46,53
-Most Important Candidate Quality,QLT12,MI,Midwest,East North Central,Cares About People,23,82,17
-Most Important Candidate Quality,QLT12,MI,Midwest,East North Central,Vision for Future,28,44,56
-Biggest Economic Problem Facing People Like You,ECONISS12,MI,Midwest,East North Central,Housing Market,9,N/A,N/A
-Biggest Economic Problem Facing People Like You,ECONISS12,MI,Midwest,East North Central,Unemployment,37,60,40
-Biggest Economic Problem Facing People Like You,ECONISS12,MI,Midwest,East North Central,Taxes,13,36,63
-Biggest Economic Problem Facing People Like You,ECONISS12,MI,Midwest,East North Central,Rising Prices,38,52,47
-2010 Health Care Law Should Be...,HEALTHCARE12,MI,Midwest,East North Central,Expanded,30,95,4
-2010 Health Care Law Should Be...,HEALTHCARE12,MI,Midwest,East North Central,Kept As Is,16,86,13
-2010 Health Care Law Should Be...,HEALTHCARE12,MI,Midwest,East North Central,Repealed In Part,22,30,68
-2010 Health Care Law Should Be...,HEALTHCARE12,MI,Midwest,East North Central,Repealed Completely,25,6,94
-Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,MI,Midwest,East North Central,No,46,92,7
-Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,MI,Midwest,East North Central,Yes,47,17,82
-Income Tax Rates Should Be...,TAXINC12,MI,Midwest,East North Central,Increased For All,14,53,46
-Income Tax Rates Should Be...,TAXINC12,MI,Midwest,East North Central,Increased for $250K+,47,79,19
-Income Tax Rates Should Be...,TAXINC12,MI,Midwest,East North Central,Not Increased,33,21,78
-Who Is More In Touch With People Like You?,INTOUCH12,MI,Midwest,East North Central,Obama,55,95,4
-Who Is More In Touch With People Like You?,INTOUCH12,MI,Midwest,East North Central,Romney,39,2,98
-Who Would Better Handle Economy?,HANDLEECON12,MI,Midwest,East North Central,Obama,53,97,2
-Who Would Better Handle Economy?,HANDLEECON12,MI,Midwest,East North Central,Romney,43,3,97
-Who Would Better Handle Medicare?,HANDLEMED12,MI,Midwest,East North Central,Obama,54,96,2
-Who Would Better Handle Medicare?,HANDLEMED12,MI,Midwest,East North Central,Romney,42,2,98
-Opinion of Government,GOVTDO10,MI,Midwest,East North Central,Government Should Do More,42,87,13
-Opinion of Government,GOVTDO10,MI,Midwest,East North Central,Government Doing Too Much,52,23,76
-National Economic Conditions,NEC,MI,Midwest,East North Central,Excellent,3,N/A,N/A
-National Economic Conditions,NEC,MI,Midwest,East North Central,Good,25,92,7
-National Economic Conditions,NEC,MI,Midwest,East North Central,Not So Good,44,58,40
-National Economic Conditions,NEC,MI,Midwest,East North Central,Poor,26,13,86
-National Economic Conditions,NEC2,MI,Midwest,East North Central,Excellent/Good,28,90,9
-National Economic Conditions,NEC2,MI,Midwest,East North Central,Not So Good/Poor,70,41,58
-U.S. Economic Conditions Are...,ECONBETT,MI,Midwest,East North Central,Getting Better,45,90,9
-U.S. Economic Conditions Are...,ECONBETT,MI,Midwest,East North Central,Getting Worse,27,12,87
-U.S. Economic Conditions Are...,ECONBETT,MI,Midwest,East North Central,Staying About the Same,27,39,59
-U.S. Economic Conditions Are...,ECONDIR,MI,Midwest,East North Central,Getting Better,45,90,9
-U.S. Economic Conditions Are...,ECONDIR,MI,Midwest,East North Central,Good and Staying the Same,4,N/A,N/A
-U.S. Economic Conditions Are...,ECONDIR,MI,Midwest,East North Central,Poor and Staying the Same,22,33,65
-U.S. Economic Conditions Are...,ECONDIR,MI,Midwest,East North Central,Getting Worse,27,12,87
-Your Family's Financial Situation,FINSIT,MI,Midwest,East North Central,Better,30,85,14
-Your Family's Financial Situation,FINSIT,MI,Midwest,East North Central,Worse,31,13,86
-Your Family's Financial Situation,FINSIT,MI,Midwest,East North Central,Same,38,60,39
-More to Blame for Current Economic Problems?,ECONBLAME12,MI,Midwest,East North Central,Barack Obama,34,7,93
-More to Blame for Current Economic Problems?,ECONBLAME12,MI,Midwest,East North Central,George W. Bush,57,86,13
-Opinion of Obama Administration,OBAMANG,MI,Midwest,East North Central,Enthusiastic,25,98,1
-Opinion of Obama Administration,OBAMANG,MI,Midwest,East North Central,Satisfied,26,91,7
-Opinion of Obama Administration,OBAMANG,MI,Midwest,East North Central,Dissatisfied,30,11,87
-Opinion of Obama Administration,OBAMANG,MI,Midwest,East North Central,Angry,17,1,97
-Opinion of Obama Administration,OBAMANG2,MI,Midwest,East North Central,Enthusiastic/Satisfied,51,95,4
-Opinion of Obama Administration,OBAMANG2,MI,Midwest,East North Central,Dissatisfied/Angry,47,7,91
-Opinion of Barack Obama,FAVOBAMA2,MI,Midwest,East North Central,Favorable,57,94,6
-Opinion of Barack Obama,FAVOBAMA2,MI,Midwest,East North Central,Unfavorable,41,2,96
-Opinion of Mitt Romney,FAVROMN2,MI,Midwest,East North Central,Favorable,45,7,93
-Opinion of Mitt Romney,FAVROMN2,MI,Midwest,East North Central,Unfavorable,53,95,4
-Do Obama Policies Generally Favor...,OBAMARICH,MI,Midwest,East North Central,Rich,8,N/A,N/A
-Do Obama Policies Generally Favor...,OBAMARICH,MI,Midwest,East North Central,Middle Class,46,85,13
-Do Obama Policies Generally Favor...,OBAMARICH,MI,Midwest,East North Central,Poor,32,25,73
-Would Romney Policies Generally Favor...,ROMNRICH,MI,Midwest,East North Central,Rich,56,91,8
-Would Romney Policies Generally Favor...,ROMNRICH,MI,Midwest,East North Central,Middle Class,34,4,95
-Would Romney Policies Generally Favor...,ROMNRICH,MI,Midwest,East North Central,Poor,2,N/A,N/A
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,MI,Midwest,East North Central,Strongly Favor,70,59,40
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,MI,Midwest,East North Central,Have Reservations,22,45,55
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,MI,Midwest,East North Central,Dislike Opponent,8,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,MI,Midwest,East North Central,Just Today,4,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,MI,Midwest,East North Central,Last Few Days,5,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,MI,Midwest,East North Central,In October,9,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,MI,Midwest,East North Central,In September,8,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,MI,Midwest,East North Central,Before That,73,55,45
-When Did You Decide Presidential Vote?,TIME12FEWD,MI,Midwest,East North Central,Today/Last Few Days,9,45,53
-When Did You Decide Presidential Vote?,TIME12FEWD,MI,Midwest,East North Central,Before That,90,54,46
-When Did You Decide Presidential Vote?,TIME12MTH,MI,Midwest,East North Central,In October or November,18,46,52
-When Did You Decide Presidential Vote?,TIME12MTH,MI,Midwest,East North Central,Before That,81,54,45
-Vote by Marital Status,MARRIED,MI,Midwest,East North Central,Married,60,45,54
-Vote by Marital Status,MARRIED,MI,Midwest,East North Central,Unmarried,40,66,32
-Vote by Gender and Marital Status,SEXWED,MI,Midwest,East North Central,Married Men,31,42,57
-Vote by Gender and Marital Status,SEXWED,MI,Midwest,East North Central,Married Women,29,48,51
-Vote by Gender and Marital Status,SEXWED,MI,Midwest,East North Central,Unmarried Men,19,66,32
-Vote by Gender and Marital Status,SEXWED,MI,Midwest,East North Central,Unmarried Women,22,66,33
-Any Children Under 18 Living in Your Home?,CHILD12,MI,Midwest,East North Central,Yes,37,53,46
-Any Children Under 18 Living in Your Home?,CHILD12,MI,Midwest,East North Central,No,63,54,45
-Vote by Marital Status and Children,MARCHILD,MI,Midwest,East North Central,Married With Children,25,46,53
-Vote by Marital Status and Children,MARCHILD,MI,Midwest,East North Central,All Others,75,56,43
-Vote by Gender and Children in Household,PARENTS,MI,Midwest,East North Central,Fathers,17,48,51
-Vote by Gender and Children in Household,PARENTS,MI,Midwest,East North Central,Mothers,20,58,42
-Vote by Gender and Children in Household,PARENTS,MI,Midwest,East North Central,Men With No Children,32,53,47
-Vote by Gender and Children in Household,PARENTS,MI,Midwest,East North Central,Women With No Children,31,55,44
-Is Anyone in Household a Union Member?,UNIONHH12,MI,Midwest,East North Central,Yes,28,66,33
-Is Anyone in Household a Union Member?,UNIONHH12,MI,Midwest,East North Central,No,72,50,49
-Do You Work Full-Time For Pay?,WORK,MI,Midwest,East North Central,Yes,56,52,47
-Do You Work Full-Time For Pay?,WORK,MI,Midwest,East North Central,No,44,58,40
-Anyone in Household Lost a Job In Last Four Years?,LAIDOFF4,MI,Midwest,East North Central,Yes,38,46,53
-Anyone in Household Lost a Job In Last Four Years?,LAIDOFF4,MI,Midwest,East North Central,No,61,58,41
-Anyone in Your Household Work in Auto Industry?,AUTOHH,MI,Midwest,East North Central,Yes,21,59,40
-Anyone in Your Household Work in Auto Industry?,AUTOHH,MI,Midwest,East North Central,No,78,54,45
-Federal Government Aid to U.S. Automakers,AUTOBAIL12,MI,Midwest,East North Central,Approve,62,76,23
-Federal Government Aid to U.S. Automakers,AUTOBAIL12,MI,Midwest,East North Central,Disapprove,33,16,83
-Vote for Senate,SENMI12,MI,Midwest,East North Central,Stabenow,58,88,12
-Vote for Senate,SENMI12,MI,Midwest,East North Central,Hoekstra,39,4,96
-Vote by Size of Place,SIZEPLC3,MI,Midwest,East North Central,Urban,17,80,19
-Vote by Size of Place,SIZEPLC3,MI,Midwest,East North Central,Suburban,65,49,50
-Vote by Size of Place,SIZEPLC3,MI,Midwest,East North Central,Rural,19,46,53
-Vote by Region,GEOCOD,MI,Midwest,East North Central,Wayne County,17,74,25
-Vote by Region,GEOCOD,MI,Midwest,East North Central,Oakland/Macomb Counties,25,54,45
-Vote by Region,GEOCOD,MI,Midwest,East North Central,South Central Michigan,23,53,45
-Vote by Region,GEOCOD,MI,Midwest,East North Central,Southwestern Michigan,18,42,57
-Vote by Region,GEOCOD,MI,Midwest,East North Central,North/Upper Peninsula,16,47,52
+year,question,pollname,state,region,subregion,answer,percent,dem,rep
+2012,Vote by Gender,SEX,MI,Midwest,East North Central,Men,49,50,48
+2012,Vote by Gender,SEX,MI,Midwest,East North Central,Women,51,57,42
+2012,Vote by Age,AGE,MI,Midwest,East North Central,18-29,19,63,35
+2012,Vote by Age,AGE,MI,Midwest,East North Central,30-44,23,56,43
+2012,Vote by Age,AGE,MI,Midwest,East North Central,45-64,41,51,49
+2012,Vote by Age,AGE,MI,Midwest,East North Central,65 and Older,17,48,52
+2012,Vote by Age,AGE65,MI,Midwest,East North Central,18-24,10,65,32
+2012,Vote by Age,AGE65,MI,Midwest,East North Central,25-29,9,60,39
+2012,Vote by Age,AGE65,MI,Midwest,East North Central,30-39,14,59,39
+2012,Vote by Age,AGE65,MI,Midwest,East North Central,40-49,19,51,48
+2012,Vote by Age,AGE65,MI,Midwest,East North Central,50-64,32,51,49
+2012,Vote by Age,AGE65,MI,Midwest,East North Central,65 and Older,17,48,52
+2012,Vote by Race,RACE,MI,Midwest,East North Central,White,77,44,55
+2012,Vote by Race,RACE,MI,Midwest,East North Central,African-American,16,95,5
+2012,Vote by Race,RACE,MI,Midwest,East North Central,Latino,3,63,34
+2012,Vote by Race,RACE,MI,Midwest,East North Central,Asian,2,N/A,N/A
+2012,Vote by Race,RACE,MI,Midwest,East North Central,Other,2,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,MI,Midwest,East North Central,White Men,38,41,58
+2012,Vote by Gender and Race,SEXBYRACE,MI,Midwest,East North Central,White Women,39,47,53
+2012,Vote by Gender and Race,SEXBYRACE,MI,Midwest,East North Central,Black Men,7,92,7
+2012,Vote by Gender and Race,SEXBYRACE,MI,Midwest,East North Central,Black Women,9,96,3
+2012,Vote by Gender and Race,SEXBYRACE,MI,Midwest,East North Central,Latino Men,2,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,MI,Midwest,East North Central,Latino Women,1,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,MI,Midwest,East North Central,All Others,4,71,28
+2012,Vote by Ideology,PHIL3,MI,Midwest,East North Central,Liberal,26,91,7
+2012,Vote by Ideology,PHIL3,MI,Midwest,East North Central,Moderate,39,60,39
+2012,Vote by Ideology,PHIL3,MI,Midwest,East North Central,Conservative,35,16,83
+2012,Vote by Party ID,PARTY,MI,Midwest,East North Central,Democratic,40,95,4
+2012,Vote by Party ID,PARTY,MI,Midwest,East North Central,Republican,30,4,96
+2012,Vote by Party ID,PARTY,MI,Midwest,East North Central,Independent,30,48,49
+2012,Vote by Education,EDUC10,MI,Midwest,East North Central,No High School,3,N/A,N/A
+2012,Vote by Education,EDUC10,MI,Midwest,East North Central,High School Graduate,19,59,41
+2012,Vote by Education,EDUC10,MI,Midwest,East North Central,Some College,32,54,45
+2012,Vote by Education,EDUC10,MI,Midwest,East North Central,College Graduate,27,44,55
+2012,Vote by Education,EDUC10,MI,Midwest,East North Central,Postgraduate,19,60,39
+2012,Are You a College Graduate?,EDUCCOLL,MI,Midwest,East North Central,Yes,46,51,48
+2012,Are You a College Graduate?,EDUCCOLL,MI,Midwest,East North Central,No,54,56,43
+2012,Did You Attend College?,EDUCHS,MI,Midwest,East North Central,Yes,78,52,47
+2012,Did You Attend College?,EDUCHS,MI,Midwest,East North Central,No,22,60,40
+2012,Vote by Income,INCOME3,MI,Midwest,East North Central,Less Than $50K,42,62,36
+2012,Vote by Income,INCOME3,MI,Midwest,East North Central,$50-100K,32,49,50
+2012,Vote by Income,INCOME3,MI,Midwest,East North Central,$100K or More,26,48,52
+2012,Vote by Income,INC50K,MI,Midwest,East North Central,Less Than $50K,42,62,36
+2012,Vote by Income,INC50K,MI,Midwest,East North Central,$50K or More,58,48,51
+2012,Vote by Income,INC100K,MI,Midwest,East North Central,Less Than $100K,74,57,42
+2012,Vote by Income,INC100K,MI,Midwest,East North Central,$100K or More,26,48,52
+2012,Vote by Religion,REL5,MI,Midwest,East North Central,Protestant,53,48,51
+2012,Vote by Religion,REL5,MI,Midwest,East North Central,Catholic,25,44,55
+2012,Vote by Religion,REL5,MI,Midwest,East North Central,Jewish,2,N/A,N/A
+2012,Vote by Religion,REL5,MI,Midwest,East North Central,Other,6,N/A,N/A
+2012,Vote by Religion,REL5,MI,Midwest,East North Central,None,13,78,19
+2012,Vote by Religion and Race,WHITEREL,MI,Midwest,East North Central,White Protestant,38,34,65
+2012,Vote by Religion and Race,WHITEREL,MI,Midwest,East North Central,White Catholic,23,41,58
+2012,Vote by Religion and Race,WHITEREL,MI,Midwest,East North Central,White Jewish,2,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,MI,Midwest,East North Central,Whites/Other Religion,3,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,MI,Midwest,East North Central,Whites/No Religion,10,76,22
+2012,Vote by Religion and Race,WHITEREL,MI,Midwest,East North Central,Non-white,23,86,13
+2012,Are You White Born-Again Christian?,WHTEVANG,MI,Midwest,East North Central,Yes,28,24,74
+2012,Are You White Born-Again Christian?,WHTEVANG,MI,Midwest,East North Central,No,72,64,35
+2012,Abortion Should Be...,ABORTION,MI,Midwest,East North Central,Always Legal,31,77,21
+2012,Abortion Should Be...,ABORTION,MI,Midwest,East North Central,Mostly Legal,25,67,31
+2012,Abortion Should Be...,ABORTION,MI,Midwest,East North Central,Mostly Illegal,24,26,73
+2012,Abortion Should Be...,ABORTION,MI,Midwest,East North Central,Always Illegal,15,19,80
+2012,Abortion Should Be...,ABORT2,MI,Midwest,East North Central,Legal,56,73,25
+2012,Abortion Should Be...,ABORT2,MI,Midwest,East North Central,Illegal,39,24,76
+2012,Most Important Issue Facing Country,ISSUE12,MI,Midwest,East North Central,Foreign Policy,5,62,37
+2012,Most Important Issue Facing Country,ISSUE12,MI,Midwest,East North Central,Deficit,15,37,61
+2012,Most Important Issue Facing Country,ISSUE12,MI,Midwest,East North Central,Economy,60,51,48
+2012,Most Important Issue Facing Country,ISSUE12,MI,Midwest,East North Central,Health Care,17,78,21
+2012,Most Important Candidate Quality,QLT12,MI,Midwest,East North Central,Shares My Values,28,47,51
+2012,Most Important Candidate Quality,QLT12,MI,Midwest,East North Central,Strong Leader,18,46,53
+2012,Most Important Candidate Quality,QLT12,MI,Midwest,East North Central,Cares About People,23,82,17
+2012,Most Important Candidate Quality,QLT12,MI,Midwest,East North Central,Vision for Future,28,44,56
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,MI,Midwest,East North Central,Housing Market,9,N/A,N/A
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,MI,Midwest,East North Central,Unemployment,37,60,40
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,MI,Midwest,East North Central,Taxes,13,36,63
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,MI,Midwest,East North Central,Rising Prices,38,52,47
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,MI,Midwest,East North Central,Expanded,30,95,4
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,MI,Midwest,East North Central,Kept As Is,16,86,13
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,MI,Midwest,East North Central,Repealed In Part,22,30,68
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,MI,Midwest,East North Central,Repealed Completely,25,6,94
+2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,MI,Midwest,East North Central,No,46,92,7
+2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,MI,Midwest,East North Central,Yes,47,17,82
+2012,Income Tax Rates Should Be...,TAXINC12,MI,Midwest,East North Central,Increased For All,14,53,46
+2012,Income Tax Rates Should Be...,TAXINC12,MI,Midwest,East North Central,Increased for $250K+,47,79,19
+2012,Income Tax Rates Should Be...,TAXINC12,MI,Midwest,East North Central,Not Increased,33,21,78
+2012,Who Is More In Touch With People Like You?,INTOUCH12,MI,Midwest,East North Central,Obama,55,95,4
+2012,Who Is More In Touch With People Like You?,INTOUCH12,MI,Midwest,East North Central,Romney,39,2,98
+2012,Who Would Better Handle Economy?,HANDLEECON12,MI,Midwest,East North Central,Obama,53,97,2
+2012,Who Would Better Handle Economy?,HANDLEECON12,MI,Midwest,East North Central,Romney,43,3,97
+2012,Who Would Better Handle Medicare?,HANDLEMED12,MI,Midwest,East North Central,Obama,54,96,2
+2012,Who Would Better Handle Medicare?,HANDLEMED12,MI,Midwest,East North Central,Romney,42,2,98
+2012,Opinion of Government,GOVTDO10,MI,Midwest,East North Central,Government Should Do More,42,87,13
+2012,Opinion of Government,GOVTDO10,MI,Midwest,East North Central,Government Doing Too Much,52,23,76
+2012,National Economic Conditions,NEC,MI,Midwest,East North Central,Excellent,3,N/A,N/A
+2012,National Economic Conditions,NEC,MI,Midwest,East North Central,Good,25,92,7
+2012,National Economic Conditions,NEC,MI,Midwest,East North Central,Not So Good,44,58,40
+2012,National Economic Conditions,NEC,MI,Midwest,East North Central,Poor,26,13,86
+2012,National Economic Conditions,NEC2,MI,Midwest,East North Central,Excellent/Good,28,90,9
+2012,National Economic Conditions,NEC2,MI,Midwest,East North Central,Not So Good/Poor,70,41,58
+2012,U.S. Economic Conditions Are...,ECONBETT,MI,Midwest,East North Central,Getting Better,45,90,9
+2012,U.S. Economic Conditions Are...,ECONBETT,MI,Midwest,East North Central,Getting Worse,27,12,87
+2012,U.S. Economic Conditions Are...,ECONBETT,MI,Midwest,East North Central,Staying About the Same,27,39,59
+2012,U.S. Economic Conditions Are...,ECONDIR,MI,Midwest,East North Central,Getting Better,45,90,9
+2012,U.S. Economic Conditions Are...,ECONDIR,MI,Midwest,East North Central,Good and Staying the Same,4,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,MI,Midwest,East North Central,Poor and Staying the Same,22,33,65
+2012,U.S. Economic Conditions Are...,ECONDIR,MI,Midwest,East North Central,Getting Worse,27,12,87
+2012,Your Family's Financial Situation,FINSIT,MI,Midwest,East North Central,Better,30,85,14
+2012,Your Family's Financial Situation,FINSIT,MI,Midwest,East North Central,Worse,31,13,86
+2012,Your Family's Financial Situation,FINSIT,MI,Midwest,East North Central,Same,38,60,39
+2012,More to Blame for Current Economic Problems?,ECONBLAME12,MI,Midwest,East North Central,Barack Obama,34,7,93
+2012,More to Blame for Current Economic Problems?,ECONBLAME12,MI,Midwest,East North Central,George W. Bush,57,86,13
+2012,Opinion of Obama Administration,OBAMANG,MI,Midwest,East North Central,Enthusiastic,25,98,1
+2012,Opinion of Obama Administration,OBAMANG,MI,Midwest,East North Central,Satisfied,26,91,7
+2012,Opinion of Obama Administration,OBAMANG,MI,Midwest,East North Central,Dissatisfied,30,11,87
+2012,Opinion of Obama Administration,OBAMANG,MI,Midwest,East North Central,Angry,17,1,97
+2012,Opinion of Obama Administration,OBAMANG2,MI,Midwest,East North Central,Enthusiastic/Satisfied,51,95,4
+2012,Opinion of Obama Administration,OBAMANG2,MI,Midwest,East North Central,Dissatisfied/Angry,47,7,91
+2012,Opinion of Barack Obama,FAVOBAMA2,MI,Midwest,East North Central,Favorable,57,94,6
+2012,Opinion of Barack Obama,FAVOBAMA2,MI,Midwest,East North Central,Unfavorable,41,2,96
+2012,Opinion of Mitt Romney,FAVROMN2,MI,Midwest,East North Central,Favorable,45,7,93
+2012,Opinion of Mitt Romney,FAVROMN2,MI,Midwest,East North Central,Unfavorable,53,95,4
+2012,Do Obama Policies Generally Favor...,OBAMARICH,MI,Midwest,East North Central,Rich,8,N/A,N/A
+2012,Do Obama Policies Generally Favor...,OBAMARICH,MI,Midwest,East North Central,Middle Class,46,85,13
+2012,Do Obama Policies Generally Favor...,OBAMARICH,MI,Midwest,East North Central,Poor,32,25,73
+2012,Would Romney Policies Generally Favor...,ROMNRICH,MI,Midwest,East North Central,Rich,56,91,8
+2012,Would Romney Policies Generally Favor...,ROMNRICH,MI,Midwest,East North Central,Middle Class,34,4,95
+2012,Would Romney Policies Generally Favor...,ROMNRICH,MI,Midwest,East North Central,Poor,2,N/A,N/A
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,MI,Midwest,East North Central,Strongly Favor,70,59,40
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,MI,Midwest,East North Central,Have Reservations,22,45,55
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,MI,Midwest,East North Central,Dislike Opponent,8,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,MI,Midwest,East North Central,Just Today,4,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,MI,Midwest,East North Central,Last Few Days,5,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,MI,Midwest,East North Central,In October,9,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,MI,Midwest,East North Central,In September,8,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,MI,Midwest,East North Central,Before That,73,55,45
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,MI,Midwest,East North Central,Today/Last Few Days,9,45,53
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,MI,Midwest,East North Central,Before That,90,54,46
+2012,When Did You Decide Presidential Vote?,TIME12MTH,MI,Midwest,East North Central,In October or November,18,46,52
+2012,When Did You Decide Presidential Vote?,TIME12MTH,MI,Midwest,East North Central,Before That,81,54,45
+2012,Vote by Marital Status,MARRIED,MI,Midwest,East North Central,Married,60,45,54
+2012,Vote by Marital Status,MARRIED,MI,Midwest,East North Central,Unmarried,40,66,32
+2012,Vote by Gender and Marital Status,SEXWED,MI,Midwest,East North Central,Married Men,31,42,57
+2012,Vote by Gender and Marital Status,SEXWED,MI,Midwest,East North Central,Married Women,29,48,51
+2012,Vote by Gender and Marital Status,SEXWED,MI,Midwest,East North Central,Unmarried Men,19,66,32
+2012,Vote by Gender and Marital Status,SEXWED,MI,Midwest,East North Central,Unmarried Women,22,66,33
+2012,Any Children Under 18 Living in Your Home?,CHILD12,MI,Midwest,East North Central,Yes,37,53,46
+2012,Any Children Under 18 Living in Your Home?,CHILD12,MI,Midwest,East North Central,No,63,54,45
+2012,Vote by Marital Status and Children,MARCHILD,MI,Midwest,East North Central,Married With Children,25,46,53
+2012,Vote by Marital Status and Children,MARCHILD,MI,Midwest,East North Central,All Others,75,56,43
+2012,Vote by Gender and Children in Household,PARENTS,MI,Midwest,East North Central,Fathers,17,48,51
+2012,Vote by Gender and Children in Household,PARENTS,MI,Midwest,East North Central,Mothers,20,58,42
+2012,Vote by Gender and Children in Household,PARENTS,MI,Midwest,East North Central,Men With No Children,32,53,47
+2012,Vote by Gender and Children in Household,PARENTS,MI,Midwest,East North Central,Women With No Children,31,55,44
+2012,Is Anyone in Household a Union Member?,UNIONHH12,MI,Midwest,East North Central,Yes,28,66,33
+2012,Is Anyone in Household a Union Member?,UNIONHH12,MI,Midwest,East North Central,No,72,50,49
+2012,Do You Work Full-Time For Pay?,WORK,MI,Midwest,East North Central,Yes,56,52,47
+2012,Do You Work Full-Time For Pay?,WORK,MI,Midwest,East North Central,No,44,58,40
+2012,Anyone in Household Lost a Job In Last Four Years?,LAIDOFF4,MI,Midwest,East North Central,Yes,38,46,53
+2012,Anyone in Household Lost a Job In Last Four Years?,LAIDOFF4,MI,Midwest,East North Central,No,61,58,41
+2012,Anyone in Your Household Work in Auto Industry?,AUTOHH,MI,Midwest,East North Central,Yes,21,59,40
+2012,Anyone in Your Household Work in Auto Industry?,AUTOHH,MI,Midwest,East North Central,No,78,54,45
+2012,Federal Government Aid to U.S. Automakers,AUTOBAIL12,MI,Midwest,East North Central,Approve,62,76,23
+2012,Federal Government Aid to U.S. Automakers,AUTOBAIL12,MI,Midwest,East North Central,Disapprove,33,16,83
+2012,Vote for Senate,SENMI12,MI,Midwest,East North Central,Stabenow,58,88,12
+2012,Vote for Senate,SENMI12,MI,Midwest,East North Central,Hoekstra,39,4,96
+2012,Vote by Size of Place,SIZEPLC3,MI,Midwest,East North Central,Urban,17,80,19
+2012,Vote by Size of Place,SIZEPLC3,MI,Midwest,East North Central,Suburban,65,49,50
+2012,Vote by Size of Place,SIZEPLC3,MI,Midwest,East North Central,Rural,19,46,53
+2012,Vote by Region,GEOCOD,MI,Midwest,East North Central,Wayne County,17,74,25
+2012,Vote by Region,GEOCOD,MI,Midwest,East North Central,Oakland/Macomb Counties,25,54,45
+2012,Vote by Region,GEOCOD,MI,Midwest,East North Central,South Central Michigan,23,53,45
+2012,Vote by Region,GEOCOD,MI,Midwest,East North Central,Southwestern Michigan,18,42,57
+2012,Vote by Region,GEOCOD,MI,Midwest,East North Central,North/Upper Peninsula,16,47,52

@@ -1,107 +1,107 @@
-question,pollname,state,region,subregion,answer,percent,dem,rep
-Vote by Gender,SEX,MD,South,South Atlantic,Men,46,57,41
-Vote by Gender,SEX,MD,South,South Atlantic,Women,54,65,34
-Vote by Age,AGE,MD,South,South Atlantic,18-29,19,70,26
-Vote by Age,AGE,MD,South,South Atlantic,30-44,23,64,34
-Vote by Age,AGE,MD,South,South Atlantic,45-64,46,56,43
-Vote by Age,AGE,MD,South,South Atlantic,65 and Older,13,64,35
-Vote by Age,AGE65,MD,South,South Atlantic,18-24,12,66,29
-Vote by Age,AGE65,MD,South,South Atlantic,25-29,7,N/A,N/A
-Vote by Age,AGE65,MD,South,South Atlantic,30-39,14,70,28
-Vote by Age,AGE65,MD,South,South Atlantic,40-49,22,55,44
-Vote by Age,AGE65,MD,South,South Atlantic,50-64,33,56,42
-Vote by Age,AGE65,MD,South,South Atlantic,65 and Older,13,64,35
-Vote by Race,RACE,MD,South,South Atlantic,White,59,43,55
-Vote by Race,RACE,MD,South,South Atlantic,African-American,28,97,3
-Vote by Race,RACE,MD,South,South Atlantic,Latino,7,N/A,N/A
-Vote by Race,RACE,MD,South,South Atlantic,Asian,4,N/A,N/A
-Vote by Race,RACE,MD,South,South Atlantic,Other,2,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,MD,South,South Atlantic,White Men,29,38,58
-Vote by Gender and Race,SEXBYRACE,MD,South,South Atlantic,White Women,31,47,52
-Vote by Gender and Race,SEXBYRACE,MD,South,South Atlantic,Black Men,11,96,4
-Vote by Gender and Race,SEXBYRACE,MD,South,South Atlantic,Black Women,16,97,2
-Vote by Gender and Race,SEXBYRACE,MD,South,South Atlantic,Latino Men,4,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,MD,South,South Atlantic,Latino Women,4,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,MD,South,South Atlantic,All Others,5,N/A,N/A
-Vote by Ideology,PHIL3,MD,South,South Atlantic,Liberal,30,89,9
-Vote by Ideology,PHIL3,MD,South,South Atlantic,Moderate,44,63,35
-Vote by Ideology,PHIL3,MD,South,South Atlantic,Conservative,26,26,74
-Vote by Party ID,PARTY,MD,South,South Atlantic,Democratic,51,93,6
-Vote by Party ID,PARTY,MD,South,South Atlantic,Republican,26,7,92
-Vote by Party ID,PARTY,MD,South,South Atlantic,Independent,23,53,41
-Vote by Education,EDUC10,MD,South,South Atlantic,No High School,3,N/A,N/A
-Vote by Education,EDUC10,MD,South,South Atlantic,High School Graduate,16,70,29
-Vote by Education,EDUC10,MD,South,South Atlantic,Some College,29,60,38
-Vote by Education,EDUC10,MD,South,South Atlantic,College Graduate,28,52,46
-Vote by Education,EDUC10,MD,South,South Atlantic,Postgraduate,24,65,33
-Are You a College Graduate?,EDUCCOLL,MD,South,South Atlantic,Yes,52,58,40
-Are You a College Graduate?,EDUCCOLL,MD,South,South Atlantic,No,48,65,34
-Did You Attend College?,EDUCHS,MD,South,South Atlantic,Yes,81,59,39
-Did You Attend College?,EDUCHS,MD,South,South Atlantic,No,19,72,27
-Vote by Income,INCOME3,MD,South,South Atlantic,Less Than $50K,27,79,19
-Vote by Income,INCOME3,MD,South,South Atlantic,$50-100K,29,61,38
-Vote by Income,INCOME3,MD,South,South Atlantic,$100K or More,44,51,47
-Vote by Income,INC50K,MD,South,South Atlantic,Less Than $50K,27,79,19
-Vote by Income,INC50K,MD,South,South Atlantic,$50K or More,73,55,43
-Vote by Income,INC100K,MD,South,South Atlantic,Less Than $100K,56,70,29
-Vote by Income,INC100K,MD,South,South Atlantic,$100K or More,44,51,47
-How Often Do You Attend Religious Services?,ATTEND,MD,South,South Atlantic,More Than Weekly,12,N/A,N/A
-How Often Do You Attend Religious Services?,ATTEND,MD,South,South Atlantic,Weekly,23,57,43
-How Often Do You Attend Religious Services?,ATTEND,MD,South,South Atlantic,Monthly,16,57,43
-How Often Do You Attend Religious Services?,ATTEND,MD,South,South Atlantic,Few Times a Year,32,59,39
-How Often Do You Attend Religious Services?,ATTEND,MD,South,South Atlantic,Never,17,75,24
-How Often Do You Attend Religious Services?,ATTEND2,MD,South,South Atlantic,Weekly,35,61,38
-How Often Do You Attend Religious Services?,ATTEND2,MD,South,South Atlantic,Occasionally,47,58,41
-How Often Do You Attend Religious Services?,ATTEND2,MD,South,South Atlantic,Never,17,75,24
-Most Important Issue Facing Country,ISSUE12,MD,South,South Atlantic,Foreign Policy,5,N/A,N/A
-Most Important Issue Facing Country,ISSUE12,MD,South,South Atlantic,Deficit,17,41,58
-Most Important Issue Facing Country,ISSUE12,MD,South,South Atlantic,Economy,58,59,39
-Most Important Issue Facing Country,ISSUE12,MD,South,South Atlantic,Health Care,16,84,13
-Who Is More In Touch With People Like You?,INTOUCH12,MD,South,South Atlantic,Obama,64,94,5
-Who Is More In Touch With People Like You?,INTOUCH12,MD,South,South Atlantic,Romney,34,3,96
-Who Would Better Handle Economy?,HANDLEECON12,MD,South,South Atlantic,Obama,59,97,2
-Who Would Better Handle Economy?,HANDLEECON12,MD,South,South Atlantic,Romney,38,8,91
-Opinion of Government,GOVTDO10,MD,South,South Atlantic,Government Should Do More,49,89,10
-Opinion of Government,GOVTDO10,MD,South,South Atlantic,Government Doing Too Much,46,30,69
-Opinion of Barack Obama,FAVOBAMA2,MD,South,South Atlantic,Favorable,64,93,6
-Opinion of Barack Obama,FAVOBAMA2,MD,South,South Atlantic,Unfavorable,35,7,92
-Opinion of Mitt Romney,FAVROMN2,MD,South,South Atlantic,Favorable,39,13,87
-Opinion of Mitt Romney,FAVROMN2,MD,South,South Atlantic,Unfavorable,59,95,3
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,MD,South,South Atlantic,Strongly Favor,73,68,32
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,MD,South,South Atlantic,Have Reservations,20,48,51
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,MD,South,South Atlantic,Dislike Opponent,6,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,MD,South,South Atlantic,Just Today,5,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,MD,South,South Atlantic,Last Few Days,6,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,MD,South,South Atlantic,In October,6,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,MD,South,South Atlantic,In September,6,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,MD,South,South Atlantic,Before That,77,64,35
-When Did You Decide Presidential Vote?,TIME12FEWD,MD,South,South Atlantic,Today/Last Few Days,11,56,40
-When Did You Decide Presidential Vote?,TIME12FEWD,MD,South,South Atlantic,Before That,89,63,37
-When Did You Decide Presidential Vote?,TIME12MTH,MD,South,South Atlantic,In October or November,17,50,47
-When Did You Decide Presidential Vote?,TIME12MTH,MD,South,South Atlantic,Before That,83,64,35
-Vote by Marital Status,MARRIED,MD,South,South Atlantic,Married,59,53,46
-Vote by Marital Status,MARRIED,MD,South,South Atlantic,Unmarried,41,72,25
-Vote by Gender and Marital Status,SEXWED,MD,South,South Atlantic,Married Men,29,50,48
-Vote by Gender and Marital Status,SEXWED,MD,South,South Atlantic,Married Women,30,56,44
-Vote by Gender and Marital Status,SEXWED,MD,South,South Atlantic,Unmarried Men,17,67,29
-Vote by Gender and Marital Status,SEXWED,MD,South,South Atlantic,Unmarried Women,24,76,23
-Any Children Under 18 Living in Your Home?,CHILD12,MD,South,South Atlantic,Yes,39,61,37
-Any Children Under 18 Living in Your Home?,CHILD12,MD,South,South Atlantic,No,61,62,37
-Vote by Marital Status and Children,MARCHILD,MD,South,South Atlantic,Married With Children,29,55,44
-Vote by Marital Status and Children,MARCHILD,MD,South,South Atlantic,All Others,71,64,34
-Vote by Gender and Children in Household,PARENTS,MD,South,South Atlantic,Fathers,17,51,48
-Vote by Gender and Children in Household,PARENTS,MD,South,South Atlantic,Mothers,22,70,29
-Vote by Gender and Children in Household,PARENTS,MD,South,South Atlantic,Men With No Children,28,61,37
-Vote by Gender and Children in Household,PARENTS,MD,South,South Atlantic,Women With No Children,33,62,37
-Vote for Senate,SENMD12,MD,South,South Atlantic,Cardin,56,94,5
-Vote for Senate,SENMD12,MD,South,South Atlantic,Bongino,26,6,93
-Vote for Senate,SENMD12,MD,South,South Atlantic,Sobhani,17,41,56
-Vote on Question 6,QUES6MD,MD,South,South Atlantic,Yes,52,78,20
-Vote on Question 6,QUES6MD,MD,South,South Atlantic,No,48,44,55
-Vote by Size of Place,SIZEPLC3,MD,South,South Atlantic,Urban,7,92,8
-Vote by Size of Place,SIZEPLC3,MD,South,South Atlantic,Suburban,82,60,39
-Vote by Size of Place,SIZEPLC3,MD,South,South Atlantic,Rural,11,56,40
-Vote by Region,GEOCOD,MD,South,South Atlantic,Baltimore City,7,92,8
-Vote by Region,GEOCOD,MD,South,South Atlantic,Baltimore Suburbs,31,52,47
-Vote by Region,GEOCOD,MD,South,South Atlantic,D.C. Suburbs,30,81,18
-Vote by Region,GEOCOD,MD,South,South Atlantic,Rest of Maryland,32,46,52
+year,question,pollname,state,region,subregion,answer,percent,dem,rep
+2012,Vote by Gender,SEX,MD,South,South Atlantic,Men,46,57,41
+2012,Vote by Gender,SEX,MD,South,South Atlantic,Women,54,65,34
+2012,Vote by Age,AGE,MD,South,South Atlantic,18-29,19,70,26
+2012,Vote by Age,AGE,MD,South,South Atlantic,30-44,23,64,34
+2012,Vote by Age,AGE,MD,South,South Atlantic,45-64,46,56,43
+2012,Vote by Age,AGE,MD,South,South Atlantic,65 and Older,13,64,35
+2012,Vote by Age,AGE65,MD,South,South Atlantic,18-24,12,66,29
+2012,Vote by Age,AGE65,MD,South,South Atlantic,25-29,7,N/A,N/A
+2012,Vote by Age,AGE65,MD,South,South Atlantic,30-39,14,70,28
+2012,Vote by Age,AGE65,MD,South,South Atlantic,40-49,22,55,44
+2012,Vote by Age,AGE65,MD,South,South Atlantic,50-64,33,56,42
+2012,Vote by Age,AGE65,MD,South,South Atlantic,65 and Older,13,64,35
+2012,Vote by Race,RACE,MD,South,South Atlantic,White,59,43,55
+2012,Vote by Race,RACE,MD,South,South Atlantic,African-American,28,97,3
+2012,Vote by Race,RACE,MD,South,South Atlantic,Latino,7,N/A,N/A
+2012,Vote by Race,RACE,MD,South,South Atlantic,Asian,4,N/A,N/A
+2012,Vote by Race,RACE,MD,South,South Atlantic,Other,2,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,MD,South,South Atlantic,White Men,29,38,58
+2012,Vote by Gender and Race,SEXBYRACE,MD,South,South Atlantic,White Women,31,47,52
+2012,Vote by Gender and Race,SEXBYRACE,MD,South,South Atlantic,Black Men,11,96,4
+2012,Vote by Gender and Race,SEXBYRACE,MD,South,South Atlantic,Black Women,16,97,2
+2012,Vote by Gender and Race,SEXBYRACE,MD,South,South Atlantic,Latino Men,4,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,MD,South,South Atlantic,Latino Women,4,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,MD,South,South Atlantic,All Others,5,N/A,N/A
+2012,Vote by Ideology,PHIL3,MD,South,South Atlantic,Liberal,30,89,9
+2012,Vote by Ideology,PHIL3,MD,South,South Atlantic,Moderate,44,63,35
+2012,Vote by Ideology,PHIL3,MD,South,South Atlantic,Conservative,26,26,74
+2012,Vote by Party ID,PARTY,MD,South,South Atlantic,Democratic,51,93,6
+2012,Vote by Party ID,PARTY,MD,South,South Atlantic,Republican,26,7,92
+2012,Vote by Party ID,PARTY,MD,South,South Atlantic,Independent,23,53,41
+2012,Vote by Education,EDUC10,MD,South,South Atlantic,No High School,3,N/A,N/A
+2012,Vote by Education,EDUC10,MD,South,South Atlantic,High School Graduate,16,70,29
+2012,Vote by Education,EDUC10,MD,South,South Atlantic,Some College,29,60,38
+2012,Vote by Education,EDUC10,MD,South,South Atlantic,College Graduate,28,52,46
+2012,Vote by Education,EDUC10,MD,South,South Atlantic,Postgraduate,24,65,33
+2012,Are You a College Graduate?,EDUCCOLL,MD,South,South Atlantic,Yes,52,58,40
+2012,Are You a College Graduate?,EDUCCOLL,MD,South,South Atlantic,No,48,65,34
+2012,Did You Attend College?,EDUCHS,MD,South,South Atlantic,Yes,81,59,39
+2012,Did You Attend College?,EDUCHS,MD,South,South Atlantic,No,19,72,27
+2012,Vote by Income,INCOME3,MD,South,South Atlantic,Less Than $50K,27,79,19
+2012,Vote by Income,INCOME3,MD,South,South Atlantic,$50-100K,29,61,38
+2012,Vote by Income,INCOME3,MD,South,South Atlantic,$100K or More,44,51,47
+2012,Vote by Income,INC50K,MD,South,South Atlantic,Less Than $50K,27,79,19
+2012,Vote by Income,INC50K,MD,South,South Atlantic,$50K or More,73,55,43
+2012,Vote by Income,INC100K,MD,South,South Atlantic,Less Than $100K,56,70,29
+2012,Vote by Income,INC100K,MD,South,South Atlantic,$100K or More,44,51,47
+2012,How Often Do You Attend Religious Services?,ATTEND,MD,South,South Atlantic,More Than Weekly,12,N/A,N/A
+2012,How Often Do You Attend Religious Services?,ATTEND,MD,South,South Atlantic,Weekly,23,57,43
+2012,How Often Do You Attend Religious Services?,ATTEND,MD,South,South Atlantic,Monthly,16,57,43
+2012,How Often Do You Attend Religious Services?,ATTEND,MD,South,South Atlantic,Few Times a Year,32,59,39
+2012,How Often Do You Attend Religious Services?,ATTEND,MD,South,South Atlantic,Never,17,75,24
+2012,How Often Do You Attend Religious Services?,ATTEND2,MD,South,South Atlantic,Weekly,35,61,38
+2012,How Often Do You Attend Religious Services?,ATTEND2,MD,South,South Atlantic,Occasionally,47,58,41
+2012,How Often Do You Attend Religious Services?,ATTEND2,MD,South,South Atlantic,Never,17,75,24
+2012,Most Important Issue Facing Country,ISSUE12,MD,South,South Atlantic,Foreign Policy,5,N/A,N/A
+2012,Most Important Issue Facing Country,ISSUE12,MD,South,South Atlantic,Deficit,17,41,58
+2012,Most Important Issue Facing Country,ISSUE12,MD,South,South Atlantic,Economy,58,59,39
+2012,Most Important Issue Facing Country,ISSUE12,MD,South,South Atlantic,Health Care,16,84,13
+2012,Who Is More In Touch With People Like You?,INTOUCH12,MD,South,South Atlantic,Obama,64,94,5
+2012,Who Is More In Touch With People Like You?,INTOUCH12,MD,South,South Atlantic,Romney,34,3,96
+2012,Who Would Better Handle Economy?,HANDLEECON12,MD,South,South Atlantic,Obama,59,97,2
+2012,Who Would Better Handle Economy?,HANDLEECON12,MD,South,South Atlantic,Romney,38,8,91
+2012,Opinion of Government,GOVTDO10,MD,South,South Atlantic,Government Should Do More,49,89,10
+2012,Opinion of Government,GOVTDO10,MD,South,South Atlantic,Government Doing Too Much,46,30,69
+2012,Opinion of Barack Obama,FAVOBAMA2,MD,South,South Atlantic,Favorable,64,93,6
+2012,Opinion of Barack Obama,FAVOBAMA2,MD,South,South Atlantic,Unfavorable,35,7,92
+2012,Opinion of Mitt Romney,FAVROMN2,MD,South,South Atlantic,Favorable,39,13,87
+2012,Opinion of Mitt Romney,FAVROMN2,MD,South,South Atlantic,Unfavorable,59,95,3
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,MD,South,South Atlantic,Strongly Favor,73,68,32
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,MD,South,South Atlantic,Have Reservations,20,48,51
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,MD,South,South Atlantic,Dislike Opponent,6,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,MD,South,South Atlantic,Just Today,5,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,MD,South,South Atlantic,Last Few Days,6,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,MD,South,South Atlantic,In October,6,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,MD,South,South Atlantic,In September,6,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,MD,South,South Atlantic,Before That,77,64,35
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,MD,South,South Atlantic,Today/Last Few Days,11,56,40
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,MD,South,South Atlantic,Before That,89,63,37
+2012,When Did You Decide Presidential Vote?,TIME12MTH,MD,South,South Atlantic,In October or November,17,50,47
+2012,When Did You Decide Presidential Vote?,TIME12MTH,MD,South,South Atlantic,Before That,83,64,35
+2012,Vote by Marital Status,MARRIED,MD,South,South Atlantic,Married,59,53,46
+2012,Vote by Marital Status,MARRIED,MD,South,South Atlantic,Unmarried,41,72,25
+2012,Vote by Gender and Marital Status,SEXWED,MD,South,South Atlantic,Married Men,29,50,48
+2012,Vote by Gender and Marital Status,SEXWED,MD,South,South Atlantic,Married Women,30,56,44
+2012,Vote by Gender and Marital Status,SEXWED,MD,South,South Atlantic,Unmarried Men,17,67,29
+2012,Vote by Gender and Marital Status,SEXWED,MD,South,South Atlantic,Unmarried Women,24,76,23
+2012,Any Children Under 18 Living in Your Home?,CHILD12,MD,South,South Atlantic,Yes,39,61,37
+2012,Any Children Under 18 Living in Your Home?,CHILD12,MD,South,South Atlantic,No,61,62,37
+2012,Vote by Marital Status and Children,MARCHILD,MD,South,South Atlantic,Married With Children,29,55,44
+2012,Vote by Marital Status and Children,MARCHILD,MD,South,South Atlantic,All Others,71,64,34
+2012,Vote by Gender and Children in Household,PARENTS,MD,South,South Atlantic,Fathers,17,51,48
+2012,Vote by Gender and Children in Household,PARENTS,MD,South,South Atlantic,Mothers,22,70,29
+2012,Vote by Gender and Children in Household,PARENTS,MD,South,South Atlantic,Men With No Children,28,61,37
+2012,Vote by Gender and Children in Household,PARENTS,MD,South,South Atlantic,Women With No Children,33,62,37
+2012,Vote for Senate,SENMD12,MD,South,South Atlantic,Cardin,56,94,5
+2012,Vote for Senate,SENMD12,MD,South,South Atlantic,Bongino,26,6,93
+2012,Vote for Senate,SENMD12,MD,South,South Atlantic,Sobhani,17,41,56
+2012,Vote on Question 6,QUES6MD,MD,South,South Atlantic,Yes,52,78,20
+2012,Vote on Question 6,QUES6MD,MD,South,South Atlantic,No,48,44,55
+2012,Vote by Size of Place,SIZEPLC3,MD,South,South Atlantic,Urban,7,92,8
+2012,Vote by Size of Place,SIZEPLC3,MD,South,South Atlantic,Suburban,82,60,39
+2012,Vote by Size of Place,SIZEPLC3,MD,South,South Atlantic,Rural,11,56,40
+2012,Vote by Region,GEOCOD,MD,South,South Atlantic,Baltimore City,7,92,8
+2012,Vote by Region,GEOCOD,MD,South,South Atlantic,Baltimore Suburbs,31,52,47
+2012,Vote by Region,GEOCOD,MD,South,South Atlantic,D.C. Suburbs,30,81,18
+2012,Vote by Region,GEOCOD,MD,South,South Atlantic,Rest of Maryland,32,46,52

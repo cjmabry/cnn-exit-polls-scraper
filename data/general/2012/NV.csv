@@ -1,168 +1,168 @@
-question,pollname,state,region,subregion,answer,percent,dem,rep
-Vote by Gender,SEX,NV,West,Mountain,Men,47,48,49
-Vote by Gender,SEX,NV,West,Mountain,Women,53,57,41
-Vote by Age,AGE,NV,West,Mountain,18-29,18,68,30
-Vote by Age,AGE,NV,West,Mountain,30-44,28,54,42
-Vote by Age,AGE,NV,West,Mountain,45-64,37,49,49
-Vote by Age,AGE,NV,West,Mountain,65 and Older,18,44,55
-Vote by Age,AGE65,NV,West,Mountain,18-24,10,73,23
-Vote by Age,AGE65,NV,West,Mountain,25-29,8,60,40
-Vote by Age,AGE65,NV,West,Mountain,30-39,17,53,43
-Vote by Age,AGE65,NV,West,Mountain,40-49,19,50,47
-Vote by Age,AGE65,NV,West,Mountain,50-64,28,50,47
-Vote by Age,AGE65,NV,West,Mountain,65 and Older,18,44,55
-Vote by Race,RACE,NV,West,Mountain,White,64,43,56
-Vote by Race,RACE,NV,West,Mountain,African-American,9,92,6
-Vote by Race,RACE,NV,West,Mountain,Latino,19,71,24
-Vote by Race,RACE,NV,West,Mountain,Asian,5,50,47
-Vote by Race,RACE,NV,West,Mountain,Other,4,51,46
-Vote by Gender and Race,SEXBYRACE,NV,West,Mountain,White Men,29,38,60
-Vote by Gender and Race,SEXBYRACE,NV,West,Mountain,White Women,35,46,52
-Vote by Gender and Race,SEXBYRACE,NV,West,Mountain,Black Men,4,86,9
-Vote by Gender and Race,SEXBYRACE,NV,West,Mountain,Black Women,5,96,4
-Vote by Gender and Race,SEXBYRACE,NV,West,Mountain,Latino Men,8,70,26
-Vote by Gender and Race,SEXBYRACE,NV,West,Mountain,Latino Women,10,72,21
-Vote by Gender and Race,SEXBYRACE,NV,West,Mountain,All Others,9,50,46
-Vote by Ideology,PHIL3,NV,West,Mountain,Liberal,24,91,7
-Vote by Ideology,PHIL3,NV,West,Mountain,Moderate,42,58,39
-Vote by Ideology,PHIL3,NV,West,Mountain,Conservative,35,19,79
-Vote by Party ID,PARTY,NV,West,Mountain,Democratic,38,96,4
-Vote by Party ID,PARTY,NV,West,Mountain,Republican,28,7,93
-Vote by Party ID,PARTY,NV,West,Mountain,Independent,34,43,50
-Vote by Education,EDUC10,NV,West,Mountain,No High School,5,73,13
-Vote by Education,EDUC10,NV,West,Mountain,High School Graduate,21,60,38
-Vote by Education,EDUC10,NV,West,Mountain,Some College,33,50,48
-Vote by Education,EDUC10,NV,West,Mountain,College Graduate,30,47,52
-Vote by Education,EDUC10,NV,West,Mountain,Postgraduate,12,54,44
-Are You a College Graduate?,EDUCCOLL,NV,West,Mountain,Yes,42,49,49
-Are You a College Graduate?,EDUCCOLL,NV,West,Mountain,No,58,56,42
-Did You Attend College?,EDUCHS,NV,West,Mountain,Yes,75,49,49
-Did You Attend College?,EDUCHS,NV,West,Mountain,No,25,63,33
-Vote by Income,INCOME3,NV,West,Mountain,Less Than $50K,45,68,29
-Vote by Income,INCOME3,NV,West,Mountain,$50-100K,33,47,52
-Vote by Income,INCOME3,NV,West,Mountain,$100K or More,22,37,61
-Vote by Income,INC50K,NV,West,Mountain,Less Than $50K,45,68,29
-Vote by Income,INC50K,NV,West,Mountain,$50K or More,55,43,55
-Vote by Income,INC100K,NV,West,Mountain,Less Than $100K,78,59,39
-Vote by Income,INC100K,NV,West,Mountain,$100K or More,22,37,61
-Vote by Religion,REL5,NV,West,Mountain,Protestant,42,43,57
-Vote by Religion,REL5,NV,West,Mountain,Catholic,26,51,46
-Vote by Religion,REL5,NV,West,Mountain,Jewish,3,N/A,N/A
-Vote by Religion,REL5,NV,West,Mountain,Other,6,N/A,N/A
-Vote by Religion,REL5,NV,West,Mountain,None,23,65,33
-Vote by Religion and Race,WHITEREL,NV,West,Mountain,White Protestant,26,33,67
-Vote by Religion and Race,WHITEREL,NV,West,Mountain,White Catholic,15,38,58
-Vote by Religion and Race,WHITEREL,NV,West,Mountain,White Jewish,3,N/A,N/A
-Vote by Religion and Race,WHITEREL,NV,West,Mountain,Whites/Other Religion,4,N/A,N/A
-Vote by Religion and Race,WHITEREL,NV,West,Mountain,Whites/No Religion,16,59,40
-Vote by Religion and Race,WHITEREL,NV,West,Mountain,Non-white,36,70,29
-Are You White Born-Again Christian?,WHTEVANG,NV,West,Mountain,Yes,18,28,69
-Are You White Born-Again Christian?,WHTEVANG,NV,West,Mountain,No,82,59,40
-Abortion Should Be...,ABORTION,NV,West,Mountain,Always Legal,33,73,26
-Abortion Should Be...,ABORTION,NV,West,Mountain,Mostly Legal,30,54,44
-Abortion Should Be...,ABORTION,NV,West,Mountain,Mostly Illegal,20,34,65
-Abortion Should Be...,ABORTION,NV,West,Mountain,Always Illegal,10,N/A,N/A
-Abortion Should Be...,ABORT2,NV,West,Mountain,Legal,63,64,35
-Abortion Should Be...,ABORT2,NV,West,Mountain,Illegal,30,33,66
-Most Important Issue Facing Country,ISSUE12,NV,West,Mountain,Foreign Policy,4,54,35
-Most Important Issue Facing Country,ISSUE12,NV,West,Mountain,Deficit,14,33,65
-Most Important Issue Facing Country,ISSUE12,NV,West,Mountain,Economy,61,47,50
-Most Important Issue Facing Country,ISSUE12,NV,West,Mountain,Health Care,16,88,12
-Most Important Candidate Quality,QLT12,NV,West,Mountain,Shares My Values,24,41,53
-Most Important Candidate Quality,QLT12,NV,West,Mountain,Strong Leader,21,36,59
-Most Important Candidate Quality,QLT12,NV,West,Mountain,Cares About People,19,91,9
-Most Important Candidate Quality,QLT12,NV,West,Mountain,Vision for Future,33,50,49
-Biggest Economic Problem Facing People Like You,ECONISS12,NV,West,Mountain,Housing Market,16,60,40
-Biggest Economic Problem Facing People Like You,ECONISS12,NV,West,Mountain,Unemployment,28,56,42
-Biggest Economic Problem Facing People Like You,ECONISS12,NV,West,Mountain,Taxes,14,47,53
-Biggest Economic Problem Facing People Like You,ECONISS12,NV,West,Mountain,Rising Prices,40,50,43
-2010 Health Care Law Should Be...,HEALTHCARE12,NV,West,Mountain,Expanded,28,86,4
-2010 Health Care Law Should Be...,HEALTHCARE12,NV,West,Mountain,Kept As Is,17,95,4
-2010 Health Care Law Should Be...,HEALTHCARE12,NV,West,Mountain,Repealed In Part,20,29,69
-2010 Health Care Law Should Be...,HEALTHCARE12,NV,West,Mountain,Repealed Completely,27,5,94
-Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,NV,West,Mountain,No,45,89,4
-Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,NV,West,Mountain,Yes,47,15,83
-Income Tax Rates Should Be...,TAXINC12,NV,West,Mountain,Increased For All,17,51,45
-Income Tax Rates Should Be...,TAXINC12,NV,West,Mountain,Increased for $250K+,47,77,22
-Income Tax Rates Should Be...,TAXINC12,NV,West,Mountain,Not Increased,33,25,74
-Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,NV,West,Mountain,Offered Legal Status,63,66,31
-Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,NV,West,Mountain,Deported,27,22,76
-Who Is More In Touch With People Like You?,INTOUCH12,NV,West,Mountain,Obama,53,95,4
-Who Is More In Touch With People Like You?,INTOUCH12,NV,West,Mountain,Romney,42,1,99
-Who Would Better Handle Economy?,HANDLEECON12,NV,West,Mountain,Obama,48,98,1
-Who Would Better Handle Economy?,HANDLEECON12,NV,West,Mountain,Romney,47,5,93
-Who Would Better Handle Medicare?,HANDLEMED12,NV,West,Mountain,Obama,54,96,3
-Who Would Better Handle Medicare?,HANDLEMED12,NV,West,Mountain,Romney,41,2,96
-Opinion of Government,GOVTDO10,NV,West,Mountain,Government Should Do More,42,85,10
-Opinion of Government,GOVTDO10,NV,West,Mountain,Government Doing Too Much,51,24,75
-National Economic Conditions,NEC,NV,West,Mountain,Excellent,1,N/A,N/A
-National Economic Conditions,NEC,NV,West,Mountain,Good,23,96,4
-National Economic Conditions,NEC,NV,West,Mountain,Not So Good,34,64,32
-National Economic Conditions,NEC,NV,West,Mountain,Poor,40,14,83
-National Economic Conditions,NEC2,NV,West,Mountain,Excellent/Good,24,95,4
-National Economic Conditions,NEC2,NV,West,Mountain,Not So Good/Poor,74,37,60
-U.S. Economic Conditions Are...,ECONBETT,NV,West,Mountain,Getting Better,40,94,5
-U.S. Economic Conditions Are...,ECONBETT,NV,West,Mountain,Getting Worse,29,4,93
-U.S. Economic Conditions Are...,ECONBETT,NV,West,Mountain,Staying About the Same,30,43,53
-U.S. Economic Conditions Are...,ECONDIR,NV,West,Mountain,Getting Better,40,94,5
-U.S. Economic Conditions Are...,ECONDIR,NV,West,Mountain,Good and Staying the Same,5,N/A,N/A
-U.S. Economic Conditions Are...,ECONDIR,NV,West,Mountain,Poor and Staying the Same,25,32,64
-U.S. Economic Conditions Are...,ECONDIR,NV,West,Mountain,Getting Worse,29,4,93
-Your Family's Financial Situation,FINSIT,NV,West,Mountain,Better,28,84,8
-Your Family's Financial Situation,FINSIT,NV,West,Mountain,Worse,37,15,84
-Your Family's Financial Situation,FINSIT,NV,West,Mountain,Same,35,69,29
-More to Blame for Current Economic Problems?,ECONBLAME12,NV,West,Mountain,Barack Obama,37,5,93
-More to Blame for Current Economic Problems?,ECONBLAME12,NV,West,Mountain,George W. Bush,54,87,10
-Opinion of Obama Administration,OBAMANG,NV,West,Mountain,Enthusiastic,29,98,1
-Opinion of Obama Administration,OBAMANG,NV,West,Mountain,Satisfied,22,93,5
-Opinion of Obama Administration,OBAMANG,NV,West,Mountain,Dissatisfied,23,19,79
-Opinion of Obama Administration,OBAMANG,NV,West,Mountain,Angry,24,2,96
-Opinion of Obama Administration,OBAMANG2,NV,West,Mountain,Enthusiastic/Satisfied,51,96,3
-Opinion of Obama Administration,OBAMANG2,NV,West,Mountain,Dissatisfied/Angry,47,10,88
-Opinion of Barack Obama,FAVOBAMA2,NV,West,Mountain,Favorable,56,92,4
-Opinion of Barack Obama,FAVOBAMA2,NV,West,Mountain,Unfavorable,43,1,97
-Opinion of Mitt Romney,FAVROMN2,NV,West,Mountain,Favorable,47,10,89
-Opinion of Mitt Romney,FAVROMN2,NV,West,Mountain,Unfavorable,50,91,3
-Do Obama Policies Generally Favor...,OBAMARICH,NV,West,Mountain,Rich,9,15,83
-Do Obama Policies Generally Favor...,OBAMARICH,NV,West,Mountain,Middle Class,45,92,7
-Do Obama Policies Generally Favor...,OBAMARICH,NV,West,Mountain,Poor,30,25,74
-Would Romney Policies Generally Favor...,ROMNRICH,NV,West,Mountain,Rich,56,90,9
-Would Romney Policies Generally Favor...,ROMNRICH,NV,West,Mountain,Middle Class,33,4,95
-Would Romney Policies Generally Favor...,ROMNRICH,NV,West,Mountain,Poor,1,N/A,N/A
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,NV,West,Mountain,Strongly Favor,68,53,45
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,NV,West,Mountain,Have Reservations,16,53,43
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,NV,West,Mountain,Dislike Opponent,15,41,54
-When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,Just Today,2,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,Last Few Days,3,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,In October,11,54,44
-When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,In September,9,64,34
-When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,Before That,73,51,45
-When Did You Decide Presidential Vote?,TIME12FEWD,NV,West,Mountain,Today/Last Few Days,5,60,34
-When Did You Decide Presidential Vote?,TIME12FEWD,NV,West,Mountain,Before That,93,53,44
-When Did You Decide Presidential Vote?,TIME12MTH,NV,West,Mountain,In October or November,16,56,41
-When Did You Decide Presidential Vote?,TIME12MTH,NV,West,Mountain,Before That,83,53,44
-Vote by Marital Status,MARRIED,NV,West,Mountain,Married,57,44,54
-Vote by Marital Status,MARRIED,NV,West,Mountain,Unmarried,43,64,33
-Vote by Gender and Marital Status,SEXWED,NV,West,Mountain,Married Men,28,41,57
-Vote by Gender and Marital Status,SEXWED,NV,West,Mountain,Married Women,29,47,52
-Vote by Gender and Marital Status,SEXWED,NV,West,Mountain,Unmarried Men,19,58,39
-Vote by Gender and Marital Status,SEXWED,NV,West,Mountain,Unmarried Women,24,69,28
-Any Children Under 18 Living in Your Home?,CHILD12,NV,West,Mountain,Yes,35,53,45
-Any Children Under 18 Living in Your Home?,CHILD12,NV,West,Mountain,No,65,49,48
-Vote by Marital Status and Children,MARCHILD,NV,West,Mountain,Married With Children,24,44,54
-Vote by Marital Status and Children,MARCHILD,NV,West,Mountain,All Others,76,52,45
-Vote by Gender and Children in Household,PARENTS,NV,West,Mountain,Fathers,18,45,52
-Vote by Gender and Children in Household,PARENTS,NV,West,Mountain,Mothers,17,61,37
-Vote by Gender and Children in Household,PARENTS,NV,West,Mountain,Men With No Children,31,47,49
-Vote by Gender and Children in Household,PARENTS,NV,West,Mountain,Women With No Children,34,52,48
-Is Anyone in Household a Union Member?,UNIONHH12,NV,West,Mountain,Yes,16,60,39
-Is Anyone in Household a Union Member?,UNIONHH12,NV,West,Mountain,No,84,49,48
-Vote for Senate,SENNV12,NV,West,Mountain,Berkley,45,95,4
-Vote for Senate,SENNV12,NV,West,Mountain,Heller,46,8,91
-Vote for Senate,SENNV12,NV,West,Mountain,None of These Candidates,5,65,29
-Vote by Size of Place,SIZEPLC3,NV,West,Mountain,Urban,52,55,43
-Vote by Size of Place,SIZEPLC3,NV,West,Mountain,Suburban,36,54,42
-Vote by Size of Place,SIZEPLC3,NV,West,Mountain,Rural,11,37,61
-Vote by Region,GEOCOD,NV,West,Mountain,Washoe County,18,50,49
-Vote by Region,GEOCOD,NV,West,Mountain,Clark County,70,56,41
-Vote by Region,GEOCOD,NV,West,Mountain,Rest of Nevada,12,35,62
+year,question,pollname,state,region,subregion,answer,percent,dem,rep
+2012,Vote by Gender,SEX,NV,West,Mountain,Men,47,48,49
+2012,Vote by Gender,SEX,NV,West,Mountain,Women,53,57,41
+2012,Vote by Age,AGE,NV,West,Mountain,18-29,18,68,30
+2012,Vote by Age,AGE,NV,West,Mountain,30-44,28,54,42
+2012,Vote by Age,AGE,NV,West,Mountain,45-64,37,49,49
+2012,Vote by Age,AGE,NV,West,Mountain,65 and Older,18,44,55
+2012,Vote by Age,AGE65,NV,West,Mountain,18-24,10,73,23
+2012,Vote by Age,AGE65,NV,West,Mountain,25-29,8,60,40
+2012,Vote by Age,AGE65,NV,West,Mountain,30-39,17,53,43
+2012,Vote by Age,AGE65,NV,West,Mountain,40-49,19,50,47
+2012,Vote by Age,AGE65,NV,West,Mountain,50-64,28,50,47
+2012,Vote by Age,AGE65,NV,West,Mountain,65 and Older,18,44,55
+2012,Vote by Race,RACE,NV,West,Mountain,White,64,43,56
+2012,Vote by Race,RACE,NV,West,Mountain,African-American,9,92,6
+2012,Vote by Race,RACE,NV,West,Mountain,Latino,19,71,24
+2012,Vote by Race,RACE,NV,West,Mountain,Asian,5,50,47
+2012,Vote by Race,RACE,NV,West,Mountain,Other,4,51,46
+2012,Vote by Gender and Race,SEXBYRACE,NV,West,Mountain,White Men,29,38,60
+2012,Vote by Gender and Race,SEXBYRACE,NV,West,Mountain,White Women,35,46,52
+2012,Vote by Gender and Race,SEXBYRACE,NV,West,Mountain,Black Men,4,86,9
+2012,Vote by Gender and Race,SEXBYRACE,NV,West,Mountain,Black Women,5,96,4
+2012,Vote by Gender and Race,SEXBYRACE,NV,West,Mountain,Latino Men,8,70,26
+2012,Vote by Gender and Race,SEXBYRACE,NV,West,Mountain,Latino Women,10,72,21
+2012,Vote by Gender and Race,SEXBYRACE,NV,West,Mountain,All Others,9,50,46
+2012,Vote by Ideology,PHIL3,NV,West,Mountain,Liberal,24,91,7
+2012,Vote by Ideology,PHIL3,NV,West,Mountain,Moderate,42,58,39
+2012,Vote by Ideology,PHIL3,NV,West,Mountain,Conservative,35,19,79
+2012,Vote by Party ID,PARTY,NV,West,Mountain,Democratic,38,96,4
+2012,Vote by Party ID,PARTY,NV,West,Mountain,Republican,28,7,93
+2012,Vote by Party ID,PARTY,NV,West,Mountain,Independent,34,43,50
+2012,Vote by Education,EDUC10,NV,West,Mountain,No High School,5,73,13
+2012,Vote by Education,EDUC10,NV,West,Mountain,High School Graduate,21,60,38
+2012,Vote by Education,EDUC10,NV,West,Mountain,Some College,33,50,48
+2012,Vote by Education,EDUC10,NV,West,Mountain,College Graduate,30,47,52
+2012,Vote by Education,EDUC10,NV,West,Mountain,Postgraduate,12,54,44
+2012,Are You a College Graduate?,EDUCCOLL,NV,West,Mountain,Yes,42,49,49
+2012,Are You a College Graduate?,EDUCCOLL,NV,West,Mountain,No,58,56,42
+2012,Did You Attend College?,EDUCHS,NV,West,Mountain,Yes,75,49,49
+2012,Did You Attend College?,EDUCHS,NV,West,Mountain,No,25,63,33
+2012,Vote by Income,INCOME3,NV,West,Mountain,Less Than $50K,45,68,29
+2012,Vote by Income,INCOME3,NV,West,Mountain,$50-100K,33,47,52
+2012,Vote by Income,INCOME3,NV,West,Mountain,$100K or More,22,37,61
+2012,Vote by Income,INC50K,NV,West,Mountain,Less Than $50K,45,68,29
+2012,Vote by Income,INC50K,NV,West,Mountain,$50K or More,55,43,55
+2012,Vote by Income,INC100K,NV,West,Mountain,Less Than $100K,78,59,39
+2012,Vote by Income,INC100K,NV,West,Mountain,$100K or More,22,37,61
+2012,Vote by Religion,REL5,NV,West,Mountain,Protestant,42,43,57
+2012,Vote by Religion,REL5,NV,West,Mountain,Catholic,26,51,46
+2012,Vote by Religion,REL5,NV,West,Mountain,Jewish,3,N/A,N/A
+2012,Vote by Religion,REL5,NV,West,Mountain,Other,6,N/A,N/A
+2012,Vote by Religion,REL5,NV,West,Mountain,None,23,65,33
+2012,Vote by Religion and Race,WHITEREL,NV,West,Mountain,White Protestant,26,33,67
+2012,Vote by Religion and Race,WHITEREL,NV,West,Mountain,White Catholic,15,38,58
+2012,Vote by Religion and Race,WHITEREL,NV,West,Mountain,White Jewish,3,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,NV,West,Mountain,Whites/Other Religion,4,N/A,N/A
+2012,Vote by Religion and Race,WHITEREL,NV,West,Mountain,Whites/No Religion,16,59,40
+2012,Vote by Religion and Race,WHITEREL,NV,West,Mountain,Non-white,36,70,29
+2012,Are You White Born-Again Christian?,WHTEVANG,NV,West,Mountain,Yes,18,28,69
+2012,Are You White Born-Again Christian?,WHTEVANG,NV,West,Mountain,No,82,59,40
+2012,Abortion Should Be...,ABORTION,NV,West,Mountain,Always Legal,33,73,26
+2012,Abortion Should Be...,ABORTION,NV,West,Mountain,Mostly Legal,30,54,44
+2012,Abortion Should Be...,ABORTION,NV,West,Mountain,Mostly Illegal,20,34,65
+2012,Abortion Should Be...,ABORTION,NV,West,Mountain,Always Illegal,10,N/A,N/A
+2012,Abortion Should Be...,ABORT2,NV,West,Mountain,Legal,63,64,35
+2012,Abortion Should Be...,ABORT2,NV,West,Mountain,Illegal,30,33,66
+2012,Most Important Issue Facing Country,ISSUE12,NV,West,Mountain,Foreign Policy,4,54,35
+2012,Most Important Issue Facing Country,ISSUE12,NV,West,Mountain,Deficit,14,33,65
+2012,Most Important Issue Facing Country,ISSUE12,NV,West,Mountain,Economy,61,47,50
+2012,Most Important Issue Facing Country,ISSUE12,NV,West,Mountain,Health Care,16,88,12
+2012,Most Important Candidate Quality,QLT12,NV,West,Mountain,Shares My Values,24,41,53
+2012,Most Important Candidate Quality,QLT12,NV,West,Mountain,Strong Leader,21,36,59
+2012,Most Important Candidate Quality,QLT12,NV,West,Mountain,Cares About People,19,91,9
+2012,Most Important Candidate Quality,QLT12,NV,West,Mountain,Vision for Future,33,50,49
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,NV,West,Mountain,Housing Market,16,60,40
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,NV,West,Mountain,Unemployment,28,56,42
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,NV,West,Mountain,Taxes,14,47,53
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,NV,West,Mountain,Rising Prices,40,50,43
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,NV,West,Mountain,Expanded,28,86,4
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,NV,West,Mountain,Kept As Is,17,95,4
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,NV,West,Mountain,Repealed In Part,20,29,69
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,NV,West,Mountain,Repealed Completely,27,5,94
+2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,NV,West,Mountain,No,45,89,4
+2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,NV,West,Mountain,Yes,47,15,83
+2012,Income Tax Rates Should Be...,TAXINC12,NV,West,Mountain,Increased For All,17,51,45
+2012,Income Tax Rates Should Be...,TAXINC12,NV,West,Mountain,Increased for $250K+,47,77,22
+2012,Income Tax Rates Should Be...,TAXINC12,NV,West,Mountain,Not Increased,33,25,74
+2012,Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,NV,West,Mountain,Offered Legal Status,63,66,31
+2012,Most Illegal Immigrants Working in U.S. Should Be:,IMMDEPORT,NV,West,Mountain,Deported,27,22,76
+2012,Who Is More In Touch With People Like You?,INTOUCH12,NV,West,Mountain,Obama,53,95,4
+2012,Who Is More In Touch With People Like You?,INTOUCH12,NV,West,Mountain,Romney,42,1,99
+2012,Who Would Better Handle Economy?,HANDLEECON12,NV,West,Mountain,Obama,48,98,1
+2012,Who Would Better Handle Economy?,HANDLEECON12,NV,West,Mountain,Romney,47,5,93
+2012,Who Would Better Handle Medicare?,HANDLEMED12,NV,West,Mountain,Obama,54,96,3
+2012,Who Would Better Handle Medicare?,HANDLEMED12,NV,West,Mountain,Romney,41,2,96
+2012,Opinion of Government,GOVTDO10,NV,West,Mountain,Government Should Do More,42,85,10
+2012,Opinion of Government,GOVTDO10,NV,West,Mountain,Government Doing Too Much,51,24,75
+2012,National Economic Conditions,NEC,NV,West,Mountain,Excellent,1,N/A,N/A
+2012,National Economic Conditions,NEC,NV,West,Mountain,Good,23,96,4
+2012,National Economic Conditions,NEC,NV,West,Mountain,Not So Good,34,64,32
+2012,National Economic Conditions,NEC,NV,West,Mountain,Poor,40,14,83
+2012,National Economic Conditions,NEC2,NV,West,Mountain,Excellent/Good,24,95,4
+2012,National Economic Conditions,NEC2,NV,West,Mountain,Not So Good/Poor,74,37,60
+2012,U.S. Economic Conditions Are...,ECONBETT,NV,West,Mountain,Getting Better,40,94,5
+2012,U.S. Economic Conditions Are...,ECONBETT,NV,West,Mountain,Getting Worse,29,4,93
+2012,U.S. Economic Conditions Are...,ECONBETT,NV,West,Mountain,Staying About the Same,30,43,53
+2012,U.S. Economic Conditions Are...,ECONDIR,NV,West,Mountain,Getting Better,40,94,5
+2012,U.S. Economic Conditions Are...,ECONDIR,NV,West,Mountain,Good and Staying the Same,5,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,NV,West,Mountain,Poor and Staying the Same,25,32,64
+2012,U.S. Economic Conditions Are...,ECONDIR,NV,West,Mountain,Getting Worse,29,4,93
+2012,Your Family's Financial Situation,FINSIT,NV,West,Mountain,Better,28,84,8
+2012,Your Family's Financial Situation,FINSIT,NV,West,Mountain,Worse,37,15,84
+2012,Your Family's Financial Situation,FINSIT,NV,West,Mountain,Same,35,69,29
+2012,More to Blame for Current Economic Problems?,ECONBLAME12,NV,West,Mountain,Barack Obama,37,5,93
+2012,More to Blame for Current Economic Problems?,ECONBLAME12,NV,West,Mountain,George W. Bush,54,87,10
+2012,Opinion of Obama Administration,OBAMANG,NV,West,Mountain,Enthusiastic,29,98,1
+2012,Opinion of Obama Administration,OBAMANG,NV,West,Mountain,Satisfied,22,93,5
+2012,Opinion of Obama Administration,OBAMANG,NV,West,Mountain,Dissatisfied,23,19,79
+2012,Opinion of Obama Administration,OBAMANG,NV,West,Mountain,Angry,24,2,96
+2012,Opinion of Obama Administration,OBAMANG2,NV,West,Mountain,Enthusiastic/Satisfied,51,96,3
+2012,Opinion of Obama Administration,OBAMANG2,NV,West,Mountain,Dissatisfied/Angry,47,10,88
+2012,Opinion of Barack Obama,FAVOBAMA2,NV,West,Mountain,Favorable,56,92,4
+2012,Opinion of Barack Obama,FAVOBAMA2,NV,West,Mountain,Unfavorable,43,1,97
+2012,Opinion of Mitt Romney,FAVROMN2,NV,West,Mountain,Favorable,47,10,89
+2012,Opinion of Mitt Romney,FAVROMN2,NV,West,Mountain,Unfavorable,50,91,3
+2012,Do Obama Policies Generally Favor...,OBAMARICH,NV,West,Mountain,Rich,9,15,83
+2012,Do Obama Policies Generally Favor...,OBAMARICH,NV,West,Mountain,Middle Class,45,92,7
+2012,Do Obama Policies Generally Favor...,OBAMARICH,NV,West,Mountain,Poor,30,25,74
+2012,Would Romney Policies Generally Favor...,ROMNRICH,NV,West,Mountain,Rich,56,90,9
+2012,Would Romney Policies Generally Favor...,ROMNRICH,NV,West,Mountain,Middle Class,33,4,95
+2012,Would Romney Policies Generally Favor...,ROMNRICH,NV,West,Mountain,Poor,1,N/A,N/A
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NV,West,Mountain,Strongly Favor,68,53,45
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NV,West,Mountain,Have Reservations,16,53,43
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,NV,West,Mountain,Dislike Opponent,15,41,54
+2012,When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,Just Today,2,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,Last Few Days,3,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,In October,11,54,44
+2012,When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,In September,9,64,34
+2012,When Did You Decide Presidential Vote?,TIME12,NV,West,Mountain,Before That,73,51,45
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,NV,West,Mountain,Today/Last Few Days,5,60,34
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,NV,West,Mountain,Before That,93,53,44
+2012,When Did You Decide Presidential Vote?,TIME12MTH,NV,West,Mountain,In October or November,16,56,41
+2012,When Did You Decide Presidential Vote?,TIME12MTH,NV,West,Mountain,Before That,83,53,44
+2012,Vote by Marital Status,MARRIED,NV,West,Mountain,Married,57,44,54
+2012,Vote by Marital Status,MARRIED,NV,West,Mountain,Unmarried,43,64,33
+2012,Vote by Gender and Marital Status,SEXWED,NV,West,Mountain,Married Men,28,41,57
+2012,Vote by Gender and Marital Status,SEXWED,NV,West,Mountain,Married Women,29,47,52
+2012,Vote by Gender and Marital Status,SEXWED,NV,West,Mountain,Unmarried Men,19,58,39
+2012,Vote by Gender and Marital Status,SEXWED,NV,West,Mountain,Unmarried Women,24,69,28
+2012,Any Children Under 18 Living in Your Home?,CHILD12,NV,West,Mountain,Yes,35,53,45
+2012,Any Children Under 18 Living in Your Home?,CHILD12,NV,West,Mountain,No,65,49,48
+2012,Vote by Marital Status and Children,MARCHILD,NV,West,Mountain,Married With Children,24,44,54
+2012,Vote by Marital Status and Children,MARCHILD,NV,West,Mountain,All Others,76,52,45
+2012,Vote by Gender and Children in Household,PARENTS,NV,West,Mountain,Fathers,18,45,52
+2012,Vote by Gender and Children in Household,PARENTS,NV,West,Mountain,Mothers,17,61,37
+2012,Vote by Gender and Children in Household,PARENTS,NV,West,Mountain,Men With No Children,31,47,49
+2012,Vote by Gender and Children in Household,PARENTS,NV,West,Mountain,Women With No Children,34,52,48
+2012,Is Anyone in Household a Union Member?,UNIONHH12,NV,West,Mountain,Yes,16,60,39
+2012,Is Anyone in Household a Union Member?,UNIONHH12,NV,West,Mountain,No,84,49,48
+2012,Vote for Senate,SENNV12,NV,West,Mountain,Berkley,45,95,4
+2012,Vote for Senate,SENNV12,NV,West,Mountain,Heller,46,8,91
+2012,Vote for Senate,SENNV12,NV,West,Mountain,None of These Candidates,5,65,29
+2012,Vote by Size of Place,SIZEPLC3,NV,West,Mountain,Urban,52,55,43
+2012,Vote by Size of Place,SIZEPLC3,NV,West,Mountain,Suburban,36,54,42
+2012,Vote by Size of Place,SIZEPLC3,NV,West,Mountain,Rural,11,37,61
+2012,Vote by Region,GEOCOD,NV,West,Mountain,Washoe County,18,50,49
+2012,Vote by Region,GEOCOD,NV,West,Mountain,Clark County,70,56,41
+2012,Vote by Region,GEOCOD,NV,West,Mountain,Rest of Nevada,12,35,62

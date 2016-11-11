@@ -183,7 +183,7 @@ def saveToCSV(response, state, year):
 
         with open(filename, 'wb') as f:
             csv_file = csv.writer(f)
-            csv_file.writerow(['question','pollname','state','region','subregion','answer','percent','dem','rep'])
+            csv_file.writerow(['year','question','pollname','state','region','subregion','answer','percent','dem','rep'])
 
             for item in data['polls']:
 
@@ -217,7 +217,7 @@ def saveToCSV(response, state, year):
 
                         d[item['question']][answer['answer']][candidate] = a['pct']
 
-                    csv_file.writerow([item['question'],item['pollname'],state,state_region,state_subregion,answer['answer'],answer['pct'],d[item['question']][answer['answer']][parties[0]],d[item['question']][answer['answer']][parties[1]]])
+                    csv_file.writerow([str(year),item['question'],item['pollname'],state,state_region,state_subregion,answer['answer'],answer['pct'],d[item['question']][answer['answer']][parties[0]],d[item['question']][answer['answer']][parties[1]]])
 
 
 

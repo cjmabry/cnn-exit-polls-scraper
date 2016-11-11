@@ -1,134 +1,134 @@
-question,pollname,state,region,subregion,answer,percent,dem,rep
-Vote by Gender,SEX,WA,West,Pacific,Men,49,53,44
-Vote by Gender,SEX,WA,West,Pacific,Women,51,59,41
-Vote by Age,AGE,WA,West,Pacific,18-29,22,66,32
-Vote by Age,AGE,WA,West,Pacific,30-44,26,60,38
-Vote by Age,AGE,WA,West,Pacific,45-64,36,50,49
-Vote by Age,AGE,WA,West,Pacific,65 and Older,17,51,47
-Vote by Age,AGE65,WA,West,Pacific,18-24,13,N/A,N/A
-Vote by Age,AGE65,WA,West,Pacific,25-29,8,N/A,N/A
-Vote by Age,AGE65,WA,West,Pacific,30-39,17,58,39
-Vote by Age,AGE65,WA,West,Pacific,40-49,18,56,44
-Vote by Age,AGE65,WA,West,Pacific,50-64,27,50,48
-Vote by Age,AGE65,WA,West,Pacific,65 and Older,17,51,47
-Vote by Race,RACE,WA,West,Pacific,White,76,53,46
-Vote by Race,RACE,WA,West,Pacific,African-American,3,N/A,N/A
-Vote by Race,RACE,WA,West,Pacific,Latino,10,N/A,N/A
-Vote by Race,RACE,WA,West,Pacific,Asian,6,N/A,N/A
-Vote by Race,RACE,WA,West,Pacific,Other,5,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,White Men,35,50,47
-Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,White Women,40,55,44
-Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Black Men,2,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Black Women,1,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Latino Men,5,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Latino Women,5,N/A,N/A
-Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,All Others,12,N/A,N/A
-Vote by Ideology,PHIL3,WA,West,Pacific,Liberal,31,93,5
-Vote by Ideology,PHIL3,WA,West,Pacific,Moderate,34,59,40
-Vote by Ideology,PHIL3,WA,West,Pacific,Conservative,35,19,78
-Vote by Party ID,PARTY,WA,West,Pacific,Democratic,36,96,3
-Vote by Party ID,PARTY,WA,West,Pacific,Republican,23,5,94
-Vote by Party ID,PARTY,WA,West,Pacific,Independent,42,50,47
-Vote by Education,EDUC10,WA,West,Pacific,No High School,3,N/A,N/A
-Vote by Education,EDUC10,WA,West,Pacific,High School Graduate,16,55,43
-Vote by Education,EDUC10,WA,West,Pacific,Some College,33,53,45
-Vote by Education,EDUC10,WA,West,Pacific,College Graduate,33,56,41
-Vote by Education,EDUC10,WA,West,Pacific,Postgraduate,15,61,37
-Are You a College Graduate?,EDUCCOLL,WA,West,Pacific,Yes,48,58,40
-Are You a College Graduate?,EDUCCOLL,WA,West,Pacific,No,52,54,44
-Did You Attend College?,EDUCHS,WA,West,Pacific,Yes,81,56,42
-Did You Attend College?,EDUCHS,WA,West,Pacific,No,19,56,42
-Vote by Income,INCOME3,WA,West,Pacific,Less Than $50K,34,64,34
-Vote by Income,INCOME3,WA,West,Pacific,$50-100K,39,49,48
-Vote by Income,INCOME3,WA,West,Pacific,$100K or More,27,59,41
-Vote by Income,INC50K,WA,West,Pacific,Less Than $50K,34,64,34
-Vote by Income,INC50K,WA,West,Pacific,$50K or More,66,53,45
-Vote by Income,INC100K,WA,West,Pacific,Less Than $100K,73,56,42
-Vote by Income,INC100K,WA,West,Pacific,$100K or More,27,59,41
-How Often Do You Attend Religious Services?,ATTEND,WA,West,Pacific,More Than Weekly,10,27,73
-How Often Do You Attend Religious Services?,ATTEND,WA,West,Pacific,Weekly,22,37,61
-How Often Do You Attend Religious Services?,ATTEND,WA,West,Pacific,Monthly,12,51,48
-How Often Do You Attend Religious Services?,ATTEND,WA,West,Pacific,Few Times a Year,26,61,38
-How Often Do You Attend Religious Services?,ATTEND,WA,West,Pacific,Never,29,77,19
-How Often Do You Attend Religious Services?,ATTEND2,WA,West,Pacific,Weekly,33,33,65
-How Often Do You Attend Religious Services?,ATTEND2,WA,West,Pacific,Occasionally,38,58,41
-How Often Do You Attend Religious Services?,ATTEND2,WA,West,Pacific,Never,29,77,19
-Most Important Issue Facing Country,ISSUE12,WA,West,Pacific,Foreign Policy,7,N/A,N/A
-Most Important Issue Facing Country,ISSUE12,WA,West,Pacific,Deficit,17,37,61
-Most Important Issue Facing Country,ISSUE12,WA,West,Pacific,Economy,55,52,46
-Most Important Issue Facing Country,ISSUE12,WA,West,Pacific,Health Care,18,85,15
-Most Important Candidate Quality,QLT12,WA,West,Pacific,Shares My Values,31,56,40
-Most Important Candidate Quality,QLT12,WA,West,Pacific,Strong Leader,15,40,59
-Most Important Candidate Quality,QLT12,WA,West,Pacific,Cares About People,15,86,13
-Most Important Candidate Quality,QLT12,WA,West,Pacific,Vision for Future,35,51,48
-Biggest Economic Problem Facing People Like You,ECONISS12,WA,West,Pacific,Housing Market,10,65,33
-Biggest Economic Problem Facing People Like You,ECONISS12,WA,West,Pacific,Unemployment,24,58,40
-Biggest Economic Problem Facing People Like You,ECONISS12,WA,West,Pacific,Taxes,15,40,58
-Biggest Economic Problem Facing People Like You,ECONISS12,WA,West,Pacific,Rising Prices,49,57,41
-2010 Health Care Law Should Be...,HEALTHCARE12,WA,West,Pacific,Expanded,25,93,4
-2010 Health Care Law Should Be...,HEALTHCARE12,WA,West,Pacific,Kept As Is,16,92,8
-2010 Health Care Law Should Be...,HEALTHCARE12,WA,West,Pacific,Repealed In Part,29,33,66
-2010 Health Care Law Should Be...,HEALTHCARE12,WA,West,Pacific,Repealed Completely,24,13,83
-Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,WA,West,Pacific,No,41,93,6
-Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,WA,West,Pacific,Yes,53,24,74
-Who Is More In Touch With People Like You?,INTOUCH12,WA,West,Pacific,Obama,57,95,4
-Who Is More In Touch With People Like You?,INTOUCH12,WA,West,Pacific,Romney,38,1,97
-Who Would Better Handle Economy?,HANDLEECON12,WA,West,Pacific,Obama,53,98,1
-Who Would Better Handle Economy?,HANDLEECON12,WA,West,Pacific,Romney,44,5,94
-Opinion of Government,GOVTDO10,WA,West,Pacific,Government Should Do More,40,93,5
-Opinion of Government,GOVTDO10,WA,West,Pacific,Government Doing Too Much,54,25,73
-National Economic Conditions,NEC,WA,West,Pacific,Excellent,1,N/A,N/A
-National Economic Conditions,NEC,WA,West,Pacific,Good,20,91,8
-National Economic Conditions,NEC,WA,West,Pacific,Not So Good,42,66,32
-National Economic Conditions,NEC,WA,West,Pacific,Poor,37,23,75
-National Economic Conditions,NEC2,WA,West,Pacific,Excellent/Good,21,92,7
-National Economic Conditions,NEC2,WA,West,Pacific,Not So Good/Poor,79,46,52
-U.S. Economic Conditions Are...,ECONBETT,WA,West,Pacific,Getting Better,41,91,6
-U.S. Economic Conditions Are...,ECONBETT,WA,West,Pacific,Getting Worse,22,14,84
-U.S. Economic Conditions Are...,ECONBETT,WA,West,Pacific,Staying About the Same,35,40,59
-U.S. Economic Conditions Are...,ECONDIR,WA,West,Pacific,Getting Better,41,91,6
-U.S. Economic Conditions Are...,ECONDIR,WA,West,Pacific,Good and Staying the Same,4,N/A,N/A
-U.S. Economic Conditions Are...,ECONDIR,WA,West,Pacific,Poor and Staying the Same,31,35,63
-U.S. Economic Conditions Are...,ECONDIR,WA,West,Pacific,Getting Worse,22,14,84
-Your Family's Financial Situation,FINSIT,WA,West,Pacific,Better,26,82,15
-Your Family's Financial Situation,FINSIT,WA,West,Pacific,Worse,30,22,76
-Your Family's Financial Situation,FINSIT,WA,West,Pacific,Same,44,64,35
-Opinion of Barack Obama,FAVOBAMA2,WA,West,Pacific,Favorable,60,89,9
-Opinion of Barack Obama,FAVOBAMA2,WA,West,Pacific,Unfavorable,39,5,92
-Opinion of Mitt Romney,FAVROMN2,WA,West,Pacific,Favorable,44,11,88
-Opinion of Mitt Romney,FAVROMN2,WA,West,Pacific,Unfavorable,53,94,3
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,WA,West,Pacific,Strongly Favor,55,61,39
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,WA,West,Pacific,Have Reservations,25,53,46
-Opinion of Presidential Candidate You Voted For,DESCRIBP12,WA,West,Pacific,Dislike Opponent,19,43,49
-When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,Just Today,N/A,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,Last Few Days,1,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,In October,19,61,35
-When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,In September,9,42,55
-When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,Before That,69,56,42
-When Did You Decide Presidential Vote?,TIME12FEWD,WA,West,Pacific,Today/Last Few Days,1,N/A,N/A
-When Did You Decide Presidential Vote?,TIME12FEWD,WA,West,Pacific,Before That,96,56,42
-When Did You Decide Presidential Vote?,TIME12MTH,WA,West,Pacific,In October or November,20,60,36
-When Did You Decide Presidential Vote?,TIME12MTH,WA,West,Pacific,Before That,77,55,44
-Vote by Marital Status,MARRIED,WA,West,Pacific,Married,60,46,53
-Vote by Marital Status,MARRIED,WA,West,Pacific,Unmarried,40,72,26
-Vote by Gender and Marital Status,SEXWED,WA,West,Pacific,Married Men,29,41,56
-Vote by Gender and Marital Status,SEXWED,WA,West,Pacific,Married Women,31,51,49
-Vote by Gender and Marital Status,SEXWED,WA,West,Pacific,Unmarried Men,21,70,26
-Vote by Gender and Marital Status,SEXWED,WA,West,Pacific,Unmarried Women,20,73,25
-Is Anyone in Household a Union Member?,UNIONHH12,WA,West,Pacific,Yes,25,58,39
-Is Anyone in Household a Union Member?,UNIONHH12,WA,West,Pacific,No,75,54,44
-Vote for Senate,SENWA12,WA,West,Pacific,Cantwell,59,89,9
-Vote for Senate,SENWA12,WA,West,Pacific,Baumgartner,41,8,90
-Vote for Governor,GOVWA12,WA,West,Pacific,Inslee,52,94,5
-Vote for Governor,GOVWA12,WA,West,Pacific,McKenna,48,15,82
-Vote on Measure 74,MEAS74WA,WA,West,Pacific,Yes,53,85,13
-Vote on Measure 74,MEAS74WA,WA,West,Pacific,No,47,24,74
-Vote on Initiative 502,INIT502WA,WA,West,Pacific,Yes,55,72,26
-Vote on Initiative 502,INIT502WA,WA,West,Pacific,No,45,36,62
-Vote by Size of Place,SIZEPLC3,WA,West,Pacific,Urban,29,63,34
-Vote by Size of Place,SIZEPLC3,WA,West,Pacific,Suburban,52,55,44
-Vote by Size of Place,SIZEPLC3,WA,West,Pacific,Rural,19,47,51
-Vote by Region,GEOCOD,WA,West,Pacific,King County,29,69,29
-Vote by Region,GEOCOD,WA,West,Pacific,Greater Puget Sound,37,56,42
-Vote by Region,GEOCOD,WA,West,Pacific,Olympic Peninsula/SW,13,50,48
-Vote by Region,GEOCOD,WA,West,Pacific,Eastern Washington,21,41,58
+year,question,pollname,state,region,subregion,answer,percent,dem,rep
+2012,Vote by Gender,SEX,WA,West,Pacific,Men,49,53,44
+2012,Vote by Gender,SEX,WA,West,Pacific,Women,51,59,41
+2012,Vote by Age,AGE,WA,West,Pacific,18-29,22,66,32
+2012,Vote by Age,AGE,WA,West,Pacific,30-44,26,60,38
+2012,Vote by Age,AGE,WA,West,Pacific,45-64,36,50,49
+2012,Vote by Age,AGE,WA,West,Pacific,65 and Older,17,51,47
+2012,Vote by Age,AGE65,WA,West,Pacific,18-24,13,N/A,N/A
+2012,Vote by Age,AGE65,WA,West,Pacific,25-29,8,N/A,N/A
+2012,Vote by Age,AGE65,WA,West,Pacific,30-39,17,58,39
+2012,Vote by Age,AGE65,WA,West,Pacific,40-49,18,56,44
+2012,Vote by Age,AGE65,WA,West,Pacific,50-64,27,50,48
+2012,Vote by Age,AGE65,WA,West,Pacific,65 and Older,17,51,47
+2012,Vote by Race,RACE,WA,West,Pacific,White,76,53,46
+2012,Vote by Race,RACE,WA,West,Pacific,African-American,3,N/A,N/A
+2012,Vote by Race,RACE,WA,West,Pacific,Latino,10,N/A,N/A
+2012,Vote by Race,RACE,WA,West,Pacific,Asian,6,N/A,N/A
+2012,Vote by Race,RACE,WA,West,Pacific,Other,5,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,White Men,35,50,47
+2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,White Women,40,55,44
+2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Black Men,2,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Black Women,1,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Latino Men,5,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,Latino Women,5,N/A,N/A
+2012,Vote by Gender and Race,SEXBYRACE,WA,West,Pacific,All Others,12,N/A,N/A
+2012,Vote by Ideology,PHIL3,WA,West,Pacific,Liberal,31,93,5
+2012,Vote by Ideology,PHIL3,WA,West,Pacific,Moderate,34,59,40
+2012,Vote by Ideology,PHIL3,WA,West,Pacific,Conservative,35,19,78
+2012,Vote by Party ID,PARTY,WA,West,Pacific,Democratic,36,96,3
+2012,Vote by Party ID,PARTY,WA,West,Pacific,Republican,23,5,94
+2012,Vote by Party ID,PARTY,WA,West,Pacific,Independent,42,50,47
+2012,Vote by Education,EDUC10,WA,West,Pacific,No High School,3,N/A,N/A
+2012,Vote by Education,EDUC10,WA,West,Pacific,High School Graduate,16,55,43
+2012,Vote by Education,EDUC10,WA,West,Pacific,Some College,33,53,45
+2012,Vote by Education,EDUC10,WA,West,Pacific,College Graduate,33,56,41
+2012,Vote by Education,EDUC10,WA,West,Pacific,Postgraduate,15,61,37
+2012,Are You a College Graduate?,EDUCCOLL,WA,West,Pacific,Yes,48,58,40
+2012,Are You a College Graduate?,EDUCCOLL,WA,West,Pacific,No,52,54,44
+2012,Did You Attend College?,EDUCHS,WA,West,Pacific,Yes,81,56,42
+2012,Did You Attend College?,EDUCHS,WA,West,Pacific,No,19,56,42
+2012,Vote by Income,INCOME3,WA,West,Pacific,Less Than $50K,34,64,34
+2012,Vote by Income,INCOME3,WA,West,Pacific,$50-100K,39,49,48
+2012,Vote by Income,INCOME3,WA,West,Pacific,$100K or More,27,59,41
+2012,Vote by Income,INC50K,WA,West,Pacific,Less Than $50K,34,64,34
+2012,Vote by Income,INC50K,WA,West,Pacific,$50K or More,66,53,45
+2012,Vote by Income,INC100K,WA,West,Pacific,Less Than $100K,73,56,42
+2012,Vote by Income,INC100K,WA,West,Pacific,$100K or More,27,59,41
+2012,How Often Do You Attend Religious Services?,ATTEND,WA,West,Pacific,More Than Weekly,10,27,73
+2012,How Often Do You Attend Religious Services?,ATTEND,WA,West,Pacific,Weekly,22,37,61
+2012,How Often Do You Attend Religious Services?,ATTEND,WA,West,Pacific,Monthly,12,51,48
+2012,How Often Do You Attend Religious Services?,ATTEND,WA,West,Pacific,Few Times a Year,26,61,38
+2012,How Often Do You Attend Religious Services?,ATTEND,WA,West,Pacific,Never,29,77,19
+2012,How Often Do You Attend Religious Services?,ATTEND2,WA,West,Pacific,Weekly,33,33,65
+2012,How Often Do You Attend Religious Services?,ATTEND2,WA,West,Pacific,Occasionally,38,58,41
+2012,How Often Do You Attend Religious Services?,ATTEND2,WA,West,Pacific,Never,29,77,19
+2012,Most Important Issue Facing Country,ISSUE12,WA,West,Pacific,Foreign Policy,7,N/A,N/A
+2012,Most Important Issue Facing Country,ISSUE12,WA,West,Pacific,Deficit,17,37,61
+2012,Most Important Issue Facing Country,ISSUE12,WA,West,Pacific,Economy,55,52,46
+2012,Most Important Issue Facing Country,ISSUE12,WA,West,Pacific,Health Care,18,85,15
+2012,Most Important Candidate Quality,QLT12,WA,West,Pacific,Shares My Values,31,56,40
+2012,Most Important Candidate Quality,QLT12,WA,West,Pacific,Strong Leader,15,40,59
+2012,Most Important Candidate Quality,QLT12,WA,West,Pacific,Cares About People,15,86,13
+2012,Most Important Candidate Quality,QLT12,WA,West,Pacific,Vision for Future,35,51,48
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,WA,West,Pacific,Housing Market,10,65,33
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,WA,West,Pacific,Unemployment,24,58,40
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,WA,West,Pacific,Taxes,15,40,58
+2012,Biggest Economic Problem Facing People Like You,ECONISS12,WA,West,Pacific,Rising Prices,49,57,41
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,WA,West,Pacific,Expanded,25,93,4
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,WA,West,Pacific,Kept As Is,16,92,8
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,WA,West,Pacific,Repealed In Part,29,33,66
+2012,2010 Health Care Law Should Be...,HEALTHCARE12,WA,West,Pacific,Repealed Completely,24,13,83
+2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,WA,West,Pacific,No,41,93,6
+2012,Should 2010 Health Care Law Be Repealed?,HEALTHCARE12B,WA,West,Pacific,Yes,53,24,74
+2012,Who Is More In Touch With People Like You?,INTOUCH12,WA,West,Pacific,Obama,57,95,4
+2012,Who Is More In Touch With People Like You?,INTOUCH12,WA,West,Pacific,Romney,38,1,97
+2012,Who Would Better Handle Economy?,HANDLEECON12,WA,West,Pacific,Obama,53,98,1
+2012,Who Would Better Handle Economy?,HANDLEECON12,WA,West,Pacific,Romney,44,5,94
+2012,Opinion of Government,GOVTDO10,WA,West,Pacific,Government Should Do More,40,93,5
+2012,Opinion of Government,GOVTDO10,WA,West,Pacific,Government Doing Too Much,54,25,73
+2012,National Economic Conditions,NEC,WA,West,Pacific,Excellent,1,N/A,N/A
+2012,National Economic Conditions,NEC,WA,West,Pacific,Good,20,91,8
+2012,National Economic Conditions,NEC,WA,West,Pacific,Not So Good,42,66,32
+2012,National Economic Conditions,NEC,WA,West,Pacific,Poor,37,23,75
+2012,National Economic Conditions,NEC2,WA,West,Pacific,Excellent/Good,21,92,7
+2012,National Economic Conditions,NEC2,WA,West,Pacific,Not So Good/Poor,79,46,52
+2012,U.S. Economic Conditions Are...,ECONBETT,WA,West,Pacific,Getting Better,41,91,6
+2012,U.S. Economic Conditions Are...,ECONBETT,WA,West,Pacific,Getting Worse,22,14,84
+2012,U.S. Economic Conditions Are...,ECONBETT,WA,West,Pacific,Staying About the Same,35,40,59
+2012,U.S. Economic Conditions Are...,ECONDIR,WA,West,Pacific,Getting Better,41,91,6
+2012,U.S. Economic Conditions Are...,ECONDIR,WA,West,Pacific,Good and Staying the Same,4,N/A,N/A
+2012,U.S. Economic Conditions Are...,ECONDIR,WA,West,Pacific,Poor and Staying the Same,31,35,63
+2012,U.S. Economic Conditions Are...,ECONDIR,WA,West,Pacific,Getting Worse,22,14,84
+2012,Your Family's Financial Situation,FINSIT,WA,West,Pacific,Better,26,82,15
+2012,Your Family's Financial Situation,FINSIT,WA,West,Pacific,Worse,30,22,76
+2012,Your Family's Financial Situation,FINSIT,WA,West,Pacific,Same,44,64,35
+2012,Opinion of Barack Obama,FAVOBAMA2,WA,West,Pacific,Favorable,60,89,9
+2012,Opinion of Barack Obama,FAVOBAMA2,WA,West,Pacific,Unfavorable,39,5,92
+2012,Opinion of Mitt Romney,FAVROMN2,WA,West,Pacific,Favorable,44,11,88
+2012,Opinion of Mitt Romney,FAVROMN2,WA,West,Pacific,Unfavorable,53,94,3
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,WA,West,Pacific,Strongly Favor,55,61,39
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,WA,West,Pacific,Have Reservations,25,53,46
+2012,Opinion of Presidential Candidate You Voted For,DESCRIBP12,WA,West,Pacific,Dislike Opponent,19,43,49
+2012,When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,Just Today,N/A,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,Last Few Days,1,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,In October,19,61,35
+2012,When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,In September,9,42,55
+2012,When Did You Decide Presidential Vote?,TIME12,WA,West,Pacific,Before That,69,56,42
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,WA,West,Pacific,Today/Last Few Days,1,N/A,N/A
+2012,When Did You Decide Presidential Vote?,TIME12FEWD,WA,West,Pacific,Before That,96,56,42
+2012,When Did You Decide Presidential Vote?,TIME12MTH,WA,West,Pacific,In October or November,20,60,36
+2012,When Did You Decide Presidential Vote?,TIME12MTH,WA,West,Pacific,Before That,77,55,44
+2012,Vote by Marital Status,MARRIED,WA,West,Pacific,Married,60,46,53
+2012,Vote by Marital Status,MARRIED,WA,West,Pacific,Unmarried,40,72,26
+2012,Vote by Gender and Marital Status,SEXWED,WA,West,Pacific,Married Men,29,41,56
+2012,Vote by Gender and Marital Status,SEXWED,WA,West,Pacific,Married Women,31,51,49
+2012,Vote by Gender and Marital Status,SEXWED,WA,West,Pacific,Unmarried Men,21,70,26
+2012,Vote by Gender and Marital Status,SEXWED,WA,West,Pacific,Unmarried Women,20,73,25
+2012,Is Anyone in Household a Union Member?,UNIONHH12,WA,West,Pacific,Yes,25,58,39
+2012,Is Anyone in Household a Union Member?,UNIONHH12,WA,West,Pacific,No,75,54,44
+2012,Vote for Senate,SENWA12,WA,West,Pacific,Cantwell,59,89,9
+2012,Vote for Senate,SENWA12,WA,West,Pacific,Baumgartner,41,8,90
+2012,Vote for Governor,GOVWA12,WA,West,Pacific,Inslee,52,94,5
+2012,Vote for Governor,GOVWA12,WA,West,Pacific,McKenna,48,15,82
+2012,Vote on Measure 74,MEAS74WA,WA,West,Pacific,Yes,53,85,13
+2012,Vote on Measure 74,MEAS74WA,WA,West,Pacific,No,47,24,74
+2012,Vote on Initiative 502,INIT502WA,WA,West,Pacific,Yes,55,72,26
+2012,Vote on Initiative 502,INIT502WA,WA,West,Pacific,No,45,36,62
+2012,Vote by Size of Place,SIZEPLC3,WA,West,Pacific,Urban,29,63,34
+2012,Vote by Size of Place,SIZEPLC3,WA,West,Pacific,Suburban,52,55,44
+2012,Vote by Size of Place,SIZEPLC3,WA,West,Pacific,Rural,19,47,51
+2012,Vote by Region,GEOCOD,WA,West,Pacific,King County,29,69,29
+2012,Vote by Region,GEOCOD,WA,West,Pacific,Greater Puget Sound,37,56,42
+2012,Vote by Region,GEOCOD,WA,West,Pacific,Olympic Peninsula/SW,13,50,48
+2012,Vote by Region,GEOCOD,WA,West,Pacific,Eastern Washington,21,41,58
