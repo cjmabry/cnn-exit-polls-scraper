@@ -225,12 +225,6 @@ def saveToCSV(response, state, year):
 getGeneralsForAllStates()
 # getGeneralsForStateAndYear("CO", 2012)
 
-def getCountyDataForStateAndYear(state):
-    # example urls
-    # http://data.cnn.com/ELECTION/2016/AZ/county/P_county.json
-    print('getCountyDataForState: ' + state + ' year = ' + str(year))
-    r = requests.get('http://data.cnn.com/ELECTION/' + str(year) + '/' + state + '/xpoll/Pfull.json')
-    saveToCSV(r, state, year)
 
 
 
