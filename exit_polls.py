@@ -46,7 +46,8 @@ regions = {
             'UT',
             'CO',
             'AZ',
-            'NM'
+            'NM',
+            'CA'
         ],
         'Pacific': [
             'AK',

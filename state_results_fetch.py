@@ -95,21 +95,14 @@ def main():
 
 def getCountyDataForStateAndYear(state, year):
     # example urls
-    # P_county.json = president
-    # S_county.json = senate
-    # http://data.cnn.com/ELECTION/2016/AZ/county/P_county.json
-    # http://data.cnn.com/ELECTION/2012/AZ/county/P.json
+    # http://data.cnn.com/ELECTION/2016/AR/state/AR.json
+    # http://data.cnn.com/ELECTION/2012/AR/state/AR.json
 
-    jsonName = ''
-    if year == 2012:
-        jsonName = 'P.json'
-    elif year == 2016:
-        jsonName = 'P_county.json'
 
-    print('getCountyDataForState: ' + state + ' year = ' + str(year) + ' filename = ' + jsonName)
-    r = requests.get('http://data.cnn.com/ELECTION/' + str(year) + '/' + state + '/county/' + jsonName)
+    print('getCountyDataForState: ' + state + ' year = ' + str(year))
+    r = requests.get('http://data.cnn.com/ELECTION/' + str(year) + '/' + state + '/state/' + state + '.json')
 
-    filename = 'data/counties/' + str(year) + '/' + state + '.json'
+    filename = 'data/states/' + str(year) + '/' + state + '.json'
     with open(filename, 'wb') as f:
         json.dump(r.json(), f)
 
