@@ -1,128 +1,128 @@
-2016	Gender	SEX	NJ	Northeast	Middle Atlantic	Male	48	50	46
+2016	Gender	SEX	NJ	Northeast	Middle Atlantic	Male	48	51	45
 2016	Gender	SEX	NJ	Northeast	Middle Atlantic	Female	52	58	39
-2016	Age	AGE	NJ	Northeast	Middle Atlantic	18-29	15	62	30
-2016	Age	AGE	NJ	Northeast	Middle Atlantic	30-44	25	57	41
+2016	Age	AGE	NJ	Northeast	Middle Atlantic	18-29	15	61	30
+2016	Age	AGE	NJ	Northeast	Middle Atlantic	30-44	25	57	40
 2016	Age	AGE	NJ	Northeast	Middle Atlantic	45-64	45	54	44
-2016	Age	AGE	NJ	Northeast	Middle Atlantic	65 and older	16	47	50
-2016	Age	AGE65	NJ	Northeast	Middle Atlantic	18-24	8	64	29
-2016	Age	AGE65	NJ	Northeast	Middle Atlantic	25-29	7	60	32
-2016	Age	AGE65	NJ	Northeast	Middle Atlantic	30-39	15	54	42
-2016	Age	AGE65	NJ	Northeast	Middle Atlantic	40-49	21	57	41
-2016	Age	AGE65	NJ	Northeast	Middle Atlantic	50-64	33	53	45
-2016	Age	AGE65	NJ	Northeast	Middle Atlantic	65 and older	16	47	50
-2016	Age	AGE45	NJ	Northeast	Middle Atlantic	18-44	39	59	37
-2016	Age	AGE45	NJ	Northeast	Middle Atlantic	45 and older	61	52	46
-2016	Race	RACE	NJ	Northeast	Middle Atlantic	White	67	42	55
+2016	Age	AGE	NJ	Northeast	Middle Atlantic	65 and older	16	47	49
+2016	Age	AGE65	NJ	Northeast	Middle Atlantic	18-24	8	64	28
+2016	Age	AGE65	NJ	Northeast	Middle Atlantic	25-29	7	59	31
+2016	Age	AGE65	NJ	Northeast	Middle Atlantic	30-39	15	54	41
+2016	Age	AGE65	NJ	Northeast	Middle Atlantic	40-49	21	58	41
+2016	Age	AGE65	NJ	Northeast	Middle Atlantic	50-64	33	53	44
+2016	Age	AGE65	NJ	Northeast	Middle Atlantic	65 and older	16	47	49
+2016	Age	AGE45	NJ	Northeast	Middle Atlantic	18-44	39	59	36
+2016	Age	AGE45	NJ	Northeast	Middle Atlantic	45 and older	61	52	45
+2016	Race	RACE	NJ	Northeast	Middle Atlantic	White	67	42	54
 2016	Race	RACE	NJ	Northeast	Middle Atlantic	Black	14	89	9
 2016	Race	RACE	NJ	Northeast	Middle Atlantic	Latino	14	76	23
 2016	Race	RACE	NJ	Northeast	Middle Atlantic	Asian	4		
-2016	Race	RACE	NJ	Northeast	Middle Atlantic	Other race	1		
-2016	Race	RACE2B	NJ	Northeast	Middle Atlantic	White	67	42	55
+2016	Race	RACE	NJ	Northeast	Middle Atlantic	Other race	2		
+2016	Race	RACE2B	NJ	Northeast	Middle Atlantic	White	67	42	54
 2016	Race	RACE2B	NJ	Northeast	Middle Atlantic	Non-white	33	82	17
-2016	Race and gender	SEXBYRACE	NJ	Northeast	Middle Atlantic	White men	33	37	58
-2016	Race and gender	SEXBYRACE	NJ	Northeast	Middle Atlantic	White women	34	46	51
+2016	Race and gender	SEXBYRACE	NJ	Northeast	Middle Atlantic	White men	33	37	57
+2016	Race and gender	SEXBYRACE	NJ	Northeast	Middle Atlantic	White women	35	45	51
 2016	Race and gender	SEXBYRACE	NJ	Northeast	Middle Atlantic	Black men	7		
 2016	Race and gender	SEXBYRACE	NJ	Northeast	Middle Atlantic	Black women	7	92	8
 2016	Race and gender	SEXBYRACE	NJ	Northeast	Middle Atlantic	Latino men	6		
 2016	Race and gender	SEXBYRACE	NJ	Northeast	Middle Atlantic	Latino women	8	77	22
-2016	Race and gender	SEXBYRACE	NJ	Northeast	Middle Atlantic	Others	5	78	20
-2016	Education	EDUC12R	NJ	Northeast	Middle Atlantic	High school or less	12	48	49
-2016	Education	EDUC12R	NJ	Northeast	Middle Atlantic	Some college	31	48	50
+2016	Race and gender	SEXBYRACE	NJ	Northeast	Middle Atlantic	Others	6	77	20
+2016	Education	EDUC12R	NJ	Northeast	Middle Atlantic	High school or less	11	49	48
+2016	Education	EDUC12R	NJ	Northeast	Middle Atlantic	Some college	31	48	49
 2016	Education	EDUC12R	NJ	Northeast	Middle Atlantic	College graduate	33	55	41
-2016	Education	EDUC12R	NJ	Northeast	Middle Atlantic	Postgraduate	24	67	29
-2016	Are you a college graduate?	EDUCCOLL	NJ	Northeast	Middle Atlantic	Yes	57	60	36
-2016	Are you a college graduate?	EDUCCOLL	NJ	Northeast	Middle Atlantic	No	43	48	50
-2016	Education and race	EDUCWHITE	NJ	Northeast	Middle Atlantic	White college graduates	41	52	44
-2016	Education and race	EDUCWHITE	NJ	Northeast	Middle Atlantic	Whites no degree	27	26	70
+2016	Education	EDUC12R	NJ	Northeast	Middle Atlantic	Postgraduate	25	67	29
+2016	Are you a college graduate?	EDUCCOLL	NJ	Northeast	Middle Atlantic	Yes	58	60	35
+2016	Are you a college graduate?	EDUCCOLL	NJ	Northeast	Middle Atlantic	No	42	48	49
+2016	Education and race	EDUCWHITE	NJ	Northeast	Middle Atlantic	White college graduates	41	52	43
+2016	Education and race	EDUCWHITE	NJ	Northeast	Middle Atlantic	Whites no degree	26	27	70
 2016	Education and race	EDUCWHITE	NJ	Northeast	Middle Atlantic	Non-whites college grads	17	81	16
-2016	Education and race	EDUCWHITE	NJ	Northeast	Middle Atlantic	Non-whites no degree	16	83	17
-2016	Education among whites by sex	EDUCWHITEBYSEX	NJ	Northeast	Middle Atlantic	White college-grad women	22	56	41
-2016	Education among whites by sex	EDUCWHITEBYSEX	NJ	Northeast	Middle Atlantic	White non-college women	13	28	69
-2016	Education among whites by sex	EDUCWHITEBYSEX	NJ	Northeast	Middle Atlantic	White college-grad men	18	47	48
-2016	Education among whites by sex	EDUCWHITEBYSEX	NJ	Northeast	Middle Atlantic	White non-college men	13	24	71
+2016	Education and race	EDUCWHITE	NJ	Northeast	Middle Atlantic	Non-whites no degree	16	83	16
+2016	Education among whites by sex	EDUCWHITEBYSEX	NJ	Northeast	Middle Atlantic	White college-grad women	22	55	41
+2016	Education among whites by sex	EDUCWHITEBYSEX	NJ	Northeast	Middle Atlantic	White non-college women	13	29	69
+2016	Education among whites by sex	EDUCWHITEBYSEX	NJ	Northeast	Middle Atlantic	White college-grad men	18	47	47
+2016	Education among whites by sex	EDUCWHITEBYSEX	NJ	Northeast	Middle Atlantic	White non-college men	13	25	71
 2016	Education among whites by sex	EDUCWHITEBYSEX	NJ	Northeast	Middle Atlantic	Non-whites	33	82	16
 2016	Income	INCOME16GEN	NJ	Northeast	Middle Atlantic	Under $30,000	9		
-2016	Income	INCOME16GEN	NJ	Northeast	Middle Atlantic	$30K-$49,999	12	67	26
+2016	Income	INCOME16GEN	NJ	Northeast	Middle Atlantic	$30K-$49,999	12	67	25
 2016	Income	INCOME16GEN	NJ	Northeast	Middle Atlantic	$50K-$99,999	32	54	43
-2016	Income	INCOME16GEN	NJ	Northeast	Middle Atlantic	$100K-$199,999	31	47	50
+2016	Income	INCOME16GEN	NJ	Northeast	Middle Atlantic	$100K-$199,999	31	47	49
 2016	Income	INCOME16GEN	NJ	Northeast	Middle Atlantic	$200K-$249,999	6		
-2016	Income	INCOME16GEN	NJ	Northeast	Middle Atlantic	$250,000 or more	10	58	39
-2016	Income	INCOME3	NJ	Northeast	Middle Atlantic	Under $50K	21	64	32
+2016	Income	INCOME16GEN	NJ	Northeast	Middle Atlantic	$250,000 or more	10	57	38
+2016	Income	INCOME3	NJ	Northeast	Middle Atlantic	Under $50K	21	64	31
 2016	Income	INCOME3	NJ	Northeast	Middle Atlantic	$50K-$100K	32	54	43
 2016	Income	INCOME3	NJ	Northeast	Middle Atlantic	$100K or more	47	50	46
-2016	Income	INC50K	NJ	Northeast	Middle Atlantic	Under $50K	21	64	32
+2016	Income	INC50K	NJ	Northeast	Middle Atlantic	Under $50K	21	64	31
 2016	Income	INC50K	NJ	Northeast	Middle Atlantic	$50K or more	79	52	45
-2016	Income	INC100K	NJ	Northeast	Middle Atlantic	Under $100K	53	58	39
+2016	Income	INC100K	NJ	Northeast	Middle Atlantic	Under $100K	53	58	38
 2016	Income	INC100K	NJ	Northeast	Middle Atlantic	$100K or more	47	50	46
 2016	Party ID	PARTY	NJ	Northeast	Middle Atlantic	Democrats	43	86	12
-2016	Party ID	PARTY	NJ	Northeast	Middle Atlantic	Republicans	27	12	86
-2016	Party ID	PARTY	NJ	Northeast	Middle Atlantic	Independents	30	48	46
+2016	Party ID	PARTY	NJ	Northeast	Middle Atlantic	Republicans	27	12	85
+2016	Party ID	PARTY	NJ	Northeast	Middle Atlantic	Independents	30	47	45
 2016	Party by gender	PARTYGENDER	NJ	Northeast	Middle Atlantic	Democratic men	19	83	14
 2016	Party by gender	PARTYGENDER	NJ	Northeast	Middle Atlantic	Democratic women	24	89	10
-2016	Party by gender	PARTYGENDER	NJ	Northeast	Middle Atlantic	Republican men	13	13	85
+2016	Party by gender	PARTYGENDER	NJ	Northeast	Middle Atlantic	Republican men	13	14	84
 2016	Party by gender	PARTYGENDER	NJ	Northeast	Middle Atlantic	Republican women	14	11	87
-2016	Party by gender	PARTYGENDER	NJ	Northeast	Middle Atlantic	Independent men	15	44	48
-2016	Party by gender	PARTYGENDER	NJ	Northeast	Middle Atlantic	Independent women	15	52	44
+2016	Party by gender	PARTYGENDER	NJ	Northeast	Middle Atlantic	Independent men	15	44	47
+2016	Party by gender	PARTYGENDER	NJ	Northeast	Middle Atlantic	Independent women	15	51	43
 2016	Ideology	PHIL3	NJ	Northeast	Middle Atlantic	Liberal	28	84	13
 2016	Ideology	PHIL3	NJ	Northeast	Middle Atlantic	Moderate	49	56	40
-2016	Ideology	PHIL3	NJ	Northeast	Middle Atlantic	Conservative	23	17	81
-2016	Marital status	MARRIED	NJ	Northeast	Middle Atlantic	Married	61	51	47
+2016	Ideology	PHIL3	NJ	Northeast	Middle Atlantic	Conservative	23	17	80
+2016	Marital status	MARRIED	NJ	Northeast	Middle Atlantic	Married	61	51	46
 2016	Marital status	MARRIED	NJ	Northeast	Middle Atlantic	Unmarried	39	60	35
-2016	Marital status by gender	SEXWED	NJ	Northeast	Middle Atlantic	Married men	29	51	46
+2016	Marital status by gender	SEXWED	NJ	Northeast	Middle Atlantic	Married men	29	51	45
 2016	Marital status by gender	SEXWED	NJ	Northeast	Middle Atlantic	Married women	32	50	48
-2016	Marital status by gender	SEXWED	NJ	Northeast	Middle Atlantic	Unmarried men	18	52	42
-2016	Marital status by gender	SEXWED	NJ	Northeast	Middle Atlantic	Unmarried women	20	66	29
-2016	Union household?	UNIONHH12	NJ	Northeast	Middle Atlantic	Yes	28	58	38
-2016	Union household?	UNIONHH12	NJ	Northeast	Middle Atlantic	No	72	51	45
-2016	When did you decide presidential vote?	TIME16	NJ	Northeast	Middle Atlantic	Last few days	12	52	38
+2016	Marital status by gender	SEXWED	NJ	Northeast	Middle Atlantic	Unmarried men	18	53	42
+2016	Marital status by gender	SEXWED	NJ	Northeast	Middle Atlantic	Unmarried women	21	66	28
+2016	Union household?	UNIONHH12	NJ	Northeast	Middle Atlantic	Yes	28	59	38
+2016	Union household?	UNIONHH12	NJ	Northeast	Middle Atlantic	No	72	51	44
+2016	When did you decide presidential vote?	TIME16	NJ	Northeast	Middle Atlantic	Last few days	12	51	37
 2016	When did you decide presidential vote?	TIME16	NJ	Northeast	Middle Atlantic	Last week	5		
 2016	When did you decide presidential vote?	TIME16	NJ	Northeast	Middle Atlantic	In October	9		
 2016	When did you decide presidential vote?	TIME16	NJ	Northeast	Middle Atlantic	In September	7		
 2016	When did you decide presidential vote?	TIME16	NJ	Northeast	Middle Atlantic	Before September	67	55	43
-2016	When did you decide presidential vote?	TIME16WEEK	NJ	Northeast	Middle Atlantic	In the last week	16	49	42
+2016	When did you decide presidential vote?	TIME16WEEK	NJ	Northeast	Middle Atlantic	In the last week	17	49	41
 2016	When did you decide presidential vote?	TIME16WEEK	NJ	Northeast	Middle Atlantic	Before that	83	55	43
-2016	When did you decide presidential vote?	TIME16MONTH	NJ	Northeast	Middle Atlantic	In the last month	25	50	42
+2016	When did you decide presidential vote?	TIME16MONTH	NJ	Northeast	Middle Atlantic	In the last month	25	50	41
 2016	When did you decide presidential vote?	TIME16MONTH	NJ	Northeast	Middle Atlantic	Before that	74	55	43
 2016	Opinion of presidential candidate you voted for	DESCRIBP12	NJ	Northeast	Middle Atlantic	Strongly favor 	50	58	40
-2016	Opinion of presidential candidate you voted for	DESCRIBP12	NJ	Northeast	Middle Atlantic	Have reservations	30	55	42
-2016	Opinion of presidential candidate you voted for	DESCRIBP12	NJ	Northeast	Middle Atlantic	Dislike opponents	18	46	45
-2016	Most important issue facing the country	ISSUE16	NJ	Northeast	Middle Atlantic	Foreign policy	10	73	22
-2016	Most important issue facing the country	ISSUE16	NJ	Northeast	Middle Atlantic	Immigration	13	35	63
-2016	Most important issue facing the country	ISSUE16	NJ	Northeast	Middle Atlantic	Economy	54	59	37
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	NJ	Northeast	Middle Atlantic	Have reservations	30	55	41
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	NJ	Northeast	Middle Atlantic	Dislike opponents	19	45	43
+2016	Most important issue facing the country	ISSUE16	NJ	Northeast	Middle Atlantic	Foreign policy	10	72	21
+2016	Most important issue facing the country	ISSUE16	NJ	Northeast	Middle Atlantic	Immigration	13	35	62
+2016	Most important issue facing the country	ISSUE16	NJ	Northeast	Middle Atlantic	Economy	54	59	36
 2016	Most important issue facing the country	ISSUE16	NJ	Northeast	Middle Atlantic	Terrorism	19	46	53
-2016	Which candidate quality mattered most?	QLT16	NJ	Northeast	Middle Atlantic	Cares about me	15	62	36
-2016	Which candidate quality mattered most?	QLT16	NJ	Northeast	Middle Atlantic	Can bring change	41	19	78
+2016	Which candidate quality mattered most?	QLT16	NJ	Northeast	Middle Atlantic	Cares about me	14	63	36
+2016	Which candidate quality mattered most?	QLT16	NJ	Northeast	Middle Atlantic	Can bring change	41	19	77
 2016	Which candidate quality mattered most?	QLT16	NJ	Northeast	Middle Atlantic	Right experience	25	92	6
-2016	Which candidate quality mattered most?	QLT16	NJ	Northeast	Middle Atlantic	Good judgment	15	78	15
-2016	Opinion of Hillary Clinton	FAVHCLIN16	NJ	Northeast	Middle Atlantic	Favorable	48	95	5
-2016	Opinion of Hillary Clinton	FAVHCLIN16	NJ	Northeast	Middle Atlantic	Unfavorable	50	14	80
-2016	Opinion of Donald Trump	FAVTRUMP	NJ	Northeast	Middle Atlantic	Favorable	35	3	96
+2016	Which candidate quality mattered most?	QLT16	NJ	Northeast	Middle Atlantic	Good judgment	16	77	15
+2016	Opinion of Hillary Clinton	FAVHCLIN16	NJ	Northeast	Middle Atlantic	Favorable	49	95	5
+2016	Opinion of Hillary Clinton	FAVHCLIN16	NJ	Northeast	Middle Atlantic	Unfavorable	50	14	79
+2016	Opinion of Donald Trump	FAVTRUMP	NJ	Northeast	Middle Atlantic	Favorable	35	3	95
 2016	Opinion of Donald Trump	FAVTRUMP	NJ	Northeast	Middle Atlantic	Unfavorable	64	82	13
 2016	Opinion of Clinton and Trump	FAVPRES16	NJ	Northeast	Middle Atlantic	Both favorable	1		
 2016	Opinion of Clinton and Trump	FAVPRES16	NJ	Northeast	Middle Atlantic	Only Clinton favorable	47	96	3
-2016	Opinion of Clinton and Trump	FAVPRES16	NJ	Northeast	Middle Atlantic	Only Trump favorable	34	1	97
-2016	Opinion of Clinton and Trump	FAVPRES16	NJ	Northeast	Middle Atlantic	Both unfavorable	16	40	43
+2016	Opinion of Clinton and Trump	FAVPRES16	NJ	Northeast	Middle Atlantic	Only Trump favorable	33	1	97
+2016	Opinion of Clinton and Trump	FAVPRES16	NJ	Northeast	Middle Atlantic	Both unfavorable	16	39	42
 2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	NJ	Northeast	Middle Atlantic	Yes	38	97	3
-2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	NJ	Northeast	Middle Atlantic	No	61	28	67
-2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	NJ	Northeast	Middle Atlantic	Yes	34	5	93
-2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	NJ	Northeast	Middle Atlantic	No	65	80	16
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	NJ	Northeast	Middle Atlantic	No	61	28	66
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	NJ	Northeast	Middle Atlantic	Yes	33	5	93
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	NJ	Northeast	Middle Atlantic	No	65	80	15
 2016	Which candidate is honest?	HONEST16	NJ	Northeast	Middle Atlantic	Both are	2		
 2016	Which candidate is honest?	HONEST16	NJ	Northeast	Middle Atlantic	Only Clinton is	36	97	3
 2016	Which candidate is honest?	HONEST16	NJ	Northeast	Middle Atlantic	Only Trump is	32	1	97
-2016	Which candidate is honest?	HONEST16	NJ	Northeast	Middle Atlantic	Neither is	28	58	32
-2016	Opinion of Chris Christie as governor	CHRISTIEAPP2	NJ	Northeast	Middle Atlantic	Approve	25	29	69
-2016	Opinion of Chris Christie as governor	CHRISTIEAPP2	NJ	Northeast	Middle Atlantic	Disapprove	72	63	33
+2016	Which candidate is honest?	HONEST16	NJ	Northeast	Middle Atlantic	Neither is	29	58	32
+2016	Opinion of Chris Christie as governor	CHRISTIEAPP2	NJ	Northeast	Middle Atlantic	Approve	25	29	68
+2016	Opinion of Chris Christie as governor	CHRISTIEAPP2	NJ	Northeast	Middle Atlantic	Disapprove	72	63	32
 2016	Worried about terrorist attack in U.S.?	TERRWORR	NJ	Northeast	Middle Atlantic	Very worried	38	41	57
 2016	Worried about terrorist attack in U.S.?	TERRWORR	NJ	Northeast	Middle Atlantic	Somewhat worried	44	58	37
 2016	Worried about terrorist attack in U.S.?	TERRWORR	NJ	Northeast	Middle Atlantic	Not too worried	15	69	27
 2016	Worried about terrorist attack in U.S.?	TERRWORR	NJ	Northeast	Middle Atlantic	Not at all worried	2		
-2016	Worried about terrorist attack in U.S.?	TERWORR2	NJ	Northeast	Middle Atlantic	Yes	82	50	47
+2016	Worried about terrorist attack in U.S.?	TERWORR2	NJ	Northeast	Middle Atlantic	Yes	82	50	46
 2016	Worried about terrorist attack in U.S.?	TERWORR2	NJ	Northeast	Middle Atlantic	No	17	68	27
-2016	Life for the next generation of Americans will be:	LIFE	NJ	Northeast	Middle Atlantic	Better than today	36	63	35
-2016	Life for the next generation of Americans will be:	LIFE	NJ	Northeast	Middle Atlantic	Worse than today	32	37	58
-2016	Life for the next generation of Americans will be:	LIFE	NJ	Northeast	Middle Atlantic	About the same	29	62	35
+2016	Life for the next generation of Americans will be:	LIFE	NJ	Northeast	Middle Atlantic	Better than today	36	63	34
+2016	Life for the next generation of Americans will be:	LIFE	NJ	Northeast	Middle Atlantic	Worse than today	32	37	57
+2016	Life for the next generation of Americans will be:	LIFE	NJ	Northeast	Middle Atlantic	About the same	29	61	35
 2016	Region	GEOCOD	NJ	Northeast	Middle Atlantic	Urban North	20	73	24
-2016	Region	GEOCOD	NJ	Northeast	Middle Atlantic	Suburban North	16	54	44
+2016	Region	GEOCOD	NJ	Northeast	Middle Atlantic	Suburban North	16	55	42
 2016	Region	GEOCOD	NJ	Northeast	Middle Atlantic	Northwest	16	45	51
-2016	Region	GEOCOD	NJ	Northeast	Middle Atlantic	Central	20	54	43
+2016	Region	GEOCOD	NJ	Northeast	Middle Atlantic	Central	20	53	43
 2016	Region	GEOCOD	NJ	Northeast	Middle Atlantic	South	29	48	48

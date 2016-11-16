@@ -1,136 +1,136 @@
-2016	Gender	SEX	OR	West	Pacific	Male	48	45	45
-2016	Gender	SEX	OR	West	Pacific	Female	52	56	33
-2016	Age	AGE	OR	West	Pacific	18-29	16		
-2016	Age	AGE	OR	West	Pacific	30-44	26	50	38
-2016	Age	AGE	OR	West	Pacific	45-64	35	48	42
-2016	Age	AGE	OR	West	Pacific	65 and older	23	46	47
-2016	Age	AGE65	OR	West	Pacific	18-24	8		
+2016	Gender	SEX	OR	West	Pacific	Male	49	46	44
+2016	Gender	SEX	OR	West	Pacific	Female	51	55	35
+2016	Age	AGE	OR	West	Pacific	18-29	15		
+2016	Age	AGE	OR	West	Pacific	30-44	25	51	40
+2016	Age	AGE	OR	West	Pacific	45-64	37	50	42
+2016	Age	AGE	OR	West	Pacific	65 and older	24	46	45
+2016	Age	AGE65	OR	West	Pacific	18-24	7		
 2016	Age	AGE65	OR	West	Pacific	25-29	8		
-2016	Age	AGE65	OR	West	Pacific	30-39	18	49	38
-2016	Age	AGE65	OR	West	Pacific	40-49	16	51	38
-2016	Age	AGE65	OR	West	Pacific	50-64	27	48	44
-2016	Age	AGE65	OR	West	Pacific	65 and older	23	46	47
-2016	Age	AGE45	OR	West	Pacific	18-44	42	55	32
-2016	Age	AGE45	OR	West	Pacific	45 and older	58	47	44
-2016	Race	RACE	OR	West	Pacific	White	81	48	42
+2016	Age	AGE65	OR	West	Pacific	30-39	17	49	40
+2016	Age	AGE65	OR	West	Pacific	40-49	16	51	37
+2016	Age	AGE65	OR	West	Pacific	50-64	28	51	45
+2016	Age	AGE65	OR	West	Pacific	65 and older	24	46	45
+2016	Age	AGE45	OR	West	Pacific	18-44	40	54	33
+2016	Age	AGE45	OR	West	Pacific	45 and older	60	49	43
+2016	Race	RACE	OR	West	Pacific	White	82	49	42
 2016	Race	RACE	OR	West	Pacific	Black	1		
 2016	Race	RACE	OR	West	Pacific	Latino	9		
 2016	Race	RACE	OR	West	Pacific	Asian	4		
 2016	Race	RACE	OR	West	Pacific	Other race	4		
-2016	Race	RACE2B	OR	West	Pacific	White	81	48	42
-2016	Race	RACE2B	OR	West	Pacific	Non-white	19	63	23
-2016	Race and gender	SEXBYRACE	OR	West	Pacific	White men	39	41	50
-2016	Race and gender	SEXBYRACE	OR	West	Pacific	White women	43	54	36
+2016	Race	RACE2B	OR	West	Pacific	White	82	49	42
+2016	Race	RACE2B	OR	West	Pacific	Non-white	18	62	24
+2016	Race and gender	SEXBYRACE	OR	West	Pacific	White men	41	44	47
+2016	Race and gender	SEXBYRACE	OR	West	Pacific	White women	42	55	38
 2016	Race and gender	SEXBYRACE	OR	West	Pacific	Black men	0		
 2016	Race and gender	SEXBYRACE	OR	West	Pacific	Black women	1		
 2016	Race and gender	SEXBYRACE	OR	West	Pacific	Latino men	4		
 2016	Race and gender	SEXBYRACE	OR	West	Pacific	Latino women	5		
 2016	Race and gender	SEXBYRACE	OR	West	Pacific	Others	8		
-2016	Education	EDUC12R	OR	West	Pacific	High school or less	18	38	52
-2016	Education	EDUC12R	OR	West	Pacific	Some college	34	43	46
-2016	Education	EDUC12R	OR	West	Pacific	College graduate	28	55	32
-2016	Education	EDUC12R	OR	West	Pacific	Postgraduate	20	68	23
-2016	Are you a college graduate?	EDUCCOLL	OR	West	Pacific	Yes	49	60	29
-2016	Are you a college graduate?	EDUCCOLL	OR	West	Pacific	No	51	41	48
-2016	Education and race	EDUCWHITE	OR	West	Pacific	White college graduates	41	60	30
-2016	Education and race	EDUCWHITE	OR	West	Pacific	Whites no degree	40	36	55
-2016	Education and race	EDUCWHITE	OR	West	Pacific	Non-whites college grads	8		
-2016	Education and race	EDUCWHITE	OR	West	Pacific	Non-whites no degree	11		
-2016	Education among whites by sex	EDUCWHITEBYSEX	OR	West	Pacific	White college-grad women	22	65	28
-2016	Education among whites by sex	EDUCWHITEBYSEX	OR	West	Pacific	White non-college women	20	43	45
-2016	Education among whites by sex	EDUCWHITEBYSEX	OR	West	Pacific	White college-grad men	19	54	33
-2016	Education among whites by sex	EDUCWHITEBYSEX	OR	West	Pacific	White non-college men	20	28	65
-2016	Education among whites by sex	EDUCWHITEBYSEX	OR	West	Pacific	Non-whites	19	63	23
-2016	Income	INCOME16GEN	OR	West	Pacific	Under $30,000	20	46	38
-2016	Income	INCOME16GEN	OR	West	Pacific	$30K-$49,999	19	42	43
-2016	Income	INCOME16GEN	OR	West	Pacific	$50K-$99,999	34	51	43
-2016	Income	INCOME16GEN	OR	West	Pacific	$100K-$199,999	21	55	35
+2016	Education	EDUC12R	OR	West	Pacific	High school or less	17	37	57
+2016	Education	EDUC12R	OR	West	Pacific	Some college	34	46	46
+2016	Education	EDUC12R	OR	West	Pacific	College graduate	29	54	32
+2016	Education	EDUC12R	OR	West	Pacific	Postgraduate	20	65	24
+2016	Are you a college graduate?	EDUCCOLL	OR	West	Pacific	Yes	50	59	29
+2016	Are you a college graduate?	EDUCCOLL	OR	West	Pacific	No	50	43	50
+2016	Education and race	EDUCWHITE	OR	West	Pacific	White college graduates	42	59	30
+2016	Education and race	EDUCWHITE	OR	West	Pacific	Whites no degree	40	38	55
+2016	Education and race	EDUCWHITE	OR	West	Pacific	Non-whites college grads	7		
+2016	Education and race	EDUCWHITE	OR	West	Pacific	Non-whites no degree	10		
+2016	Education among whites by sex	EDUCWHITEBYSEX	OR	West	Pacific	White college-grad women	22	62	30
+2016	Education among whites by sex	EDUCWHITEBYSEX	OR	West	Pacific	White non-college women	19	45	47
+2016	Education among whites by sex	EDUCWHITEBYSEX	OR	West	Pacific	White college-grad men	20	56	31
+2016	Education among whites by sex	EDUCWHITEBYSEX	OR	West	Pacific	White non-college men	21	32	62
+2016	Education among whites by sex	EDUCWHITEBYSEX	OR	West	Pacific	Non-whites	18	62	24
+2016	Income	INCOME16GEN	OR	West	Pacific	Under $30,000	20	45	40
+2016	Income	INCOME16GEN	OR	West	Pacific	$30K-$49,999	20	47	40
+2016	Income	INCOME16GEN	OR	West	Pacific	$50K-$99,999	33	48	44
+2016	Income	INCOME16GEN	OR	West	Pacific	$100K-$199,999	22	56	35
 2016	Income	INCOME16GEN	OR	West	Pacific	$200K-$249,999	3		
 2016	Income	INCOME16GEN	OR	West	Pacific	$250,000 or more	3		
-2016	Income	INCOME3	OR	West	Pacific	Under $50K	39	44	41
-2016	Income	INCOME3	OR	West	Pacific	$50K-$100K	34	51	43
-2016	Income	INCOME3	OR	West	Pacific	$100K or more	28	53	35
-2016	Income	INC50K	OR	West	Pacific	Under $50K	39	44	41
-2016	Income	INC50K	OR	West	Pacific	$50K or more	61	52	40
+2016	Income	INCOME3	OR	West	Pacific	Under $50K	40	46	40
+2016	Income	INCOME3	OR	West	Pacific	$50K-$100K	33	48	44
+2016	Income	INCOME3	OR	West	Pacific	$100K or more	28	55	36
+2016	Income	INC50K	OR	West	Pacific	Under $50K	40	46	40
+2016	Income	INC50K	OR	West	Pacific	$50K or more	60	51	41
 2016	Income	INC100K	OR	West	Pacific	Under $100K	72	47	42
-2016	Income	INC100K	OR	West	Pacific	$100K or more	28	53	35
-2016	Party ID	PARTY	OR	West	Pacific	Democrats	34	90	4
-2016	Party ID	PARTY	OR	West	Pacific	Republicans	23	8	85
-2016	Party ID	PARTY	OR	West	Pacific	Independents	44	42	42
-2016	Party by gender	PARTYGENDER	OR	West	Pacific	Democratic men	13	88	6
-2016	Party by gender	PARTYGENDER	OR	West	Pacific	Democratic women	21	91	4
-2016	Party by gender	PARTYGENDER	OR	West	Pacific	Republican men	11	9	85
-2016	Party by gender	PARTYGENDER	OR	West	Pacific	Republican women	11	6	85
-2016	Party by gender	PARTYGENDER	OR	West	Pacific	Independent men	23	38	47
-2016	Party by gender	PARTYGENDER	OR	West	Pacific	Independent women	20	47	35
-2016	Ideology	PHIL3	OR	West	Pacific	Liberal	34	87	5
-2016	Ideology	PHIL3	OR	West	Pacific	Moderate	37	50	35
-2016	Ideology	PHIL3	OR	West	Pacific	Conservative	29	8	84
+2016	Income	INC100K	OR	West	Pacific	$100K or more	28	55	36
+2016	Party ID	PARTY	OR	West	Pacific	Democrats	33	92	4
+2016	Party ID	PARTY	OR	West	Pacific	Republicans	23	7	87
+2016	Party ID	PARTY	OR	West	Pacific	Independents	44	43	41
+2016	Party by gender	PARTYGENDER	OR	West	Pacific	Democratic men	14	91	5
+2016	Party by gender	PARTYGENDER	OR	West	Pacific	Democratic women	19	93	4
+2016	Party by gender	PARTYGENDER	OR	West	Pacific	Republican men	11	9	86
+2016	Party by gender	PARTYGENDER	OR	West	Pacific	Republican women	11	6	88
+2016	Party by gender	PARTYGENDER	OR	West	Pacific	Independent men	24	38	45
+2016	Party by gender	PARTYGENDER	OR	West	Pacific	Independent women	20	48	35
+2016	Ideology	PHIL3	OR	West	Pacific	Liberal	34	89	5
+2016	Ideology	PHIL3	OR	West	Pacific	Moderate	36	52	34
+2016	Ideology	PHIL3	OR	West	Pacific	Conservative	30	7	85
 2016	When did you decide presidential vote?	TIME16	OR	West	Pacific	Last few days			
-2016	When did you decide presidential vote?	TIME16	OR	West	Pacific	Last week	3		
-2016	When did you decide presidential vote?	TIME16	OR	West	Pacific	In October	19	34	49
-2016	When did you decide presidential vote?	TIME16	OR	West	Pacific	In September	11	39	48
-2016	When did you decide presidential vote?	TIME16	OR	West	Pacific	Before September	65	56	36
-2016	When did you decide presidential vote?	TIME16WEEK	OR	West	Pacific	In the last week	3		
-2016	When did you decide presidential vote?	TIME16WEEK	OR	West	Pacific	Before that	95	50	40
-2016	When did you decide presidential vote?	TIME16MONTH	OR	West	Pacific	In the last month	22	33	47
-2016	When did you decide presidential vote?	TIME16MONTH	OR	West	Pacific	Before that	76	54	38
-2016	Opinion of presidential candidate you voted for	DESCRIBP12	OR	West	Pacific	Strongly favor 	32	54	38
-2016	Opinion of presidential candidate you voted for	DESCRIBP12	OR	West	Pacific	Have reservations	30	60	36
-2016	Opinion of presidential candidate you voted for	DESCRIBP12	OR	West	Pacific	Dislike opponents	36	37	44
-2016	Most important issue facing the country	ISSUE16	OR	West	Pacific	Foreign policy	16	62	25
-2016	Most important issue facing the country	ISSUE16	OR	West	Pacific	Immigration	11	33	62
-2016	Most important issue facing the country	ISSUE16	OR	West	Pacific	Economy	57	53	34
-2016	Most important issue facing the country	ISSUE16	OR	West	Pacific	Terrorism	13	27	63
-2016	Which candidate quality mattered most?	QLT16	OR	West	Pacific	Cares about me	13	50	42
-2016	Which candidate quality mattered most?	QLT16	OR	West	Pacific	Can bring change	32	12	78
-2016	Which candidate quality mattered most?	QLT16	OR	West	Pacific	Right experience	24	91	6
-2016	Which candidate quality mattered most?	QLT16	OR	West	Pacific	Good judgment	29	58	26
-2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	OR	West	Pacific	Offered legal status	78	60	29
-2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	OR	West	Pacific	Deported to home country	17	9	80
-2016	Opinion of Barack Obama as president	OBAMA4	OR	West	Pacific	Strongly approve	36	94	2
-2016	Opinion of Barack Obama as president	OBAMA4	OR	West	Pacific	Somewhat approve	22	63	16
-2016	Opinion of Barack Obama as president	OBAMA4	OR	West	Pacific	Somewhat disapprove	10		
-2016	Opinion of Barack Obama as president	OBAMA4	OR	West	Pacific	Strongly disapprove	31	0	92
-2016	Opinion of Barack Obama as president	OBAMA2	OR	West	Pacific	Approve	58	82	7
-2016	Opinion of Barack Obama as president	OBAMA2	OR	West	Pacific	Disapprove	41	3	86
-2016	Opinion of Hillary Clinton	FAVHCLIN16	OR	West	Pacific	Favorable	43	95	3
-2016	Opinion of Hillary Clinton	FAVHCLIN16	OR	West	Pacific	Unfavorable	56	13	69
+2016	When did you decide presidential vote?	TIME16	OR	West	Pacific	Last week	4		
+2016	When did you decide presidential vote?	TIME16	OR	West	Pacific	In October	16	36	52
+2016	When did you decide presidential vote?	TIME16	OR	West	Pacific	In September	10	41	51
+2016	When did you decide presidential vote?	TIME16	OR	West	Pacific	Before September	67	56	36
+2016	When did you decide presidential vote?	TIME16WEEK	OR	West	Pacific	In the last week	4		
+2016	When did you decide presidential vote?	TIME16WEEK	OR	West	Pacific	Before that	94	51	41
+2016	When did you decide presidential vote?	TIME16MONTH	OR	West	Pacific	In the last month	20	32	48
+2016	When did you decide presidential vote?	TIME16MONTH	OR	West	Pacific	Before that	77	54	38
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	OR	West	Pacific	Strongly favor 	31	53	39
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	OR	West	Pacific	Have reservations	30	61	36
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	OR	West	Pacific	Dislike opponents	36	39	44
+2016	Most important issue facing the country	ISSUE16	OR	West	Pacific	Foreign policy	15	61	27
+2016	Most important issue facing the country	ISSUE16	OR	West	Pacific	Immigration	11	31	63
+2016	Most important issue facing the country	ISSUE16	OR	West	Pacific	Economy	57	54	34
+2016	Most important issue facing the country	ISSUE16	OR	West	Pacific	Terrorism	13	31	64
+2016	Which candidate quality mattered most?	QLT16	OR	West	Pacific	Cares about me	13	49	42
+2016	Which candidate quality mattered most?	QLT16	OR	West	Pacific	Can bring change	30	11	82
+2016	Which candidate quality mattered most?	QLT16	OR	West	Pacific	Right experience	25	92	5
+2016	Which candidate quality mattered most?	QLT16	OR	West	Pacific	Good judgment	28	57	27
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	OR	West	Pacific	Offered legal status	77	61	29
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	OR	West	Pacific	Deported to home country	18	8	79
+2016	Opinion of Barack Obama as president	OBAMA4	OR	West	Pacific	Strongly approve	35	95	2
+2016	Opinion of Barack Obama as president	OBAMA4	OR	West	Pacific	Somewhat approve	23	64	14
+2016	Opinion of Barack Obama as president	OBAMA4	OR	West	Pacific	Somewhat disapprove	9		
+2016	Opinion of Barack Obama as president	OBAMA4	OR	West	Pacific	Strongly disapprove	32	0	91
+2016	Opinion of Barack Obama as president	OBAMA2	OR	West	Pacific	Approve	58	83	7
+2016	Opinion of Barack Obama as president	OBAMA2	OR	West	Pacific	Disapprove	41	3	87
+2016	Opinion of Hillary Clinton	FAVHCLIN16	OR	West	Pacific	Favorable	43	96	3
+2016	Opinion of Hillary Clinton	FAVHCLIN16	OR	West	Pacific	Unfavorable	56	13	70
 2016	Opinion of Donald Trump	FAVTRUMP	OR	West	Pacific	Favorable	33	2	96
-2016	Opinion of Donald Trump	FAVTRUMP	OR	West	Pacific	Unfavorable	65	74	12
+2016	Opinion of Donald Trump	FAVTRUMP	OR	West	Pacific	Unfavorable	66	74	12
 2016	Opinion of Clinton and Trump	FAVPRES16	OR	West	Pacific	Both favorable	2		
-2016	Opinion of Clinton and Trump	FAVPRES16	OR	West	Pacific	Only Clinton favorable	41	97	1
+2016	Opinion of Clinton and Trump	FAVPRES16	OR	West	Pacific	Only Clinton favorable	41	98	1
 2016	Opinion of Clinton and Trump	FAVPRES16	OR	West	Pacific	Only Trump favorable	31		98
 2016	Opinion of Clinton and Trump	FAVPRES16	OR	West	Pacific	Both unfavorable	23	31	31
-2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	OR	West	Pacific	Yes	36	97	0
-2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	OR	West	Pacific	No	61	20	64
-2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	OR	West	Pacific	Yes	30	3	96
-2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	OR	West	Pacific	No	68	71	14
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	OR	West	Pacific	Yes	36	99	0
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	OR	West	Pacific	No	62	21	63
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	OR	West	Pacific	Yes	31	2	97
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	OR	West	Pacific	No	68	72	13
 2016	Which candidate is honest?	HONEST16	OR	West	Pacific	Both are	1		
-2016	Which candidate is honest?	HONEST16	OR	West	Pacific	Only Clinton is	35	98	0
+2016	Which candidate is honest?	HONEST16	OR	West	Pacific	Only Clinton is	35	99	0
 2016	Which candidate is honest?	HONEST16	OR	West	Pacific	Only Trump is	30	0	99
-2016	Which candidate is honest?	HONEST16	OR	West	Pacific	Neither is	31	39	30
+2016	Which candidate is honest?	HONEST16	OR	West	Pacific	Neither is	31	41	29
 2016	Does Clinton have the temperament to be president?	TEMPCLINTON	OR	West	Pacific	Yes	60	81	11
-2016	Does Clinton have the temperament to be president?	TEMPCLINTON	OR	West	Pacific	No	39	3	83
-2016	Does Trump have the temperament to be president?	TEMPTRUMP	OR	West	Pacific	Yes	33	2	95
-2016	Does Trump have the temperament to be president?	TEMPTRUMP	OR	West	Pacific	No	66	73	12
-2016	Which candidate has the right temperament?	TEMPERAMENT16	OR	West	Pacific	Both do	6		
-2016	Which candidate has the right temperament?	TEMPERAMENT16	OR	West	Pacific	Only Clinton does	54	88	3
-2016	Which candidate has the right temperament?	TEMPERAMENT16	OR	West	Pacific	Only Trump does	27	1	97
-2016	Which candidate has the right temperament?	TEMPERAMENT16	OR	West	Pacific	Neither does	12	7	51
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	OR	West	Pacific	No	39	3	84
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	OR	West	Pacific	Yes	33	2	97
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	OR	West	Pacific	No	66	74	11
+2016	Which candidate has the right temperament?	TEMPERAMENT16	OR	West	Pacific	Both do	5		
+2016	Which candidate has the right temperament?	TEMPERAMENT16	OR	West	Pacific	Only Clinton does	55	88	3
+2016	Which candidate has the right temperament?	TEMPERAMENT16	OR	West	Pacific	Only Trump does	28	0	99
+2016	Which candidate has the right temperament?	TEMPERAMENT16	OR	West	Pacific	Neither does	11	9	47
 2016	Condition of national economy	NEC	OR	West	Pacific	Excellent	2		
-2016	Condition of national economy	NEC	OR	West	Pacific	Good	36	85	9
-2016	Condition of national economy	NEC	OR	West	Pacific	Not good	37	38	49
-2016	Condition of national economy	NEC	OR	West	Pacific	Poor	24	9	74
-2016	Condition of national economy	NEC2	OR	West	Pacific	Good	39	84	10
-2016	Condition of national economy	NEC2	OR	West	Pacific	Poor	61	27	59
-2016	Life for the next generation of Americans will be:	LIFE	OR	West	Pacific	Better than today	22	51	39
-2016	Life for the next generation of Americans will be:	LIFE	OR	West	Pacific	Worse than today	33	30	53
-2016	Life for the next generation of Americans will be:	LIFE	OR	West	Pacific	About the same	41	66	27
-2016	Area type	SIZEPLC3	OR	West	Pacific	Urban area	35	64	26
-2016	Area type	SIZEPLC3	OR	West	Pacific	Suburban area	46	49	42
-2016	Area type	SIZEPLC3	OR	West	Pacific	Rural area	19	31	55
-2016	Region	GEOCOD	OR	West	Pacific	Multnomah County	21	70	18
-2016	Region	GEOCOD	OR	West	Pacific	Portland Suburbs	26	52	38
-2016	Region	GEOCOD	OR	West	Pacific	Willamette Val. / N.W.	29	50	40
-2016	Region	GEOCOD	OR	West	Pacific	East / South	25	32	56
+2016	Condition of national economy	NEC	OR	West	Pacific	Good	36	85	10
+2016	Condition of national economy	NEC	OR	West	Pacific	Not good	38	40	47
+2016	Condition of national economy	NEC	OR	West	Pacific	Poor	23	8	77
+2016	Condition of national economy	NEC2	OR	West	Pacific	Good	38	84	10
+2016	Condition of national economy	NEC2	OR	West	Pacific	Poor	61	28	58
+2016	Life for the next generation of Americans will be:	LIFE	OR	West	Pacific	Better than today	21	50	41
+2016	Life for the next generation of Americans will be:	LIFE	OR	West	Pacific	Worse than today	32	32	54
+2016	Life for the next generation of Americans will be:	LIFE	OR	West	Pacific	About the same	42	65	26
+2016	Area type	SIZEPLC3	OR	West	Pacific	Urban area	36	65	26
+2016	Area type	SIZEPLC3	OR	West	Pacific	Suburban area	45	49	42
+2016	Area type	SIZEPLC3	OR	West	Pacific	Rural area	19	28	57
+2016	Region	GEOCOD	OR	West	Pacific	Multnomah County	21	74	17
+2016	Region	GEOCOD	OR	West	Pacific	Portland Suburbs	24	52	40
+2016	Region	GEOCOD	OR	West	Pacific	Willamette Val. / N.W.	29	50	39
+2016	Region	GEOCOD	OR	West	Pacific	East / South	26	31	58

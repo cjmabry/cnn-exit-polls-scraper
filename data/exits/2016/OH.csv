@@ -1,223 +1,223 @@
-2016	Gender	SEX	OH	Midwest	East North Central	Male	47	37	58
-2016	Gender	SEX	OH	Midwest	East North Central	Female	53	50	46
-2016	Age	AGE	OH	Midwest	East North Central	18-29	18	50	41
-2016	Age	AGE	OH	Midwest	East North Central	30-44	24	43	51
-2016	Age	AGE	OH	Midwest	East North Central	45-64	39	41	55
-2016	Age	AGE	OH	Midwest	East North Central	65 and older	19	44	55
+2016	Gender	SEX	OH	Midwest	East North Central	Male	47	36	59
+2016	Gender	SEX	OH	Midwest	East North Central	Female	53	49	46
+2016	Age	AGE	OH	Midwest	East North Central	18-29	18	51	42
+2016	Age	AGE	OH	Midwest	East North Central	30-44	24	42	51
+2016	Age	AGE	OH	Midwest	East North Central	45-64	39	40	56
+2016	Age	AGE	OH	Midwest	East North Central	65 and older	19	43	56
 2016	Age	AGE65	OH	Midwest	East North Central	18-24	10	54	39
 2016	Age	AGE65	OH	Midwest	East North Central	25-29	8	46	44
-2016	Age	AGE65	OH	Midwest	East North Central	30-39	16	42	50
-2016	Age	AGE65	OH	Midwest	East North Central	40-49	18	40	55
-2016	Age	AGE65	OH	Midwest	East North Central	50-64	29	42	55
-2016	Age	AGE65	OH	Midwest	East North Central	65 and older	19	44	55
-2016	Age	AGE45	OH	Midwest	East North Central	18-44	42	46	47
-2016	Age	AGE45	OH	Midwest	East North Central	45 and older	58	42	55
-2016	Race	RACE	OH	Midwest	East North Central	White	80	34	61
-2016	Race	RACE	OH	Midwest	East North Central	Black	14	89	8
-2016	Race	RACE	OH	Midwest	East North Central	Latino	3	68	28
+2016	Age	AGE65	OH	Midwest	East North Central	30-39	16	41	51
+2016	Age	AGE65	OH	Midwest	East North Central	40-49	17	39	56
+2016	Age	AGE65	OH	Midwest	East North Central	50-64	29	41	55
+2016	Age	AGE65	OH	Midwest	East North Central	65 and older	19	43	56
+2016	Age	AGE45	OH	Midwest	East North Central	18-44	42	45	47
+2016	Age	AGE45	OH	Midwest	East North Central	45 and older	58	41	56
+2016	Race	RACE	OH	Midwest	East North Central	White	80	33	62
+2016	Race	RACE	OH	Midwest	East North Central	Black	14	88	8
+2016	Race	RACE	OH	Midwest	East North Central	Latino	3	67	26
 2016	Race	RACE	OH	Midwest	East North Central	Asian	1		
 2016	Race	RACE	OH	Midwest	East North Central	Other race	2		
-2016	Race	RACE2B	OH	Midwest	East North Central	White	80	34	61
-2016	Race	RACE2B	OH	Midwest	East North Central	Non-white	20	81	15
-2016	Race and gender	SEXBYRACE	OH	Midwest	East North Central	White men	38	27	67
-2016	Race and gender	SEXBYRACE	OH	Midwest	East North Central	White women	42	41	55
-2016	Race and gender	SEXBYRACE	OH	Midwest	East North Central	Black men	6	85	12
-2016	Race and gender	SEXBYRACE	OH	Midwest	East North Central	Black women	8	93	4
+2016	Race	RACE2B	OH	Midwest	East North Central	White	80	33	62
+2016	Race	RACE2B	OH	Midwest	East North Central	Non-white	20	80	15
+2016	Race and gender	SEXBYRACE	OH	Midwest	East North Central	White men	38	27	68
+2016	Race and gender	SEXBYRACE	OH	Midwest	East North Central	White women	42	39	56
+2016	Race and gender	SEXBYRACE	OH	Midwest	East North Central	Black men	6	84	13
+2016	Race and gender	SEXBYRACE	OH	Midwest	East North Central	Black women	8	92	4
 2016	Race and gender	SEXBYRACE	OH	Midwest	East North Central	Latino men	1		
 2016	Race and gender	SEXBYRACE	OH	Midwest	East North Central	Latino women	2		
-2016	Race and gender	SEXBYRACE	OH	Midwest	East North Central	Others	3	56	34
-2016	Education	EDUC12R	OH	Midwest	East North Central	High school or less	21	48	48
-2016	Education	EDUC12R	OH	Midwest	East North Central	Some college	35	43	53
-2016	Education	EDUC12R	OH	Midwest	East North Central	College graduate	28	40	54
-2016	Education	EDUC12R	OH	Midwest	East North Central	Postgraduate	16	47	48
-2016	Are you a college graduate?	EDUCCOLL	OH	Midwest	East North Central	Yes	44	43	52
-2016	Are you a college graduate?	EDUCCOLL	OH	Midwest	East North Central	No	56	45	51
-2016	Education and race	EDUCWHITE	OH	Midwest	East North Central	White college graduates	37	35	59
-2016	Education and race	EDUCWHITE	OH	Midwest	East North Central	Whites no degree	43	34	62
-2016	Education and race	EDUCWHITE	OH	Midwest	East North Central	Non-whites college grads	8	78	18
-2016	Education and race	EDUCWHITE	OH	Midwest	East North Central	Non-whites no degree	12	83	12
-2016	Education among whites by sex	EDUCWHITEBYSEX	OH	Midwest	East North Central	White college-grad women	20	41	55
-2016	Education among whites by sex	EDUCWHITEBYSEX	OH	Midwest	East North Central	White non-college women	22	41	55
+2016	Race and gender	SEXBYRACE	OH	Midwest	East North Central	Others	3	55	35
+2016	Education	EDUC12R	OH	Midwest	East North Central	High school or less	21	48	49
+2016	Education	EDUC12R	OH	Midwest	East North Central	Some college	35	42	54
+2016	Education	EDUC12R	OH	Midwest	East North Central	College graduate	28	39	54
+2016	Education	EDUC12R	OH	Midwest	East North Central	Postgraduate	16	46	49
+2016	Are you a college graduate?	EDUCCOLL	OH	Midwest	East North Central	Yes	44	41	52
+2016	Are you a college graduate?	EDUCCOLL	OH	Midwest	East North Central	No	56	44	52
+2016	Education and race	EDUCWHITE	OH	Midwest	East North Central	White college graduates	37	34	59
+2016	Education and race	EDUCWHITE	OH	Midwest	East North Central	Whites no degree	43	33	63
+2016	Education and race	EDUCWHITE	OH	Midwest	East North Central	Non-whites college grads	8	75	18
+2016	Education and race	EDUCWHITE	OH	Midwest	East North Central	Non-whites no degree	12	84	12
+2016	Education among whites by sex	EDUCWHITEBYSEX	OH	Midwest	East North Central	White college-grad women	20	39	56
+2016	Education among whites by sex	EDUCWHITEBYSEX	OH	Midwest	East North Central	White non-college women	22	40	56
 2016	Education among whites by sex	EDUCWHITEBYSEX	OH	Midwest	East North Central	White college-grad men	17	29	63
-2016	Education among whites by sex	EDUCWHITEBYSEX	OH	Midwest	East North Central	White non-college men	21	26	70
-2016	Education among whites by sex	EDUCWHITEBYSEX	OH	Midwest	East North Central	Non-whites	20	81	14
-2016	Income	INCOME16GEN	OH	Midwest	East North Central	Under $30,000	17	59	34
-2016	Income	INCOME16GEN	OH	Midwest	East North Central	$30K-$49,999	22	47	48
-2016	Income	INCOME16GEN	OH	Midwest	East North Central	$50K-$99,999	33	42	54
-2016	Income	INCOME16GEN	OH	Midwest	East North Central	$100K-$199,999	22	39	58
+2016	Education among whites by sex	EDUCWHITEBYSEX	OH	Midwest	East North Central	White non-college men	21	25	71
+2016	Education among whites by sex	EDUCWHITEBYSEX	OH	Midwest	East North Central	Non-whites	20	80	14
+2016	Income	INCOME16GEN	OH	Midwest	East North Central	Under $30,000	17	57	35
+2016	Income	INCOME16GEN	OH	Midwest	East North Central	$30K-$49,999	22	46	49
+2016	Income	INCOME16GEN	OH	Midwest	East North Central	$50K-$99,999	33	40	55
+2016	Income	INCOME16GEN	OH	Midwest	East North Central	$100K-$199,999	23	39	57
 2016	Income	INCOME16GEN	OH	Midwest	East North Central	$200K-$249,999	3		
 2016	Income	INCOME16GEN	OH	Midwest	East North Central	$250,000 or more	4		
-2016	Income	INCOME3	OH	Midwest	East North Central	Under $50K	38	52	42
-2016	Income	INCOME3	OH	Midwest	East North Central	$50K-$100K	33	42	54
-2016	Income	INCOME3	OH	Midwest	East North Central	$100K or more	29	38	59
-2016	Income	INC50K	OH	Midwest	East North Central	Under $50K	38	52	42
-2016	Income	INC50K	OH	Midwest	East North Central	$50K or more	62	40	56
-2016	Income	INC100K	OH	Midwest	East North Central	Under $100K	71	48	47
-2016	Income	INC100K	OH	Midwest	East North Central	$100K or more	29	38	59
+2016	Income	INCOME3	OH	Midwest	East North Central	Under $50K	38	51	43
+2016	Income	INCOME3	OH	Midwest	East North Central	$50K-$100K	33	40	55
+2016	Income	INCOME3	OH	Midwest	East North Central	$100K or more	29	37	59
+2016	Income	INC50K	OH	Midwest	East North Central	Under $50K	38	51	43
+2016	Income	INC50K	OH	Midwest	East North Central	$50K or more	62	39	57
+2016	Income	INC100K	OH	Midwest	East North Central	Under $100K	71	46	48
+2016	Income	INC100K	OH	Midwest	East North Central	$100K or more	29	37	59
 2016	Party ID	PARTY	OH	Midwest	East North Central	Democrats	34	87	12
-2016	Party ID	PARTY	OH	Midwest	East North Central	Republicans	37	8	89
-2016	Party ID	PARTY	OH	Midwest	East North Central	Independents	29	38	51
-2016	Party by gender	PARTYGENDER	OH	Midwest	East North Central	Democratic men	13	83	15
-2016	Party by gender	PARTYGENDER	OH	Midwest	East North Central	Democratic women	21	90	10
-2016	Party by gender	PARTYGENDER	OH	Midwest	East North Central	Republican men	18	8	89
-2016	Party by gender	PARTYGENDER	OH	Midwest	East North Central	Republican women	19	8	90
-2016	Party by gender	PARTYGENDER	OH	Midwest	East North Central	Independent men	16	31	59
-2016	Party by gender	PARTYGENDER	OH	Midwest	East North Central	Independent women	13	47	42
-2016	Ideology	PHIL3	OH	Midwest	East North Central	Liberal	21	82	13
-2016	Ideology	PHIL3	OH	Midwest	East North Central	Moderate	41	50	43
-2016	Ideology	PHIL3	OH	Midwest	East North Central	Conservative	38	16	81
-2016	Religion	REL5	OH	Midwest	East North Central	Protestant	51	38	59
+2016	Party ID	PARTY	OH	Midwest	East North Central	Republicans	37	7	90
+2016	Party ID	PARTY	OH	Midwest	East North Central	Independents	29	37	51
+2016	Party by gender	PARTYGENDER	OH	Midwest	East North Central	Democratic men	13	83	14
+2016	Party by gender	PARTYGENDER	OH	Midwest	East North Central	Democratic women	21	89	10
+2016	Party by gender	PARTYGENDER	OH	Midwest	East North Central	Republican men	18	7	89
+2016	Party by gender	PARTYGENDER	OH	Midwest	East North Central	Republican women	19	7	90
+2016	Party by gender	PARTYGENDER	OH	Midwest	East North Central	Independent men	16	30	59
+2016	Party by gender	PARTYGENDER	OH	Midwest	East North Central	Independent women	13	45	42
+2016	Ideology	PHIL3	OH	Midwest	East North Central	Liberal	20	81	14
+2016	Ideology	PHIL3	OH	Midwest	East North Central	Moderate	41	49	43
+2016	Ideology	PHIL3	OH	Midwest	East North Central	Conservative	39	16	81
+2016	Religion	REL5	OH	Midwest	East North Central	Protestant	51	37	59
 2016	Religion	REL5	OH	Midwest	East North Central	Catholic	23	38	58
 2016	Religion	REL5	OH	Midwest	East North Central	Jewish	1		
 2016	Religion	REL5	OH	Midwest	East North Central	Another religion	8		
-2016	Religion	REL5	OH	Midwest	East North Central	No religion	16	59	34
-2016	White born-again or evangelical Christian?	WHTEVANG	OH	Midwest	East North Central	Yes	33	21	76
-2016	White born-again or evangelical Christian?	WHTEVANG	OH	Midwest	East North Central	No	67	56	39
-2016	Marital status	MARRIED	OH	Midwest	East North Central	Married	60	37	59
-2016	Marital status	MARRIED	OH	Midwest	East North Central	Unmarried	40	53	42
-2016	Marital status by gender	SEXWED	OH	Midwest	East North Central	Married men	29	31	63
-2016	Marital status by gender	SEXWED	OH	Midwest	East North Central	Married women	31	42	55
-2016	Marital status by gender	SEXWED	OH	Midwest	East North Central	Unmarried men	17	43	49
-2016	Marital status by gender	SEXWED	OH	Midwest	East North Central	Unmarried women	23	60	37
-2016	Parent?	CHILD12	OH	Midwest	East North Central	Yes	39	45	50
-2016	Parent?	CHILD12	OH	Midwest	East North Central	No	61	41	55
-2016	Parents by gender	PARENTS	OH	Midwest	East North Central	Fathers	18	36	54
-2016	Parents by gender	PARENTS	OH	Midwest	East North Central	Mothers	21	52	46
-2016	Parents by gender	PARENTS	OH	Midwest	East North Central	Men without children	28	34	60
-2016	Parents by gender	PARENTS	OH	Midwest	East North Central	Women without children	34	46	51
-2016	Married with children?	MARCHILD	OH	Midwest	East North Central	Yes	27	37	58
-2016	Married with children?	MARCHILD	OH	Midwest	East North Central	No	73	45	51
-2016	Union household?	UNIONHH12	OH	Midwest	East North Central	Yes	23	42	54
-2016	Union household?	UNIONHH12	OH	Midwest	East North Central	No	77	43	52
-2016	When did you decide presidential vote?	TIME16	OH	Midwest	East North Central	Last few days	10	44	44
+2016	Religion	REL5	OH	Midwest	East North Central	No religion	16	59	36
+2016	White born-again or evangelical Christian?	WHTEVANG	OH	Midwest	East North Central	Yes	33	20	77
+2016	White born-again or evangelical Christian?	WHTEVANG	OH	Midwest	East North Central	No	67	55	40
+2016	Marital status	MARRIED	OH	Midwest	East North Central	Married	60	36	59
+2016	Marital status	MARRIED	OH	Midwest	East North Central	Unmarried	40	52	42
+2016	Marital status by gender	SEXWED	OH	Midwest	East North Central	Married men	28	31	64
+2016	Marital status by gender	SEXWED	OH	Midwest	East North Central	Married women	32	41	55
+2016	Marital status by gender	SEXWED	OH	Midwest	East North Central	Unmarried men	17	42	49
+2016	Marital status by gender	SEXWED	OH	Midwest	East North Central	Unmarried women	24	59	36
+2016	Parent?	CHILD12	OH	Midwest	East North Central	Yes	39	44	51
+2016	Parent?	CHILD12	OH	Midwest	East North Central	No	61	39	54
+2016	Parents by gender	PARENTS	OH	Midwest	East North Central	Fathers	17	35	57
+2016	Parents by gender	PARENTS	OH	Midwest	East North Central	Mothers	21	51	46
+2016	Parents by gender	PARENTS	OH	Midwest	East North Central	Men without children	27	33	60
+2016	Parents by gender	PARENTS	OH	Midwest	East North Central	Women without children	34	44	50
+2016	Married with children?	MARCHILD	OH	Midwest	East North Central	Yes	26	36	59
+2016	Married with children?	MARCHILD	OH	Midwest	East North Central	No	74	44	51
+2016	Union household?	UNIONHH12	OH	Midwest	East North Central	Yes	23	41	54
+2016	Union household?	UNIONHH12	OH	Midwest	East North Central	No	77	42	52
+2016	When did you decide presidential vote?	TIME16	OH	Midwest	East North Central	Last few days	10	42	45
 2016	When did you decide presidential vote?	TIME16	OH	Midwest	East North Central	Last week	5		
-2016	When did you decide presidential vote?	TIME16	OH	Midwest	East North Central	In October	10	30	64
+2016	When did you decide presidential vote?	TIME16	OH	Midwest	East North Central	In October	10	29	64
 2016	When did you decide presidential vote?	TIME16	OH	Midwest	East North Central	In September	10		
-2016	When did you decide presidential vote?	TIME16	OH	Midwest	East North Central	Before September	65	49	49
-2016	When did you decide presidential vote?	TIME16WEEK	OH	Midwest	East North Central	In the last week	15	43	46
-2016	When did you decide presidential vote?	TIME16WEEK	OH	Midwest	East North Central	Before that	84	46	51
-2016	When did you decide presidential vote?	TIME16MONTH	OH	Midwest	East North Central	In the last month	25	38	53
-2016	When did you decide presidential vote?	TIME16MONTH	OH	Midwest	East North Central	Before that	75	48	49
-2016	Opinion of presidential candidate you voted for	DESCRIBP12	OH	Midwest	East North Central	Strongly favor 	46	42	55
-2016	Opinion of presidential candidate you voted for	DESCRIBP12	OH	Midwest	East North Central	Have reservations	29	40	58
-2016	Opinion of presidential candidate you voted for	DESCRIBP12	OH	Midwest	East North Central	Dislike opponents	23	45	44
-2016	Most important issue facing the country	ISSUE16	OH	Midwest	East North Central	Foreign policy	11	57	35
-2016	Most important issue facing the country	ISSUE16	OH	Midwest	East North Central	Immigration	12	22	75
-2016	Most important issue facing the country	ISSUE16	OH	Midwest	East North Central	Economy	53	50	45
-2016	Most important issue facing the country	ISSUE16	OH	Midwest	East North Central	Terrorism	20	33	63
-2016	Which candidate quality mattered most?	QLT16	OH	Midwest	East North Central	Cares about me	14	59	35
-2016	Which candidate quality mattered most?	QLT16	OH	Midwest	East North Central	Can bring change	45	11	85
-2016	Which candidate quality mattered most?	QLT16	OH	Midwest	East North Central	Right experience	20	93	5
-2016	Which candidate quality mattered most?	QLT16	OH	Midwest	East North Central	Good judgment	17	62	32
-2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	OH	Midwest	East North Central	Offered legal status	59	62	32
-2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	OH	Midwest	East North Central	Deported to home country	35	16	81
-2016	Do you think immigrants to the U.S. today:	IMMBETTER	OH	Midwest	East North Central	Help the country	47	67	28
-2016	Do you think immigrants to the U.S. today:	IMMBETTER	OH	Midwest	East North Central	Hurt the country	43	21	76
+2016	When did you decide presidential vote?	TIME16	OH	Midwest	East North Central	Before September	65	47	50
+2016	When did you decide presidential vote?	TIME16WEEK	OH	Midwest	East North Central	In the last week	15	41	47
+2016	When did you decide presidential vote?	TIME16WEEK	OH	Midwest	East North Central	Before that	84	45	52
+2016	When did you decide presidential vote?	TIME16MONTH	OH	Midwest	East North Central	In the last month	25	37	54
+2016	When did you decide presidential vote?	TIME16MONTH	OH	Midwest	East North Central	Before that	75	47	50
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	OH	Midwest	East North Central	Strongly favor 	46	41	55
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	OH	Midwest	East North Central	Have reservations	28	38	59
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	OH	Midwest	East North Central	Dislike opponents	23	43	44
+2016	Most important issue facing the country	ISSUE16	OH	Midwest	East North Central	Foreign policy	11	54	36
+2016	Most important issue facing the country	ISSUE16	OH	Midwest	East North Central	Immigration	12	21	77
+2016	Most important issue facing the country	ISSUE16	OH	Midwest	East North Central	Economy	53	49	46
+2016	Most important issue facing the country	ISSUE16	OH	Midwest	East North Central	Terrorism	20	32	64
+2016	Which candidate quality mattered most?	QLT16	OH	Midwest	East North Central	Cares about me	14	57	35
+2016	Which candidate quality mattered most?	QLT16	OH	Midwest	East North Central	Can bring change	46	10	84
+2016	Which candidate quality mattered most?	QLT16	OH	Midwest	East North Central	Right experience	20	92	6
+2016	Which candidate quality mattered most?	QLT16	OH	Midwest	East North Central	Good judgment	17	60	33
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	OH	Midwest	East North Central	Offered legal status	58	61	33
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	OH	Midwest	East North Central	Deported to home country	36	16	81
+2016	Do you think immigrants to the U.S. today:	IMMBETTER	OH	Midwest	East North Central	Help the country	47	66	28
+2016	Do you think immigrants to the U.S. today:	IMMBETTER	OH	Midwest	East North Central	Hurt the country	43	21	77
 2016	Effect of international trade	TRADE16	OH	Midwest	East North Central	Creates U.S. jobs	32	54	40
-2016	Effect of international trade	TRADE16	OH	Midwest	East North Central	Takes away U.S. jobs	48	29	68
-2016	Effect of international trade	TRADE16	OH	Midwest	East North Central	Does not affect jobs	13	66	26
-2016	How do things work in the U.S. today?	RACEFACTOR	OH	Midwest	East North Central	Whites are favored	30	78	15
-2016	How do things work in the U.S. today?	RACEFACTOR	OH	Midwest	East North Central	Minorities are favored	27	17	82
-2016	How do things work in the U.S. today?	RACEFACTOR	OH	Midwest	East North Central	No group is favored	37	38	58
-2016	View on Obamacare	HEALTHCARE16	OH	Midwest	East North Central	Did not go far enough	23	74	19
-2016	View on Obamacare	HEALTHCARE16	OH	Midwest	East North Central	Was about right	20	87	11
-2016	View on Obamacare	HEALTHCARE16	OH	Midwest	East North Central	Went too far	53	11	83
+2016	Effect of international trade	TRADE16	OH	Midwest	East North Central	Takes away U.S. jobs	48	28	69
+2016	Effect of international trade	TRADE16	OH	Midwest	East North Central	Does not affect jobs	13	65	28
+2016	How do things work in the U.S. today?	RACEFACTOR	OH	Midwest	East North Central	Whites are favored	31	76	16
+2016	How do things work in the U.S. today?	RACEFACTOR	OH	Midwest	East North Central	Minorities are favored	27	16	83
+2016	How do things work in the U.S. today?	RACEFACTOR	OH	Midwest	East North Central	No group is favored	36	37	60
+2016	View on Obamacare	HEALTHCARE16	OH	Midwest	East North Central	Did not go far enough	23	72	19
+2016	View on Obamacare	HEALTHCARE16	OH	Midwest	East North Central	Was about right	19	87	11
+2016	View on Obamacare	HEALTHCARE16	OH	Midwest	East North Central	Went too far	53	11	82
 2016	Feelings about the federal government	GOVTANGR16	OH	Midwest	East North Central	Enthusiastic	4		
 2016	Feelings about the federal government	GOVTANGR16	OH	Midwest	East North Central	Satisfied	23	73	22
-2016	Feelings about the federal government	GOVTANGR16	OH	Midwest	East North Central	Dissatisfied	47	38	56
-2016	Feelings about the federal government	GOVTANGR16	OH	Midwest	East North Central	Angry	25	14	83
+2016	Feelings about the federal government	GOVTANGR16	OH	Midwest	East North Central	Dissatisfied	47	36	56
+2016	Feelings about the federal government	GOVTANGR16	OH	Midwest	East North Central	Angry	25	13	83
 2016	Feelings about the federal government	GOVTANGR16B	OH	Midwest	East North Central	Enthusiastic/Satisfied	27	74	22
-2016	Feelings about the federal government	GOVTANGR16B	OH	Midwest	East North Central	Dissatisfied/Angry	72	29	66
-2016	Opinion of Barack Obama as president	OBAMA4	OH	Midwest	East North Central	Strongly approve	30	94	5
-2016	Opinion of Barack Obama as president	OBAMA4	OH	Midwest	East North Central	Somewhat approve	21	66	26
-2016	Opinion of Barack Obama as president	OBAMA4	OH	Midwest	East North Central	Somewhat disapprove	11	21	72
-2016	Opinion of Barack Obama as president	OBAMA4	OH	Midwest	East North Central	Strongly disapprove	36	3	93
-2016	Opinion of Barack Obama as president	OBAMA2	OH	Midwest	East North Central	Approve	51	83	13
-2016	Opinion of Barack Obama as president	OBAMA2	OH	Midwest	East North Central	Disapprove	47	7	88
+2016	Feelings about the federal government	GOVTANGR16B	OH	Midwest	East North Central	Dissatisfied/Angry	72	28	66
+2016	Opinion of Barack Obama as president	OBAMA4	OH	Midwest	East North Central	Strongly approve	29	94	5
+2016	Opinion of Barack Obama as president	OBAMA4	OH	Midwest	East North Central	Somewhat approve	21	64	27
+2016	Opinion of Barack Obama as president	OBAMA4	OH	Midwest	East North Central	Somewhat disapprove	11	19	74
+2016	Opinion of Barack Obama as president	OBAMA4	OH	Midwest	East North Central	Strongly disapprove	37	3	93
+2016	Opinion of Barack Obama as president	OBAMA2	OH	Midwest	East North Central	Approve	50	82	14
+2016	Opinion of Barack Obama as president	OBAMA2	OH	Midwest	East North Central	Disapprove	48	6	88
 2016	Should the next president:	OBAMAPLCY16	OH	Midwest	East North Central	Continue Obama's policies	25	93	4
-2016	Should the next president:	OBAMAPLCY16	OH	Midwest	East North Central	Be more conservative	52	15	80
-2016	Should the next president:	OBAMAPLCY16	OH	Midwest	East North Central	Be more liberal	16	59	36
-2016	Opinion of Hillary Clinton	FAVHCLIN16	OH	Midwest	East North Central	Favorable	41	98	2
-2016	Opinion of Hillary Clinton	FAVHCLIN16	OH	Midwest	East North Central	Unfavorable	58	9	84
-2016	Opinion of Donald Trump	FAVTRUMP	OH	Midwest	East North Central	Favorable	41	4	95
-2016	Opinion of Donald Trump	FAVTRUMP	OH	Midwest	East North Central	Unfavorable	58	75	18
+2016	Should the next president:	OBAMAPLCY16	OH	Midwest	East North Central	Be more conservative	53	15	81
+2016	Should the next president:	OBAMAPLCY16	OH	Midwest	East North Central	Be more liberal	16	57	37
+2016	Opinion of Hillary Clinton	FAVHCLIN16	OH	Midwest	East North Central	Favorable	40	98	2
+2016	Opinion of Hillary Clinton	FAVHCLIN16	OH	Midwest	East North Central	Unfavorable	59	8	84
+2016	Opinion of Donald Trump	FAVTRUMP	OH	Midwest	East North Central	Favorable	41	3	96
+2016	Opinion of Donald Trump	FAVTRUMP	OH	Midwest	East North Central	Unfavorable	57	74	18
 2016	Opinion of Clinton and Trump	FAVPRES16	OH	Midwest	East North Central	Both favorable	2		
-2016	Opinion of Clinton and Trump	FAVPRES16	OH	Midwest	East North Central	Only Clinton favorable	39	99	1
-2016	Opinion of Clinton and Trump	FAVPRES16	OH	Midwest	East North Central	Only Trump favorable	39	1	98
-2016	Opinion of Clinton and Trump	FAVPRES16	OH	Midwest	East North Central	Both unfavorable	19	24	54
-2016	Opinion of John Kasich	FAVKASICH	OH	Midwest	East North Central	Favorable	51	51	44
-2016	Opinion of John Kasich	FAVKASICH	OH	Midwest	East North Central	Unfavorable	39	36	60
-2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	OH	Midwest	East North Central	Yes	30	96	4
-2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	OH	Midwest	East North Central	No	68	17	76
-2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	OH	Midwest	East North Central	Yes	42	5	95
-2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	OH	Midwest	East North Central	No	56	69	23
+2016	Opinion of Clinton and Trump	FAVPRES16	OH	Midwest	East North Central	Only Clinton favorable	38	99	1
+2016	Opinion of Clinton and Trump	FAVPRES16	OH	Midwest	East North Central	Only Trump favorable	40	1	98
+2016	Opinion of Clinton and Trump	FAVPRES16	OH	Midwest	East North Central	Both unfavorable	19	23	53
+2016	Opinion of John Kasich	FAVKASICH	OH	Midwest	East North Central	Favorable	50	49	45
+2016	Opinion of John Kasich	FAVKASICH	OH	Midwest	East North Central	Unfavorable	40	35	60
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	OH	Midwest	East North Central	Yes	29	97	3
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	OH	Midwest	East North Central	No	69	17	76
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	OH	Midwest	East North Central	Yes	41	4	96
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	OH	Midwest	East North Central	No	56	67	23
 2016	Which candidate is honest?	HONEST16	OH	Midwest	East North Central	Both are	2		
 2016	Which candidate is honest?	HONEST16	OH	Midwest	East North Central	Only Clinton is	27	99	1
-2016	Which candidate is honest?	HONEST16	OH	Midwest	East North Central	Only Trump is	39	1	98
-2016	Which candidate is honest?	HONEST16	OH	Midwest	East North Central	Neither is	28	40	45
-2016	Is Clinton qualified to serve as president?	QUALCLINTON	OH	Midwest	East North Central	Yes	47	88	9
-2016	Is Clinton qualified to serve as president?	QUALCLINTON	OH	Midwest	East North Central	No	52	4	88
-2016	Is Trump qualified to serve as president?	QUALTRUMP	OH	Midwest	East North Central	Yes	42	5	94
-2016	Is Trump qualified to serve as president?	QUALTRUMP	OH	Midwest	East North Central	No	57	74	19
+2016	Which candidate is honest?	HONEST16	OH	Midwest	East North Central	Only Trump is	39	1	99
+2016	Which candidate is honest?	HONEST16	OH	Midwest	East North Central	Neither is	29	38	44
+2016	Is Clinton qualified to serve as president?	QUALCLINTON	OH	Midwest	East North Central	Yes	46	87	10
+2016	Is Clinton qualified to serve as president?	QUALCLINTON	OH	Midwest	East North Central	No	53	4	88
+2016	Is Trump qualified to serve as president?	QUALTRUMP	OH	Midwest	East North Central	Yes	42	4	95
+2016	Is Trump qualified to serve as president?	QUALTRUMP	OH	Midwest	East North Central	No	57	73	19
 2016	Who is qualified to serve as president?	QUALIFIED16	OH	Midwest	East North Central	Both are	6		
-2016	Who is qualified to serve as president?	QUALIFIED16	OH	Midwest	East North Central	Only Clinton is	41	97	2
+2016	Who is qualified to serve as president?	QUALIFIED16	OH	Midwest	East North Central	Only Clinton is	40	96	2
 2016	Who is qualified to serve as president?	QUALIFIED16	OH	Midwest	East North Central	Only Trump is	36	1	99
-2016	Who is qualified to serve as president?	QUALIFIED16	OH	Midwest	East North Central	Neither is	15	12	64
-2016	Does Clinton have the temperament to be president?	TEMPCLINTON	OH	Midwest	East North Central	Yes	47	84	13
-2016	Does Clinton have the temperament to be president?	TEMPCLINTON	OH	Midwest	East North Central	No	51	3	91
+2016	Who is qualified to serve as president?	QUALIFIED16	OH	Midwest	East North Central	Neither is	16	12	64
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	OH	Midwest	East North Central	Yes	46	83	13
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	OH	Midwest	East North Central	No	52	3	90
 2016	Does Trump have the temperament to be president?	TEMPTRUMP	OH	Midwest	East North Central	Yes	43	4	95
-2016	Does Trump have the temperament to be president?	TEMPTRUMP	OH	Midwest	East North Central	No	55	71	21
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	OH	Midwest	East North Central	No	55	70	21
 2016	Which candidate has the right temperament?	TEMPERAMENT16	OH	Midwest	East North Central	Both do	6		
-2016	Which candidate has the right temperament?	TEMPERAMENT16	OH	Midwest	East North Central	Only Clinton does	41	92	5
+2016	Which candidate has the right temperament?	TEMPERAMENT16	OH	Midwest	East North Central	Only Clinton does	41	91	5
 2016	Which candidate has the right temperament?	TEMPERAMENT16	OH	Midwest	East North Central	Only Trump does	37	1	99
-2016	Which candidate has the right temperament?	TEMPERAMENT16	OH	Midwest	East North Central	Neither does	14	10	69
-2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	OH	Midwest	East North Central	A lot	49	5	89
-2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	OH	Midwest	East North Central	Some	17	66	31
-2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	OH	Midwest	East North Central	Not much	15	91	5
-2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	OH	Midwest	East North Central	Not at all	19	91	6
-2016	Does Clinton's use of private email bother you?	CLINTONEMAILB	OH	Midwest	East North Central	Yes	66	21	74
-2016	Does Clinton's use of private email bother you?	CLINTONEMAILB	OH	Midwest	East North Central	No	34	91	5
-2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	OH	Midwest	East North Central	A lot	45	84	11
-2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	OH	Midwest	East North Central	Some	21	20	75
-2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	OH	Midwest	East North Central	Not much	14	5	89
-2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	OH	Midwest	East North Central	Not at all	18	8	92
-2016	Does Donald Trump's treatment of women bother you?	TRUMPWOMENB	OH	Midwest	East North Central	Yes	66	64	31
+2016	Which candidate has the right temperament?	TEMPERAMENT16	OH	Midwest	East North Central	Neither does	15	9	67
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	OH	Midwest	East North Central	A lot	50	5	90
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	OH	Midwest	East North Central	Some	17	65	32
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	OH	Midwest	East North Central	Not much	14	90	5
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	OH	Midwest	East North Central	Not at all	19	90	6
+2016	Does Clinton's use of private email bother you?	CLINTONEMAILB	OH	Midwest	East North Central	Yes	66	20	75
+2016	Does Clinton's use of private email bother you?	CLINTONEMAILB	OH	Midwest	East North Central	No	33	90	5
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	OH	Midwest	East North Central	A lot	44	83	11
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	OH	Midwest	East North Central	Some	21	19	76
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	OH	Midwest	East North Central	Not much	14	4	89
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	OH	Midwest	East North Central	Not at all	19	7	93
+2016	Does Donald Trump's treatment of women bother you?	TRUMPWOMENB	OH	Midwest	East North Central	Yes	66	63	32
 2016	Does Donald Trump's treatment of women bother you?	TRUMPWOMENB	OH	Midwest	East North Central	No	33	6	91
-2016	Who would better handle the economy?	HANDLEECON16	OH	Midwest	East North Central	Clinton	42	95	1
-2016	Who would better handle the economy?	HANDLEECON16	OH	Midwest	East North Central	Trump	52	4	94
-2016	Who would better handle foreign policy?	HANDLEFP16	OH	Midwest	East North Central	Clinton	50	88	7
+2016	Who would better handle the economy?	HANDLEECON16	OH	Midwest	East North Central	Clinton	41	96	1
+2016	Who would better handle the economy?	HANDLEECON16	OH	Midwest	East North Central	Trump	53	3	94
+2016	Who would better handle foreign policy?	HANDLEFP16	OH	Midwest	East North Central	Clinton	49	87	7
 2016	Who would better handle foreign policy?	HANDLEFP16	OH	Midwest	East North Central	Trump	45	0	99
 2016	Condition of national economy	NEC	OH	Midwest	East North Central	Excellent	3		
-2016	Condition of national economy	NEC	OH	Midwest	East North Central	Good	32	72	22
-2016	Condition of national economy	NEC	OH	Midwest	East North Central	Not good	40	31	64
-2016	Condition of national economy	NEC	OH	Midwest	East North Central	Poor	25	16	81
-2016	Condition of national economy	NEC2	OH	Midwest	East North Central	Good	35	72	22
+2016	Condition of national economy	NEC	OH	Midwest	East North Central	Good	32	70	21
+2016	Condition of national economy	NEC	OH	Midwest	East North Central	Not good	41	30	64
+2016	Condition of national economy	NEC	OH	Midwest	East North Central	Poor	24	16	81
+2016	Condition of national economy	NEC2	OH	Midwest	East North Central	Good	34	71	21
 2016	Condition of national economy	NEC2	OH	Midwest	East North Central	Poor	65	25	71
-2016	Financial situation compared to four years ago:	FINSIT	OH	Midwest	East North Central	Better today	30	64	30
+2016	Financial situation compared to four years ago:	FINSIT	OH	Midwest	East North Central	Better today	31	63	31
 2016	Financial situation compared to four years ago:	FINSIT	OH	Midwest	East North Central	Worse today	27	14	82
-2016	Financial situation compared to four years ago:	FINSIT	OH	Midwest	East North Central	About the same	42	50	46
-2016	Local job market compared to four years ago:	JOBSIT	OH	Midwest	East North Central	Better today	34	79	15
+2016	Financial situation compared to four years ago:	FINSIT	OH	Midwest	East North Central	About the same	41	50	47
+2016	Local job market compared to four years ago:	JOBSIT	OH	Midwest	East North Central	Better today	34	78	15
 2016	Local job market compared to four years ago:	JOBSIT	OH	Midwest	East North Central	Worse today	29	10	88
-2016	Local job market compared to four years ago:	JOBSIT	OH	Midwest	East North Central	About the same	37	33	61
-2016	Life for the next generation of Americans will be:	LIFE	OH	Midwest	East North Central	Better than today	35	50	47
-2016	Life for the next generation of Americans will be:	LIFE	OH	Midwest	East North Central	Worse than today	27	27	66
-2016	Life for the next generation of Americans will be:	LIFE	OH	Midwest	East North Central	About the same	33	54	41
-2016	Did any campaign contact you?	GOTV16	OH	Midwest	East North Central	Only Clinton	15	87	12
-2016	Did any campaign contact you?	GOTV16	OH	Midwest	East North Central	Only Trump	11		
+2016	Local job market compared to four years ago:	JOBSIT	OH	Midwest	East North Central	About the same	36	32	61
+2016	Life for the next generation of Americans will be:	LIFE	OH	Midwest	East North Central	Better than today	35	49	47
+2016	Life for the next generation of Americans will be:	LIFE	OH	Midwest	East North Central	Worse than today	27	26	68
+2016	Life for the next generation of Americans will be:	LIFE	OH	Midwest	East North Central	About the same	33	54	42
+2016	Did any campaign contact you?	GOTV16	OH	Midwest	East North Central	Only Clinton	16	87	12
+2016	Did any campaign contact you?	GOTV16	OH	Midwest	East North Central	Only Trump	12		
 2016	Did any campaign contact you?	GOTV16	OH	Midwest	East North Central	Both	12		
-2016	Did any campaign contact you?	GOTV16	OH	Midwest	East North Central	Neither	58	40	55
-2016	Were you contacted by the Clinton campaign?	GOTVCLINTON	OH	Midwest	East North Central	Yes	28	67	31
-2016	Were you contacted by the Clinton campaign?	GOTVCLINTON	OH	Midwest	East North Central	No	69	36	59
-2016	Were you contacted by the Trump campaign?	GOTVTRUMP	OH	Midwest	East North Central	Yes	24	28	69
-2016	Were you contacted by the Trump campaign?	GOTVTRUMP	OH	Midwest	East North Central	No	74	50	46
+2016	Did any campaign contact you?	GOTV16	OH	Midwest	East North Central	Neither	57	39	56
+2016	Were you contacted by the Clinton campaign?	GOTVCLINTON	OH	Midwest	East North Central	Yes	28	66	32
+2016	Were you contacted by the Clinton campaign?	GOTVCLINTON	OH	Midwest	East North Central	No	69	35	61
+2016	Were you contacted by the Trump campaign?	GOTVTRUMP	OH	Midwest	East North Central	Yes	24	26	70
+2016	Were you contacted by the Trump campaign?	GOTVTRUMP	OH	Midwest	East North Central	No	73	49	46
 2016	Vote for president in a two-way race	2WAYPRES16	OH	Midwest	East North Central	Clinton	42	98	1
 2016	Vote for president in a two-way race	2WAYPRES16	OH	Midwest	East North Central	Trump	52	1	97
 2016	Vote for president in a two-way race	2WAYPRES16	OH	Midwest	East North Central	Would not vote	5		
-2016	Area type	SIZEPLC3	OH	Midwest	East North Central	Urban area	33	59	38
-2016	Area type	SIZEPLC3	OH	Midwest	East North Central	Suburban area	58	38	57
-2016	Area type	SIZEPLC3	OH	Midwest	East North Central	Rural area	9	27	70
-2016	Region	GEOCOD	OH	Midwest	East North Central	Cleveland Area	13	62	34
-2016	Region	GEOCOD	OH	Midwest	East North Central	North	26	41	55
-2016	Region	GEOCOD	OH	Midwest	East North Central	Ohio Valley / West	21	26	70
-2016	Region	GEOCOD	OH	Midwest	East North Central	Columbus Area	16	52	43
-2016	Region	GEOCOD	OH	Midwest	East North Central	Cincinnati / Dayton	24	46	49
+2016	Area type	SIZEPLC3	OH	Midwest	East North Central	Urban area	31	58	38
+2016	Area type	SIZEPLC3	OH	Midwest	East North Central	Suburban area	59	37	57
+2016	Area type	SIZEPLC3	OH	Midwest	East North Central	Rural area	9	27	69
+2016	Region	GEOCOD	OH	Midwest	East North Central	Cleveland Area	15	58	37
+2016	Region	GEOCOD	OH	Midwest	East North Central	North	25	42	52
+2016	Region	GEOCOD	OH	Midwest	East North Central	Ohio Valley / West	21	27	68
+2016	Region	GEOCOD	OH	Midwest	East North Central	Columbus Area	19	49	46
+2016	Region	GEOCOD	OH	Midwest	East North Central	Cincinnati / Dayton	20	43	52

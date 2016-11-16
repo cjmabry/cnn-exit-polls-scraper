@@ -178,7 +178,7 @@ def saveToCSV(response, state, year):
                     state_subregion = subregion
                     state_region = region
 
-        filename = 'data/general/' + str(year) + '/' + state + '.csv'
+        filename = 'data/exits/' + str(year) + '/' + state + '.csv'
         data = response.json()
         d = {}
 

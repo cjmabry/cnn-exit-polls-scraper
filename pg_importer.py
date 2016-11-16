@@ -6,7 +6,7 @@ import csv
 
 def main():
 
-    fileDir = './data/general'
+    fileDir = './data/exits'
     
     pgParams = {
         'dbname': 'abannin',
