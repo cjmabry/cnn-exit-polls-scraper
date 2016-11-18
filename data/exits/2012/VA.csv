@@ -1,0 +1,181 @@
+2012	Vote by Gender	SEX	VA	South	South Atlantic	Men	47	47	51
+2012	Vote by Gender	SEX	VA	South	South Atlantic	Women	53	54	45
+2012	Vote by Age	AGE	VA	South	South Atlantic	18-29	19	61	36
+2012	Vote by Age	AGE	VA	South	South Atlantic	30-44	27	54	45
+2012	Vote by Age	AGE	VA	South	South Atlantic	45-64	41	46	53
+2012	Vote by Age	AGE	VA	South	South Atlantic	65 and Older	14	46	54
+2012	Vote by Age	AGE65	VA	South	South Atlantic	18-24	10	59	38
+2012	Vote by Age	AGE65	VA	South	South Atlantic	25-29	9	63	34
+2012	Vote by Age	AGE65	VA	South	South Atlantic	30-39	17	55	43
+2012	Vote by Age	AGE65	VA	South	South Atlantic	40-49	21	50	49
+2012	Vote by Age	AGE65	VA	South	South Atlantic	50-64	29	45	54
+2012	Vote by Age	AGE65	VA	South	South Atlantic	65 and Older	14	46	54
+2012	Vote by Race	RACE	VA	South	South Atlantic	White	70	37	61
+2012	Vote by Race	RACE	VA	South	South Atlantic	African-American	20	93	6
+2012	Vote by Race	RACE	VA	South	South Atlantic	Latino	5	64	33
+2012	Vote by Race	RACE	VA	South	South Atlantic	Asian	3	66	32
+2012	Vote by Race	RACE	VA	South	South Atlantic	Other	2		
+2012	Vote by Gender and Race	SEXBYRACE	VA	South	South Atlantic	White Men	34	34	64
+2012	Vote by Gender and Race	SEXBYRACE	VA	South	South Atlantic	White Women	37	40	59
+2012	Vote by Gender and Race	SEXBYRACE	VA	South	South Atlantic	Black Men	8	91	9
+2012	Vote by Gender and Race	SEXBYRACE	VA	South	South Atlantic	Black Women	11	95	4
+2012	Vote by Gender and Race	SEXBYRACE	VA	South	South Atlantic	Latino Men	2		
+2012	Vote by Gender and Race	SEXBYRACE	VA	South	South Atlantic	Latino Women	2		
+2012	Vote by Gender and Race	SEXBYRACE	VA	South	South Atlantic	All Others	5	63	36
+2012	Vote by Ideology	PHIL3	VA	South	South Atlantic	Liberal	24	92	7
+2012	Vote by Ideology	PHIL3	VA	South	South Atlantic	Moderate	45	56	42
+2012	Vote by Ideology	PHIL3	VA	South	South Atlantic	Conservative	31	11	87
+2012	Vote by Party ID	PARTY	VA	South	South Atlantic	Democratic	39	94	6
+2012	Vote by Party ID	PARTY	VA	South	South Atlantic	Republican	32	5	94
+2012	Vote by Party ID	PARTY	VA	South	South Atlantic	Independent	29	43	54
+2012	Vote by Education	EDUC10	VA	South	South Atlantic	No High School	2		
+2012	Vote by Education	EDUC10	VA	South	South Atlantic	High School Graduate	18	49	50
+2012	Vote by Education	EDUC10	VA	South	South Atlantic	Some College	25	47	51
+2012	Vote by Education	EDUC10	VA	South	South Atlantic	College Graduate	30	48	50
+2012	Vote by Education	EDUC10	VA	South	South Atlantic	Postgraduate	24	57	42
+2012	Are You a College Graduate?	EDUCCOLL	VA	South	South Atlantic	Yes	54	52	46
+2012	Are You a College Graduate?	EDUCCOLL	VA	South	South Atlantic	No	46	49	50
+2012	Did You Attend College?	EDUCHS	VA	South	South Atlantic	Yes	79	51	48
+2012	Did You Attend College?	EDUCHS	VA	South	South Atlantic	No	21	50	49
+2012	Vote by Income	INCOME3	VA	South	South Atlantic	Less Than $50K	35	60	38
+2012	Vote by Income	INCOME3	VA	South	South Atlantic	$50-100K	30	46	53
+2012	Vote by Income	INCOME3	VA	South	South Atlantic	$100K or More	34	47	51
+2012	Vote by Income	INC50K	VA	South	South Atlantic	Less Than $50K	35	60	38
+2012	Vote by Income	INC50K	VA	South	South Atlantic	$50K or More	65	47	52
+2012	Vote by Income	INC100K	VA	South	South Atlantic	Less Than $100K	66	54	45
+2012	Vote by Income	INC100K	VA	South	South Atlantic	$100K or More	34	47	51
+2012	How Often Do You Attend Religious Services?	ATTEND	VA	South	South Atlantic	More Than Weekly	16	48	52
+2012	How Often Do You Attend Religious Services?	ATTEND	VA	South	South Atlantic	Weekly	27	50	50
+2012	How Often Do You Attend Religious Services?	ATTEND	VA	South	South Atlantic	Monthly	13	58	41
+2012	How Often Do You Attend Religious Services?	ATTEND	VA	South	South Atlantic	Few Times a Year	25	53	47
+2012	How Often Do You Attend Religious Services?	ATTEND	VA	South	South Atlantic	Never	17	64	36
+2012	How Often Do You Attend Religious Services?	ATTEND2	VA	South	South Atlantic	Weekly	43	49	51
+2012	How Often Do You Attend Religious Services?	ATTEND2	VA	South	South Atlantic	Occasionally	38	55	45
+2012	How Often Do You Attend Religious Services?	ATTEND2	VA	South	South Atlantic	Never	17	64	36
+2012	Vote by Religion	REL5	VA	South	South Atlantic	Protestant	61	45	54
+2012	Vote by Religion	REL5	VA	South	South Atlantic	Catholic	15	45	55
+2012	Vote by Religion	REL5	VA	South	South Atlantic	Jewish	3		
+2012	Vote by Religion	REL5	VA	South	South Atlantic	Other	12	78	22
+2012	Vote by Religion	REL5	VA	South	South Atlantic	None	10	76	22
+2012	Vote by Religion and Race	WHITEREL	VA	South	South Atlantic	White Protestant	43	27	72
+2012	Vote by Religion and Race	WHITEREL	VA	South	South Atlantic	White Catholic	11	35	65
+2012	Vote by Religion and Race	WHITEREL	VA	South	South Atlantic	White Jewish	2		
+2012	Vote by Religion and Race	WHITEREL	VA	South	South Atlantic	Whites/Other Religion	7		
+2012	Vote by Religion and Race	WHITEREL	VA	South	South Atlantic	Whites/No Religion	7		
+2012	Vote by Religion and Race	WHITEREL	VA	South	South Atlantic	Non-white	30	88	12
+2012	Vote by Religion and Church Attendance	ATTREL	VA	South	South Atlantic	Protestant/Attend Weekly	15	34	66
+2012	Vote by Religion and Church Attendance	ATTREL	VA	South	South Atlantic	Protestant/Not Weekly 	16	36	63
+2012	Vote by Religion and Church Attendance	ATTREL	VA	South	South Atlantic	Catholic/Attend Weekly	7		
+2012	Vote by Religion and Church Attendance	ATTREL	VA	South	South Atlantic	Catholic/Not Weekly	8		
+2012	Vote by Religion and Church Attendance	ATTREL	VA	South	South Atlantic	All Others	54	66	34
+2012	Are You White Born-Again Christian?	WHTEVANG	VA	South	South Atlantic	Yes	23	17	83
+2012	Are You White Born-Again Christian?	WHTEVANG	VA	South	South Atlantic	No	77	64	35
+2012	Abortion Should Be...	ABORTION	VA	South	South Atlantic	Always Legal	31	85	14
+2012	Abortion Should Be...	ABORTION	VA	South	South Atlantic	Mostly Legal	31	56	44
+2012	Abortion Should Be...	ABORTION	VA	South	South Atlantic	Mostly Illegal	22	23	77
+2012	Abortion Should Be...	ABORTION	VA	South	South Atlantic	Always Illegal	10		
+2012	Abortion Should Be...	ABORT2	VA	South	South Atlantic	Legal	63	70	29
+2012	Abortion Should Be...	ABORT2	VA	South	South Atlantic	Illegal	33	21	79
+2012	Most Important Issue Facing Country	ISSUE12	VA	South	South Atlantic	Foreign Policy	4		
+2012	Most Important Issue Facing Country	ISSUE12	VA	South	South Atlantic	Deficit	14	28	69
+2012	Most Important Issue Facing Country	ISSUE12	VA	South	South Atlantic	Economy	62	46	52
+2012	Most Important Issue Facing Country	ISSUE12	VA	South	South Atlantic	Health Care	17	78	22
+2012	Most Important Candidate Quality	QLT12	VA	South	South Atlantic	Shares My Values	27	38	60
+2012	Most Important Candidate Quality	QLT12	VA	South	South Atlantic	Strong Leader	18	37	61
+2012	Most Important Candidate Quality	QLT12	VA	South	South Atlantic	Cares About People	22	82	17
+2012	Most Important Candidate Quality	QLT12	VA	South	South Atlantic	Vision for Future	30	44	54
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	VA	South	South Atlantic	Housing Market	8		
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	VA	South	South Atlantic	Unemployment	45	54	45
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	VA	South	South Atlantic	Taxes	16	38	61
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	VA	South	South Atlantic	Rising Prices	28	51	47
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	VA	South	South Atlantic	Expanded	32	91	7
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	VA	South	South Atlantic	Kept As Is	15	83	17
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	VA	South	South Atlantic	Repealed In Part	26	21	76
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	VA	South	South Atlantic	Repealed Completely	23	3	94
+2012	Should 2010 Health Care Law Be Repealed?	HEALTHCARE12B	VA	South	South Atlantic	No	47	89	10
+2012	Should 2010 Health Care Law Be Repealed?	HEALTHCARE12B	VA	South	South Atlantic	Yes	48	13	85
+2012	Income Tax Rates Should Be...	TAXINC12	VA	South	South Atlantic	Increased For All	12	55	45
+2012	Income Tax Rates Should Be...	TAXINC12	VA	South	South Atlantic	Increased for $250K+	51	76	23
+2012	Income Tax Rates Should Be...	TAXINC12	VA	South	South Atlantic	Not Increased	34	18	81
+2012	Who Is More In Touch With People Like You?	INTOUCH12	VA	South	South Atlantic	Obama	52	94	5
+2012	Who Is More In Touch With People Like You?	INTOUCH12	VA	South	South Atlantic	Romney	46	2	97
+2012	Who Would Better Handle Economy?	HANDLEECON12	VA	South	South Atlantic	Obama	48	98	1
+2012	Who Would Better Handle Economy?	HANDLEECON12	VA	South	South Atlantic	Romney	49	3	95
+2012	Who Would Better Handle Medicare?	HANDLEMED12	VA	South	South Atlantic	Obama	54	96	4
+2012	Who Would Better Handle Medicare?	HANDLEMED12	VA	South	South Atlantic	Romney	44	2	98
+2012	Opinion of Government	GOVTDO10	VA	South	South Atlantic	Government Should Do More	45	83	16
+2012	Opinion of Government	GOVTDO10	VA	South	South Atlantic	Government Doing Too Much	51	19	78
+2012	National Economic Conditions	NEC	VA	South	South Atlantic	Excellent	3		
+2012	National Economic Conditions	NEC	VA	South	South Atlantic	Good	27	92	6
+2012	National Economic Conditions	NEC	VA	South	South Atlantic	Not So Good	43	48	51
+2012	National Economic Conditions	NEC	VA	South	South Atlantic	Poor	27	6	92
+2012	National Economic Conditions	NEC2	VA	South	South Atlantic	Excellent/Good	30	92	6
+2012	National Economic Conditions	NEC2	VA	South	South Atlantic	Not So Good/Poor	69	32	66
+2012	U.S. Economic Conditions Are...	ECONBETT	VA	South	South Atlantic	Getting Better	43	92	7
+2012	U.S. Economic Conditions Are...	ECONBETT	VA	South	South Atlantic	Getting Worse	33	4	94
+2012	U.S. Economic Conditions Are...	ECONBETT	VA	South	South Atlantic	Staying About the Same	22	36	62
+2012	U.S. Economic Conditions Are...	ECONDIR	VA	South	South Atlantic	Getting Better	43	92	7
+2012	U.S. Economic Conditions Are...	ECONDIR	VA	South	South Atlantic	Good and Staying the Same	2		
+2012	U.S. Economic Conditions Are...	ECONDIR	VA	South	South Atlantic	Poor and Staying the Same	20	28	70
+2012	U.S. Economic Conditions Are...	ECONDIR	VA	South	South Atlantic	Getting Worse	33	4	94
+2012	Your Family's Financial Situation	FINSIT	VA	South	South Atlantic	Better	28	85	13
+2012	Your Family's Financial Situation	FINSIT	VA	South	South Atlantic	Worse	35	8	90
+2012	Your Family's Financial Situation	FINSIT	VA	South	South Atlantic	Same	35	63	35
+2012	More to Blame for Current Economic Problems?	ECONBLAME12	VA	South	South Atlantic	Barack Obama	43	8	90
+2012	More to Blame for Current Economic Problems?	ECONBLAME12	VA	South	South Atlantic	George W. Bush	51	86	12
+2012	Opinion of Obama Administration	OBAMANG	VA	South	South Atlantic	Enthusiastic	33	97	3
+2012	Opinion of Obama Administration	OBAMANG	VA	South	South Atlantic	Satisfied	19	96	4
+2012	Opinion of Obama Administration	OBAMANG	VA	South	South Atlantic	Dissatisfied	25	7	92
+2012	Opinion of Obama Administration	OBAMANG	VA	South	South Atlantic	Angry	21	1	98
+2012	Opinion of Obama Administration	OBAMANG2	VA	South	South Atlantic	Enthusiastic/Satisfied	52	96	3
+2012	Opinion of Obama Administration	OBAMANG2	VA	South	South Atlantic	Dissatisfied/Angry	47	5	95
+2012	Opinion of Barack Obama	FAVOBAMA2	VA	South	South Atlantic	Favorable	51	93	6
+2012	Opinion of Barack Obama	FAVOBAMA2	VA	South	South Atlantic	Unfavorable	47	2	95
+2012	Opinion of Mitt Romney	FAVROMN2	VA	South	South Atlantic	Favorable	48	7	93
+2012	Opinion of Mitt Romney	FAVROMN2	VA	South	South Atlantic	Unfavorable	49	91	5
+2012	Do Obama Policies Generally Favor...	OBAMARICH	VA	South	South Atlantic	Rich	10		
+2012	Do Obama Policies Generally Favor...	OBAMARICH	VA	South	South Atlantic	Middle Class	46	90	9
+2012	Do Obama Policies Generally Favor...	OBAMARICH	VA	South	South Atlantic	Poor	34	17	82
+2012	Would Romney Policies Generally Favor...	ROMNRICH	VA	South	South Atlantic	Rich	53	91	8
+2012	Would Romney Policies Generally Favor...	ROMNRICH	VA	South	South Atlantic	Middle Class	39	5	94
+2012	Would Romney Policies Generally Favor...	ROMNRICH	VA	South	South Atlantic	Poor	2		
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	VA	South	South Atlantic	Strongly Favor	74	55	44
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	VA	South	South Atlantic	Have Reservations	20	38	61
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	VA	South	South Atlantic	Dislike Opponent	6		
+2012	When Did You Decide Presidential Vote?	TIME12	VA	South	South Atlantic	Just Today	4		
+2012	When Did You Decide Presidential Vote?	TIME12	VA	South	South Atlantic	Last Few Days	6		
+2012	When Did You Decide Presidential Vote?	TIME12	VA	South	South Atlantic	In October	5		
+2012	When Did You Decide Presidential Vote?	TIME12	VA	South	South Atlantic	In September	6		
+2012	When Did You Decide Presidential Vote?	TIME12	VA	South	South Atlantic	Before That	78	54	45
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	VA	South	South Atlantic	Today/Last Few Days	11	41	56
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	VA	South	South Atlantic	Before That	89	51	47
+2012	When Did You Decide Presidential Vote?	TIME12MTH	VA	South	South Atlantic	In October or November	15	40	58
+2012	When Did You Decide Presidential Vote?	TIME12MTH	VA	South	South Atlantic	Before That	84	52	46
+2012	Vote by Marital Status	MARRIED	VA	South	South Atlantic	Married	62	44	55
+2012	Vote by Marital Status	MARRIED	VA	South	South Atlantic	Unmarried	38	61	37
+2012	Vote by Gender and Marital Status	SEXWED	VA	South	South Atlantic	Married Men	30	41	57
+2012	Vote by Gender and Marital Status	SEXWED	VA	South	South Atlantic	Married Women	32	46	53
+2012	Vote by Gender and Marital Status	SEXWED	VA	South	South Atlantic	Unmarried Men	17	57	41
+2012	Vote by Gender and Marital Status	SEXWED	VA	South	South Atlantic	Unmarried Women	22	64	35
+2012	Any Children Under 18 Living in Your Home?	CHILD12	VA	South	South Atlantic	Yes	39	49	50
+2012	Any Children Under 18 Living in Your Home?	CHILD12	VA	South	South Atlantic	No	61	50	48
+2012	Vote by Marital Status and Children	MARCHILD	VA	South	South Atlantic	Married With Children	30	42	56
+2012	Vote by Marital Status and Children	MARCHILD	VA	South	South Atlantic	All Others	70	52	45
+2012	Vote by Gender and Children in Household	PARENTS	VA	South	South Atlantic	Fathers	17	50	49
+2012	Vote by Gender and Children in Household	PARENTS	VA	South	South Atlantic	Mothers	22	49	50
+2012	Vote by Gender and Children in Household	PARENTS	VA	South	South Atlantic	Men With No Children	28	43	54
+2012	Vote by Gender and Children in Household	PARENTS	VA	South	South Atlantic	Women With No Children	33	55	43
+2012	Anyone in Household Work for Federal Government?	GOVTHH	VA	South	South Atlantic	Yes	18	54	46
+2012	Anyone in Household Work for Federal Government?	GOVTHH	VA	South	South Atlantic	No	81	49	49
+2012	Have You Ever Served in U.S. Military?	VETVOTER	VA	South	South Atlantic	Yes	15	49	49
+2012	Have You Ever Served in U.S. Military?	VETVOTER	VA	South	South Atlantic	No	85	50	48
+2012	Vote for Senate	SENVA12	VA	South	South Atlantic	Kaine	52	93	6
+2012	Vote for Senate	SENVA12	VA	South	South Atlantic	Allen	48	5	94
+2012	Vote by Size of Place	SIZEPLC3	VA	South	South Atlantic	Urban	22	64	35
+2012	Vote by Size of Place	SIZEPLC3	VA	South	South Atlantic	Suburban	50	49	50
+2012	Vote by Size of Place	SIZEPLC3	VA	South	South Atlantic	Rural	28	45	54
+2012	Vote by Region	GEOCOD	VA	South	South Atlantic	D.C. Suburbs	18	63	36
+2012	Vote by Region	GEOCOD	VA	South	South Atlantic	Nothern Virginia Exurbs	16	49	50
+2012	Vote by Region	GEOCOD	VA	South	South Atlantic	Central/Western Virginia	22	38	61
+2012	Vote by Region	GEOCOD	VA	South	South Atlantic	Richmond Area/Eastern Va.	25	51	48
+2012	Vote by Region	GEOCOD	VA	South	South Atlantic	Tidewater Area	18	56	42

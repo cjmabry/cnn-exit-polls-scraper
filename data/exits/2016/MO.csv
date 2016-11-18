@@ -1,0 +1,167 @@
+2016	Gender	SEX	MO	Midwest	West North Central	Male	47	32	62
+2016	Gender	SEX	MO	Midwest	West North Central	Female	53	43	53
+2016	Age	AGE	MO	Midwest	West North Central	18-29	18	40	51
+2016	Age	AGE	MO	Midwest	West North Central	30-44	24	44	48
+2016	Age	AGE	MO	Midwest	West North Central	45-64	40	34	63
+2016	Age	AGE	MO	Midwest	West North Central	65 and older	17	36	62
+2016	Age	AGE65	MO	Midwest	West North Central	18-24	10	35	57
+2016	Age	AGE65	MO	Midwest	West North Central	25-29	8	48	43
+2016	Age	AGE65	MO	Midwest	West North Central	30-39	16	47	44
+2016	Age	AGE65	MO	Midwest	West North Central	40-49	18	35	60
+2016	Age	AGE65	MO	Midwest	West North Central	50-64	31	35	63
+2016	Age	AGE65	MO	Midwest	West North Central	65 and older	17	36	62
+2016	Age	AGE45	MO	Midwest	West North Central	18-44	43	42	49
+2016	Age	AGE45	MO	Midwest	West North Central	45 and older	57	35	63
+2016	Race	RACE	MO	Midwest	West North Central	White	79	28	66
+2016	Race	RACE	MO	Midwest	West North Central	Black	14	90	8
+2016	Race	RACE	MO	Midwest	West North Central	Latino	4		
+2016	Race	RACE	MO	Midwest	West North Central	Asian	1		
+2016	Race	RACE	MO	Midwest	West North Central	Other race	3		
+2016	Race	RACE2B	MO	Midwest	West North Central	White	79	28	66
+2016	Race	RACE2B	MO	Midwest	West North Central	Non-white	21	75	22
+2016	Race and gender	SEXBYRACE	MO	Midwest	West North Central	White men	36	22	72
+2016	Race and gender	SEXBYRACE	MO	Midwest	West North Central	White women	43	34	61
+2016	Race and gender	SEXBYRACE	MO	Midwest	West North Central	Black men	6	87	10
+2016	Race and gender	SEXBYRACE	MO	Midwest	West North Central	Black women	7	92	6
+2016	Race and gender	SEXBYRACE	MO	Midwest	West North Central	Latino men	2		
+2016	Race and gender	SEXBYRACE	MO	Midwest	West North Central	Latino women	2		
+2016	Race and gender	SEXBYRACE	MO	Midwest	West North Central	Others	4		
+2016	Education	EDUC12R	MO	Midwest	West North Central	High school or less	20	35	62
+2016	Education	EDUC12R	MO	Midwest	West North Central	Some college	34	38	57
+2016	Education	EDUC12R	MO	Midwest	West North Central	College graduate	29	38	56
+2016	Education	EDUC12R	MO	Midwest	West North Central	Postgraduate	17	42	53
+2016	Are you a college graduate?	EDUCCOLL	MO	Midwest	West North Central	Yes	46	39	55
+2016	Are you a college graduate?	EDUCCOLL	MO	Midwest	West North Central	No	54	37	59
+2016	Education and race	EDUCWHITE	MO	Midwest	West North Central	White college graduates	38	32	61
+2016	Education and race	EDUCWHITE	MO	Midwest	West North Central	Whites no degree	42	25	71
+2016	Education and race	EDUCWHITE	MO	Midwest	West North Central	Non-whites college grads	8	69	27
+2016	Education and race	EDUCWHITE	MO	Midwest	West North Central	Non-whites no degree	13	78	19
+2016	Education among whites by sex	EDUCWHITEBYSEX	MO	Midwest	West North Central	White college-grad women	22	39	57
+2016	Education among whites by sex	EDUCWHITEBYSEX	MO	Midwest	West North Central	White non-college women	21	29	66
+2016	Education among whites by sex	EDUCWHITEBYSEX	MO	Midwest	West North Central	White college-grad men	16	23	68
+2016	Education among whites by sex	EDUCWHITEBYSEX	MO	Midwest	West North Central	White non-college men	20	20	76
+2016	Education among whites by sex	EDUCWHITEBYSEX	MO	Midwest	West North Central	Non-whites	21	75	22
+2016	Income	INCOME16GEN	MO	Midwest	West North Central	Under $30,000	17	47	48
+2016	Income	INCOME16GEN	MO	Midwest	West North Central	$30K-$49,999	22	45	49
+2016	Income	INCOME16GEN	MO	Midwest	West North Central	$50K-$99,999	31	34	59
+2016	Income	INCOME16GEN	MO	Midwest	West North Central	$100K-$199,999	24	32	64
+2016	Income	INCOME16GEN	MO	Midwest	West North Central	$200K-$249,999	3		
+2016	Income	INCOME16GEN	MO	Midwest	West North Central	$250,000 or more	3		
+2016	Income	INCOME3	MO	Midwest	West North Central	Under $50K	39	46	48
+2016	Income	INCOME3	MO	Midwest	West North Central	$50K-$100K	31	34	59
+2016	Income	INCOME3	MO	Midwest	West North Central	$100K or more	30	30	66
+2016	Income	INC50K	MO	Midwest	West North Central	Under $50K	39	46	48
+2016	Income	INC50K	MO	Midwest	West North Central	$50K or more	61	32	62
+2016	Income	INC100K	MO	Midwest	West North Central	Under $100K	70	41	53
+2016	Income	INC100K	MO	Midwest	West North Central	$100K or more	30	30	66
+2016	Party ID	PARTY	MO	Midwest	West North Central	Democrats	34	84	13
+2016	Party ID	PARTY	MO	Midwest	West North Central	Republicans	39	5	92
+2016	Party ID	PARTY	MO	Midwest	West North Central	Independents	27	28	61
+2016	Party by gender	PARTYGENDER	MO	Midwest	West North Central	Democratic men	13	83	14
+2016	Party by gender	PARTYGENDER	MO	Midwest	West North Central	Democratic women	21	84	13
+2016	Party by gender	PARTYGENDER	MO	Midwest	West North Central	Republican men	19	4	94
+2016	Party by gender	PARTYGENDER	MO	Midwest	West North Central	Republican women	20	6	90
+2016	Party by gender	PARTYGENDER	MO	Midwest	West North Central	Independent men	15	24	62
+2016	Party by gender	PARTYGENDER	MO	Midwest	West North Central	Independent women	12	33	59
+2016	Ideology	PHIL3	MO	Midwest	West North Central	Liberal	20	80	14
+2016	Ideology	PHIL3	MO	Midwest	West North Central	Moderate	38	48	45
+2016	Ideology	PHIL3	MO	Midwest	West North Central	Conservative	41	8	89
+2016	White born-again or evangelical Christian?	WHTEVANG	MO	Midwest	West North Central	Yes	35	14	83
+2016	White born-again or evangelical Christian?	WHTEVANG	MO	Midwest	West North Central	No	65	50	44
+2016	Marital status	MARRIED	MO	Midwest	West North Central	Married	60	31	64
+2016	Marital status	MARRIED	MO	Midwest	West North Central	Unmarried	40	47	49
+2016	Marital status by gender	SEXWED	MO	Midwest	West North Central	Married men	32	27	69
+2016	Marital status by gender	SEXWED	MO	Midwest	West North Central	Married women	28	36	59
+2016	Marital status by gender	SEXWED	MO	Midwest	West North Central	Unmarried men	16	42	53
+2016	Marital status by gender	SEXWED	MO	Midwest	West North Central	Unmarried women	24	51	46
+2016	When did you decide presidential vote?	TIME16	MO	Midwest	West North Central	Last few days	10		
+2016	When did you decide presidential vote?	TIME16	MO	Midwest	West North Central	Last week	6		
+2016	When did you decide presidential vote?	TIME16	MO	Midwest	West North Central	In October	14	41	51
+2016	When did you decide presidential vote?	TIME16	MO	Midwest	West North Central	In September	9		
+2016	When did you decide presidential vote?	TIME16	MO	Midwest	West North Central	Before September	61	40	58
+2016	When did you decide presidential vote?	TIME16WEEK	MO	Midwest	West North Central	In the last week	15	32	53
+2016	When did you decide presidential vote?	TIME16WEEK	MO	Midwest	West North Central	Before that	84	39	58
+2016	When did you decide presidential vote?	TIME16MONTH	MO	Midwest	West North Central	In the last month	29	36	52
+2016	When did you decide presidential vote?	TIME16MONTH	MO	Midwest	West North Central	Before that	70	38	59
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	MO	Midwest	West North Central	Strongly favor 	49	42	55
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	MO	Midwest	West North Central	Have reservations	31	40	58
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	MO	Midwest	West North Central	Dislike opponents	19	25	61
+2016	Most important issue facing the country	ISSUE16	MO	Midwest	West North Central	Foreign policy	9		
+2016	Most important issue facing the country	ISSUE16	MO	Midwest	West North Central	Immigration	14	14	78
+2016	Most important issue facing the country	ISSUE16	MO	Midwest	West North Central	Economy	56	43	50
+2016	Most important issue facing the country	ISSUE16	MO	Midwest	West North Central	Terrorism	19	35	63
+2016	Which candidate quality mattered most?	QLT16	MO	Midwest	West North Central	Cares about me	16	60	37
+2016	Which candidate quality mattered most?	QLT16	MO	Midwest	West North Central	Can bring change	54	14	82
+2016	Which candidate quality mattered most?	QLT16	MO	Midwest	West North Central	Right experience	12	92	6
+2016	Which candidate quality mattered most?	QLT16	MO	Midwest	West North Central	Good judgment	16	55	29
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	MO	Midwest	West North Central	Offered legal status	62	56	39
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	MO	Midwest	West North Central	Deported to home country	35	10	88
+2016	How do things work in the U.S. today?	RACEFACTOR	MO	Midwest	West North Central	Whites are favored	34	76	20
+2016	How do things work in the U.S. today?	RACEFACTOR	MO	Midwest	West North Central	Minorities are favored	32	9	89
+2016	How do things work in the U.S. today?	RACEFACTOR	MO	Midwest	West North Central	No group is favored	32	27	67
+2016	Does the country's criminal justice system:	FAIRJUSTICE	MO	Midwest	West North Central	Treat all fairly	51	17	80
+2016	Does the country's criminal justice system:	FAIRJUSTICE	MO	Midwest	West North Central	Treat blacks unfairly	41	68	27
+2016	Feelings about the federal government	GOVTANGR16	MO	Midwest	West North Central	Enthusiastic	3		
+2016	Feelings about the federal government	GOVTANGR16	MO	Midwest	West North Central	Satisfied	24	71	24
+2016	Feelings about the federal government	GOVTANGR16	MO	Midwest	West North Central	Dissatisfied	46	33	62
+2016	Feelings about the federal government	GOVTANGR16	MO	Midwest	West North Central	Angry	25	9	86
+2016	Feelings about the federal government	GOVTANGR16B	MO	Midwest	West North Central	Enthusiastic/Satisfied	27	72	24
+2016	Feelings about the federal government	GOVTANGR16B	MO	Midwest	West North Central	Dissatisfied/Angry	71	24	70
+2016	Opinion of Barack Obama as president	OBAMA4	MO	Midwest	West North Central	Strongly approve	25	93	4
+2016	Opinion of Barack Obama as president	OBAMA4	MO	Midwest	West North Central	Somewhat approve	16	64	25
+2016	Opinion of Barack Obama as president	OBAMA4	MO	Midwest	West North Central	Somewhat disapprove	15	19	72
+2016	Opinion of Barack Obama as president	OBAMA4	MO	Midwest	West North Central	Strongly disapprove	43	2	95
+2016	Opinion of Barack Obama as president	OBAMA2	MO	Midwest	West North Central	Approve	41	82	12
+2016	Opinion of Barack Obama as president	OBAMA2	MO	Midwest	West North Central	Disapprove	58	7	89
+2016	Opinion of Hillary Clinton	FAVHCLIN16	MO	Midwest	West North Central	Favorable	34	95	3
+2016	Opinion of Hillary Clinton	FAVHCLIN16	MO	Midwest	West North Central	Unfavorable	65	7	86
+2016	Opinion of Donald Trump	FAVTRUMP	MO	Midwest	West North Central	Favorable	46	2	98
+2016	Opinion of Donald Trump	FAVTRUMP	MO	Midwest	West North Central	Unfavorable	53	68	22
+2016	Opinion of Clinton and Trump	FAVPRES16	MO	Midwest	West North Central	Both favorable	1		
+2016	Opinion of Clinton and Trump	FAVPRES16	MO	Midwest	West North Central	Only Clinton favorable	33	97	1
+2016	Opinion of Clinton and Trump	FAVPRES16	MO	Midwest	West North Central	Only Trump favorable	44	1	99
+2016	Opinion of Clinton and Trump	FAVPRES16	MO	Midwest	West North Central	Both unfavorable	20	22	57
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	MO	Midwest	West North Central	Yes	28	96	3
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	MO	Midwest	West North Central	No	71	14	80
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	MO	Midwest	West North Central	Yes	42	4	96
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	MO	Midwest	West North Central	No	56	63	30
+2016	Which candidate is honest?	HONEST16	MO	Midwest	West North Central	Both are	2		
+2016	Which candidate is honest?	HONEST16	MO	Midwest	West North Central	Only Clinton is	26	98	2
+2016	Which candidate is honest?	HONEST16	MO	Midwest	West North Central	Only Trump is	40	1	99
+2016	Which candidate is honest?	HONEST16	MO	Midwest	West North Central	Neither is	30	32	54
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	MO	Midwest	West North Central	Yes	43	83	12
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	MO	Midwest	West North Central	No	56	3	92
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	MO	Midwest	West North Central	Yes	42	3	96
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	MO	Midwest	West North Central	No	56	64	28
+2016	Which candidate has the right temperament?	TEMPERAMENT16	MO	Midwest	West North Central	Both do	4		
+2016	Which candidate has the right temperament?	TEMPERAMENT16	MO	Midwest	West North Central	Only Clinton does	38	91	5
+2016	Which candidate has the right temperament?	TEMPERAMENT16	MO	Midwest	West North Central	Only Trump does	38	2	98
+2016	Which candidate has the right temperament?	TEMPERAMENT16	MO	Midwest	West North Central	Neither does	18	6	78
+2016	Is Clinton qualified to serve as president?	QUALCLINTON	MO	Midwest	West North Central	Yes	42	85	11
+2016	Is Clinton qualified to serve as president?	QUALCLINTON	MO	Midwest	West North Central	No	56	3	91
+2016	Is Trump qualified to serve as president?	QUALTRUMP	MO	Midwest	West North Central	Yes	46	1	98
+2016	Is Trump qualified to serve as president?	QUALTRUMP	MO	Midwest	West North Central	No	53	71	20
+2016	Who is qualified to serve as president?	QUALIFIED16	MO	Midwest	West North Central	Both are	4		
+2016	Who is qualified to serve as president?	QUALIFIED16	MO	Midwest	West North Central	Only Clinton is	38	94	3
+2016	Who is qualified to serve as president?	QUALIFIED16	MO	Midwest	West North Central	Only Trump is	42	1	99
+2016	Who is qualified to serve as president?	QUALIFIED16	MO	Midwest	West North Central	Neither is	14	11	67
+2016	Condition of national economy	NEC	MO	Midwest	West North Central	Excellent	4		
+2016	Condition of national economy	NEC	MO	Midwest	West North Central	Good	32	73	22
+2016	Condition of national economy	NEC	MO	Midwest	West North Central	Not good	44	22	72
+2016	Condition of national economy	NEC	MO	Midwest	West North Central	Poor	19	4	92
+2016	Condition of national economy	NEC2	MO	Midwest	West North Central	Good	36	75	21
+2016	Condition of national economy	NEC2	MO	Midwest	West North Central	Poor	63	16	78
+2016	Life for the next generation of Americans will be:	LIFE	MO	Midwest	West North Central	Better than today	38	52	45
+2016	Life for the next generation of Americans will be:	LIFE	MO	Midwest	West North Central	Worse than today	32	15	77
+2016	Life for the next generation of Americans will be:	LIFE	MO	Midwest	West North Central	About the same	26	48	47
+2016	Vote for president in a two-way race	2WAYPRES16	MO	Midwest	West North Central	Clinton	39	96	2
+2016	Vote for president in a two-way race	2WAYPRES16	MO	Midwest	West North Central	Trump	57	1	98
+2016	Vote for president in a two-way race	2WAYPRES16	MO	Midwest	West North Central	Would not vote	3		
+2016	Area type	SIZEPLC3	MO	Midwest	West North Central	Urban area	34	54	41
+2016	Area type	SIZEPLC3	MO	Midwest	West North Central	Suburban area	44	32	63
+2016	Area type	SIZEPLC3	MO	Midwest	West North Central	Rural area	22	26	69
+2016	Region	GEOCOD	MO	Midwest	West North Central	St. Louis Area	23	62	34
+2016	Region	GEOCOD	MO	Midwest	West North Central	E. Central	16	30	65
+2016	Region	GEOCOD	MO	Midwest	West North Central	Kansas City Area	19	48	46
+2016	Region	GEOCOD	MO	Midwest	West North Central	North	15	30	65
+2016	Region	GEOCOD	MO	Midwest	West North Central	South	28	21	74

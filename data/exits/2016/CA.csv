@@ -1,0 +1,263 @@
+2016	Gender	SEX	CA	West	Mountain	Male	49	57	36
+2016	Gender	SEX	CA	West	Mountain	Female	51	66	30
+2016	Age	AGE	CA	West	Mountain	18-29	20	66	23
+2016	Age	AGE	CA	West	Mountain	30-44	24	67	27
+2016	Age	AGE	CA	West	Mountain	45-64	38	57	39
+2016	Age	AGE	CA	West	Mountain	65 and older	18	61	36
+2016	Age	AGE65	CA	West	Mountain	18-24	11	67	18
+2016	Age	AGE65	CA	West	Mountain	25-29	9	64	29
+2016	Age	AGE65	CA	West	Mountain	30-39	16	70	23
+2016	Age	AGE65	CA	West	Mountain	40-49	18	60	36
+2016	Age	AGE65	CA	West	Mountain	50-64	28	57	40
+2016	Age	AGE65	CA	West	Mountain	65 and older	18	61	36
+2016	Age	AGE45	CA	West	Mountain	18-44	44	67	25
+2016	Age	AGE45	CA	West	Mountain	45 and older	56	58	38
+2016	Race	RACE	CA	West	Mountain	White	48	50	45
+2016	Race	RACE	CA	West	Mountain	Black	6	88	9
+2016	Race	RACE	CA	West	Mountain	Latino	31	71	24
+2016	Race	RACE	CA	West	Mountain	Asian	12	70	17
+2016	Race	RACE	CA	West	Mountain	Other race	3		
+2016	Race	RACE2B	CA	West	Mountain	White	48	50	45
+2016	Race	RACE2B	CA	West	Mountain	Non-white	52	73	21
+2016	Race and gender	SEXBYRACE	CA	West	Mountain	White men	23	43	50
+2016	Race and gender	SEXBYRACE	CA	West	Mountain	White women	25	57	40
+2016	Race and gender	SEXBYRACE	CA	West	Mountain	Black men	3		
+2016	Race and gender	SEXBYRACE	CA	West	Mountain	Black women	3		
+2016	Race and gender	SEXBYRACE	CA	West	Mountain	Latino men	13	68	27
+2016	Race and gender	SEXBYRACE	CA	West	Mountain	Latino women	18	73	22
+2016	Race and gender	SEXBYRACE	CA	West	Mountain	Others	15	70	20
+2016	Education	EDUC12R	CA	West	Mountain	High school or less	15	61	31
+2016	Education	EDUC12R	CA	West	Mountain	Some college	31	56	39
+2016	Education	EDUC12R	CA	West	Mountain	College graduate	35	63	32
+2016	Education	EDUC12R	CA	West	Mountain	Postgraduate	19	67	27
+2016	Are you a college graduate?	EDUCCOLL	CA	West	Mountain	Yes	54	65	30
+2016	Are you a college graduate?	EDUCCOLL	CA	West	Mountain	No	46	57	36
+2016	Education and race	EDUCWHITE	CA	West	Mountain	White college graduates	29	59	35
+2016	Education and race	EDUCWHITE	CA	West	Mountain	Whites no degree	19	36	59
+2016	Education and race	EDUCWHITE	CA	West	Mountain	Non-whites college grads	25	72	23
+2016	Education and race	EDUCWHITE	CA	West	Mountain	Non-whites no degree	27	73	20
+2016	Education among whites by sex	EDUCWHITEBYSEX	CA	West	Mountain	White college-grad women	15	67	30
+2016	Education among whites by sex	EDUCWHITEBYSEX	CA	West	Mountain	White non-college women	10	42	54
+2016	Education among whites by sex	EDUCWHITEBYSEX	CA	West	Mountain	White college-grad men	14	51	41
+2016	Education among whites by sex	EDUCWHITEBYSEX	CA	West	Mountain	White non-college men	9	29	64
+2016	Education among whites by sex	EDUCWHITEBYSEX	CA	West	Mountain	Non-whites	52	72	21
+2016	Income	INCOME16GEN	CA	West	Mountain	Under $30,000	17	66	29
+2016	Income	INCOME16GEN	CA	West	Mountain	$30K-$49,999	20	75	20
+2016	Income	INCOME16GEN	CA	West	Mountain	$50K-$99,999	26	67	26
+2016	Income	INCOME16GEN	CA	West	Mountain	$100K-$199,999	26	56	42
+2016	Income	INCOME16GEN	CA	West	Mountain	$200K-$249,999	7		
+2016	Income	INCOME16GEN	CA	West	Mountain	$250,000 or more	4		
+2016	Income	INC50K	CA	West	Mountain	Under $50K	37	71	24
+2016	Income	INC50K	CA	West	Mountain	$50K or more	63	61	34
+2016	Income	INC100K	CA	West	Mountain	Under $100K	63	69	25
+2016	Income	INC100K	CA	West	Mountain	$100K or more	37	57	40
+2016	Income	INCOME3	CA	West	Mountain	Under $50K	37	71	24
+2016	Income	INCOME3	CA	West	Mountain	$50K-$100K	26	67	26
+2016	Income	INCOME3	CA	West	Mountain	$100K or more	37	57	40
+2016	Party ID	PARTY	CA	West	Mountain	Democrats	47	92	5
+2016	Party ID	PARTY	CA	West	Mountain	Republicans	23	13	84
+2016	Party ID	PARTY	CA	West	Mountain	Independents	30	50	37
+2016	Party by gender	PARTYGENDER	CA	West	Mountain	Democratic men	19	90	5
+2016	Party by gender	PARTYGENDER	CA	West	Mountain	Democratic women	28	93	5
+2016	Party by gender	PARTYGENDER	CA	West	Mountain	Republican men	11	13	83
+2016	Party by gender	PARTYGENDER	CA	West	Mountain	Republican women	11	12	85
+2016	Party by gender	PARTYGENDER	CA	West	Mountain	Independent men	19	48	39
+2016	Party by gender	PARTYGENDER	CA	West	Mountain	Independent women	11	54	35
+2016	Ideology	PHIL3	CA	West	Mountain	Liberal	37	88	8
+2016	Ideology	PHIL3	CA	West	Mountain	Moderate	35	60	33
+2016	Ideology	PHIL3	CA	West	Mountain	Conservative	28	28	68
+2016	Marital status	MARRIED	CA	West	Mountain	Married	57	58	38
+2016	Marital status	MARRIED	CA	West	Mountain	Unmarried	43	65	27
+2016	Marital status by gender	SEXWED	CA	West	Mountain	Married men	28	57	39
+2016	Marital status by gender	SEXWED	CA	West	Mountain	Married women	29	60	38
+2016	Marital status by gender	SEXWED	CA	West	Mountain	Unmarried men	17	56	31
+2016	Marital status by gender	SEXWED	CA	West	Mountain	Unmarried women	26	70	25
+2016	White born-again or evangelical Christian?	WHTEVANG	CA	West	Mountain	Yes	13		
+2016	White born-again or evangelical Christian?	WHTEVANG	CA	West	Mountain	No	87	69	26
+2016	Religion	REL5	CA	West	Mountain	Protestant	41	45	51
+2016	Religion	REL5	CA	West	Mountain	Catholic	28	63	32
+2016	Religion	REL5	CA	West	Mountain	Jewish	3		
+2016	Religion	REL5	CA	West	Mountain	Another religion	7		
+2016	Religion	REL5	CA	West	Mountain	No religion	21	78	12
+2016	How often do you attend religious services?	ATTEND16	CA	West	Mountain	Weekly or more	27	46	52
+2016	How often do you attend religious services?	ATTEND16	CA	West	Mountain	Monthly	13		
+2016	How often do you attend religious services?	ATTEND16	CA	West	Mountain	Few times a year	29	63	31
+2016	How often do you attend religious services?	ATTEND16	CA	West	Mountain	Never	31	73	19
+2016	How often do you attend religious services?	ATTEND16B	CA	West	Mountain	Monthly or more	40	52	46
+2016	How often do you attend religious services?	ATTEND16B	CA	West	Mountain	Less often than that	60	68	24
+2016	Union household?	UNIONHH12	CA	West	Mountain	Yes	16	66	31
+2016	Union household?	UNIONHH12	CA	West	Mountain	No	84	61	32
+2016	Served in the U.S. military	VETVOTER	CA	West	Mountain	Veterans	13		
+2016	Served in the U.S. military	VETVOTER	CA	West	Mountain	Non-veterans	87	65	30
+2016	Were you born a U.S. citizen?	BORNCITIZEN	CA	West	Mountain	Yes	78	59	35
+2016	Were you born a U.S. citizen?	BORNCITIZEN	CA	West	Mountain	No	22		
+2016	First-time voter?	FTVOTER	CA	West	Mountain	Yes	16		
+2016	First-time voter?	FTVOTER	CA	West	Mountain	No	84	58	37
+2016	When did you decide presidential vote?	TIME16	CA	West	Mountain	Last few days	5		
+2016	When did you decide presidential vote?	TIME16	CA	West	Mountain	Last week	6		
+2016	When did you decide presidential vote?	TIME16	CA	West	Mountain	In October	19		
+2016	When did you decide presidential vote?	TIME16	CA	West	Mountain	In September	13		
+2016	When did you decide presidential vote?	TIME16	CA	West	Mountain	Before September	55	67	29
+2016	When did you decide presidential vote?	TIME16WEEK	CA	West	Mountain	In the last week	11		
+2016	When did you decide presidential vote?	TIME16WEEK	CA	West	Mountain	Before that	87	64	31
+2016	When did you decide presidential vote?	TIME16MONTH	CA	West	Mountain	In the last month	29	51	42
+2016	When did you decide presidential vote?	TIME16MONTH	CA	West	Mountain	Before that	68	67	29
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	CA	West	Mountain	Strongly favor 	40	69	26
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	CA	West	Mountain	Have reservations	33	60	36
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	CA	West	Mountain	Dislike opponents	25	51	42
+2016	Most important issue facing the country	ISSUE16	CA	West	Mountain	Foreign policy	16	69	27
+2016	Most important issue facing the country	ISSUE16	CA	West	Mountain	Immigration	15	58	36
+2016	Most important issue facing the country	ISSUE16	CA	West	Mountain	Economy	44	68	26
+2016	Most important issue facing the country	ISSUE16	CA	West	Mountain	Terrorism	22	50	48
+2016	Which candidate quality mattered most?	QLT16	CA	West	Mountain	Cares about me	16	64	29
+2016	Which candidate quality mattered most?	QLT16	CA	West	Mountain	Can bring change	29	22	76
+2016	Which candidate quality mattered most?	QLT16	CA	West	Mountain	Right experience	29	95	3
+2016	Which candidate quality mattered most?	QLT16	CA	West	Mountain	Good judgment	24	70	20
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	CA	West	Mountain	Offered legal status	71	72	20
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	CA	West	Mountain	Deported to home country	25	31	67
+2016	View of U.S. wall along the entire Mexican border	IMMWALL	CA	West	Mountain	Support	30	26	68
+2016	View of U.S. wall along the entire Mexican border	IMMWALL	CA	West	Mountain	Oppose	67	79	14
+2016	Effect of international trade	TRADE16	CA	West	Mountain	Creates U.S. jobs	43	70	23
+2016	Effect of international trade	TRADE16	CA	West	Mountain	Takes away U.S. jobs	37	48	46
+2016	Effect of international trade	TRADE16	CA	West	Mountain	Does not affect jobs	13		
+2016	How is the fight against ISIS going?	ISIS16	CA	West	Mountain	Very well	6		
+2016	How is the fight against ISIS going?	ISIS16	CA	West	Mountain	Somewhat well	34	75	18
+2016	How is the fight against ISIS going?	ISIS16	CA	West	Mountain	Somewhat badly	30	58	37
+2016	How is the fight against ISIS going?	ISIS16	CA	West	Mountain	Very badly	18		
+2016	How is the fight against ISIS going?	ISIS16B	CA	West	Mountain	Well	40	78	15
+2016	How is the fight against ISIS going?	ISIS16B	CA	West	Mountain	Badly	48	44	52
+2016	In your vote, were Supreme Court appointments:	SUPREME16	CA	West	Mountain	The most important factor	26	59	40
+2016	In your vote, were Supreme Court appointments:	SUPREME16	CA	West	Mountain	An important factor	41	61	35
+2016	In your vote, were Supreme Court appointments:	SUPREME16	CA	West	Mountain	A minor factor	14		
+2016	In your vote, were Supreme Court appointments:	SUPREME16	CA	West	Mountain	Not a factor at all	14		
+2016	In your vote, were Supreme Court appointments:	SUPREME16B	CA	West	Mountain	Important	67	60	37
+2016	In your vote, were Supreme Court appointments:	SUPREME16B	CA	West	Mountain	Not important	28	63	27
+2016	Does the country's criminal justice system:	FAIRJUSTICE	CA	West	Mountain	Treat all fairly	29	34	62
+2016	Does the country's criminal justice system:	FAIRJUSTICE	CA	West	Mountain	Treat blacks unfairly	60	78	15
+2016	View on Obamacare	HEALTHCARE16	CA	West	Mountain	Did not go far enough	42	83	14
+2016	View on Obamacare	HEALTHCARE16	CA	West	Mountain	Was about right	23	79	9
+2016	View on Obamacare	HEALTHCARE16	CA	West	Mountain	Went too far	30	16	78
+2016	Feelings about the federal government	GOVTANGR16	CA	West	Mountain	Enthusiastic	8		
+2016	Feelings about the federal government	GOVTANGR16	CA	West	Mountain	Satisfied	28	79	14
+2016	Feelings about the federal government	GOVTANGR16	CA	West	Mountain	Dissatisfied	47	61	34
+2016	Feelings about the federal government	GOVTANGR16	CA	West	Mountain	Angry	16		
+2016	Feelings about the federal government	GOVTANGR16B	CA	West	Mountain	Enthusiastic/Satisfied	36	80	13
+2016	Feelings about the federal government	GOVTANGR16B	CA	West	Mountain	Dissatisfied/Angry	62	51	45
+2016	Opinion of government	GOVTDO10	CA	West	Mountain	Government should do more	56	82	12
+2016	Opinion of government	GOVTDO10	CA	West	Mountain	Government doing too much	39	31	63
+2016	Opinion of Barack Obama as president	OBAMA4	CA	West	Mountain	Strongly approve	36	93	3
+2016	Opinion of Barack Obama as president	OBAMA4	CA	West	Mountain	Somewhat approve	26	83	13
+2016	Opinion of Barack Obama as president	OBAMA4	CA	West	Mountain	Somewhat disapprove	10		
+2016	Opinion of Barack Obama as president	OBAMA4	CA	West	Mountain	Strongly disapprove	27	16	81
+2016	Opinion of Barack Obama as president	OBAMA2	CA	West	Mountain	Approve	62	89	7
+2016	Opinion of Barack Obama as president	OBAMA2	CA	West	Mountain	Disapprove	38	18	77
+2016	Should the next president:	OBAMAPLCY16	CA	West	Mountain	Continue Obama's policies	31	90	3
+2016	Should the next president:	OBAMAPLCY16	CA	West	Mountain	Be more conservative	34	25	71
+2016	Should the next president:	OBAMAPLCY16	CA	West	Mountain	Be more liberal	23		
+2016	Opinion of Hillary Clinton	FAVHCLIN16	CA	West	Mountain	Favorable	54	97	3
+2016	Opinion of Hillary Clinton	FAVHCLIN16	CA	West	Mountain	Unfavorable	43	18	72
+2016	Opinion of Donald Trump	FAVTRUMP	CA	West	Mountain	Favorable	25	2	95
+2016	Opinion of Donald Trump	FAVTRUMP	CA	West	Mountain	Unfavorable	70	84	10
+2016	Opinion of Clinton and Trump	FAVPRES16	CA	West	Mountain	Both favorable	1		
+2016	Opinion of Clinton and Trump	FAVPRES16	CA	West	Mountain	Only Clinton favorable	54	97	3
+2016	Opinion of Clinton and Trump	FAVPRES16	CA	West	Mountain	Only Trump favorable	25		97
+2016	Opinion of Clinton and Trump	FAVPRES16	CA	West	Mountain	Both unfavorable	17		
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	CA	West	Mountain	Yes	50	96	1
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	CA	West	Mountain	No	50	27	65
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	CA	West	Mountain	Yes	20	11	89
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	CA	West	Mountain	No	76	75	19
+2016	Which candidate is honest?	HONEST16	CA	West	Mountain	Both are	2		
+2016	Which candidate is honest?	HONEST16	CA	West	Mountain	Only Clinton is	48	96	1
+2016	Which candidate is honest?	HONEST16	CA	West	Mountain	Only Trump is	18	4	96
+2016	Which candidate is honest?	HONEST16	CA	West	Mountain	Neither is	30	42	46
+2016	Is Clinton qualified to serve as president?	QUALCLINTON	CA	West	Mountain	Yes	64	86	9
+2016	Is Clinton qualified to serve as president?	QUALCLINTON	CA	West	Mountain	No	33	12	78
+2016	Is Trump qualified to serve as president?	QUALTRUMP	CA	West	Mountain	Yes	26	8	90
+2016	Is Trump qualified to serve as president?	QUALTRUMP	CA	West	Mountain	No	72	80	12
+2016	Who is qualified to serve as president?	QUALIFIED16	CA	West	Mountain	Both are	5		
+2016	Who is qualified to serve as president?	QUALIFIED16	CA	West	Mountain	Only Clinton is	59	92	3
+2016	Who is qualified to serve as president?	QUALIFIED16	CA	West	Mountain	Only Trump is	21	6	94
+2016	Who is qualified to serve as president?	QUALIFIED16	CA	West	Mountain	Neither is	12		
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	CA	West	Mountain	Yes	67	84	11
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	CA	West	Mountain	No	32	13	79
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	CA	West	Mountain	Yes	25	16	83
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	CA	West	Mountain	No	72	76	16
+2016	Which candidate has the right temperament?	TEMPERAMENT16	CA	West	Mountain	Both do	7		
+2016	Which candidate has the right temperament?	TEMPERAMENT16	CA	West	Mountain	Only Clinton does	60	89	6
+2016	Which candidate has the right temperament?	TEMPERAMENT16	CA	West	Mountain	Only Trump does	18		
+2016	Which candidate has the right temperament?	TEMPERAMENT16	CA	West	Mountain	Neither does	14		
+2016	How would you feel if Clinton wins?	CLINTONWINGEN	CA	West	Mountain	Excited	19	95	
+2016	How would you feel if Clinton wins?	CLINTONWINGEN	CA	West	Mountain	Optimistic	37	91	2
+2016	How would you feel if Clinton wins?	CLINTONWINGEN	CA	West	Mountain	Concerned	25		
+2016	How would you feel if Clinton wins?	CLINTONWINGEN	CA	West	Mountain	Scared	16		
+2016	How would you feel if Clinton wins?	CLINTONWINGENB	CA	West	Mountain	Positive	56	92	1
+2016	How would you feel if Clinton wins?	CLINTONWINGENB	CA	West	Mountain	Negative	41	21	72
+2016	How would you feel if Trump wins?	TRUMPWINGEN	CA	West	Mountain	Excited	12		
+2016	How would you feel if Trump wins?	TRUMPWINGEN	CA	West	Mountain	Optimistic	16		
+2016	How would you feel if Trump wins?	TRUMPWINGEN	CA	West	Mountain	Concerned	23		
+2016	How would you feel if Trump wins?	TRUMPWINGEN	CA	West	Mountain	Scared	44	96	2
+2016	How would you feel if Trump wins?	TRUMPWINGENB	CA	West	Mountain	Positive	27	1	98
+2016	How would you feel if Trump wins?	TRUMPWINGENB	CA	West	Mountain	Negative	67	86	6
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	CA	West	Mountain	A lot	35	13	79
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	CA	West	Mountain	Some	19		
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	CA	West	Mountain	Not much	21		
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	CA	West	Mountain	Not at all	22	98	0
+2016	Does Clinton's use of private email bother you?	CLINTONEMAILB	CA	West	Mountain	Yes	53	34	58
+2016	Does Clinton's use of private email bother you?	CLINTONEMAILB	CA	West	Mountain	No	44	93	3
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	CA	West	Mountain	A lot	63	88	5
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	CA	West	Mountain	Some	18		
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	CA	West	Mountain	Not much	8		
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	CA	West	Mountain	Not at all	10		
+2016	Does Donald Trump's treatment of women bother you?	TRUMPWOMENB	CA	West	Mountain	Yes	81	73	21
+2016	Does Donald Trump's treatment of women bother you?	TRUMPWOMENB	CA	West	Mountain	No	18		
+2016	Who would better handle the economy?	HANDLEECON16	CA	West	Mountain	Clinton	63	93	1
+2016	Who would better handle the economy?	HANDLEECON16	CA	West	Mountain	Trump	32	3	95
+2016	Who would better handle foreign policy?	HANDLEFP16	CA	West	Mountain	Clinton	67	91	2
+2016	Who would better handle foreign policy?	HANDLEFP16	CA	West	Mountain	Trump	29		98
+2016	Who would be a better commander in chief?	CHIEF16	CA	West	Mountain	Clinton	66	91	1
+2016	Who would be a better commander in chief?	CHIEF16	CA	West	Mountain	Trump	31	1	96
+2016	Opinion of the Democratic Party	FAVDEM2	CA	West	Mountain	Favorable	56	96	2
+2016	Opinion of the Democratic Party	FAVDEM2	CA	West	Mountain	Unfavorable	34	10	84
+2016	Opinion of the Republican Party	FAVREP2	CA	West	Mountain	Favorable	27	18	72
+2016	Opinion of the Republican Party	FAVREP2	CA	West	Mountain	Unfavorable	64	80	16
+2016	Condition of national economy	NEC	CA	West	Mountain	Excellent	5		
+2016	Condition of national economy	NEC	CA	West	Mountain	Good	36	79	13
+2016	Condition of national economy	NEC	CA	West	Mountain	Not good	39	57	40
+2016	Condition of national economy	NEC	CA	West	Mountain	Poor	18		
+2016	Condition of national economy	NEC2	CA	West	Mountain	Good	40	81	12
+2016	Condition of national economy	NEC2	CA	West	Mountain	Poor	57	48	48
+2016	Financial situation compared to four years ago:	FINSIT	CA	West	Mountain	Better today	37	79	20
+2016	Financial situation compared to four years ago:	FINSIT	CA	West	Mountain	Worse today	20		
+2016	Financial situation compared to four years ago:	FINSIT	CA	West	Mountain	About the same	40	60	27
+2016	Direction of the country	TRACK	CA	West	Mountain	Right direction	40	91	4
+2016	Direction of the country	TRACK	CA	West	Mountain	Wrong track	50	32	62
+2016	Life for the next generation of Americans will be:	LIFE	CA	West	Mountain	Better than today	46	80	18
+2016	Life for the next generation of Americans will be:	LIFE	CA	West	Mountain	Worse than today	26	38	53
+2016	Life for the next generation of Americans will be:	LIFE	CA	West	Mountain	About the same	24	54	34
+2016	Vote for president in a two-way race	2WAYPRES16	CA	West	Mountain	Clinton	61	96	1
+2016	Vote for president in a two-way race	2WAYPRES16	CA	West	Mountain	Trump	31	0	98
+2016	Vote for president in a two-way race	2WAYPRES16	CA	West	Mountain	Would not vote	6		
+2016	How confident are you in the vote count?	COUNTACC	CA	West	Mountain	Very confident	50	77	17
+2016	How confident are you in the vote count?	COUNTACC	CA	West	Mountain	Somewhat confident	28	55	37
+2016	How confident are you in the vote count?	COUNTACC	CA	West	Mountain	Not very confident	14		
+2016	How confident are you in the vote count?	COUNTACC	CA	West	Mountain	Not at all confident	5		
+2016	Are you confident in the vote count?	COUNT2	CA	West	Mountain	Confident	79	69	24
+2016	Are you confident in the vote count?	COUNT2	CA	West	Mountain	Not confident	19		
+2016	Are you gay, lesbian, bisexual or transgender?	LGBT	CA	West	Mountain	Yes	5		
+2016	Are you gay, lesbian, bisexual or transgender?	LGBT	CA	West	Mountain	No	95	60	34
+2016	Importance of debates to your vote	BREAK12	CA	West	Mountain	Most important factor	28	75	22
+2016	Importance of debates to your vote	BREAK12	CA	West	Mountain	An important factor	37	62	32
+2016	Importance of debates to your vote	BREAK12	CA	West	Mountain	A minor factor	18		
+2016	Importance of debates to your vote	BREAK12	CA	West	Mountain	Not a factor	10		
+2016	Importance of debates to your vote	BREAK12A	CA	West	Mountain	Important	65	68	28
+2016	Importance of debates to your vote	BREAK12A	CA	West	Mountain	Not important	28		
+2016	Were debates a factor in your vote?	BREAK12B	CA	West	Mountain	Yes	83	66	30
+2016	Were debates a factor in your vote?	BREAK12B	CA	West	Mountain	No	10		
+2016	Area type	SIZEPLC3	CA	West	Mountain	Urban area	30	63	32
+2016	Area type	SIZEPLC3	CA	West	Mountain	Suburban area	67	61	33
+2016	Area type	SIZEPLC3	CA	West	Mountain	Rural area	3		
+2016	Region	GEOCOD	CA	West	Mountain	Coastal	10	67	28
+2016	Region	GEOCOD	CA	West	Mountain	Inland / Central Valley	20	50	45
+2016	Region	GEOCOD	CA	West	Mountain	Bay Area	17	79	15
+2016	Region	GEOCOD	CA	West	Mountain	L.A. County	25	71	24
+2016	Region	GEOCOD	CA	West	Mountain	Southern California	28	48	45

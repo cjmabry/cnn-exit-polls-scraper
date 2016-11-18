@@ -1,0 +1,220 @@
+2012	Vote by Gender	SEX	NY	Northeast	Middle Atlantic	Men	45	56	42
+2012	Vote by Gender	SEX	NY	Northeast	Middle Atlantic	Women	55	68	31
+2012	Vote by Age	AGE	NY	Northeast	Middle Atlantic	18-29	18	72	25
+2012	Vote by Age	AGE	NY	Northeast	Middle Atlantic	30-44	25	61	37
+2012	Vote by Age	AGE	NY	Northeast	Middle Atlantic	45-64	40	61	38
+2012	Vote by Age	AGE	NY	Northeast	Middle Atlantic	65 and Older	17	59	40
+2012	Vote by Age	AGE65	NY	Northeast	Middle Atlantic	18-24	10	72	23
+2012	Vote by Age	AGE65	NY	Northeast	Middle Atlantic	25-29	8	72	28
+2012	Vote by Age	AGE65	NY	Northeast	Middle Atlantic	30-39	15	66	32
+2012	Vote by Age	AGE65	NY	Northeast	Middle Atlantic	40-49	20	55	43
+2012	Vote by Age	AGE65	NY	Northeast	Middle Atlantic	50-64	30	62	37
+2012	Vote by Age	AGE65	NY	Northeast	Middle Atlantic	65 and Older	17	59	40
+2012	Vote by Race	RACE	NY	Northeast	Middle Atlantic	White	67	49	49
+2012	Vote by Race	RACE	NY	Northeast	Middle Atlantic	African-American	16	94	5
+2012	Vote by Race	RACE	NY	Northeast	Middle Atlantic	Latino	13	89	11
+2012	Vote by Race	RACE	NY	Northeast	Middle Atlantic	Asian	2		
+2012	Vote by Race	RACE	NY	Northeast	Middle Atlantic	Other	1		
+2012	Vote by Gender and Race	SEXBYRACE	NY	Northeast	Middle Atlantic	White Men	31	43	55
+2012	Vote by Gender and Race	SEXBYRACE	NY	Northeast	Middle Atlantic	White Women	36	55	44
+2012	Vote by Gender and Race	SEXBYRACE	NY	Northeast	Middle Atlantic	Black Men	7		
+2012	Vote by Gender and Race	SEXBYRACE	NY	Northeast	Middle Atlantic	Black Women	9	93	6
+2012	Vote by Gender and Race	SEXBYRACE	NY	Northeast	Middle Atlantic	Latino Men	5		
+2012	Vote by Gender and Race	SEXBYRACE	NY	Northeast	Middle Atlantic	Latino Women	8	96	4
+2012	Vote by Gender and Race	SEXBYRACE	NY	Northeast	Middle Atlantic	All Others	3		
+2012	Vote by Ideology	PHIL3	NY	Northeast	Middle Atlantic	Liberal	33	93	5
+2012	Vote by Ideology	PHIL3	NY	Northeast	Middle Atlantic	Moderate	42	63	36
+2012	Vote by Ideology	PHIL3	NY	Northeast	Middle Atlantic	Conservative	25	20	79
+2012	Vote by Party ID	PARTY	NY	Northeast	Middle Atlantic	Democratic	50	95	5
+2012	Vote by Party ID	PARTY	NY	Northeast	Middle Atlantic	Republican	27	12	88
+2012	Vote by Party ID	PARTY	NY	Northeast	Middle Atlantic	Independent	23	50	44
+2012	Vote by Education	EDUC10	NY	Northeast	Middle Atlantic	No High School	3		
+2012	Vote by Education	EDUC10	NY	Northeast	Middle Atlantic	High School Graduate	19	64	35
+2012	Vote by Education	EDUC10	NY	Northeast	Middle Atlantic	Some College	27	65	34
+2012	Vote by Education	EDUC10	NY	Northeast	Middle Atlantic	College Graduate	29	58	41
+2012	Vote by Education	EDUC10	NY	Northeast	Middle Atlantic	Postgraduate	22	61	36
+2012	Are You a College Graduate?	EDUCCOLL	NY	Northeast	Middle Atlantic	Yes	52	59	39
+2012	Are You a College Graduate?	EDUCCOLL	NY	Northeast	Middle Atlantic	No	48	66	34
+2012	Did You Attend College?	EDUCHS	NY	Northeast	Middle Atlantic	Yes	79	61	37
+2012	Did You Attend College?	EDUCHS	NY	Northeast	Middle Atlantic	No	21	66	33
+2012	Vote by Income	INCOME3	NY	Northeast	Middle Atlantic	Less Than $50K	39	74	25
+2012	Vote by Income	INCOME3	NY	Northeast	Middle Atlantic	$50-100K	29	60	38
+2012	Vote by Income	INCOME3	NY	Northeast	Middle Atlantic	$100K or More	32	51	48
+2012	Vote by Income	INC50K	NY	Northeast	Middle Atlantic	Less Than $50K	39	74	25
+2012	Vote by Income	INC50K	NY	Northeast	Middle Atlantic	$50K or More	61	55	43
+2012	Vote by Income	INC100K	NY	Northeast	Middle Atlantic	Less Than $100K	68	68	31
+2012	Vote by Income	INC100K	NY	Northeast	Middle Atlantic	$100K or More	32	51	48
+2012	How Often Do You Attend Religious Services?	ATTEND	NY	Northeast	Middle Atlantic	More Than Weekly	8		
+2012	How Often Do You Attend Religious Services?	ATTEND	NY	Northeast	Middle Atlantic	Weekly	25		
+2012	How Often Do You Attend Religious Services?	ATTEND	NY	Northeast	Middle Atlantic	Monthly	17		
+2012	How Often Do You Attend Religious Services?	ATTEND	NY	Northeast	Middle Atlantic	Few Times a Year	32		
+2012	How Often Do You Attend Religious Services?	ATTEND	NY	Northeast	Middle Atlantic	Never	16		
+2012	How Often Do You Attend Religious Services?	ATTEND2	NY	Northeast	Middle Atlantic	Weekly	33		
+2012	How Often Do You Attend Religious Services?	ATTEND2	NY	Northeast	Middle Atlantic	Occasionally	48	67	32
+2012	How Often Do You Attend Religious Services?	ATTEND2	NY	Northeast	Middle Atlantic	Never	16		
+2012	Vote by Religion	REL5	NY	Northeast	Middle Atlantic	Protestant	35	66	32
+2012	Vote by Religion	REL5	NY	Northeast	Middle Atlantic	Catholic	42	47	53
+2012	Vote by Religion	REL5	NY	Northeast	Middle Atlantic	Jewish	6		
+2012	Vote by Religion	REL5	NY	Northeast	Middle Atlantic	Other	8		
+2012	Vote by Religion	REL5	NY	Northeast	Middle Atlantic	None	9		
+2012	Vote by Religion and Race	WHITEREL	NY	Northeast	Middle Atlantic	White Protestant	23	50	47
+2012	Vote by Religion and Race	WHITEREL	NY	Northeast	Middle Atlantic	White Catholic	33	35	65
+2012	Vote by Religion and Race	WHITEREL	NY	Northeast	Middle Atlantic	White Jewish	5		
+2012	Vote by Religion and Race	WHITEREL	NY	Northeast	Middle Atlantic	Whites/Other Religion	3		
+2012	Vote by Religion and Race	WHITEREL	NY	Northeast	Middle Atlantic	Whites/No Religion	5		
+2012	Vote by Religion and Race	WHITEREL	NY	Northeast	Middle Atlantic	Non-white	31	93	7
+2012	Vote by Religion and Church Attendance	ATTREL	NY	Northeast	Middle Atlantic	Protestant/Attend Weekly	5		
+2012	Vote by Religion and Church Attendance	ATTREL	NY	Northeast	Middle Atlantic	Protestant/Not Weekly 	10		
+2012	Vote by Religion and Church Attendance	ATTREL	NY	Northeast	Middle Atlantic	Catholic/Attend Weekly	18		
+2012	Vote by Religion and Church Attendance	ATTREL	NY	Northeast	Middle Atlantic	Catholic/Not Weekly	24		
+2012	Vote by Religion and Church Attendance	ATTREL	NY	Northeast	Middle Atlantic	All Others	42	87	13
+2012	Are You White Born-Again Christian?	WHTEVANG	NY	Northeast	Middle Atlantic	Yes	8		
+2012	Are You White Born-Again Christian?	WHTEVANG	NY	Northeast	Middle Atlantic	No	92	67	33
+2012	Abortion Should Be...	ABORTION	NY	Northeast	Middle Atlantic	Always Legal	43	83	16
+2012	Abortion Should Be...	ABORTION	NY	Northeast	Middle Atlantic	Mostly Legal	29		
+2012	Abortion Should Be...	ABORTION	NY	Northeast	Middle Atlantic	Mostly Illegal	17		
+2012	Abortion Should Be...	ABORTION	NY	Northeast	Middle Atlantic	Always Illegal	4		
+2012	Abortion Should Be...	ABORT2	NY	Northeast	Middle Atlantic	Legal	72	72	27
+2012	Abortion Should Be...	ABORT2	NY	Northeast	Middle Atlantic	Illegal	21		
+2012	Opinion of Tea Party Movement	TEAPARTY12	NY	Northeast	Middle Atlantic	Support	16		
+2012	Opinion of Tea Party Movement	TEAPARTY12	NY	Northeast	Middle Atlantic	Neutral	39	50	49
+2012	Opinion of Tea Party Movement	TEAPARTY12	NY	Northeast	Middle Atlantic	Oppose	39	92	8
+2012	Most Important Issue Facing Country	ISSUE12	NY	Northeast	Middle Atlantic	Foreign Policy	5		
+2012	Most Important Issue Facing Country	ISSUE12	NY	Northeast	Middle Atlantic	Deficit	9		
+2012	Most Important Issue Facing Country	ISSUE12	NY	Northeast	Middle Atlantic	Economy	64	60	38
+2012	Most Important Issue Facing Country	ISSUE12	NY	Northeast	Middle Atlantic	Health Care	20	79	21
+2012	Most Important Candidate Quality	QLT12	NY	Northeast	Middle Atlantic	Shares My Values	23	48	47
+2012	Most Important Candidate Quality	QLT12	NY	Northeast	Middle Atlantic	Strong Leader	17		
+2012	Most Important Candidate Quality	QLT12	NY	Northeast	Middle Atlantic	Cares About People	29	83	17
+2012	Most Important Candidate Quality	QLT12	NY	Northeast	Middle Atlantic	Vision for Future	28	56	41
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	NY	Northeast	Middle Atlantic	Housing Market	6		
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	NY	Northeast	Middle Atlantic	Unemployment	42	65	33
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	NY	Northeast	Middle Atlantic	Taxes	18		
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	NY	Northeast	Middle Atlantic	Rising Prices	31		
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	NY	Northeast	Middle Atlantic	Expanded	40	93	5
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	NY	Northeast	Middle Atlantic	Kept As Is	18		
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	NY	Northeast	Middle Atlantic	Repealed In Part	24		
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	NY	Northeast	Middle Atlantic	Repealed Completely	16		
+2012	Should 2010 Health Care Law Be Repealed?	HEALTHCARE12B	NY	Northeast	Middle Atlantic	No	58	88	11
+2012	Should 2010 Health Care Law Be Repealed?	HEALTHCARE12B	NY	Northeast	Middle Atlantic	Yes	40		
+2012	Income Tax Rates Should Be...	TAXINC12	NY	Northeast	Middle Atlantic	Increased For All	16		
+2012	Income Tax Rates Should Be...	TAXINC12	NY	Northeast	Middle Atlantic	Increased for $250K+	50	82	16
+2012	Income Tax Rates Should Be...	TAXINC12	NY	Northeast	Middle Atlantic	Not Increased	31		
+2012	Most Illegal Immigrants Working in U.S. Should Be:	IMMDEPORT	NY	Northeast	Middle Atlantic	Offered Legal Status	72	72	28
+2012	Most Illegal Immigrants Working in U.S. Should Be:	IMMDEPORT	NY	Northeast	Middle Atlantic	Deported	24		
+2012	Who Is More In Touch With People Like You?	INTOUCH12	NY	Northeast	Middle Atlantic	Obama	61	98	2
+2012	Who Is More In Touch With People Like You?	INTOUCH12	NY	Northeast	Middle Atlantic	Romney	35		
+2012	Who Would Better Handle Economy?	HANDLEECON12	NY	Northeast	Middle Atlantic	Obama	58	100	
+2012	Who Would Better Handle Economy?	HANDLEECON12	NY	Northeast	Middle Atlantic	Romney	40		
+2012	Who Would Better Handle Medicare?	HANDLEMED12	NY	Northeast	Middle Atlantic	Obama	61	98	2
+2012	Who Would Better Handle Medicare?	HANDLEMED12	NY	Northeast	Middle Atlantic	Romney	35		
+2012	Who Would Better Handle Deficit?	HANDLEDEF12	NY	Northeast	Middle Atlantic	Obama	59	99	1
+2012	Who Would Better Handle Deficit?	HANDLEDEF12	NY	Northeast	Middle Atlantic	Romney	39	8	91
+2012	Opinion of Government	GOVTDO10	NY	Northeast	Middle Atlantic	Government Should Do More	57	84	15
+2012	Opinion of Government	GOVTDO10	NY	Northeast	Middle Atlantic	Government Doing Too Much	38	35	64
+2012	National Economic Conditions	NEC	NY	Northeast	Middle Atlantic	Excellent	2		
+2012	National Economic Conditions	NEC	NY	Northeast	Middle Atlantic	Good	20		
+2012	National Economic Conditions	NEC	NY	Northeast	Middle Atlantic	Not So Good	51	67	31
+2012	National Economic Conditions	NEC	NY	Northeast	Middle Atlantic	Poor	26		
+2012	National Economic Conditions	NEC2	NY	Northeast	Middle Atlantic	Excellent/Good	22		
+2012	National Economic Conditions	NEC2	NY	Northeast	Middle Atlantic	Not So Good/Poor	77	50	48
+2012	U.S. Economic Conditions Are...	ECONBETT	NY	Northeast	Middle Atlantic	Getting Better	41	96	
+2012	U.S. Economic Conditions Are...	ECONBETT	NY	Northeast	Middle Atlantic	Getting Worse	34		
+2012	U.S. Economic Conditions Are...	ECONBETT	NY	Northeast	Middle Atlantic	Staying About the Same	24		
+2012	U.S. Economic Conditions Are...	ECONDIR	NY	Northeast	Middle Atlantic	Getting Better	41	96	
+2012	U.S. Economic Conditions Are...	ECONDIR	NY	Northeast	Middle Atlantic	Good and Staying the Same	3		
+2012	U.S. Economic Conditions Are...	ECONDIR	NY	Northeast	Middle Atlantic	Poor and Staying the Same	21		
+2012	U.S. Economic Conditions Are...	ECONDIR	NY	Northeast	Middle Atlantic	Getting Worse	34		
+2012	Your Family's Financial Situation	FINSIT	NY	Northeast	Middle Atlantic	Better	29		
+2012	Your Family's Financial Situation	FINSIT	NY	Northeast	Middle Atlantic	Worse	30		
+2012	Your Family's Financial Situation	FINSIT	NY	Northeast	Middle Atlantic	Same	40	72	26
+2012	Country is Going In...	TRACK	NY	Northeast	Middle Atlantic	Right Direction	50	95	5
+2012	Country is Going In...	TRACK	NY	Northeast	Middle Atlantic	Wrong Track	47	26	71
+2012	More to Blame for Current Economic Problems?	ECONBLAME12	NY	Northeast	Middle Atlantic	Barack Obama	31		
+2012	More to Blame for Current Economic Problems?	ECONBLAME12	NY	Northeast	Middle Atlantic	George W. Bush	63	85	11
+2012	U.S. Economic System Generally...	ECONFAIR	NY	Northeast	Middle Atlantic	Favors the Wealthy	62	84	15
+2012	U.S. Economic System Generally...	ECONFAIR	NY	Northeast	Middle Atlantic	Is Fair to Most Americans	35		
+2012	Should Taxes Be Raised To Help Cut Deficit?	TAXDEF	NY	Northeast	Middle Atlantic	Yes	30		
+2012	Should Taxes Be Raised To Help Cut Deficit?	TAXDEF	NY	Northeast	Middle Atlantic	No	66	46	52
+2012	Opinion of Obama Administration	OBAMANG	NY	Northeast	Middle Atlantic	Enthusiastic	29		
+2012	Opinion of Obama Administration	OBAMANG	NY	Northeast	Middle Atlantic	Satisfied	28		
+2012	Opinion of Obama Administration	OBAMANG	NY	Northeast	Middle Atlantic	Dissatisfied	25		
+2012	Opinion of Obama Administration	OBAMANG	NY	Northeast	Middle Atlantic	Angry	14		
+2012	Opinion of Obama Administration	OBAMANG2	NY	Northeast	Middle Atlantic	Enthusiastic/Satisfied	58	94	5
+2012	Opinion of Obama Administration	OBAMANG2	NY	Northeast	Middle Atlantic	Dissatisfied/Angry	39	10	86
+2012	How Obama is Handling His Job As President	OBAMA4	NY	Northeast	Middle Atlantic	Strongly Approve	32		
+2012	How Obama is Handling His Job As President	OBAMA4	NY	Northeast	Middle Atlantic	Somewhat Approve	28		
+2012	How Obama is Handling His Job As President	OBAMA4	NY	Northeast	Middle Atlantic	Somewhat Disapprove	11		
+2012	How Obama is Handling His Job As President	OBAMA4	NY	Northeast	Middle Atlantic	Strongly Disapprove	28		
+2012	How Obama is Handling His Job As President	OBAMA2	NY	Northeast	Middle Atlantic	Approve	60	97	3
+2012	How Obama is Handling His Job As President	OBAMA2	NY	Northeast	Middle Atlantic	Disapprove	39		
+2012	Opinion of Barack Obama	FAVOBAMA2	NY	Northeast	Middle Atlantic	Favorable	65	93	7
+2012	Opinion of Barack Obama	FAVOBAMA2	NY	Northeast	Middle Atlantic	Unfavorable	34		
+2012	Opinion of Mitt Romney	FAVROMN2	NY	Northeast	Middle Atlantic	Favorable	37		
+2012	Opinion of Mitt Romney	FAVROMN2	NY	Northeast	Middle Atlantic	Unfavorable	62	94	4
+2012	Do Obama Policies Generally Favor...	OBAMARICH	NY	Northeast	Middle Atlantic	Rich	8		
+2012	Do Obama Policies Generally Favor...	OBAMARICH	NY	Northeast	Middle Atlantic	Middle Class	49	92	5
+2012	Do Obama Policies Generally Favor...	OBAMARICH	NY	Northeast	Middle Atlantic	Poor	32		
+2012	Would Romney Policies Generally Favor...	ROMNRICH	NY	Northeast	Middle Atlantic	Rich	65	90	8
+2012	Would Romney Policies Generally Favor...	ROMNRICH	NY	Northeast	Middle Atlantic	Middle Class	26		
+2012	Would Romney Policies Generally Favor...	ROMNRICH	NY	Northeast	Middle Atlantic	Poor	2		
+2012	Trust Obama to Handle International Crisis?	INTLOBAMA	NY	Northeast	Middle Atlantic	Yes	65	92	7
+2012	Trust Obama to Handle International Crisis?	INTLOBAMA	NY	Northeast	Middle Atlantic	No	34		
+2012	Trust Romney to Handle International Crisis?	INTLROMNEY	NY	Northeast	Middle Atlantic	Yes	38		
+2012	Trust Romney to Handle International Crisis?	INTLROMNEY	NY	Northeast	Middle Atlantic	No	58	95	3
+2012	Who Do You Trust To Handle International Crisis?	INTL12	NY	Northeast	Middle Atlantic	Only Obama	55	98	
+2012	Who Do You Trust To Handle International Crisis?	INTL12	NY	Northeast	Middle Atlantic	Only Romney	30		
+2012	Who Do You Trust To Handle International Crisis?	INTL12	NY	Northeast	Middle Atlantic	Both	8		
+2012	Who Do You Trust To Handle International Crisis?	INTL12	NY	Northeast	Middle Atlantic	Neither	3		
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	NY	Northeast	Middle Atlantic	Strongly Favor	65	72	28
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	NY	Northeast	Middle Atlantic	Have Reservations	28		
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	NY	Northeast	Middle Atlantic	Dislike Opponent	7		
+2012	When Did You Decide Presidential Vote?	TIME12	NY	Northeast	Middle Atlantic	Just Today	4		
+2012	When Did You Decide Presidential Vote?	TIME12	NY	Northeast	Middle Atlantic	Last Few Days	8		
+2012	When Did You Decide Presidential Vote?	TIME12	NY	Northeast	Middle Atlantic	In October	8		
+2012	When Did You Decide Presidential Vote?	TIME12	NY	Northeast	Middle Atlantic	In September	8		
+2012	When Did You Decide Presidential Vote?	TIME12	NY	Northeast	Middle Atlantic	Before That	72	67	32
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	NY	Northeast	Middle Atlantic	Today/Last Few Days	12		
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	NY	Northeast	Middle Atlantic	Before That	88	63	36
+2012	When Did You Decide Presidential Vote?	TIME12MTH	NY	Northeast	Middle Atlantic	In October or November	20		
+2012	When Did You Decide Presidential Vote?	TIME12MTH	NY	Northeast	Middle Atlantic	Before That	80	65	33
+2012	Vote by Marital Status	MARRIED	NY	Northeast	Middle Atlantic	Married	55	53	45
+2012	Vote by Marital Status	MARRIED	NY	Northeast	Middle Atlantic	Unmarried	45	74	25
+2012	Vote by Gender and Marital Status	SEXWED	NY	Northeast	Middle Atlantic	Married Men	27	49	49
+2012	Vote by Gender and Marital Status	SEXWED	NY	Northeast	Middle Atlantic	Married Women	28	57	42
+2012	Vote by Gender and Marital Status	SEXWED	NY	Northeast	Middle Atlantic	Unmarried Men	17	66	32
+2012	Vote by Gender and Marital Status	SEXWED	NY	Northeast	Middle Atlantic	Unmarried Women	28	78	21
+2012	Any Children Under 18 Living in Your Home?	CHILD12	NY	Northeast	Middle Atlantic	Yes	35	60	40
+2012	Any Children Under 18 Living in Your Home?	CHILD12	NY	Northeast	Middle Atlantic	No	65	64	34
+2012	Vote by Marital Status and Children	MARCHILD	NY	Northeast	Middle Atlantic	Married With Children	25	49	51
+2012	Vote by Marital Status and Children	MARCHILD	NY	Northeast	Middle Atlantic	All Others	75	68	31
+2012	Vote by Gender and Children in Household	PARENTS	NY	Northeast	Middle Atlantic	Fathers	14	50	50
+2012	Vote by Gender and Children in Household	PARENTS	NY	Northeast	Middle Atlantic	Mothers	21	67	33
+2012	Vote by Gender and Children in Household	PARENTS	NY	Northeast	Middle Atlantic	Men With No Children	27	59	39
+2012	Vote by Gender and Children in Household	PARENTS	NY	Northeast	Middle Atlantic	Women With No Children	38	68	30
+2012	Is Anyone in Household a Union Member?	UNIONHH12	NY	Northeast	Middle Atlantic	Yes	32		
+2012	Is Anyone in Household a Union Member?	UNIONHH12	NY	Northeast	Middle Atlantic	No	68	62	38
+2012	Do You Work Full-Time For Pay?	WORK	NY	Northeast	Middle Atlantic	Yes	66	63	37
+2012	Do You Work Full-Time For Pay?	WORK	NY	Northeast	Middle Atlantic	No	34		
+2012	Should Same-Sex Marriages Be Legal in Your State?	SAMESEXM12	NY	Northeast	Middle Atlantic	Yes	61	75	25
+2012	Should Same-Sex Marriages Be Legal in Your State?	SAMESEXM12	NY	Northeast	Middle Atlantic	No	33		
+2012	Are You Gay, Lesbian or Bisexual?	GAY	NY	Northeast	Middle Atlantic	Yes	7		
+2012	Are You Gay, Lesbian or Bisexual?	GAY	NY	Northeast	Middle Atlantic	No	93	60	38
+2012	Importance of Obama's Response to Hurricane	BREAK12	NY	Northeast	Middle Atlantic	Most Important Factor	24		
+2012	Importance of Obama's Response to Hurricane	BREAK12	NY	Northeast	Middle Atlantic	An Important Factor	26		
+2012	Importance of Obama's Response to Hurricane	BREAK12	NY	Northeast	Middle Atlantic	Minor Factor	23		
+2012	Importance of Obama's Response to Hurricane	BREAK12	NY	Northeast	Middle Atlantic	Not a Factor At All	22		
+2012	Obama's Hurricane Response Important to You?	BREAK12A	NY	Northeast	Middle Atlantic	Yes	50	80	20
+2012	Obama's Hurricane Response Important to You?	BREAK12A	NY	Northeast	Middle Atlantic	No	45	44	54
+2012	Obama's Hurricane Response a Factor in Your Vote?	BREAK12B	NY	Northeast	Middle Atlantic	Yes	73	71	29
+2012	Obama's Hurricane Response a Factor in Your Vote?	BREAK12B	NY	Northeast	Middle Atlantic	No	22		
+2012	Vote for Senate	SENNY12	NY	Northeast	Middle Atlantic	Gillibrand	72	84	15
+2012	Vote for Senate	SENNY12	NY	Northeast	Middle Atlantic	Long	27	5	95
+2012	Vote by Size of Place	SIZEPLC3	NY	Northeast	Middle Atlantic	Urban	42	77	21
+2012	Vote by Size of Place	SIZEPLC3	NY	Northeast	Middle Atlantic	Suburban	48	52	46
+2012	Vote by Size of Place	SIZEPLC3	NY	Northeast	Middle Atlantic	Rural	10	50	50
+2012	Vote by Region	GEOCOD	NY	Northeast	Middle Atlantic	New York City	33	81	18
+2012	Vote by Region	GEOCOD	NY	Northeast	Middle Atlantic	Long Island	16	52	47
+2012	Vote by Region	GEOCOD	NY	Northeast	Middle Atlantic	Lower Hudson Valley	17	57	41
+2012	Vote by Region	GEOCOD	NY	Northeast	Middle Atlantic	Urban Upstate	19	56	42
+2012	Vote by Region	GEOCOD	NY	Northeast	Middle Atlantic	Rural Upstate	15	48	51

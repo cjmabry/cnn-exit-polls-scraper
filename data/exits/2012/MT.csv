@@ -1,0 +1,116 @@
+2012	Vote by Gender	SEX	MT	West	Mountain	Men	49	37	59
+2012	Vote by Gender	SEX	MT	West	Mountain	Women	51	46	52
+2012	Vote by Age	AGE	MT	West	Mountain	18-29	15	46	50
+2012	Vote by Age	AGE	MT	West	Mountain	30-44	24	38	57
+2012	Vote by Age	AGE	MT	West	Mountain	45-64	40	43	55
+2012	Vote by Age	AGE	MT	West	Mountain	65 and Older	21	40	58
+2012	Vote by Age	AGE65	MT	West	Mountain	18-24	9	46	50
+2012	Vote by Age	AGE65	MT	West	Mountain	25-29	6	46	49
+2012	Vote by Age	AGE65	MT	West	Mountain	30-39	16	43	51
+2012	Vote by Age	AGE65	MT	West	Mountain	40-49	16	31	66
+2012	Vote by Age	AGE65	MT	West	Mountain	50-64	32	45	53
+2012	Vote by Age	AGE65	MT	West	Mountain	65 and Older	21	40	58
+2012	Vote by Race	RACE	MT	West	Mountain	White	89	38	59
+2012	Vote by Race	RACE	MT	West	Mountain	African-American	0		
+2012	Vote by Race	RACE	MT	West	Mountain	Latino	4		
+2012	Vote by Race	RACE	MT	West	Mountain	Asian	0		
+2012	Vote by Race	RACE	MT	West	Mountain	Other	6	74	23
+2012	Vote by Gender and Race	SEXBYRACE	MT	West	Mountain	White Men	43	32	64
+2012	Vote by Gender and Race	SEXBYRACE	MT	West	Mountain	White Women	46	44	54
+2012	Vote by Gender and Race	SEXBYRACE	MT	West	Mountain	Black Men	0		
+2012	Vote by Gender and Race	SEXBYRACE	MT	West	Mountain	Black Women	0		
+2012	Vote by Gender and Race	SEXBYRACE	MT	West	Mountain	Latino Men	2		
+2012	Vote by Gender and Race	SEXBYRACE	MT	West	Mountain	Latino Women	2		
+2012	Vote by Gender and Race	SEXBYRACE	MT	West	Mountain	All Others	7	73	24
+2012	Vote by Ideology	PHIL3	MT	West	Mountain	Liberal	19	84	12
+2012	Vote by Ideology	PHIL3	MT	West	Mountain	Moderate	41	54	43
+2012	Vote by Ideology	PHIL3	MT	West	Mountain	Conservative	40	9	90
+2012	Vote by Party ID	PARTY	MT	West	Mountain	Democratic	26	92	7
+2012	Vote by Party ID	PARTY	MT	West	Mountain	Republican	33	4	96
+2012	Vote by Party ID	PARTY	MT	West	Mountain	Independent	41	40	53
+2012	Vote by Education	EDUC10	MT	West	Mountain	No High School	3		
+2012	Vote by Education	EDUC10	MT	West	Mountain	High School Graduate	21	33	63
+2012	Vote by Education	EDUC10	MT	West	Mountain	Some College	32	38	59
+2012	Vote by Education	EDUC10	MT	West	Mountain	College Graduate	28	43	55
+2012	Vote by Education	EDUC10	MT	West	Mountain	Postgraduate	16	57	40
+2012	Are You a College Graduate?	EDUCCOLL	MT	West	Mountain	Yes	44	48	50
+2012	Are You a College Graduate?	EDUCCOLL	MT	West	Mountain	No	56	37	60
+2012	Did You Attend College?	EDUCHS	MT	West	Mountain	Yes	76	44	54
+2012	Did You Attend College?	EDUCHS	MT	West	Mountain	No	24	35	61
+2012	Vote by Income	INCOME3	MT	West	Mountain	Less Than $50K	46	45	50
+2012	Vote by Income	INCOME3	MT	West	Mountain	$50-100K	37	39	59
+2012	Vote by Income	INCOME3	MT	West	Mountain	$100K or More	17	40	59
+2012	Vote by Income	INC50K	MT	West	Mountain	Less Than $50K	46	45	50
+2012	Vote by Income	INC50K	MT	West	Mountain	$50K or More	54	39	59
+2012	Vote by Income	INC100K	MT	West	Mountain	Less Than $100K	83	43	54
+2012	Vote by Income	INC100K	MT	West	Mountain	$100K or More	17	40	59
+2012	Most Important Issue Facing Country	ISSUE12	MT	West	Mountain	Foreign Policy	4		
+2012	Most Important Issue Facing Country	ISSUE12	MT	West	Mountain	Deficit	18	28	70
+2012	Most Important Issue Facing Country	ISSUE12	MT	West	Mountain	Economy	54	35	62
+2012	Most Important Issue Facing Country	ISSUE12	MT	West	Mountain	Health Care	20	70	28
+2012	Most Important Candidate Quality	QLT12	MT	West	Mountain	Shares My Values	34	33	64
+2012	Most Important Candidate Quality	QLT12	MT	West	Mountain	Strong Leader	15	30	69
+2012	Most Important Candidate Quality	QLT12	MT	West	Mountain	Cares About People	16	76	22
+2012	Most Important Candidate Quality	QLT12	MT	West	Mountain	Vision for Future	33	40	59
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	MT	West	Mountain	Housing Market	6		
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	MT	West	Mountain	Unemployment	30	40	58
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	MT	West	Mountain	Taxes	18	26	72
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	MT	West	Mountain	Rising Prices	43	42	52
+2012	Who Is More In Touch With People Like You?	INTOUCH12	MT	West	Mountain	Obama	43	93	4
+2012	Who Is More In Touch With People Like You?	INTOUCH12	MT	West	Mountain	Romney	50	1	98
+2012	Who Would Better Handle Economy?	HANDLEECON12	MT	West	Mountain	Obama	39	96	1
+2012	Who Would Better Handle Economy?	HANDLEECON12	MT	West	Mountain	Romney	56	2	95
+2012	Opinion of Government	GOVTDO10	MT	West	Mountain	Government Should Do More	30	81	18
+2012	Opinion of Government	GOVTDO10	MT	West	Mountain	Government Doing Too Much	62	16	81
+2012	National Economic Conditions	NEC	MT	West	Mountain	Excellent	2		
+2012	National Economic Conditions	NEC	MT	West	Mountain	Good	16	75	24
+2012	National Economic Conditions	NEC	MT	West	Mountain	Not So Good	43	53	42
+2012	National Economic Conditions	NEC	MT	West	Mountain	Poor	39	10	87
+2012	National Economic Conditions	NEC2	MT	West	Mountain	Excellent/Good	18	77	23
+2012	National Economic Conditions	NEC2	MT	West	Mountain	Not So Good/Poor	81	33	64
+2012	U.S. Economic Conditions Are...	ECONBETT	MT	West	Mountain	Getting Better	33	84	13
+2012	U.S. Economic Conditions Are...	ECONBETT	MT	West	Mountain	Getting Worse	33	7	90
+2012	U.S. Economic Conditions Are...	ECONBETT	MT	West	Mountain	Staying About the Same	33	30	66
+2012	U.S. Economic Conditions Are...	ECONDIR	MT	West	Mountain	Getting Better	33	84	13
+2012	U.S. Economic Conditions Are...	ECONDIR	MT	West	Mountain	Good and Staying the Same	3		
+2012	U.S. Economic Conditions Are...	ECONDIR	MT	West	Mountain	Poor and Staying the Same	30	26	70
+2012	U.S. Economic Conditions Are...	ECONDIR	MT	West	Mountain	Getting Worse	33	7	90
+2012	Your Family's Financial Situation	FINSIT	MT	West	Mountain	Better	23	72	25
+2012	Your Family's Financial Situation	FINSIT	MT	West	Mountain	Worse	33	11	87
+2012	Your Family's Financial Situation	FINSIT	MT	West	Mountain	Same	43	48	49
+2012	Opinion of Barack Obama	FAVOBAMA2	MT	West	Mountain	Favorable	44	92	5
+2012	Opinion of Barack Obama	FAVOBAMA2	MT	West	Mountain	Unfavorable	55	1	96
+2012	Opinion of Mitt Romney	FAVROMN2	MT	West	Mountain	Favorable	57	8	91
+2012	Opinion of Mitt Romney	FAVROMN2	MT	West	Mountain	Unfavorable	41	89	6
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	MT	West	Mountain	Strongly Favor	58	45	53
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	MT	West	Mountain	Have Reservations	24	40	60
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	MT	West	Mountain	Dislike Opponent	16	28	60
+2012	When Did You Decide Presidential Vote?	TIME12	MT	West	Mountain	Just Today	4		
+2012	When Did You Decide Presidential Vote?	TIME12	MT	West	Mountain	Last Few Days	4		
+2012	When Did You Decide Presidential Vote?	TIME12	MT	West	Mountain	In October	11		
+2012	When Did You Decide Presidential Vote?	TIME12	MT	West	Mountain	In September	9		
+2012	When Did You Decide Presidential Vote?	TIME12	MT	West	Mountain	Before That	72	42	56
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	MT	West	Mountain	Today/Last Few Days	7	46	49
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	MT	West	Mountain	Before That	92	41	56
+2012	When Did You Decide Presidential Vote?	TIME12MTH	MT	West	Mountain	In October or November	18	42	54
+2012	When Did You Decide Presidential Vote?	TIME12MTH	MT	West	Mountain	Before That	81	42	56
+2012	Vote by Marital Status	MARRIED	MT	West	Mountain	Married	62	37	61
+2012	Vote by Marital Status	MARRIED	MT	West	Mountain	Unmarried	38	50	46
+2012	Vote by Gender and Marital Status	SEXWED	MT	West	Mountain	Married Men	30	34	63
+2012	Vote by Gender and Marital Status	SEXWED	MT	West	Mountain	Married Women	33	40	59
+2012	Vote by Gender and Marital Status	SEXWED	MT	West	Mountain	Unmarried Men	19	41	53
+2012	Vote by Gender and Marital Status	SEXWED	MT	West	Mountain	Unmarried Women	18	58	38
+2012	Gun Owner in Household?	GUNOWNER12	MT	West	Mountain	Yes	76	38	60
+2012	Gun Owner in Household?	GUNOWNER12	MT	West	Mountain	No	24	56	40
+2012	Vote for Governor	GOVMT12	MT	West	Mountain	Bullock	49	80	18
+2012	Vote for Governor	GOVMT12	MT	West	Mountain	Hill	48	5	94
+2012	Vote for Senate	SENMT12	MT	West	Mountain	Tester	48	84	14
+2012	Vote for Senate	SENMT12	MT	West	Mountain	Rehberg	46	2	97
+2012	Vote for U.S. House	HOUMT12	MT	West	Mountain	Gillan	43	88	10
+2012	Vote for U.S. House	HOUMT12	MT	West	Mountain	Daines	54	6	92
+2012	Vote by Size of Place	SIZEPLC3	MT	West	Mountain	Urban	26	47	49
+2012	Vote by Size of Place	SIZEPLC3	MT	West	Mountain	Suburban	5	38	62
+2012	Vote by Size of Place	SIZEPLC3	MT	West	Mountain	Rural	69	40	57
+2012	Vote by Region	GEOCOD	MT	West	Mountain	Urban Western Montana	29	52	45
+2012	Vote by Region	GEOCOD	MT	West	Mountain	Rural Western Montana	36	37	60
+2012	Vote by Region	GEOCOD	MT	West	Mountain	Eastern Montana	35	39	59

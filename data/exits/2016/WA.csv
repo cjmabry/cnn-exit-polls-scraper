@@ -1,0 +1,137 @@
+2016	Gender	SEX	WA	West	Pacific	Male	46	45	47
+2016	Gender	SEX	WA	West	Pacific	Female	54	62	30
+2016	Age	AGE	WA	West	Pacific	18-29	18		
+2016	Age	AGE	WA	West	Pacific	30-44	24	49	36
+2016	Age	AGE	WA	West	Pacific	45-64	37	51	43
+2016	Age	AGE	WA	West	Pacific	65 and older	20	56	41
+2016	Age	AGE65	WA	West	Pacific	18-24	8		
+2016	Age	AGE65	WA	West	Pacific	25-29	10		
+2016	Age	AGE65	WA	West	Pacific	30-39	16		
+2016	Age	AGE65	WA	West	Pacific	40-49	17	50	40
+2016	Age	AGE65	WA	West	Pacific	50-64	29	50	44
+2016	Age	AGE65	WA	West	Pacific	65 and older	20	56	41
+2016	Age	AGE45	WA	West	Pacific	18-44	43	56	31
+2016	Age	AGE45	WA	West	Pacific	45 and older	57	52	42
+2016	Race	RACE	WA	West	Pacific	White	81	51	40
+2016	Race	RACE	WA	West	Pacific	Black	2		
+2016	Race	RACE	WA	West	Pacific	Latino	7		
+2016	Race	RACE	WA	West	Pacific	Asian	7		
+2016	Race	RACE	WA	West	Pacific	Other race	4		
+2016	Race	RACE2B	WA	West	Pacific	White	81	51	40
+2016	Race	RACE2B	WA	West	Pacific	Non-white	19	61	31
+2016	Race and gender	SEXBYRACE	WA	West	Pacific	White men	38	47	45
+2016	Race and gender	SEXBYRACE	WA	West	Pacific	White women	43	55	36
+2016	Race and gender	SEXBYRACE	WA	West	Pacific	Black men	1		
+2016	Race and gender	SEXBYRACE	WA	West	Pacific	Black women	1		
+2016	Race and gender	SEXBYRACE	WA	West	Pacific	Latino men	3		
+2016	Race and gender	SEXBYRACE	WA	West	Pacific	Latino women	3		
+2016	Race and gender	SEXBYRACE	WA	West	Pacific	Others	11		
+2016	Education	EDUC12R	WA	West	Pacific	High school or less	17	61	33
+2016	Education	EDUC12R	WA	West	Pacific	Some college	29	45	48
+2016	Education	EDUC12R	WA	West	Pacific	College graduate	34	51	37
+2016	Education	EDUC12R	WA	West	Pacific	Postgraduate	19	67	28
+2016	Are you a college graduate?	EDUCCOLL	WA	West	Pacific	Yes	53	57	34
+2016	Are you a college graduate?	EDUCCOLL	WA	West	Pacific	No	47	51	42
+2016	Education and race	EDUCWHITE	WA	West	Pacific	White college graduates	44	58	31
+2016	Education and race	EDUCWHITE	WA	West	Pacific	Whites no degree	37	43	51
+2016	Education and race	EDUCWHITE	WA	West	Pacific	Non-whites college grads	10		
+2016	Education and race	EDUCWHITE	WA	West	Pacific	Non-whites no degree	9		
+2016	Education among whites by sex	EDUCWHITEBYSEX	WA	West	Pacific	White college-grad women	25	64	25
+2016	Education among whites by sex	EDUCWHITEBYSEX	WA	West	Pacific	White non-college women	19	43	51
+2016	Education among whites by sex	EDUCWHITEBYSEX	WA	West	Pacific	White college-grad men	20	51	40
+2016	Education among whites by sex	EDUCWHITEBYSEX	WA	West	Pacific	White non-college men	18	42	52
+2016	Education among whites by sex	EDUCWHITEBYSEX	WA	West	Pacific	Non-whites	19	61	31
+2016	Income	INCOME16GEN	WA	West	Pacific	Under $30,000	19	62	26
+2016	Income	INCOME16GEN	WA	West	Pacific	$30K-$49,999	15	41	48
+2016	Income	INCOME16GEN	WA	West	Pacific	$50K-$99,999	33	50	44
+2016	Income	INCOME16GEN	WA	West	Pacific	$100K-$199,999	25	57	35
+2016	Income	INCOME16GEN	WA	West	Pacific	$200K-$249,999	3		
+2016	Income	INCOME16GEN	WA	West	Pacific	$250,000 or more	5		
+2016	Income	INCOME3	WA	West	Pacific	Under $50K	34	52	36
+2016	Income	INCOME3	WA	West	Pacific	$50K-$100K	33	50	44
+2016	Income	INCOME3	WA	West	Pacific	$100K or more	33	59	34
+2016	Income	INC50K	WA	West	Pacific	Under $50K	34	52	36
+2016	Income	INC50K	WA	West	Pacific	$50K or more	66	54	39
+2016	Income	INC100K	WA	West	Pacific	Under $100K	67	51	40
+2016	Income	INC100K	WA	West	Pacific	$100K or more	33	59	34
+2016	Party ID	PARTY	WA	West	Pacific	Democrats	34	91	5
+2016	Party ID	PARTY	WA	West	Pacific	Republicans	20	8	85
+2016	Party ID	PARTY	WA	West	Pacific	Independents	45	48	40
+2016	Party by gender	PARTYGENDER	WA	West	Pacific	Democratic men	13	89	7
+2016	Party by gender	PARTYGENDER	WA	West	Pacific	Democratic women	22	92	5
+2016	Party by gender	PARTYGENDER	WA	West	Pacific	Republican men	10		
+2016	Party by gender	PARTYGENDER	WA	West	Pacific	Republican women	10	7	84
+2016	Party by gender	PARTYGENDER	WA	West	Pacific	Independent men	23	37	51
+2016	Party by gender	PARTYGENDER	WA	West	Pacific	Independent women	22	59	28
+2016	Ideology	PHIL3	WA	West	Pacific	Liberal	32	86	7
+2016	Ideology	PHIL3	WA	West	Pacific	Moderate	37	61	29
+2016	Ideology	PHIL3	WA	West	Pacific	Conservative	31	14	82
+2016	When did you decide presidential vote?	TIME16	WA	West	Pacific	Last few days			
+2016	When did you decide presidential vote?	TIME16	WA	West	Pacific	Last week	3		
+2016	When did you decide presidential vote?	TIME16	WA	West	Pacific	In October	19	47	40
+2016	When did you decide presidential vote?	TIME16	WA	West	Pacific	In September	13	47	50
+2016	When did you decide presidential vote?	TIME16	WA	West	Pacific	Before September	62	59	36
+2016	When did you decide presidential vote?	TIME16WEEK	WA	West	Pacific	In the last week	3		
+2016	When did you decide presidential vote?	TIME16WEEK	WA	West	Pacific	Before that	94	55	39
+2016	When did you decide presidential vote?	TIME16MONTH	WA	West	Pacific	In the last month	22	46	41
+2016	When did you decide presidential vote?	TIME16MONTH	WA	West	Pacific	Before that	75	57	38
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	WA	West	Pacific	Strongly favor 	35	57	36
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	WA	West	Pacific	Have reservations	25	60	37
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	WA	West	Pacific	Dislike opponents	38	49	40
+2016	Most important issue facing the country	ISSUE16	WA	West	Pacific	Foreign policy	18	64	27
+2016	Most important issue facing the country	ISSUE16	WA	West	Pacific	Immigration	13		
+2016	Most important issue facing the country	ISSUE16	WA	West	Pacific	Economy	48	56	35
+2016	Most important issue facing the country	ISSUE16	WA	West	Pacific	Terrorism	16	42	53
+2016	Which candidate quality mattered most?	QLT16	WA	West	Pacific	Cares about me	12	41	43
+2016	Which candidate quality mattered most?	QLT16	WA	West	Pacific	Can bring change	29	11	85
+2016	Which candidate quality mattered most?	QLT16	WA	West	Pacific	Right experience	28	95	5
+2016	Which candidate quality mattered most?	QLT16	WA	West	Pacific	Good judgment	25	66	18
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	WA	West	Pacific	Offered legal status	75	66	27
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	WA	West	Pacific	Deported to home country	19	20	77
+2016	Opinion of Barack Obama as president	OBAMA4	WA	West	Pacific	Strongly approve	38	92	6
+2016	Opinion of Barack Obama as president	OBAMA4	WA	West	Pacific	Somewhat approve	23	75	14
+2016	Opinion of Barack Obama as president	OBAMA4	WA	West	Pacific	Somewhat disapprove	10		
+2016	Opinion of Barack Obama as president	OBAMA4	WA	West	Pacific	Strongly disapprove	28	3	91
+2016	Opinion of Barack Obama as president	OBAMA2	WA	West	Pacific	Approve	61	85	9
+2016	Opinion of Barack Obama as president	OBAMA2	WA	West	Pacific	Disapprove	38	4	87
+2016	Opinion of Hillary Clinton	FAVHCLIN16	WA	West	Pacific	Favorable	42	97	1
+2016	Opinion of Hillary Clinton	FAVHCLIN16	WA	West	Pacific	Unfavorable	52	15	72
+2016	Opinion of Donald Trump	FAVTRUMP	WA	West	Pacific	Favorable	29	2	97
+2016	Opinion of Donald Trump	FAVTRUMP	WA	West	Pacific	Unfavorable	69	77	13
+2016	Opinion of Clinton and Trump	FAVPRES16	WA	West	Pacific	Both favorable	1		
+2016	Opinion of Clinton and Trump	FAVPRES16	WA	West	Pacific	Only Clinton favorable	41	98	0
+2016	Opinion of Clinton and Trump	FAVPRES16	WA	West	Pacific	Only Trump favorable	28	1	98
+2016	Opinion of Clinton and Trump	FAVPRES16	WA	West	Pacific	Both unfavorable	23	34	39
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	WA	West	Pacific	Yes	40	97	2
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	WA	West	Pacific	No	56	22	65
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	WA	West	Pacific	Yes	29	5	93
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	WA	West	Pacific	No	67	77	13
+2016	Which candidate is honest?	HONEST16	WA	West	Pacific	Both are	2		
+2016	Which candidate is honest?	HONEST16	WA	West	Pacific	Only Clinton is	38	99	0
+2016	Which candidate is honest?	HONEST16	WA	West	Pacific	Only Trump is	26	1	97
+2016	Which candidate is honest?	HONEST16	WA	West	Pacific	Neither is	27	46	31
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	WA	West	Pacific	Yes	62	85	11
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	WA	West	Pacific	No	37	3	83
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	WA	West	Pacific	Yes	30	3	96
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	WA	West	Pacific	No	67	79	11
+2016	Which candidate has the right temperament?	TEMPERAMENT16	WA	West	Pacific	Both do	6		
+2016	Which candidate has the right temperament?	TEMPERAMENT16	WA	West	Pacific	Only Clinton does	56	94	2
+2016	Which candidate has the right temperament?	TEMPERAMENT16	WA	West	Pacific	Only Trump does	24	2	96
+2016	Which candidate has the right temperament?	TEMPERAMENT16	WA	West	Pacific	Neither does	11		
+2016	Condition of national economy	NEC	WA	West	Pacific	Excellent	1		
+2016	Condition of national economy	NEC	WA	West	Pacific	Good	45	86	10
+2016	Condition of national economy	NEC	WA	West	Pacific	Not good	33	38	49
+2016	Condition of national economy	NEC	WA	West	Pacific	Poor	20	8	86
+2016	Condition of national economy	NEC2	WA	West	Pacific	Good	47	86	10
+2016	Condition of national economy	NEC2	WA	West	Pacific	Poor	53	26	63
+2016	Life for the next generation of Americans will be:	LIFE	WA	West	Pacific	Better than today	30	71	25
+2016	Life for the next generation of Americans will be:	LIFE	WA	West	Pacific	Worse than today	27	28	61
+2016	Life for the next generation of Americans will be:	LIFE	WA	West	Pacific	About the same	37	64	29
+2016	Area type	SIZEPLC3	WA	West	Pacific	Urban area	35	62	29
+2016	Area type	SIZEPLC3	WA	West	Pacific	Suburban area	48	50	42
+2016	Area type	SIZEPLC3	WA	West	Pacific	Rural area	17	49	44
+2016	Region	GEOCOD	WA	West	Pacific	Upper Puget Sound	17	52	39
+2016	Region	GEOCOD	WA	West	Pacific	King County	33	72	20
+2016	Region	GEOCOD	WA	West	Pacific	Lower Puget Sound	15	49	43
+2016	Region	GEOCOD	WA	West	Pacific	Olympic Peninsula / S.W.	17	45	47
+2016	Region	GEOCOD	WA	West	Pacific	East Washington	19	37	56

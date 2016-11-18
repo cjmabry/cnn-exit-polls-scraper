@@ -1,0 +1,99 @@
+2012	Vote by Gender	SEX	MN	Midwest	West North Central	Men	49	44	51
+2012	Vote by Gender	SEX	MN	Midwest	West North Central	Women	51	60	38
+2012	Vote by Age	AGE	MN	Midwest	West North Central	18-29	20	63	33
+2012	Vote by Age	AGE	MN	Midwest	West North Central	30-44	24	50	46
+2012	Vote by Age	AGE	MN	Midwest	West North Central	45-64	41	49	49
+2012	Vote by Age	AGE	MN	Midwest	West North Central	65 and Older	14	52	48
+2012	Vote by Age	AGE65	MN	Midwest	West North Central	18-24	14	65	31
+2012	Vote by Age	AGE65	MN	Midwest	West North Central	25-29	7	60	35
+2012	Vote by Age	AGE65	MN	Midwest	West North Central	30-39	16	54	40
+2012	Vote by Age	AGE65	MN	Midwest	West North Central	40-49	19	41	57
+2012	Vote by Age	AGE65	MN	Midwest	West North Central	50-64	31	52	46
+2012	Vote by Age	AGE65	MN	Midwest	West North Central	65 and Older	14	52	48
+2012	Vote by Race	RACE	MN	Midwest	West North Central	White	87	48	49
+2012	Vote by Race	RACE	MN	Midwest	West North Central	African-American	6		
+2012	Vote by Race	RACE	MN	Midwest	West North Central	Latino	3		
+2012	Vote by Race	RACE	MN	Midwest	West North Central	Asian	3		
+2012	Vote by Race	RACE	MN	Midwest	West North Central	Other	2		
+2012	Vote by Gender and Race	SEXBYRACE	MN	Midwest	West North Central	White Men	44	41	54
+2012	Vote by Gender and Race	SEXBYRACE	MN	Midwest	West North Central	White Women	43	56	43
+2012	Vote by Gender and Race	SEXBYRACE	MN	Midwest	West North Central	Black Men	2		
+2012	Vote by Gender and Race	SEXBYRACE	MN	Midwest	West North Central	Black Women	4		
+2012	Vote by Gender and Race	SEXBYRACE	MN	Midwest	West North Central	Latino Men	1		
+2012	Vote by Gender and Race	SEXBYRACE	MN	Midwest	West North Central	Latino Women	2		
+2012	Vote by Gender and Race	SEXBYRACE	MN	Midwest	West North Central	All Others	5		
+2012	Vote by Ideology	PHIL3	MN	Midwest	West North Central	Liberal	27	91	6
+2012	Vote by Ideology	PHIL3	MN	Midwest	West North Central	Moderate	43	57	40
+2012	Vote by Ideology	PHIL3	MN	Midwest	West North Central	Conservative	31	14	85
+2012	Vote by Party ID	PARTY	MN	Midwest	West North Central	Democratic	39	93	6
+2012	Vote by Party ID	PARTY	MN	Midwest	West North Central	Republican	31	5	95
+2012	Vote by Party ID	PARTY	MN	Midwest	West North Central	Independent	30	50	44
+2012	Vote by Education	EDUC10	MN	Midwest	West North Central	No High School	3		
+2012	Vote by Education	EDUC10	MN	Midwest	West North Central	High School Graduate	19	54	44
+2012	Vote by Education	EDUC10	MN	Midwest	West North Central	Some College	31	49	49
+2012	Vote by Education	EDUC10	MN	Midwest	West North Central	College Graduate	30	49	46
+2012	Vote by Education	EDUC10	MN	Midwest	West North Central	Postgraduate	17	61	37
+2012	Are You a College Graduate?	EDUCCOLL	MN	Midwest	West North Central	Yes	47	54	43
+2012	Are You a College Graduate?	EDUCCOLL	MN	Midwest	West North Central	No	53	52	46
+2012	Did You Attend College?	EDUCHS	MN	Midwest	West North Central	Yes	78	52	45
+2012	Did You Attend College?	EDUCHS	MN	Midwest	West North Central	No	22	57	41
+2012	Vote by Income	INCOME3	MN	Midwest	West North Central	Less Than $50K	37	59	37
+2012	Vote by Income	INCOME3	MN	Midwest	West North Central	$50-100K	36	50	48
+2012	Vote by Income	INCOME3	MN	Midwest	West North Central	$100K or More	27	46	52
+2012	Vote by Income	INC50K	MN	Midwest	West North Central	Less Than $50K	37	59	37
+2012	Vote by Income	INC50K	MN	Midwest	West North Central	$50K or More	63	48	50
+2012	Vote by Income	INC100K	MN	Midwest	West North Central	Less Than $100K	73	55	42
+2012	Vote by Income	INC100K	MN	Midwest	West North Central	$100K or More	27	46	52
+2012	How Often Do You Attend Religious Services?	ATTEND	MN	Midwest	West North Central	More Than Weekly	9	32	67
+2012	How Often Do You Attend Religious Services?	ATTEND	MN	Midwest	West North Central	Weekly	25	46	53
+2012	How Often Do You Attend Religious Services?	ATTEND	MN	Midwest	West North Central	Monthly	17	54	45
+2012	How Often Do You Attend Religious Services?	ATTEND	MN	Midwest	West North Central	Few Times a Year	32	58	37
+2012	How Often Do You Attend Religious Services?	ATTEND	MN	Midwest	West North Central	Never	15	71	23
+2012	How Often Do You Attend Religious Services?	ATTEND2	MN	Midwest	West North Central	Weekly	34	42	57
+2012	How Often Do You Attend Religious Services?	ATTEND2	MN	Midwest	West North Central	Occasionally	49	57	40
+2012	How Often Do You Attend Religious Services?	ATTEND2	MN	Midwest	West North Central	Never	15	71	23
+2012	Are You White Born-Again Christian?	WHTEVANG	MN	Midwest	West North Central	Yes	23	25	69
+2012	Are You White Born-Again Christian?	WHTEVANG	MN	Midwest	West North Central	No	77	63	35
+2012	Most Important Issue Facing Country	ISSUE12	MN	Midwest	West North Central	Foreign Policy	3		
+2012	Most Important Issue Facing Country	ISSUE12	MN	Midwest	West North Central	Deficit	20	40	52
+2012	Most Important Issue Facing Country	ISSUE12	MN	Midwest	West North Central	Economy	56	51	47
+2012	Most Important Issue Facing Country	ISSUE12	MN	Midwest	West North Central	Health Care	18	75	23
+2012	Opinion of Government	GOVTDO10	MN	Midwest	West North Central	Government Should Do More	46	84	14
+2012	Opinion of Government	GOVTDO10	MN	Midwest	West North Central	Government Doing Too Much	49	26	69
+2012	Your Family's Financial Situation	FINSIT	MN	Midwest	West North Central	Better	25	81	14
+2012	Your Family's Financial Situation	FINSIT	MN	Midwest	West North Central	Worse	29	24	73
+2012	Your Family's Financial Situation	FINSIT	MN	Midwest	West North Central	Same	45	61	36
+2012	Opinion of Barack Obama	FAVOBAMA2	MN	Midwest	West North Central	Favorable	56	91	8
+2012	Opinion of Barack Obama	FAVOBAMA2	MN	Midwest	West North Central	Unfavorable	42	6	89
+2012	Opinion of Mitt Romney	FAVROMN2	MN	Midwest	West North Central	Favorable	42	8	91
+2012	Opinion of Mitt Romney	FAVROMN2	MN	Midwest	West North Central	Unfavorable	55	89	7
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	MN	Midwest	West North Central	Strongly Favor	61	61	37
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	MN	Midwest	West North Central	Have Reservations	29	46	53
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	MN	Midwest	West North Central	Dislike Opponent	9	40	48
+2012	When Did You Decide Presidential Vote?	TIME12	MN	Midwest	West North Central	Just Today	7		
+2012	When Did You Decide Presidential Vote?	TIME12	MN	Midwest	West North Central	Last Few Days	9	38	48
+2012	When Did You Decide Presidential Vote?	TIME12	MN	Midwest	West North Central	In October	7		
+2012	When Did You Decide Presidential Vote?	TIME12	MN	Midwest	West North Central	In September	6		
+2012	When Did You Decide Presidential Vote?	TIME12	MN	Midwest	West North Central	Before That	70	58	40
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	MN	Midwest	West North Central	Today/Last Few Days	16	43	45
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	MN	Midwest	West North Central	Before That	83	57	41
+2012	When Did You Decide Presidential Vote?	TIME12MTH	MN	Midwest	West North Central	In October or November	23	43	49
+2012	When Did You Decide Presidential Vote?	TIME12MTH	MN	Midwest	West North Central	Before That	76	58	40
+2012	Vote by Marital Status	MARRIED	MN	Midwest	West North Central	Married	58	47	51
+2012	Vote by Marital Status	MARRIED	MN	Midwest	West North Central	Unmarried	42	63	32
+2012	Vote by Gender and Marital Status	SEXWED	MN	Midwest	West North Central	Married Men	30	40	56
+2012	Vote by Gender and Marital Status	SEXWED	MN	Midwest	West North Central	Married Women	28	55	45
+2012	Vote by Gender and Marital Status	SEXWED	MN	Midwest	West North Central	Unmarried Men	19	55	38
+2012	Vote by Gender and Marital Status	SEXWED	MN	Midwest	West North Central	Unmarried Women	23	70	28
+2012	Vote for Senate	SENMN12	MN	Midwest	West North Central	Klobuchar	65	76	23
+2012	Vote for Senate	SENMN12	MN	Midwest	West North Central	Bills	31	5	93
+2012	Vote on Amendment 1	AMND1MN	MN	Midwest	West North Central	Yes	48	27	72
+2012	Vote on Amendment 1	AMND1MN	MN	Midwest	West North Central	No	52	76	20
+2012	Vote by Size of Place	SIZEPLC3	MN	Midwest	West North Central	Urban	24	73	23
+2012	Vote by Size of Place	SIZEPLC3	MN	Midwest	West North Central	Suburban	43	45	53
+2012	Vote by Size of Place	SIZEPLC3	MN	Midwest	West North Central	Rural	33	47	49
+2012	Vote by Region	GEOCOD	MN	Midwest	West North Central	Twin Cities	32	64	34
+2012	Vote by Region	GEOCOD	MN	Midwest	West North Central	East Twin Cities Suburbs	19	48	48
+2012	Vote by Region	GEOCOD	MN	Midwest	West North Central	Collar Counties	16	42	56
+2012	Vote by Region	GEOCOD	MN	Midwest	West North Central	Southern Minnesota	17	47	49
+2012	Vote by Region	GEOCOD	MN	Midwest	West North Central	Northern Minnesota	16	50	48

@@ -1,0 +1,210 @@
+2016	Gender	SEX	WI	Midwest	East North Central	Male	49	40	54
+2016	Gender	SEX	WI	Midwest	East North Central	Female	51	53	43
+2016	Age	AGE	WI	Midwest	East North Central	18-29	17	47	44
+2016	Age	AGE	WI	Midwest	East North Central	30-44	23	55	37
+2016	Age	AGE	WI	Midwest	East North Central	45-64	41	41	56
+2016	Age	AGE	WI	Midwest	East North Central	65 and older	20	48	49
+2016	Age	AGE65	WI	Midwest	East North Central	18-24	9	43	45
+2016	Age	AGE65	WI	Midwest	East North Central	25-29	7	51	42
+2016	Age	AGE65	WI	Midwest	East North Central	30-39	15	57	36
+2016	Age	AGE65	WI	Midwest	East North Central	40-49	17	46	49
+2016	Age	AGE65	WI	Midwest	East North Central	50-64	32	41	56
+2016	Age	AGE65	WI	Midwest	East North Central	65 and older	20	48	49
+2016	Age	AGE45	WI	Midwest	East North Central	18-44	39	52	40
+2016	Age	AGE45	WI	Midwest	East North Central	45 and older	61	43	54
+2016	Race	RACE	WI	Midwest	East North Central	White	86	42	53
+2016	Race	RACE	WI	Midwest	East North Central	Black	7	92	6
+2016	Race	RACE	WI	Midwest	East North Central	Latino	4	63	34
+2016	Race	RACE	WI	Midwest	East North Central	Asian	1		
+2016	Race	RACE	WI	Midwest	East North Central	Other race	2		
+2016	Race	RACE2B	WI	Midwest	East North Central	White	86	42	53
+2016	Race	RACE2B	WI	Midwest	East North Central	Non-white	14	76	21
+2016	Race and gender	SEXBYRACE	WI	Midwest	East North Central	White men	42	35	59
+2016	Race and gender	SEXBYRACE	WI	Midwest	East North Central	White women	45	49	47
+2016	Race and gender	SEXBYRACE	WI	Midwest	East North Central	Black men	3	90	8
+2016	Race and gender	SEXBYRACE	WI	Midwest	East North Central	Black women	4	94	3
+2016	Race and gender	SEXBYRACE	WI	Midwest	East North Central	Latino men	2		
+2016	Race and gender	SEXBYRACE	WI	Midwest	East North Central	Latino women	2		
+2016	Race and gender	SEXBYRACE	WI	Midwest	East North Central	Others	3		
+2016	Education	EDUC12R	WI	Midwest	East North Central	High school or less	20	41	54
+2016	Education	EDUC12R	WI	Midwest	East North Central	Some college	35	39	57
+2016	Education	EDUC12R	WI	Midwest	East North Central	College graduate	30	49	45
+2016	Education	EDUC12R	WI	Midwest	East North Central	Postgraduate	15	69	26
+2016	Are you a college graduate?	EDUCCOLL	WI	Midwest	East North Central	Yes	45	55	39
+2016	Are you a college graduate?	EDUCCOLL	WI	Midwest	East North Central	No	55	40	56
+2016	Education and race	EDUCWHITE	WI	Midwest	East North Central	White college graduates	39	53	41
+2016	Education and race	EDUCWHITE	WI	Midwest	East North Central	Whites no degree	47	34	62
+2016	Education and race	EDUCWHITE	WI	Midwest	East North Central	Non-whites college grads	6	71	25
+2016	Education and race	EDUCWHITE	WI	Midwest	East North Central	Non-whites no degree	8	80	18
+2016	Education among whites by sex	EDUCWHITEBYSEX	WI	Midwest	East North Central	White college-grad women	21	60	37
+2016	Education among whites by sex	EDUCWHITEBYSEX	WI	Midwest	East North Central	White non-college women	24	40	56
+2016	Education among whites by sex	EDUCWHITEBYSEX	WI	Midwest	East North Central	White college-grad men	19	46	46
+2016	Education among whites by sex	EDUCWHITEBYSEX	WI	Midwest	East North Central	White non-college men	23	26	69
+2016	Education among whites by sex	EDUCWHITEBYSEX	WI	Midwest	East North Central	Non-whites	13	76	21
+2016	Income	INCOME16GEN	WI	Midwest	East North Central	Under $30,000	19	52	43
+2016	Income	INCOME16GEN	WI	Midwest	East North Central	$30K-$49,999	20	46	46
+2016	Income	INCOME16GEN	WI	Midwest	East North Central	$50K-$99,999	34	46	52
+2016	Income	INCOME16GEN	WI	Midwest	East North Central	$100K-$199,999	19	44	50
+2016	Income	INCOME16GEN	WI	Midwest	East North Central	$200K-$249,999	4		
+2016	Income	INCOME16GEN	WI	Midwest	East North Central	$250,000 or more	4		
+2016	Income	INCOME3	WI	Midwest	East North Central	Under $50K	39	49	45
+2016	Income	INCOME3	WI	Midwest	East North Central	$50K-$100K	34	46	52
+2016	Income	INCOME3	WI	Midwest	East North Central	$100K or more	27	48	46
+2016	Income	INC50K	WI	Midwest	East North Central	Under $50K	39	49	45
+2016	Income	INC50K	WI	Midwest	East North Central	$50K or more	61	47	50
+2016	Income	INC100K	WI	Midwest	East North Central	Under $100K	73	48	48
+2016	Income	INC100K	WI	Midwest	East North Central	$100K or more	27	48	46
+2016	Party ID	PARTY	WI	Midwest	East North Central	Democrats	35	91	7
+2016	Party ID	PARTY	WI	Midwest	East North Central	Republicans	34	6	90
+2016	Party ID	PARTY	WI	Midwest	East North Central	Independents	30	40	50
+2016	Party by gender	PARTYGENDER	WI	Midwest	East North Central	Democratic men	13	92	6
+2016	Party by gender	PARTYGENDER	WI	Midwest	East North Central	Democratic women	22	91	8
+2016	Party by gender	PARTYGENDER	WI	Midwest	East North Central	Republican men	18	6	89
+2016	Party by gender	PARTYGENDER	WI	Midwest	East North Central	Republican women	16	6	91
+2016	Party by gender	PARTYGENDER	WI	Midwest	East North Central	Independent men	18	37	52
+2016	Party by gender	PARTYGENDER	WI	Midwest	East North Central	Independent women	13	44	47
+2016	Ideology	PHIL3	WI	Midwest	East North Central	Liberal	25	86	10
+2016	Ideology	PHIL3	WI	Midwest	East North Central	Moderate	40	52	42
+2016	Ideology	PHIL3	WI	Midwest	East North Central	Conservative	34	11	85
+2016	How often do you attend religious services?	ATTEND16	WI	Midwest	East North Central	Weekly or more	27	38	59
+2016	How often do you attend religious services?	ATTEND16	WI	Midwest	East North Central	Monthly	16	41	52
+2016	How often do you attend religious services?	ATTEND16	WI	Midwest	East North Central	Few times a year	33	46	50
+2016	How often do you attend religious services?	ATTEND16	WI	Midwest	East North Central	Never	23	65	29
+2016	How often do you attend religious services?	ATTEND16B	WI	Midwest	East North Central	Monthly or more	44	39	56
+2016	How often do you attend religious services?	ATTEND16B	WI	Midwest	East North Central	Less often than that	56	54	41
+2016	White born-again or evangelical Christian?	WHTEVANG	WI	Midwest	East North Central	Yes	28	23	73
+2016	White born-again or evangelical Christian?	WHTEVANG	WI	Midwest	East North Central	No	72	57	38
+2016	Marital status	MARRIED	WI	Midwest	East North Central	Married	59	40	55
+2016	Marital status	MARRIED	WI	Midwest	East North Central	Unmarried	41	51	43
+2016	Marital status by gender	SEXWED	WI	Midwest	East North Central	Married men	32	34	60
+2016	Marital status by gender	SEXWED	WI	Midwest	East North Central	Married women	28	46	49
+2016	Marital status by gender	SEXWED	WI	Midwest	East North Central	Unmarried men	17	46	47
+2016	Marital status by gender	SEXWED	WI	Midwest	East North Central	Unmarried women	23	55	40
+2016	Union household?	UNIONHH12	WI	Midwest	East North Central	Yes	21	53	43
+2016	Union household?	UNIONHH12	WI	Midwest	East North Central	No	79	44	52
+2016	When did you decide presidential vote?	TIME16	WI	Midwest	East North Central	Last few days	10	30	57
+2016	When did you decide presidential vote?	TIME16	WI	Midwest	East North Central	Last week	5		
+2016	When did you decide presidential vote?	TIME16	WI	Midwest	East North Central	In October	11	39	54
+2016	When did you decide presidential vote?	TIME16	WI	Midwest	East North Central	In September	12	40	50
+2016	When did you decide presidential vote?	TIME16	WI	Midwest	East North Central	Before September	63	52	46
+2016	When did you decide presidential vote?	TIME16WEEK	WI	Midwest	East North Central	In the last week	14	30	59
+2016	When did you decide presidential vote?	TIME16WEEK	WI	Midwest	East North Central	Before that	85	49	47
+2016	When did you decide presidential vote?	TIME16MONTH	WI	Midwest	East North Central	In the last month	25	34	57
+2016	When did you decide presidential vote?	TIME16MONTH	WI	Midwest	East North Central	Before that	75	51	46
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	WI	Midwest	East North Central	Strongly favor 	42	50	47
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	WI	Midwest	East North Central	Have reservations	32	41	56
+2016	Opinion of presidential candidate you voted for	DESCRIBP12	WI	Midwest	East North Central	Dislike opponents	23	45	47
+2016	Most important issue facing the country	ISSUE16	WI	Midwest	East North Central	Foreign policy	11	55	38
+2016	Most important issue facing the country	ISSUE16	WI	Midwest	East North Central	Immigration	12	23	75
+2016	Most important issue facing the country	ISSUE16	WI	Midwest	East North Central	Economy	55	53	42
+2016	Most important issue facing the country	ISSUE16	WI	Midwest	East North Central	Terrorism	19	38	60
+2016	Which candidate quality mattered most?	QLT16	WI	Midwest	East North Central	Cares about me	15	64	31
+2016	Which candidate quality mattered most?	QLT16	WI	Midwest	East North Central	Can bring change	44	12	84
+2016	Which candidate quality mattered most?	QLT16	WI	Midwest	East North Central	Right experience	20	92	7
+2016	Which candidate quality mattered most?	QLT16	WI	Midwest	East North Central	Good judgment	18	68	24
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	WI	Midwest	East North Central	Offered legal status	69	56	37
+2016	Illegal immigrants working in the U.S. should be:	IMMDEPORT	WI	Midwest	East North Central	Deported to home country	26	20	77
+2016	Do you think immigrants to the U.S. today:	IMMBETTER	WI	Midwest	East North Central	Help the country	55	63	29
+2016	Do you think immigrants to the U.S. today:	IMMBETTER	WI	Midwest	East North Central	Hurt the country	37	18	78
+2016	Effect of international trade	TRADE16	WI	Midwest	East North Central	Creates U.S. jobs	35	59	33
+2016	Effect of international trade	TRADE16	WI	Midwest	East North Central	Takes away U.S. jobs	50	33	62
+2016	Effect of international trade	TRADE16	WI	Midwest	East North Central	Does not affect jobs	9		
+2016	Does the country's criminal justice system:	FAIRJUSTICE	WI	Midwest	East North Central	Treat all fairly	48	27	68
+2016	Does the country's criminal justice system:	FAIRJUSTICE	WI	Midwest	East North Central	Treat blacks unfairly	40	78	19
+2016	How do things work in the U.S. today?	RACEFACTOR	WI	Midwest	East North Central	Whites are favored	35	78	13
+2016	How do things work in the U.S. today?	RACEFACTOR	WI	Midwest	East North Central	Minorities are favored	27	18	78
+2016	How do things work in the U.S. today?	RACEFACTOR	WI	Midwest	East North Central	No group is favored	34	29	66
+2016	View on Obamacare	HEALTHCARE16	WI	Midwest	East North Central	Did not go far enough	28	81	15
+2016	View on Obamacare	HEALTHCARE16	WI	Midwest	East North Central	Was about right	18	89	9
+2016	View on Obamacare	HEALTHCARE16	WI	Midwest	East North Central	Went too far	49	10	81
+2016	Feelings about the federal government	GOVTANGR16	WI	Midwest	East North Central	Enthusiastic	3		
+2016	Feelings about the federal government	GOVTANGR16	WI	Midwest	East North Central	Satisfied	22	80	17
+2016	Feelings about the federal government	GOVTANGR16	WI	Midwest	East North Central	Dissatisfied	52	41	55
+2016	Feelings about the federal government	GOVTANGR16	WI	Midwest	East North Central	Angry	22	21	74
+2016	Feelings about the federal government	GOVTANGR16B	WI	Midwest	East North Central	Enthusiastic/Satisfied	25	81	17
+2016	Feelings about the federal government	GOVTANGR16B	WI	Midwest	East North Central	Dissatisfied/Angry	74	35	60
+2016	Opinion of Barack Obama as president	OBAMA4	WI	Midwest	East North Central	Strongly approve	33	93	5
+2016	Opinion of Barack Obama as president	OBAMA4	WI	Midwest	East North Central	Somewhat approve	19	71	21
+2016	Opinion of Barack Obama as president	OBAMA4	WI	Midwest	East North Central	Somewhat disapprove	13	15	73
+2016	Opinion of Barack Obama as president	OBAMA4	WI	Midwest	East North Central	Strongly disapprove	34	2	95
+2016	Opinion of Barack Obama as president	OBAMA2	WI	Midwest	East North Central	Approve	52	85	11
+2016	Opinion of Barack Obama as president	OBAMA2	WI	Midwest	East North Central	Disapprove	47	6	89
+2016	Should the next president:	OBAMAPLCY16	WI	Midwest	East North Central	Continue Obama's policies	29	95	2
+2016	Should the next president:	OBAMAPLCY16	WI	Midwest	East North Central	Be more conservative	51	13	83
+2016	Should the next president:	OBAMAPLCY16	WI	Midwest	East North Central	Be more liberal	15	69	24
+2016	Opinion of Hillary Clinton	FAVHCLIN16	WI	Midwest	East North Central	Favorable	42	97	2
+2016	Opinion of Hillary Clinton	FAVHCLIN16	WI	Midwest	East North Central	Unfavorable	56	9	84
+2016	Opinion of Donald Trump	FAVTRUMP	WI	Midwest	East North Central	Favorable	35	1	98
+2016	Opinion of Donald Trump	FAVTRUMP	WI	Midwest	East North Central	Unfavorable	64	73	21
+2016	Opinion of Clinton and Trump	FAVPRES16	WI	Midwest	East North Central	Both favorable	1		
+2016	Opinion of Clinton and Trump	FAVPRES16	WI	Midwest	East North Central	Only Clinton favorable	41	99	1
+2016	Opinion of Clinton and Trump	FAVPRES16	WI	Midwest	East North Central	Only Trump favorable	34	0	99
+2016	Opinion of Clinton and Trump	FAVPRES16	WI	Midwest	East North Central	Both unfavorable	22	23	60
+2016	Opinion of Paul Ryan	FAVRYAN2	WI	Midwest	East North Central	Favorable	51	32	63
+2016	Opinion of Paul Ryan	FAVRYAN2	WI	Midwest	East North Central	Unfavorable	43	66	30
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	WI	Midwest	East North Central	Yes	33	99	1
+2016	Is Hillary Clinton honest and trustworthy?	CLINHONEST	WI	Midwest	East North Central	No	64	18	76
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	WI	Midwest	East North Central	Yes	36	2	96
+2016	Is Donald Trump honest and trustworthy?	TRUMPHONEST	WI	Midwest	East North Central	No	61	73	21
+2016	Which candidate is honest?	HONEST16	WI	Midwest	East North Central	Both are	1		
+2016	Which candidate is honest?	HONEST16	WI	Midwest	East North Central	Only Clinton is	32	99	0
+2016	Which candidate is honest?	HONEST16	WI	Midwest	East North Central	Only Trump is	35	1	98
+2016	Which candidate is honest?	HONEST16	WI	Midwest	East North Central	Neither is	27	40	47
+2016	Is Clinton qualified to serve as president?	QUALCLINTON	WI	Midwest	East North Central	Yes	52	90	7
+2016	Is Clinton qualified to serve as president?	QUALCLINTON	WI	Midwest	East North Central	No	47	6	88
+2016	Is Trump qualified to serve as president?	QUALTRUMP	WI	Midwest	East North Central	Yes	35	4	95
+2016	Is Trump qualified to serve as president?	QUALTRUMP	WI	Midwest	East North Central	No	64	75	18
+2016	Who is qualified to serve as president?	QUALIFIED16	WI	Midwest	East North Central	Both are	4		
+2016	Who is qualified to serve as president?	QUALIFIED16	WI	Midwest	East North Central	Only Clinton is	47	95	3
+2016	Who is qualified to serve as president?	QUALIFIED16	WI	Midwest	East North Central	Only Trump is	31	0	99
+2016	Who is qualified to serve as president?	QUALIFIED16	WI	Midwest	East North Central	Neither is	16	16	65
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	WI	Midwest	East North Central	Yes	52	85	12
+2016	Does Clinton have the temperament to be president?	TEMPCLINTON	WI	Midwest	East North Central	No	46	3	92
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	WI	Midwest	East North Central	Yes	39	1	98
+2016	Does Trump have the temperament to be president?	TEMPTRUMP	WI	Midwest	East North Central	No	59	77	17
+2016	Which candidate has the right temperament?	TEMPERAMENT16	WI	Midwest	East North Central	Both do	5		
+2016	Which candidate has the right temperament?	TEMPERAMENT16	WI	Midwest	East North Central	Only Clinton does	48	93	4
+2016	Which candidate has the right temperament?	TEMPERAMENT16	WI	Midwest	East North Central	Only Trump does	34	1	98
+2016	Which candidate has the right temperament?	TEMPERAMENT16	WI	Midwest	East North Central	Neither does	11	11	73
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	WI	Midwest	East North Central	A lot	48	8	87
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	WI	Midwest	East North Central	Some	17	61	28
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	WI	Midwest	East North Central	Not much	14	89	5
+2016	Does Clinton's use of private email bother you:	CLINTONEMAIL	WI	Midwest	East North Central	Not at all	20	86	12
+2016	Does Clinton's use of private email bother you?	CLINTONEMAILB	WI	Midwest	East North Central	Yes	65	22	71
+2016	Does Clinton's use of private email bother you?	CLINTONEMAILB	WI	Midwest	East North Central	No	34	87	9
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	WI	Midwest	East North Central	A lot	48	76	17
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	WI	Midwest	East North Central	Some	23	25	68
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	WI	Midwest	East North Central	Not much	13	7	92
+2016	Does Donald Trump's treatment of women bother you:	TRUMPWOMEN	WI	Midwest	East North Central	Not at all	15	9	87
+2016	Does Donald Trump's treatment of women bother you?	TRUMPWOMENB	WI	Midwest	East North Central	Yes	71	59	34
+2016	Does Donald Trump's treatment of women bother you?	TRUMPWOMENB	WI	Midwest	East North Central	No	29	8	89
+2016	Who would better handle the economy?	HANDLEECON16	WI	Midwest	East North Central	Clinton	43	91	3
+2016	Who would better handle the economy?	HANDLEECON16	WI	Midwest	East North Central	Trump	54	6	89
+2016	Who would better handle foreign policy?	HANDLEFP16	WI	Midwest	East North Central	Clinton	52	81	12
+2016	Who would better handle foreign policy?	HANDLEFP16	WI	Midwest	East North Central	Trump	45	4	94
+2016	Condition of national economy	NEC	WI	Midwest	East North Central	Excellent	3		
+2016	Condition of national economy	NEC	WI	Midwest	East North Central	Good	36	77	21
+2016	Condition of national economy	NEC	WI	Midwest	East North Central	Not good	41	32	63
+2016	Condition of national economy	NEC	WI	Midwest	East North Central	Poor	20	16	78
+2016	Condition of national economy	NEC2	WI	Midwest	East North Central	Good	38	78	20
+2016	Condition of national economy	NEC2	WI	Midwest	East North Central	Poor	61	27	68
+2016	Financial situation compared to four years ago:	FINSIT	WI	Midwest	East North Central	Better today	27	63	31
+2016	Financial situation compared to four years ago:	FINSIT	WI	Midwest	East North Central	Worse today	28	23	72
+2016	Financial situation compared to four years ago:	FINSIT	WI	Midwest	East North Central	About the same	44	44	49
+2016	Local job market compared to four years ago:	JOBSIT	WI	Midwest	East North Central	Better today	32	71	22
+2016	Local job market compared to four years ago:	JOBSIT	WI	Midwest	East North Central	Worse today	28	15	81
+2016	Local job market compared to four years ago:	JOBSIT	WI	Midwest	East North Central	About the same	39	41	52
+2016	Life for the next generation of Americans will be:	LIFE	WI	Midwest	East North Central	Better than today	27	69	29
+2016	Life for the next generation of Americans will be:	LIFE	WI	Midwest	East North Central	Worse than today	42	26	67
+2016	Life for the next generation of Americans will be:	LIFE	WI	Midwest	East North Central	About the same	27	55	37
+2016	Vote for president in a two-way race	2WAYPRES16	WI	Midwest	East North Central	Clinton	48	97	1
+2016	Vote for president in a two-way race	2WAYPRES16	WI	Midwest	East North Central	Trump	48	1	97
+2016	Vote for president in a two-way race	2WAYPRES16	WI	Midwest	East North Central	Would not vote	4		
+2016	Area type	SIZEPLC3	WI	Midwest	East North Central	Urban area	39	61	34
+2016	Area type	SIZEPLC3	WI	Midwest	East North Central	Suburban area	34	39	55
+2016	Area type	SIZEPLC3	WI	Midwest	East North Central	Rural area	27	35	62
+2016	Region	GEOCOD	WI	Midwest	East North Central	Milwaukee County	15	67	27
+2016	Region	GEOCOD	WI	Midwest	East North Central	Southeast	27	35	60
+2016	Region	GEOCOD	WI	Midwest	East North Central	Southwest	18	64	30
+2016	Region	GEOCOD	WI	Midwest	East North Central	Northeast	18	39	56
+2016	Region	GEOCOD	WI	Midwest	East North Central	Northwest	23	39	56

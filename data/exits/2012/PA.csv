@@ -1,0 +1,149 @@
+2012	Vote by Gender	SEX	PA	Northeast	Middle Atlantic	Men	48	48	51
+2012	Vote by Gender	SEX	PA	Northeast	Middle Atlantic	Women	52	56	43
+2012	Vote by Age	AGE	PA	Northeast	Middle Atlantic	18-29	19	63	35
+2012	Vote by Age	AGE	PA	Northeast	Middle Atlantic	30-44	25	55	43
+2012	Vote by Age	AGE	PA	Northeast	Middle Atlantic	45-64	39	48	51
+2012	Vote by Age	AGE	PA	Northeast	Middle Atlantic	65 and Older	17	43	57
+2012	Vote by Age	AGE65	PA	Northeast	Middle Atlantic	18-24	10	64	34
+2012	Vote by Age	AGE65	PA	Northeast	Middle Atlantic	25-29	9	62	36
+2012	Vote by Age	AGE65	PA	Northeast	Middle Atlantic	30-39	16	57	41
+2012	Vote by Age	AGE65	PA	Northeast	Middle Atlantic	40-49	19	51	48
+2012	Vote by Age	AGE65	PA	Northeast	Middle Atlantic	50-64	29	47	52
+2012	Vote by Age	AGE65	PA	Northeast	Middle Atlantic	65 and Older	17	43	57
+2012	Vote by Race	RACE	PA	Northeast	Middle Atlantic	White	78	42	57
+2012	Vote by Race	RACE	PA	Northeast	Middle Atlantic	African-American	13	93	6
+2012	Vote by Race	RACE	PA	Northeast	Middle Atlantic	Latino	6	80	18
+2012	Vote by Race	RACE	PA	Northeast	Middle Atlantic	Asian	1		
+2012	Vote by Race	RACE	PA	Northeast	Middle Atlantic	Other	1		
+2012	Vote by Gender and Race	SEXBYRACE	PA	Northeast	Middle Atlantic	White Men	38	39	60
+2012	Vote by Gender and Race	SEXBYRACE	PA	Northeast	Middle Atlantic	White Women	40	45	54
+2012	Vote by Gender and Race	SEXBYRACE	PA	Northeast	Middle Atlantic	Black Men	6	90	8
+2012	Vote by Gender and Race	SEXBYRACE	PA	Northeast	Middle Atlantic	Black Women	7	96	4
+2012	Vote by Gender and Race	SEXBYRACE	PA	Northeast	Middle Atlantic	Latino Men	3		
+2012	Vote by Gender and Race	SEXBYRACE	PA	Northeast	Middle Atlantic	Latino Women	4	84	14
+2012	Vote by Gender and Race	SEXBYRACE	PA	Northeast	Middle Atlantic	All Others	2		
+2012	Vote by Ideology	PHIL3	PA	Northeast	Middle Atlantic	Liberal	27	90	9
+2012	Vote by Ideology	PHIL3	PA	Northeast	Middle Atlantic	Moderate	42	54	45
+2012	Vote by Ideology	PHIL3	PA	Northeast	Middle Atlantic	Conservative	31	16	84
+2012	Vote by Party ID	PARTY	PA	Northeast	Middle Atlantic	Democratic	45	91	9
+2012	Vote by Party ID	PARTY	PA	Northeast	Middle Atlantic	Republican	35	7	93
+2012	Vote by Party ID	PARTY	PA	Northeast	Middle Atlantic	Independent	20	45	50
+2012	Vote by Education	EDUC10	PA	Northeast	Middle Atlantic	No High School	3	82	18
+2012	Vote by Education	EDUC10	PA	Northeast	Middle Atlantic	High School Graduate	24	60	39
+2012	Vote by Education	EDUC10	PA	Northeast	Middle Atlantic	Some College	25	51	47
+2012	Vote by Education	EDUC10	PA	Northeast	Middle Atlantic	College Graduate	27	41	57
+2012	Vote by Education	EDUC10	PA	Northeast	Middle Atlantic	Postgraduate	21	53	45
+2012	Are You a College Graduate?	EDUCCOLL	PA	Northeast	Middle Atlantic	Yes	48	46	52
+2012	Are You a College Graduate?	EDUCCOLL	PA	Northeast	Middle Atlantic	No	52	57	42
+2012	Did You Attend College?	EDUCHS	PA	Northeast	Middle Atlantic	Yes	73	48	51
+2012	Did You Attend College?	EDUCHS	PA	Northeast	Middle Atlantic	No	27	63	36
+2012	Vote by Income	INCOME3	PA	Northeast	Middle Atlantic	Less Than $50K	40	67	31
+2012	Vote by Income	INCOME3	PA	Northeast	Middle Atlantic	$50-100K	31	41	58
+2012	Vote by Income	INCOME3	PA	Northeast	Middle Atlantic	$100K or More	29	45	54
+2012	Vote by Income	INC50K	PA	Northeast	Middle Atlantic	Less Than $50K	40	67	31
+2012	Vote by Income	INC50K	PA	Northeast	Middle Atlantic	$50K or More	60	43	56
+2012	Vote by Income	INC100K	PA	Northeast	Middle Atlantic	Less Than $100K	71	56	43
+2012	Vote by Income	INC100K	PA	Northeast	Middle Atlantic	$100K or More	29	45	54
+2012	Vote by Religion	REL5	PA	Northeast	Middle Atlantic	Protestant	44	49	51
+2012	Vote by Religion	REL5	PA	Northeast	Middle Atlantic	Catholic	34	49	50
+2012	Vote by Religion	REL5	PA	Northeast	Middle Atlantic	Jewish	4		
+2012	Vote by Religion	REL5	PA	Northeast	Middle Atlantic	Other	6		
+2012	Vote by Religion	REL5	PA	Northeast	Middle Atlantic	None	12	74	25
+2012	Vote by Religion and Race	WHITEREL	PA	Northeast	Middle Atlantic	White Protestant	32	35	64
+2012	Vote by Religion and Race	WHITEREL	PA	Northeast	Middle Atlantic	White Catholic	29	44	56
+2012	Vote by Religion and Race	WHITEREL	PA	Northeast	Middle Atlantic	White Jewish	3		
+2012	Vote by Religion and Race	WHITEREL	PA	Northeast	Middle Atlantic	Whites/Other Religion	3		
+2012	Vote by Religion and Race	WHITEREL	PA	Northeast	Middle Atlantic	Whites/No Religion	9	68	30
+2012	Vote by Religion and Race	WHITEREL	PA	Northeast	Middle Atlantic	Non-white	24	86	13
+2012	Most Important Issue Facing Country	ISSUE12	PA	Northeast	Middle Atlantic	Foreign Policy	4		
+2012	Most Important Issue Facing Country	ISSUE12	PA	Northeast	Middle Atlantic	Deficit	13	33	66
+2012	Most Important Issue Facing Country	ISSUE12	PA	Northeast	Middle Atlantic	Economy	61	47	52
+2012	Most Important Issue Facing Country	ISSUE12	PA	Northeast	Middle Atlantic	Health Care	19	74	25
+2012	Most Important Candidate Quality	QLT12	PA	Northeast	Middle Atlantic	Shares My Values	29	43	56
+2012	Most Important Candidate Quality	QLT12	PA	Northeast	Middle Atlantic	Strong Leader	20	36	63
+2012	Most Important Candidate Quality	QLT12	PA	Northeast	Middle Atlantic	Cares About People	20	82	17
+2012	Most Important Candidate Quality	QLT12	PA	Northeast	Middle Atlantic	Vision for Future	28	41	56
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	PA	Northeast	Middle Atlantic	Housing Market	5		
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	PA	Northeast	Middle Atlantic	Unemployment	36	53	46
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	PA	Northeast	Middle Atlantic	Taxes	21	38	61
+2012	Biggest Economic Problem Facing People Like You	ECONISS12	PA	Northeast	Middle Atlantic	Rising Prices	35	52	47
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	PA	Northeast	Middle Atlantic	Expanded	33	94	5
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	PA	Northeast	Middle Atlantic	Kept As Is	17	83	17
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	PA	Northeast	Middle Atlantic	Repealed In Part	25	27	71
+2012	2010 Health Care Law Should Be...	HEALTHCARE12	PA	Northeast	Middle Atlantic	Repealed Completely	21	4	94
+2012	Should 2010 Health Care Law Be Repealed?	HEALTHCARE12B	PA	Northeast	Middle Atlantic	No	51	90	9
+2012	Should 2010 Health Care Law Be Repealed?	HEALTHCARE12B	PA	Northeast	Middle Atlantic	Yes	46	16	82
+2012	Who Is More In Touch With People Like You?	INTOUCH12	PA	Northeast	Middle Atlantic	Obama	56	95	5
+2012	Who Is More In Touch With People Like You?	INTOUCH12	PA	Northeast	Middle Atlantic	Romney	41	2	98
+2012	Who Would Better Handle Economy?	HANDLEECON12	PA	Northeast	Middle Atlantic	Obama	52	98	1
+2012	Who Would Better Handle Economy?	HANDLEECON12	PA	Northeast	Middle Atlantic	Romney	45	4	94
+2012	Who Would Better Handle Medicare?	HANDLEMED12	PA	Northeast	Middle Atlantic	Obama	49	96	2
+2012	Who Would Better Handle Medicare?	HANDLEMED12	PA	Northeast	Middle Atlantic	Romney	47	3	97
+2012	Opinion of Government	GOVTDO10	PA	Northeast	Middle Atlantic	Government Should Do More	43	81	17
+2012	Opinion of Government	GOVTDO10	PA	Northeast	Middle Atlantic	Government Doing Too Much	53	21	78
+2012	National Economic Conditions	NEC	PA	Northeast	Middle Atlantic	Excellent	2		
+2012	National Economic Conditions	NEC	PA	Northeast	Middle Atlantic	Good	26	90	9
+2012	National Economic Conditions	NEC	PA	Northeast	Middle Atlantic	Not So Good	47	55	44
+2012	National Economic Conditions	NEC	PA	Northeast	Middle Atlantic	Poor	24	12	86
+2012	National Economic Conditions	NEC2	PA	Northeast	Middle Atlantic	Excellent/Good	28	91	9
+2012	National Economic Conditions	NEC2	PA	Northeast	Middle Atlantic	Not So Good/Poor	71	41	58
+2012	U.S. Economic Conditions Are...	ECONBETT	PA	Northeast	Middle Atlantic	Getting Better	40	96	3
+2012	U.S. Economic Conditions Are...	ECONBETT	PA	Northeast	Middle Atlantic	Getting Worse	33	10	89
+2012	U.S. Economic Conditions Are...	ECONBETT	PA	Northeast	Middle Atlantic	Staying About the Same	26	50	49
+2012	U.S. Economic Conditions Are...	ECONDIR	PA	Northeast	Middle Atlantic	Getting Better	40	96	3
+2012	U.S. Economic Conditions Are...	ECONDIR	PA	Northeast	Middle Atlantic	Good and Staying the Same	6		
+2012	U.S. Economic Conditions Are...	ECONDIR	PA	Northeast	Middle Atlantic	Poor and Staying the Same	21	43	56
+2012	U.S. Economic Conditions Are...	ECONDIR	PA	Northeast	Middle Atlantic	Getting Worse	33	10	89
+2012	Your Family's Financial Situation	FINSIT	PA	Northeast	Middle Atlantic	Better	24	88	11
+2012	Your Family's Financial Situation	FINSIT	PA	Northeast	Middle Atlantic	Worse	33	12	86
+2012	Your Family's Financial Situation	FINSIT	PA	Northeast	Middle Atlantic	Same	43	56	42
+2012	Opinion of Obama Administration	OBAMANG	PA	Northeast	Middle Atlantic	Enthusiastic	28	99	1
+2012	Opinion of Obama Administration	OBAMANG	PA	Northeast	Middle Atlantic	Satisfied	26	90	10
+2012	Opinion of Obama Administration	OBAMANG	PA	Northeast	Middle Atlantic	Dissatisfied	28	12	85
+2012	Opinion of Obama Administration	OBAMANG	PA	Northeast	Middle Atlantic	Angry	17	2	96
+2012	Opinion of Obama Administration	OBAMANG2	PA	Northeast	Middle Atlantic	Enthusiastic/Satisfied	54	95	5
+2012	Opinion of Obama Administration	OBAMANG2	PA	Northeast	Middle Atlantic	Dissatisfied/Angry	44	8	89
+2012	Opinion of Barack Obama	FAVOBAMA2	PA	Northeast	Middle Atlantic	Favorable	52	92	7
+2012	Opinion of Barack Obama	FAVOBAMA2	PA	Northeast	Middle Atlantic	Unfavorable	46	3	95
+2012	Opinion of Mitt Romney	FAVROMN2	PA	Northeast	Middle Atlantic	Favorable	48	7	92
+2012	Opinion of Mitt Romney	FAVROMN2	PA	Northeast	Middle Atlantic	Unfavorable	50	91	6
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	PA	Northeast	Middle Atlantic	Strongly Favor	70	58	41
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	PA	Northeast	Middle Atlantic	Have Reservations	24	44	55
+2012	Opinion of Presidential Candidate You Voted For	DESCRIBP12	PA	Northeast	Middle Atlantic	Dislike Opponent	5		
+2012	When Did You Decide Presidential Vote?	TIME12	PA	Northeast	Middle Atlantic	Just Today	6		
+2012	When Did You Decide Presidential Vote?	TIME12	PA	Northeast	Middle Atlantic	Last Few Days	8		
+2012	When Did You Decide Presidential Vote?	TIME12	PA	Northeast	Middle Atlantic	In October	7		
+2012	When Did You Decide Presidential Vote?	TIME12	PA	Northeast	Middle Atlantic	In September	5		
+2012	When Did You Decide Presidential Vote?	TIME12	PA	Northeast	Middle Atlantic	Before That	73	51	48
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	PA	Northeast	Middle Atlantic	Today/Last Few Days	14	39	57
+2012	When Did You Decide Presidential Vote?	TIME12FEWD	PA	Northeast	Middle Atlantic	Before That	85	50	48
+2012	When Did You Decide Presidential Vote?	TIME12MTH	PA	Northeast	Middle Atlantic	In October or November	21	40	56
+2012	When Did You Decide Presidential Vote?	TIME12MTH	PA	Northeast	Middle Atlantic	Before That	78	51	48
+2012	Vote by Marital Status	MARRIED	PA	Northeast	Middle Atlantic	Married	60	43	55
+2012	Vote by Marital Status	MARRIED	PA	Northeast	Middle Atlantic	Unmarried	40	64	34
+2012	Vote by Gender and Marital Status	SEXWED	PA	Northeast	Middle Atlantic	Married Men	30	41	57
+2012	Vote by Gender and Marital Status	SEXWED	PA	Northeast	Middle Atlantic	Married Women	30	45	54
+2012	Vote by Gender and Marital Status	SEXWED	PA	Northeast	Middle Atlantic	Unmarried Men	18	59	40
+2012	Vote by Gender and Marital Status	SEXWED	PA	Northeast	Middle Atlantic	Unmarried Women	22	69	30
+2012	Any Children Under 18 Living in Your Home?	CHILD12	PA	Northeast	Middle Atlantic	Yes	37	50	48
+2012	Any Children Under 18 Living in Your Home?	CHILD12	PA	Northeast	Middle Atlantic	No	63	52	47
+2012	Vote by Marital Status and Children	MARCHILD	PA	Northeast	Middle Atlantic	Married With Children	26	42	56
+2012	Vote by Marital Status and Children	MARCHILD	PA	Northeast	Middle Atlantic	All Others	74	55	44
+2012	Vote by Gender and Children in Household	PARENTS	PA	Northeast	Middle Atlantic	Fathers	17	47	51
+2012	Vote by Gender and Children in Household	PARENTS	PA	Northeast	Middle Atlantic	Mothers	20	53	46
+2012	Vote by Gender and Children in Household	PARENTS	PA	Northeast	Middle Atlantic	Men With No Children	31	48	51
+2012	Vote by Gender and Children in Household	PARENTS	PA	Northeast	Middle Atlantic	Women With No Children	32	56	43
+2012	Is Anyone in Household a Union Member?	UNIONHH12	PA	Northeast	Middle Atlantic	Yes	21	57	42
+2012	Is Anyone in Household a Union Member?	UNIONHH12	PA	Northeast	Middle Atlantic	No	79	56	43
+2012	Gun Owner in Household?	GUNOWNER12	PA	Northeast	Middle Atlantic	Yes	35	33	66
+2012	Gun Owner in Household?	GUNOWNER12	PA	Northeast	Middle Atlantic	No	65	58	40
+2012	Vote for Senate	SENPA12	PA	Northeast	Middle Atlantic	Casey	54	89	10
+2012	Vote for Senate	SENPA12	PA	Northeast	Middle Atlantic	Smith	45	6	93
+2012	Vote by Size of Place	SIZEPLC3	PA	Northeast	Middle Atlantic	Urban	23	80	18
+2012	Vote by Size of Place	SIZEPLC3	PA	Northeast	Middle Atlantic	Suburban	62	44	55
+2012	Vote by Size of Place	SIZEPLC3	PA	Northeast	Middle Atlantic	Rural	15	40	59
+2012	Vote by Region	GEOCODPA	PA	Northeast	Middle Atlantic	Philadelphia	12	86	13
+2012	Vote by Region	GEOCODPA	PA	Northeast	Middle Atlantic	Philadelphia Suburbs	23	53	46
+2012	Vote by Region	GEOCODPA	PA	Northeast	Middle Atlantic	Northeastern Pa.	17	52	47
+2012	Vote by Region	GEOCODPA	PA	Northeast	Middle Atlantic	Central Pa.	21	37	62
+2012	Vote by Region	GEOCODPA	PA	Northeast	Middle Atlantic	Western Pa.	27	47	51
