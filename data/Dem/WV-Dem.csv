@@ -1,0 +1,106 @@
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
+Gender,SEX,WV,South,South Atlantic,Men,47,34,53
+Gender,SEX,WV,South,South Atlantic,Women,53,37,50
+Age,XAGE,WV,South,South Atlantic,17-29,15,25,70
+Age,XAGE,WV,South,South Atlantic,30-44,22,23,62
+Age,XAGE,WV,South,South Atlantic,45-64,37,43,40
+Age,XAGE,WV,South,South Atlantic,65 and older,25,44,48
+Age,XAGE65,WV,South,South Atlantic,17-24,7,N/A,N/A
+Age,XAGE65,WV,South,South Atlantic,25-29,8,N/A,N/A
+Age,XAGE65,WV,South,South Atlantic,30-39,17,27,58
+Age,XAGE65,WV,South,South Atlantic,40-49,14,33,46
+Age,XAGE65,WV,South,South Atlantic,50-64,29,41,43
+Age,XAGE65,WV,South,South Atlantic,65 and older,25,44,48
+Age,XAGE45,WV,South,South Atlantic,17-44 year olds,38,24,65
+Age,XAGE45,WV,South,South Atlantic,45 and older,62,43,43
+Race,RACE,WV,South,South Atlantic,White,92,35,52
+Race,RACE,WV,South,South Atlantic,Black,3,N/A,N/A
+Race,RACE,WV,South,South Atlantic,Latino,4,N/A,N/A
+Race,RACE,WV,South,South Atlantic,Asian,1,N/A,N/A
+Race,RACE,WV,South,South Atlantic,Other race,1,N/A,N/A
+Race,RACE2B,WV,South,South Atlantic,White,92,35,52
+Race,RACE2B,WV,South,South Atlantic,Non-white,8,N/A,N/A
+Education,EDUC12R,WV,South,South Atlantic,High school or less,29,39,49
+Education,EDUC12R,WV,South,South Atlantic,Some college,32,30,57
+Education,EDUC12R,WV,South,South Atlantic,College graduate,20,32,54
+Education,EDUC12R,WV,South,South Atlantic,Postgraduate,19,44,42
+Are you a college graduate?,EDUCCOLL,WV,South,South Atlantic,Yes,39,38,48
+Are you a college graduate?,EDUCCOLL,WV,South,South Atlantic,No,61,34,53
+Education and race,EDUCWHITE,WV,South,South Atlantic,White college graduates,36,34,50
+Education and race,EDUCWHITE,WV,South,South Atlantic,Whites no degree,56,35,53
+Education and race,EDUCWHITE,WV,South,South Atlantic,Non-whites college grads,4,N/A,N/A
+Education and race,EDUCWHITE,WV,South,South Atlantic,Non-whites no degree,4,N/A,N/A
+Income,INCOME16,WV,South,South Atlantic,Less than $30K,20,34,53
+Income,INCOME16,WV,South,South Atlantic,$30K-50K,27,28,60
+Income,INCOME16,WV,South,South Atlantic,$50K-100K,36,41,44
+Income,INCOME16,WV,South,South Atlantic,$100K-200K,14,35,53
+Income,INCOME16,WV,South,South Atlantic,$200K or more,3,N/A,N/A
+Income,INC50K,WV,South,South Atlantic,Under $50K,47,31,57
+Income,INC50K,WV,South,South Atlantic,$50K or more,53,40,46
+Income,INC100K,WV,South,South Atlantic,Under $100K,84,35,51
+Income,INC100K,WV,South,South Atlantic,$100K or more,16,37,51
+Income,INCOME3,WV,South,South Atlantic,Under $50K,47,31,57
+Income,INCOME3,WV,South,South Atlantic,$50K-$100K,36,41,44
+Income,INCOME3,WV,South,South Atlantic,$100K or more,16,37,51
+Party ID,PARTY,WV,South,South Atlantic,Democrats,56,49,45
+Party ID,PARTY,WV,South,South Atlantic,Republicans,10,N/A,N/A
+Party ID,PARTY,WV,South,South Atlantic,Independents,34,21,58
+Ideology,PHIL4,WV,South,South Atlantic,Very liberal,17,41,54
+Ideology,PHIL4,WV,South,South Atlantic,Somewhat liberal,28,41,53
+Ideology,PHIL4,WV,South,South Atlantic,Moderate,41,37,48
+Ideology,PHIL4,WV,South,South Atlantic,Conservative,14,N/A,N/A
+Ideology,PHIL3X,WV,South,South Atlantic,Liberal,45,41,53
+Ideology,PHIL3X,WV,South,South Atlantic,Moderate,41,37,48
+Ideology,PHIL3X,WV,South,South Atlantic,Conservative,14,N/A,N/A
+Ideology ,PHIL2D,WV,South,South Atlantic,Liberal,45,41,53
+Ideology ,PHIL2D,WV,South,South Atlantic,Moderate/Conservative,55,31,49
+Most important issue,ISSDEM16,WV,South,South Atlantic,Health care,19,36,55
+Most important issue,ISSDEM16,WV,South,South Atlantic,Economy/Jobs,57,37,49
+Most important issue,ISSDEM16,WV,South,South Atlantic,Terrorism,11,N/A,N/A
+Most important issue,ISSDEM16,WV,South,South Atlantic,Income inequality,11,30,70
+Top candidate quality,QLT16DEMPRI,WV,South,South Atlantic,Electability,12,N/A,N/A
+Top candidate quality,QLT16DEMPRI,WV,South,South Atlantic,Cares,36,23,58
+Top candidate quality,QLT16DEMPRI,WV,South,South Atlantic,Honest,26,21,70
+Top candidate quality,QLT16DEMPRI,WV,South,South Atlantic,Experience,21,75,24
+The next president should:,OBAMAPLCY,WV,South,South Atlantic,Continue Obama's policies,26,67,30
+The next president should:,OBAMAPLCY,WV,South,South Atlantic,Be more liberal,28,24,66
+The next president should:,OBAMAPLCY,WV,South,South Atlantic,Be less liberal,41,26,51
+Trade with other countries:,TRADE16,WV,South,South Atlantic,Creates U.S. jobs,35,45,47
+Trade with other countries:,TRADE16,WV,South,South Atlantic,Takes away U.S. jobs,53,30,54
+Trade with other countries:,TRADE16,WV,South,South Atlantic,Does not affect jobs,7,N/A,N/A
+Worried about U.S. economy?,ECONWORR,WV,South,South Atlantic,Very worried,61,29,52
+Worried about U.S. economy?,ECONWORR,WV,South,South Atlantic,Somewhat worried,30,44,52
+Worried about U.S. economy?,ECONWORR,WV,South,South Atlantic,Not too worried,6,N/A,N/A
+Worried about U.S. economy?,ECONWORR,WV,South,South Atlantic,Not at all worried,1,N/A,N/A
+Worried about U.S. economy?,ECOWORR2,WV,South,South Atlantic,Yes,92,34,52
+Worried about U.S. economy?,ECOWORR2,WV,South,South Atlantic,No,8,N/A,N/A
+Coal-industry household?,COALHH,WV,South,South Atlantic,Yes,32,28,54
+Coal-industry household?,COALHH,WV,South,South Atlantic,No,68,39,50
+How would you vote in November?,HRCTRUMPWV,WV,South,South Atlantic,Clinton,44,68,31
+How would you vote in November?,HRCTRUMPWV,WV,South,South Atlantic,Trump,36,10,62
+How would you vote in November?,HRCTRUMPWV,WV,South,South Atlantic,Neither,19,10,77
+How would you vote in November?,SANDTRUMPWV,WV,South,South Atlantic,Sanders,51,36,63
+How would you vote in November?,SANDTRUMPWV,WV,South,South Atlantic,Trump,33,17,53
+How would you vote in November?,SANDTRUMPWV,WV,South,South Atlantic,Neither,14,N/A,N/A
+How likely Clinton would beat Trump?,NOVCLINTON,WV,South,South Atlantic,Very likely,32,61,38
+How likely Clinton would beat Trump?,NOVCLINTON,WV,South,South Atlantic,Somewhat likely,30,44,43
+How likely Clinton would beat Trump?,NOVCLINTON,WV,South,South Atlantic,Not too likely,21,7,66
+How likely Clinton would beat Trump?,NOVCLINTON,WV,South,South Atlantic,Not at all likely,14,11,69
+Has the Democratic nominating process been:,DEMFAIR,WV,South,South Atlantic,Fair,63,48,39
+Has the Democratic nominating process been:,DEMFAIR,WV,South,South Atlantic,Unfair,35,15,71
+When did you decide whom to vote for?,TIMENH16,WV,South,South Atlantic,Just today,13,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,WV,South,South Atlantic,In the last few days,11,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,WV,South,South Atlantic,Sometime last week,5,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,WV,South,South Atlantic,In the last month,15,39,51
+When did you decide whom to vote for?,TIMENH16,WV,South,South Atlantic,Before that,56,37,51
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,WV,South,South Atlantic,Last few days,24,33,49
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,WV,South,South Atlantic,Earlier,75,37,52
+When did you decide whom to vote for?,TIMEPRIWK,WV,South,South Atlantic,In the last week,28,32,52
+When did you decide whom to vote for?,TIMEPRIWK,WV,South,South Atlantic,Earlier,71,37,51
+Area type,SIZEPLC3,WV,South,South Atlantic,Urban area,6,47,48
+Area type,SIZEPLC3,WV,South,South Atlantic,Suburban area,40,37,57
+Area type,SIZEPLC3,WV,South,South Atlantic,Rural area,54,34,48
+Region,GEOCOD,WV,South,South Atlantic,N. Industrial,20,34,54
+Region,GEOCOD,WV,South,South Atlantic,E. Panhandle/Alleghenies,21,37,52
+Region,GEOCOD,WV,South,South Atlantic,Central,26,37,52
+Region,GEOCOD,WV,South,South Atlantic,Coal Country,34,34,50

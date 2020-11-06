@@ -43,7 +43,7 @@ Income,INCOME16,MS,South,East South Central,$50K-100K,24,80,20
 Income,INCOME16,MS,South,East South Central,$100K-200K,10,N/A,N/A
 Income,INCOME16,MS,South,East South Central,$200K or more,2,N/A,N/A
 Income,INC50K,MS,South,East South Central,Under $50K,64,83,16
-Income,INC50K,MS,South,East South Central,$50K or More,36,83,16
+Income,INC50K,MS,South,East South Central,$50K or more,36,83,16
 Income,INC100K,MS,South,East South Central,Under $100K,88,82,17
 Income,INC100K,MS,South,East South Central,$100K or more,12,89,9
 Income,INCOME3,MS,South,East South Central,Under $50K,64,83,16

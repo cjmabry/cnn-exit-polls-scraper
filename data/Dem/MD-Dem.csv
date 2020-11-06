@@ -1,0 +1,100 @@
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
+Gender,SEX,MD,South,South Atlantic,Men,39,55,40
+Gender,SEX,MD,South,South Atlantic,Women,61,68,29
+Age,XAGE,MD,South,South Atlantic,17-29,14,29,68
+Age,XAGE,MD,South,South Atlantic,30-44,27,55,44
+Age,XAGE,MD,South,South Atlantic,45-64,41,77,19
+Age,XAGE,MD,South,South Atlantic,65 and older,18,70,22
+Age,XAGE65,MD,South,South Atlantic,17-24,8,26,74
+Age,XAGE65,MD,South,South Atlantic,25-29,6,N/A,N/A
+Age,XAGE65,MD,South,South Atlantic,30-39,19,52,47
+Age,XAGE65,MD,South,South Atlantic,40-49,18,67,31
+Age,XAGE65,MD,South,South Atlantic,50-64,31,79,17
+Age,XAGE65,MD,South,South Atlantic,65 and older,18,70,22
+Age,XAGE45,MD,South,South Atlantic,17-44 year olds,41,46,52
+Age,XAGE45,MD,South,South Atlantic,45 and older,59,75,20
+Race,RACE,MD,South,South Atlantic,White,43,52,42
+Race,RACE,MD,South,South Atlantic,Black,46,75,22
+Race,RACE,MD,South,South Atlantic,Latino,6,N/A,N/A
+Race,RACE,MD,South,South Atlantic,Asian,2,N/A,N/A
+Race,RACE,MD,South,South Atlantic,Other race,3,N/A,N/A
+Race,RACE2B,MD,South,South Atlantic,White,43,52,42
+Race,RACE2B,MD,South,South Atlantic,Non-white,57,72,26
+Education,EDUC12R,MD,South,South Atlantic,High school or less,12,68,29
+Education,EDUC12R,MD,South,South Atlantic,Some college,30,62,34
+Education,EDUC12R,MD,South,South Atlantic,College graduate,29,57,40
+Education,EDUC12R,MD,South,South Atlantic,Postgraduate,29,67,30
+Are you a college graduate?,EDUCCOLL,MD,South,South Atlantic,Yes,58,62,35
+Are you a college graduate?,EDUCCOLL,MD,South,South Atlantic,No,42,64,33
+Education and race,EDUCWHITE,MD,South,South Atlantic,White college graduates,29,57,39
+Education and race,EDUCWHITE,MD,South,South Atlantic,Whites no degree,13,43,52
+Education and race,EDUCWHITE,MD,South,South Atlantic,Non-whites college grads,29,67,30
+Education and race,EDUCWHITE,MD,South,South Atlantic,Non-whites no degree,28,74,24
+Income,INCOME16,MD,South,South Atlantic,Less than $30K,12,58,39
+Income,INCOME16,MD,South,South Atlantic,$30K-50K,15,59,36
+Income,INCOME16,MD,South,South Atlantic,$50K-100K,30,59,37
+Income,INCOME16,MD,South,South Atlantic,$100K-200K,32,65,32
+Income,INCOME16,MD,South,South Atlantic,$200K or more,11,77,21
+Income,INC50K,MD,South,South Atlantic,Under $50K,27,58,37
+Income,INC50K,MD,South,South Atlantic,$50K or more,73,64,33
+Income,INC100K,MD,South,South Atlantic,Under $100K,57,59,37
+Income,INC100K,MD,South,South Atlantic,$100K or more,43,68,29
+Income,INCOME3,MD,South,South Atlantic,Under $50K,27,58,37
+Income,INCOME3,MD,South,South Atlantic,$50K-$100K,30,59,37
+Income,INCOME3,MD,South,South Atlantic,$100K or more,43,68,29
+Party ID,PARTY,MD,South,South Atlantic,Democrats,80,69,30
+Party ID,PARTY,MD,South,South Atlantic,Republicans,3,N/A,N/A
+Party ID,PARTY,MD,South,South Atlantic,Independents,17,39,51
+Ideology,PHIL4,MD,South,South Atlantic,Very liberal,24,58,41
+Ideology,PHIL4,MD,South,South Atlantic,Somewhat liberal,38,62,35
+Ideology,PHIL4,MD,South,South Atlantic,Moderate,33,69,27
+Ideology,PHIL4,MD,South,South Atlantic,Conservative,5,N/A,N/A
+Ideology,PHIL3X,MD,South,South Atlantic,Liberal,62,61,38
+Ideology,PHIL3X,MD,South,South Atlantic,Moderate,33,69,27
+Ideology,PHIL3X,MD,South,South Atlantic,Conservative,5,N/A,N/A
+Ideology ,PHIL2D,MD,South,South Atlantic,Liberal,62,61,38
+Ideology ,PHIL2D,MD,South,South Atlantic,Moderate/Conservative,38,66,28
+Most important issue,ISSDEM16,MD,South,South Atlantic,Health care,20,64,31
+Most important issue,ISSDEM16,MD,South,South Atlantic,Economy/Jobs,49,67,30
+Most important issue,ISSDEM16,MD,South,South Atlantic,Terrorism,9,65,28
+Most important issue,ISSDEM16,MD,South,South Atlantic,Income inequality,19,47,51
+Top candidate quality,QLT16DEMPRI,MD,South,South Atlantic,Electability,14,82,15
+Top candidate quality,QLT16DEMPRI,MD,South,South Atlantic,Cares,30,48,47
+Top candidate quality,QLT16DEMPRI,MD,South,South Atlantic,Honest,23,32,65
+Top candidate quality,QLT16DEMPRI,MD,South,South Atlantic,Experience,31,92,6
+Who would better handle gun policy?,GUNPLCYDEM16NY,MD,South,South Atlantic,Clinton,62,91,7
+Who would better handle gun policy?,GUNPLCYDEM16NY,MD,South,South Atlantic,Sanders,32,12,84
+The next president should:,OBAMAPLCY,MD,South,South Atlantic,Continue Obama's policies,62,73,25
+The next president should:,OBAMAPLCY,MD,South,South Atlantic,Be more liberal,22,39,60
+The next president should:,OBAMAPLCY,MD,South,South Atlantic,Be less liberal,11,50,35
+Race relations in this country have:,RACEREL14,MD,South,South Atlantic,Gotten better,13,66,28
+Race relations in this country have:,RACEREL14,MD,South,South Atlantic,Stayed the same,36,62,35
+Race relations in this country have:,RACEREL14,MD,South,South Atlantic,Gotten worse,49,62,35
+Does Wall Street do more to:,WALLST16,MD,South,South Atlantic,Help the economy,33,74,23
+Does Wall Street do more to:,WALLST16,MD,South,South Atlantic,Hurt the economy,55,56,40
+"If Clinton is the Democratic nominee, would you:",VOTENOVCLINTON,MD,South,South Atlantic,Not vote for her,13,8,79
+"If Clinton is the Democratic nominee, would you:",VOTENOVCLINTON,MD,South,South Atlantic,Probably vote for her,23,35,58
+"If Clinton is the Democratic nominee, would you:",VOTENOVCLINTON,MD,South,South Atlantic,Definitely vote for her,62,86,14
+"If Sanders is the Democratic nominee, would you:",VOTENOVSANDERS,MD,South,South Atlantic,Not vote for him,22,84,7
+"If Sanders is the Democratic nominee, would you:",VOTENOVSANDERS,MD,South,South Atlantic,Probably vote for him,24,80,16
+"If Sanders is the Democratic nominee, would you:",VOTENOVSANDERS,MD,South,South Atlantic,Definitely vote for him,51,45,54
+Who is more inspiring about the country's future?,INSPIRES16D,MD,South,South Atlantic,Clinton,54,95,2
+Who is more inspiring about the country's future?,INSPIRES16D,MD,South,South Atlantic,Sanders,41,22,76
+Better chance to defeat Trump in November?,BEATTRUMP16,MD,South,South Atlantic,Clinton,73,82,15
+Better chance to defeat Trump in November?,BEATTRUMP16,MD,South,South Atlantic,Sanders,23,6,93
+When did you decide whom to vote for?,TIMENH16,MD,South,South Atlantic,Just today,10,64,30
+When did you decide whom to vote for?,TIMENH16,MD,South,South Atlantic,In the last few days,9,57,35
+When did you decide whom to vote for?,TIMENH16,MD,South,South Atlantic,Sometime last week,3,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,MD,South,South Atlantic,In the last month,15,60,36
+When did you decide whom to vote for?,TIMENH16,MD,South,South Atlantic,Before that,63,64,33
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,MD,South,South Atlantic,Last few days,18,61,33
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,MD,South,South Atlantic,Earlier,81,64,33
+When did you decide whom to vote for?,TIMEPRIWK,MD,South,South Atlantic,In the last week,21,62,31
+When did you decide whom to vote for?,TIMEPRIWK,MD,South,South Atlantic,Earlier,78,63,34
+Area type,SIZEPLC3,MD,South,South Atlantic,Urban area,N/A,N/A,N/A
+Area type,SIZEPLC3,MD,South,South Atlantic,Suburban area,92,64,32
+Area type,SIZEPLC3,MD,South,South Atlantic,Rural area,8,N/A,N/A
+Region,GEOCOD,MD,South,South Atlantic,East,20,57,37
+Region,GEOCOD,MD,South,South Atlantic,Baltimore Area,29,63,34
+Region,GEOCOD,MD,South,South Atlantic,DC Suburbs,36,71,27
+Region,GEOCOD,MD,South,South Atlantic,Central / West,15,53,42

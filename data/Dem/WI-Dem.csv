@@ -1,0 +1,150 @@
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
+Gender,SEX,WI,Midwest,East North Central,Men,43,35,64
+Gender,SEX,WI,Midwest,East North Central,Women,57,49,50
+Age,AGE,WI,Midwest,East North Central,18-29,19,18,82
+Age,AGE,WI,Midwest,East North Central,30-44,24,33,66
+Age,AGE,WI,Midwest,East North Central,45-64,39,54,46
+Age,AGE,WI,Midwest,East North Central,65 and older,18,62,37
+Age,AGE65,WI,Midwest,East North Central,18-24,11,16,84
+Age,AGE65,WI,Midwest,East North Central,25-29,8,20,79
+Age,AGE65,WI,Midwest,East North Central,30-39,17,31,69
+Age,AGE65,WI,Midwest,East North Central,40-49,15,44,56
+Age,AGE65,WI,Midwest,East North Central,50-64,30,55,44
+Age,AGE65,WI,Midwest,East North Central,65 and older,18,62,37
+Age,AGE45,WI,Midwest,East North Central,18-44,43,26,73
+Age,AGE45,WI,Midwest,East North Central,45 and older,57,56,43
+Race,RACE,WI,Midwest,East North Central,White,83,40,59
+Race,RACE,WI,Midwest,East North Central,Black,10,69,31
+Race,RACE,WI,Midwest,East North Central,Latino,3,N/A,N/A
+Race,RACE,WI,Midwest,East North Central,Asian,2,N/A,N/A
+Race,RACE,WI,Midwest,East North Central,Other race,2,N/A,N/A
+Race,RACE2B,WI,Midwest,East North Central,White,83,40,59
+Race,RACE2B,WI,Midwest,East North Central,Non-white,17,57,43
+Education,EDUC12R,WI,Midwest,East North Central,High school or less,13,50,49
+Education,EDUC12R,WI,Midwest,East North Central,Some college,35,43,57
+Education,EDUC12R,WI,Midwest,East North Central,College graduate,29,37,63
+Education,EDUC12R,WI,Midwest,East North Central,Postgraduate,23,47,53
+Are you a college graduate?,EDUCCOLL,WI,Midwest,East North Central,Yes,52,41,58
+Are you a college graduate?,EDUCCOLL,WI,Midwest,East North Central,No,48,45,55
+Education and race,EDUCWHITE,WI,Midwest,East North Central,White college graduates,45,40,60
+Education and race,EDUCWHITE,WI,Midwest,East North Central,Whites no degree,38,41,59
+Education and race,EDUCWHITE,WI,Midwest,East North Central,Non-whites college grads,7,53,47
+Education and race,EDUCWHITE,WI,Midwest,East North Central,Non-whites no degree,10,59,41
+Income,INCOME16,WI,Midwest,East North Central,Less than $30K,19,41,58
+Income,INCOME16,WI,Midwest,East North Central,$30K-50K,19,46,54
+Income,INCOME16,WI,Midwest,East North Central,$50K-100K,36,39,61
+Income,INCOME16,WI,Midwest,East North Central,$100K-200K,20,46,54
+Income,INCOME16,WI,Midwest,East North Central,$200K or more,6,N/A,N/A
+Income,INC50K,WI,Midwest,East North Central,Under $50K,37,43,56
+Income,INC50K,WI,Midwest,East North Central,$50K or more,63,42,58
+Income,INC100K,WI,Midwest,East North Central,Under $100K,74,41,59
+Income,INC100K,WI,Midwest,East North Central,$100K or more,26,46,54
+Income,INCOME3,WI,Midwest,East North Central,Under $50K,37,43,56
+Income,INCOME3,WI,Midwest,East North Central,$50K-$100K,36,39,61
+Income,INCOME3,WI,Midwest,East North Central,$100K or more,26,46,54
+Party ID,PARTY,WI,Midwest,East North Central,Democrats,71,50,50
+Party ID,PARTY,WI,Midwest,East North Central,Republicans,2,N/A,N/A
+Party ID,PARTY,WI,Midwest,East North Central,Independents,27,28,72
+Ideology,PHIL4,WI,Midwest,East North Central,Very liberal,25,38,62
+Ideology,PHIL4,WI,Midwest,East North Central,Somewhat liberal,43,42,58
+Ideology,PHIL4,WI,Midwest,East North Central,Moderate,28,49,51
+Ideology,PHIL4,WI,Midwest,East North Central,Conservative,4,N/A,N/A
+Ideology,PHIL3X,WI,Midwest,East North Central,Liberal,67,40,59
+Ideology,PHIL3X,WI,Midwest,East North Central,Moderate,28,49,51
+Ideology,PHIL3X,WI,Midwest,East North Central,Conservative,4,N/A,N/A
+Ideology ,PHIL2D,WI,Midwest,East North Central,Liberal,67,40,59
+Ideology ,PHIL2D,WI,Midwest,East North Central,Moderate/Conservative,33,49,51
+Marital status,MARRIED,WI,Midwest,East North Central,Married,54,45,55
+Marital status,MARRIED,WI,Midwest,East North Central,Unmarried,46,39,60
+Marital status and gender,SEXWED,WI,Midwest,East North Central,Married men,24,38,62
+Marital status and gender,SEXWED,WI,Midwest,East North Central,Married women,30,51,49
+Marital status and gender,SEXWED,WI,Midwest,East North Central,Unmarried men,18,33,67
+Marital status and gender,SEXWED,WI,Midwest,East North Central,Unmarried women,28,43,56
+Union household?,UNIONHH12,WI,Midwest,East North Central,Yes,25,46,54
+Union household?,UNIONHH12,WI,Midwest,East North Central,No,75,42,58
+Most important issue,ISSDEM16,WI,Midwest,East North Central,Health care,22,47,53
+Most important issue,ISSDEM16,WI,Midwest,East North Central,Economy/Jobs,37,46,54
+Most important issue,ISSDEM16,WI,Midwest,East North Central,Terrorism,9,56,42
+Most important issue,ISSDEM16,WI,Midwest,East North Central,Income inequality,30,34,66
+Top candidate quality,QLT16DEMPRI,WI,Midwest,East North Central,Electability,9,64,36
+Top candidate quality,QLT16DEMPRI,WI,Midwest,East North Central,Cares,30,29,71
+Top candidate quality,QLT16DEMPRI,WI,Midwest,East North Central,Honest,33,16,83
+Top candidate quality,QLT16DEMPRI,WI,Midwest,East North Central,Experience,27,86,14
+The next president should:,OBAMAPLCY,WI,Midwest,East North Central,Continue Obama's policies,52,61,39
+The next president should:,OBAMAPLCY,WI,Midwest,East North Central,Be more liberal,34,20,80
+The next president should:,OBAMAPLCY,WI,Midwest,East North Central,Be less liberal,11,32,67
+Family's financial situation,GETAHEAD,WI,Midwest,East North Central,Getting ahead,19,45,55
+Family's financial situation,GETAHEAD,WI,Midwest,East North Central,Holding steady ,62,45,55
+Family's financial situation,GETAHEAD,WI,Midwest,East North Central,Falling behind ,18,37,63
+Trade with other countries:,TRADE16,WI,Midwest,East North Central,Creates U.S. jobs,41,45,55
+Trade with other countries:,TRADE16,WI,Midwest,East North Central,Takes away U.S. jobs,42,39,60
+Trade with other countries:,TRADE16,WI,Midwest,East North Central,Does not affect jobs,12,48,52
+Worried about U.S. economy?,ECONWORR,WI,Midwest,East North Central,Very worried,31,37,62
+Worried about U.S. economy?,ECONWORR,WI,Midwest,East North Central,Somewhat worried,46,43,57
+Worried about U.S. economy?,ECONWORR,WI,Midwest,East North Central,Not too worried,19,49,51
+Worried about U.S. economy?,ECONWORR,WI,Midwest,East North Central,Not at all worried,3,N/A,N/A
+Worried about U.S. economy?,ECOWORR2,WI,Midwest,East North Central,Yes,77,41,59
+Worried about U.S. economy?,ECOWORR2,WI,Midwest,East North Central,No,22,52,48
+Life for the next generation of Americans will be:,LIFE,WI,Midwest,East North Central,Better than today,34,49,51
+Life for the next generation of Americans will be:,LIFE,WI,Midwest,East North Central,Worse than today,39,33,67
+Life for the next generation of Americans will be:,LIFE,WI,Midwest,East North Central,About the same,26,52,47
+Next president should be:,OUTSIDER16,WI,Midwest,East North Central,Experienced in politics,77,51,48
+Next president should be:,OUTSIDER16,WI,Midwest,East North Central,Outside the establishment,20,14,86
+Clinton's positions on the issues are:,CLINTONLIB,WI,Midwest,East North Central,Too liberal,8,N/A,N/A
+Clinton's positions on the issues are:,CLINTONLIB,WI,Midwest,East North Central,Not liberal enough,30,12,87
+Clinton's positions on the issues are:,CLINTONLIB,WI,Midwest,East North Central,About right,58,66,34
+Sanders' positions on the issues are:,SANDERSLIB,WI,Midwest,East North Central,Too liberal,25,86,14
+Sanders' positions on the issues are:,SANDERSLIB,WI,Midwest,East North Central,Not liberal enough,8,N/A,N/A
+Sanders' positions on the issues are:,SANDERSLIB,WI,Midwest,East North Central,About right,64,22,78
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,WI,Midwest,East North Central,Yes,58,67,33
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,WI,Midwest,East North Central,No,39,9,91
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,WI,Midwest,East North Central,Yes,89,38,61
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,WI,Midwest,East North Central,No,10,N/A,N/A
+Hillary Clinton's policies are:,CLINREALISTIC,WI,Midwest,East North Central,Realistic,75,56,44
+Hillary Clinton's policies are:,CLINREALISTIC,WI,Midwest,East North Central,Not realistic,23,4,95
+Bernie Sanders' policies are:,SANDREALISTIC,WI,Midwest,East North Central,Realistic,65,20,79
+Bernie Sanders' policies are:,SANDREALISTIC,WI,Midwest,East North Central,Not realistic,33,87,12
+Feelings if Clinton is elected president:,CLINTONWIN,WI,Midwest,East North Central,Excited,14,91,9
+Feelings if Clinton is elected president:,CLINTONWIN,WI,Midwest,East North Central,Optimistic,54,50,50
+Feelings if Clinton is elected president:,CLINTONWIN,WI,Midwest,East North Central,Concerned,23,12,88
+Feelings if Clinton is elected president:,CLINTONWIN,WI,Midwest,East North Central,Scared,7,N/A,N/A
+Feelings if Clinton is elected president:,CLINTONWIN2,WI,Midwest,East North Central,Excited/Optimistic,69,58,42
+Feelings if Clinton is elected president:,CLINTONWIN2,WI,Midwest,East North Central,Concerned/Scared,29,9,90
+Feelings if Sanders is elected president:,SANDERSWIN,WI,Midwest,East North Central,Excited,33,7,93
+Feelings if Sanders is elected president:,SANDERSWIN,WI,Midwest,East North Central,Optimistic,42,47,53
+Feelings if Sanders is elected president:,SANDERSWIN,WI,Midwest,East North Central,Concerned,19,88,12
+Feelings if Sanders is elected president:,SANDERSWIN,WI,Midwest,East North Central,Scared,3,N/A,N/A
+Feelings if Sanders is elected president:,SANDERSWIN2,WI,Midwest,East North Central,Excited/Optimistic,75,29,71
+Feelings if Sanders is elected president:,SANDERSWIN2,WI,Midwest,East North Central,Concerned/Scared,23,89,10
+Who is more inspiring about the country's future?,INSPIRES16D,WI,Midwest,East North Central,Clinton,38,97,3
+Who is more inspiring about the country's future?,INSPIRES16D,WI,Midwest,East North Central,Sanders,59,9,91
+Better chance to defeat Trump in November?,BEATTRUMP16,WI,Midwest,East North Central,Clinton,54,76,24
+Better chance to defeat Trump in November?,BEATTRUMP16,WI,Midwest,East North Central,Sanders,43,3,96
+Who would make the best commander in chief?,CICDEM16,WI,Midwest,East North Central,Clinton,47,89,11
+Who would make the best commander in chief?,CICDEM16,WI,Midwest,East North Central,Sanders,51,2,98
+Worried about terrorist attack in U.S.?,TERRWORR,WI,Midwest,East North Central,Very worried,20,56,44
+Worried about terrorist attack in U.S.?,TERRWORR,WI,Midwest,East North Central,Somewhat worried,52,45,54
+Worried about terrorist attack in U.S.?,TERRWORR,WI,Midwest,East North Central,Not too worried,24,33,67
+Worried about terrorist attack in U.S.?,TERRWORR,WI,Midwest,East North Central,Not at all worried,4,N/A,N/A
+Worried about terrorist attack in U.S.?,TERWORR2,WI,Midwest,East North Central,Yes,71,48,51
+Worried about terrorist attack in U.S.?,TERWORR2,WI,Midwest,East North Central,No,29,32,68
+"In world affairs, should the U.S.:",WORLD,WI,Midwest,East North Central,Be more active,26,55,45
+"In world affairs, should the U.S.:",WORLD,WI,Midwest,East North Central,Be less active,35,25,74
+"In world affairs, should the U.S.:",WORLD,WI,Midwest,East North Central,Be about the same,37,52,48
+When did you decide whom to vote for?,TIMENH16,WI,Midwest,East North Central,Just today,8,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,WI,Midwest,East North Central,In the last few days,12,35,65
+When did you decide whom to vote for?,TIMENH16,WI,Midwest,East North Central,Sometime last week,5,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,WI,Midwest,East North Central,In the last month,16,31,68
+When did you decide whom to vote for?,TIMENH16,WI,Midwest,East North Central,Before that,59,48,51
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,WI,Midwest,East North Central,Last few days,20,42,58
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,WI,Midwest,East North Central,Earlier,79,44,56
+When did you decide whom to vote for?,TIMEPRIWK,WI,Midwest,East North Central,In the last week,24,39,61
+When did you decide whom to vote for?,TIMEPRIWK,WI,Midwest,East North Central,Earlier,75,45,55
+Area type,SIZEPLC3,WI,Midwest,East North Central,Urban area,53,45,55
+Area type,SIZEPLC3,WI,Midwest,East North Central,Suburban area,30,44,56
+Area type,SIZEPLC3,WI,Midwest,East North Central,Rural area,17,39,61
+Region,GEOCOD,WI,Midwest,East North Central,Milwaukee County,18,51,48
+Region,GEOCOD,WI,Midwest,East North Central,Southeast,21,45,55
+Region,GEOCOD,WI,Midwest,East North Central,Southwest,26,38,62
+Region,GEOCOD,WI,Midwest,East North Central,Northeast,15,42,57
+Region,GEOCOD,WI,Midwest,East North Central,Northwest,20,42,57

@@ -43,7 +43,7 @@ Income,INCOME16,TX,South,West South Central,$50K-100K,34,64,33
 Income,INCOME16,TX,South,West South Central,$100K-200K,19,67,33
 Income,INCOME16,TX,South,West South Central,$200K or more,8,72,26
 Income,INC50K,TX,South,West South Central,Under $50K,38,66,33
-Income,INC50K,TX,South,West South Central,$50K or More,62,66,32
+Income,INC50K,TX,South,West South Central,$50K or more,62,66,32
 Income,INC100K,TX,South,West South Central,Under $100K,73,65,33
 Income,INC100K,TX,South,West South Central,$100K or more,27,68,31
 Income,INCOME3,TX,South,West South Central,Under $50K,38,66,33

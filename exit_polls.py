@@ -104,8 +104,8 @@ for poll in exitpollhub:
         r = requests.get('http://data.cnn.com/ELECTION/2016primary/' + state + '/xpoll/'+ url + '.json')
 
         if r.status_code == 200:
-            for region, subregions in regions.iteritems():
-                for subregion, states in subregions.iteritems():
+            for region, subregions in regions.items():
+                for subregion, states in subregions.items():
                     if state in states:
                         state_subregion = subregion
                         state_region = region
@@ -115,7 +115,7 @@ for poll in exitpollhub:
                 data = r.json()
                 d = {}
 
-                with open(filename, 'wb') as f:
+                with open(filename, 'w') as f:
                     csv_file = csv.writer(f)
                     csv_file.writerow(['question','pollname','state','region','subregion','answer','percent','clinton','sanders'])
 

@@ -1,0 +1,105 @@
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
+Gender,SEX,CT,Northeast,New England,Men,39,43,55
+Gender,SEX,CT,Northeast,New England,Women,61,57,41
+Age,XAGE,CT,Northeast,New England,17-29,15,17,83
+Age,XAGE,CT,Northeast,New England,30-44,22,45,54
+Age,XAGE,CT,Northeast,New England,45-64,42,58,40
+Age,XAGE,CT,Northeast,New England,65 and older,21,70,27
+Age,XAGE65,CT,Northeast,New England,17-24,9,15,85
+Age,XAGE65,CT,Northeast,New England,25-29,6,N/A,N/A
+Age,XAGE65,CT,Northeast,New England,30-39,15,41,59
+Age,XAGE65,CT,Northeast,New England,40-49,17,51,47
+Age,XAGE65,CT,Northeast,New England,50-64,32,61,37
+Age,XAGE65,CT,Northeast,New England,65 and older,21,70,27
+Age,XAGE45,CT,Northeast,New England,17-44 year olds,37,34,66
+Age,XAGE45,CT,Northeast,New England,45 and older,63,62,35
+Race,RACE,CT,Northeast,New England,White,74,48,50
+Race,RACE,CT,Northeast,New England,Black,15,69,30
+Race,RACE,CT,Northeast,New England,Latino,8,N/A,N/A
+Race,RACE,CT,Northeast,New England,Asian,1,N/A,N/A
+Race,RACE,CT,Northeast,New England,Other race,2,N/A,N/A
+Race,RACE2B,CT,Northeast,New England,White,74,48,50
+Race,RACE2B,CT,Northeast,New England,Non-white,26,62,37
+Education,EDUC12R,CT,Northeast,New England,High school or less,11,52,43
+Education,EDUC12R,CT,Northeast,New England,Some college,26,45,54
+Education,EDUC12R,CT,Northeast,New England,College graduate,26,45,54
+Education,EDUC12R,CT,Northeast,New England,Postgraduate,37,61,38
+Are you a college graduate?,EDUCCOLL,CT,Northeast,New England,Yes,62,54,44
+Are you a college graduate?,EDUCCOLL,CT,Northeast,New England,No,38,47,51
+Education and race,EDUCWHITE,CT,Northeast,New England,White college graduates,49,54,45
+Education and race,EDUCWHITE,CT,Northeast,New England,Whites no degree,25,36,60
+Education and race,EDUCWHITE,CT,Northeast,New England,Non-whites college grads,13,56,42
+Education and race,EDUCWHITE,CT,Northeast,New England,Non-whites no degree,13,67,33
+Income,INCOME16,CT,Northeast,New England,Less than $30K,13,47,51
+Income,INCOME16,CT,Northeast,New England,$30K-50K,15,44,55
+Income,INCOME16,CT,Northeast,New England,$50K-100K,29,43,56
+Income,INCOME16,CT,Northeast,New England,$100K-200K,30,56,41
+Income,INCOME16,CT,Northeast,New England,$200K or more,14,67,32
+Income,INC50K,CT,Northeast,New England,Under $50K,28,45,53
+Income,INC50K,CT,Northeast,New England,$50K or more,72,53,45
+Income,INC100K,CT,Northeast,New England,Under $100K,56,44,54
+Income,INC100K,CT,Northeast,New England,$100K or more,44,60,39
+Income,INCOME3,CT,Northeast,New England,Under $50K,28,45,53
+Income,INCOME3,CT,Northeast,New England,$50K-$100K,29,43,56
+Income,INCOME3,CT,Northeast,New England,$100K or more,44,60,39
+Party ID,PARTY,CT,Northeast,New England,Democrats,78,60,39
+Party ID,PARTY,CT,Northeast,New England,Republicans,2,N/A,N/A
+Party ID,PARTY,CT,Northeast,New England,Independents,20,23,74
+Ideology,PHIL4,CT,Northeast,New England,Very liberal,30,50,49
+Ideology,PHIL4,CT,Northeast,New England,Somewhat liberal,39,53,47
+Ideology,PHIL4,CT,Northeast,New England,Moderate,25,53,43
+Ideology,PHIL4,CT,Northeast,New England,Conservative,5,N/A,N/A
+Ideology,PHIL3X,CT,Northeast,New England,Liberal,70,52,48
+Ideology,PHIL3X,CT,Northeast,New England,Moderate,25,53,43
+Ideology,PHIL3X,CT,Northeast,New England,Conservative,5,N/A,N/A
+Ideology ,PHIL2D,CT,Northeast,New England,Liberal,70,52,48
+Ideology ,PHIL2D,CT,Northeast,New England,Moderate/Conservative,30,52,43
+Parent?,CHILD12,CT,Northeast,New England,Yes,33,48,51
+Parent?,CHILD12,CT,Northeast,New England,No,67,53,45
+Parent,PARENTS,CT,Northeast,New England,Men with children,11,33,66
+Parent,PARENTS,CT,Northeast,New England,Women with children,22,55,44
+Parent,PARENTS,CT,Northeast,New England,Men without children,28,45,51
+Parent,PARENTS,CT,Northeast,New England,Women without children,39,58,40
+Most important issue,ISSDEM16,CT,Northeast,New England,Health care,22,60,39
+Most important issue,ISSDEM16,CT,Northeast,New England,Economy/Jobs,43,53,45
+Most important issue,ISSDEM16,CT,Northeast,New England,Terrorism,7,N/A,N/A
+Most important issue,ISSDEM16,CT,Northeast,New England,Income inequality,24,39,60
+Top candidate quality,QLT16DEMPRI,CT,Northeast,New England,Electability,14,85,14
+Top candidate quality,QLT16DEMPRI,CT,Northeast,New England,Cares,23,30,67
+Top candidate quality,QLT16DEMPRI,CT,Northeast,New England,Honest,30,13,86
+Top candidate quality,QLT16DEMPRI,CT,Northeast,New England,Experience,30,92,7
+Who would better handle gun policy?,GUNPLCYDEM16NY,CT,Northeast,New England,Clinton,60,81,18
+Who would better handle gun policy?,GUNPLCYDEM16NY,CT,Northeast,New England,Sanders,35,6,93
+The next president should:,OBAMAPLCY,CT,Northeast,New England,Continue Obama's policies,49,71,29
+The next president should:,OBAMAPLCY,CT,Northeast,New England,Be more liberal,35,29,70
+The next president should:,OBAMAPLCY,CT,Northeast,New England,Be less liberal,12,42,49
+Does Wall Street do more to:,WALLST16,CT,Northeast,New England,Help the economy,29,79,20
+Does Wall Street do more to:,WALLST16,CT,Northeast,New England,Hurt the economy,63,38,60
+"If Clinton is the Democratic nominee, would you:",VOTENOVCLINTON,CT,Northeast,New England,Not vote for her,17,3,90
+"If Clinton is the Democratic nominee, would you:",VOTENOVCLINTON,CT,Northeast,New England,Probably vote for her,21,25,74
+"If Clinton is the Democratic nominee, would you:",VOTENOVCLINTON,CT,Northeast,New England,Definitely vote for her,61,75,25
+"If Sanders is the Democratic nominee, would you:",VOTENOVSANDERS,CT,Northeast,New England,Not vote for him,15,81,10
+"If Sanders is the Democratic nominee, would you:",VOTENOVSANDERS,CT,Northeast,New England,Probably vote for him,21,74,24
+"If Sanders is the Democratic nominee, would you:",VOTENOVSANDERS,CT,Northeast,New England,Definitely vote for him,62,35,64
+Who is more inspiring about the country's future?,INSPIRES16D,CT,Northeast,New England,Clinton,42,97,2
+Who is more inspiring about the country's future?,INSPIRES16D,CT,Northeast,New England,Sanders,54,16,83
+Better chance to defeat Trump in November?,BEATTRUMP16,CT,Northeast,New England,Clinton,64,79,20
+Better chance to defeat Trump in November?,BEATTRUMP16,CT,Northeast,New England,Sanders,33,2,97
+Has the Democratic campaign mostly:,PARTYUNITYDEM,CT,Northeast,New England,Energized the Party,66,56,43
+Has the Democratic campaign mostly:,PARTYUNITYDEM,CT,Northeast,New England,Divided the Party,29,43,52
+When did you decide whom to vote for?,TIMENH16,CT,Northeast,New England,Just today,8,47,46
+When did you decide whom to vote for?,TIMENH16,CT,Northeast,New England,In the last few days,6,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,CT,Northeast,New England,Sometime last week,2,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,CT,Northeast,New England,In the last month,12,46,54
+When did you decide whom to vote for?,TIMENH16,CT,Northeast,New England,Before that,71,53,46
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,CT,Northeast,New England,Last few days,14,49,45
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,CT,Northeast,New England,Earlier,86,52,47
+When did you decide whom to vote for?,TIMEPRIWK,CT,Northeast,New England,In the last week,16,51,45
+When did you decide whom to vote for?,TIMEPRIWK,CT,Northeast,New England,Earlier,84,52,47
+Area type,SIZEPLC3,CT,Northeast,New England,Urban area,28,60,40
+Area type,SIZEPLC3,CT,Northeast,New England,Suburban area,61,46,51
+Area type,SIZEPLC3,CT,Northeast,New England,Rural area,11,63,37
+Region,GEOCOD,CT,Northeast,New England,NY Suburbs,30,59,40
+Region,GEOCOD,CT,Northeast,New England,Hartford Area,40,51,47
+Region,GEOCOD,CT,Northeast,New England,East,16,44,54
+Region,GEOCOD,CT,Northeast,New England,West,14,46,51

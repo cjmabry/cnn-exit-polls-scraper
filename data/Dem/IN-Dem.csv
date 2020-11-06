@@ -1,0 +1,147 @@
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
+Gender,SEX,IN,Midwest,East North Central,Men,41,43,57
+Gender,SEX,IN,Midwest,East North Central,Women,59,50,50
+Age,XAGE,IN,Midwest,East North Central,17-29,19,26,74
+Age,XAGE,IN,Midwest,East North Central,30-44,27,36,64
+Age,XAGE,IN,Midwest,East North Central,45-64,39,57,43
+Age,XAGE,IN,Midwest,East North Central,65 and older,16,67,33
+Age,XAGE65,IN,Midwest,East North Central,17-24,10,18,82
+Age,XAGE65,IN,Midwest,East North Central,25-29,8,35,65
+Age,XAGE65,IN,Midwest,East North Central,30-39,19,30,70
+Age,XAGE65,IN,Midwest,East North Central,40-49,17,54,46
+Age,XAGE65,IN,Midwest,East North Central,50-64,30,57,43
+Age,XAGE65,IN,Midwest,East North Central,65 and older,16,67,33
+Age,XAGE45,IN,Midwest,East North Central,17-44 year olds,46,32,68
+Age,XAGE45,IN,Midwest,East North Central,45 and older,54,60,40
+Race,RACE,IN,Midwest,East North Central,White,72,41,59
+Race,RACE,IN,Midwest,East North Central,Black,19,74,26
+Race,RACE,IN,Midwest,East North Central,Latino,6,N/A,N/A
+Race,RACE,IN,Midwest,East North Central,Asian,1,N/A,N/A
+Race,RACE,IN,Midwest,East North Central,Other race,2,N/A,N/A
+Race,RACE2B,IN,Midwest,East North Central,White,72,41,59
+Race,RACE2B,IN,Midwest,East North Central,Non-white,28,63,37
+Education,EDUC12R,IN,Midwest,East North Central,High school or less,17,56,44
+Education,EDUC12R,IN,Midwest,East North Central,Some college,31,37,63
+Education,EDUC12R,IN,Midwest,East North Central,College graduate,30,49,51
+Education,EDUC12R,IN,Midwest,East North Central,Postgraduate,22,51,49
+Are you a college graduate?,EDUCCOLL,IN,Midwest,East North Central,Yes,52,50,50
+Are you a college graduate?,EDUCCOLL,IN,Midwest,East North Central,No,48,44,56
+Education and race,EDUCWHITE,IN,Midwest,East North Central,White college graduates,39,45,55
+Education and race,EDUCWHITE,IN,Midwest,East North Central,Whites no degree,33,35,65
+Education and race,EDUCWHITE,IN,Midwest,East North Central,Non-whites college grads,13,64,36
+Education and race,EDUCWHITE,IN,Midwest,East North Central,Non-whites no degree,15,64,36
+Income,INCOME16,IN,Midwest,East North Central,Less than $30K,23,53,47
+Income,INCOME16,IN,Midwest,East North Central,$30K-50K,22,46,54
+Income,INCOME16,IN,Midwest,East North Central,$50K-100K,31,46,54
+Income,INCOME16,IN,Midwest,East North Central,$100K-200K,21,43,57
+Income,INCOME16,IN,Midwest,East North Central,$200K or more,4,N/A,N/A
+Income,INC50K,IN,Midwest,East North Central,Under $50K,44,49,51
+Income,INC50K,IN,Midwest,East North Central,$50K or more,56,46,54
+Income,INC100K,IN,Midwest,East North Central,Under $100K,75,48,52
+Income,INC100K,IN,Midwest,East North Central,$100K or more,25,46,54
+Income,INCOME3,IN,Midwest,East North Central,Under $50K,44,49,51
+Income,INCOME3,IN,Midwest,East North Central,$50K-$100K,31,46,54
+Income,INCOME3,IN,Midwest,East North Central,$100K or more,25,46,54
+Party ID,PARTY,IN,Midwest,East North Central,Democrats,76,53,47
+Party ID,PARTY,IN,Midwest,East North Central,Republicans,2,N/A,N/A
+Party ID,PARTY,IN,Midwest,East North Central,Independents,22,28,72
+Ideology,PHIL4,IN,Midwest,East North Central,Very liberal,28,40,60
+Ideology,PHIL4,IN,Midwest,East North Central,Somewhat liberal,40,47,53
+Ideology,PHIL4,IN,Midwest,East North Central,Moderate,29,54,46
+Ideology,PHIL4,IN,Midwest,East North Central,Conservative,3,N/A,N/A
+Ideology,PHIL3X,IN,Midwest,East North Central,Liberal,68,44,56
+Ideology,PHIL3X,IN,Midwest,East North Central,Moderate,29,54,46
+Ideology,PHIL3X,IN,Midwest,East North Central,Conservative,3,N/A,N/A
+Ideology ,PHIL2D,IN,Midwest,East North Central,Liberal,68,44,56
+Ideology ,PHIL2D,IN,Midwest,East North Central,Moderate/Conservative,32,54,46
+Union household?,UNIONHH12,IN,Midwest,East North Central,Yes,25,46,54
+Union household?,UNIONHH12,IN,Midwest,East North Central,No,75,47,53
+Marital status,MARRIED,IN,Midwest,East North Central,Married,55,51,49
+Marital status,MARRIED,IN,Midwest,East North Central,Unmarried,45,42,58
+Marital status and gender,SEXWED,IN,Midwest,East North Central,Married men,23,48,52
+Marital status and gender,SEXWED,IN,Midwest,East North Central,Married women,32,53,47
+Marital status and gender,SEXWED,IN,Midwest,East North Central,Unmarried men,17,38,62
+Marital status and gender,SEXWED,IN,Midwest,East North Central,Unmarried women,28,45,55
+Most important issue,ISSDEM16,IN,Midwest,East North Central,Health care,24,49,51
+Most important issue,ISSDEM16,IN,Midwest,East North Central,Economy/Jobs,42,49,51
+Most important issue,ISSDEM16,IN,Midwest,East North Central,Terrorism,7,N/A,N/A
+Most important issue,ISSDEM16,IN,Midwest,East North Central,Income inequality,24,35,65
+Top candidate quality,QLT16DEMPRI,IN,Midwest,East North Central,Electability,9,N/A,N/A
+Top candidate quality,QLT16DEMPRI,IN,Midwest,East North Central,Cares,30,30,70
+Top candidate quality,QLT16DEMPRI,IN,Midwest,East North Central,Honest,30,20,80
+Top candidate quality,QLT16DEMPRI,IN,Midwest,East North Central,Experience,28,85,15
+The next president should:,OBAMAPLCY,IN,Midwest,East North Central,Continue Obama's policies,50,63,37
+The next president should:,OBAMAPLCY,IN,Midwest,East North Central,Be more liberal,35,23,77
+The next president should:,OBAMAPLCY,IN,Midwest,East North Central,Be less liberal,11,N/A,N/A
+Trade with other countries:,TRADE16,IN,Midwest,East North Central,Creates U.S. jobs,40,50,50
+Trade with other countries:,TRADE16,IN,Midwest,East North Central,Takes away U.S. jobs,46,46,54
+Trade with other countries:,TRADE16,IN,Midwest,East North Central,Does not affect jobs,10,N/A,N/A
+Does Wall Street do more to:,WALLST16,IN,Midwest,East North Central,Help the economy,29,63,37
+Does Wall Street do more to:,WALLST16,IN,Midwest,East North Central,Hurt the economy,64,38,62
+Worried about U.S. economy?,ECONWORR,IN,Midwest,East North Central,Very worried,40,40,60
+Worried about U.S. economy?,ECONWORR,IN,Midwest,East North Central,Somewhat worried,44,45,55
+Worried about U.S. economy?,ECONWORR,IN,Midwest,East North Central,Not too worried,12,N/A,N/A
+Worried about U.S. economy?,ECONWORR,IN,Midwest,East North Central,Not at all worried,3,N/A,N/A
+Worried about U.S. economy?,ECOWORR2,IN,Midwest,East North Central,Yes,84,43,57
+Worried about U.S. economy?,ECOWORR2,IN,Midwest,East North Central,No,15,N/A,N/A
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,IN,Midwest,East North Central,Yes,55,75,25
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,IN,Midwest,East North Central,No,42,9,91
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,IN,Midwest,East North Central,Yes,84,39,61
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,IN,Midwest,East North Central,No,13,N/A,N/A
+Hillary Clinton's policies are:,CLINREALISTIC,IN,Midwest,East North Central,Realistic,76,59,41
+Hillary Clinton's policies are:,CLINREALISTIC,IN,Midwest,East North Central,Not realistic,21,8,92
+Bernie Sanders' policies are:,SANDREALISTIC,IN,Midwest,East North Central,Realistic,63,28,72
+Bernie Sanders' policies are:,SANDREALISTIC,IN,Midwest,East North Central,Not realistic,35,80,20
+Feelings if Clinton is elected president:,CLINTONWIN,IN,Midwest,East North Central,Excited,16,N/A,N/A
+Feelings if Clinton is elected president:,CLINTONWIN,IN,Midwest,East North Central,Optimistic,52,53,47
+Feelings if Clinton is elected president:,CLINTONWIN,IN,Midwest,East North Central,Concerned,22,17,83
+Feelings if Clinton is elected president:,CLINTONWIN,IN,Midwest,East North Central,Scared,9,N/A,N/A
+Feelings if Clinton is elected president:,CLINTONWIN2,IN,Midwest,East North Central,Excited/Optimistic,68,62,38
+Feelings if Clinton is elected president:,CLINTONWIN2,IN,Midwest,East North Central,Concerned/Scared,30,13,87
+Feelings if Sanders is elected president:,SANDERSWIN,IN,Midwest,East North Central,Excited,31,11,89
+Feelings if Sanders is elected president:,SANDERSWIN,IN,Midwest,East North Central,Optimistic,41,45,55
+Feelings if Sanders is elected president:,SANDERSWIN,IN,Midwest,East North Central,Concerned,22,91,9
+Feelings if Sanders is elected president:,SANDERSWIN,IN,Midwest,East North Central,Scared,4,N/A,N/A
+Feelings if Sanders is elected president:,SANDERSWIN2,IN,Midwest,East North Central,Excited/Optimistic,72,30,70
+Feelings if Sanders is elected president:,SANDERSWIN2,IN,Midwest,East North Central,Concerned/Scared,26,92,8
+"If Clinton is the Democratic nominee, would you:",VOTENOVCLINTON,IN,Midwest,East North Central,Not vote for her,18,8,92
+"If Clinton is the Democratic nominee, would you:",VOTENOVCLINTON,IN,Midwest,East North Central,Probably vote for her,26,30,70
+"If Clinton is the Democratic nominee, would you:",VOTENOVCLINTON,IN,Midwest,East North Central,Definitely vote for her,54,69,31
+"If Sanders is the Democratic nominee, would you:",VOTENOVSANDERS,IN,Midwest,East North Central,Not vote for him,11,N/A,N/A
+"If Sanders is the Democratic nominee, would you:",VOTENOVSANDERS,IN,Midwest,East North Central,Probably vote for him,22,71,29
+"If Sanders is the Democratic nominee, would you:",VOTENOVSANDERS,IN,Midwest,East North Central,Definitely vote for him,65,29,71
+Did Clinton attack Sanders unfairly?,UNFAIRCLINTON,IN,Midwest,East North Central,Yes,25,9,91
+Did Clinton attack Sanders unfairly?,UNFAIRCLINTON,IN,Midwest,East North Central,No,70,62,38
+Did Sanders attack Clinton unfairly?,UNFAIRSANDERS,IN,Midwest,East North Central,Yes,18,N/A,N/A
+Did Sanders attack Clinton unfairly?,UNFAIRSANDERS,IN,Midwest,East North Central,No,78,39,61
+Who is more inspiring about the country's future?,INSPIRES16D,IN,Midwest,East North Central,Clinton,42,100,0
+Who is more inspiring about the country's future?,INSPIRES16D,IN,Midwest,East North Central,Sanders,56,7,93
+Better chance to defeat Trump in November?,BEATTRUMP16,IN,Midwest,East North Central,Clinton,54,79,21
+Better chance to defeat Trump in November?,BEATTRUMP16,IN,Midwest,East North Central,Sanders,43,8,92
+Who do you think will be the Democratic nominee?,WINNOMDEM16,IN,Midwest,East North Central,Clinton,74,63,37
+Who do you think will be the Democratic nominee?,WINNOMDEM16,IN,Midwest,East North Central,Sanders,26,2,98
+Has the Democratic campaign mostly:,PARTYUNITYDEM,IN,Midwest,East North Central,Energized the Party,72,48,52
+Has the Democratic campaign mostly:,PARTYUNITYDEM,IN,Midwest,East North Central,Divided the Party,23,40,60
+Is the U.S. ready to elect a woman president?,READYWOMAN,IN,Midwest,East North Central,Definitely,55,58,42
+Is the U.S. ready to elect a woman president?,READYWOMAN,IN,Midwest,East North Central,Probably,31,39,61
+Is the U.S. ready to elect a woman president?,READYWOMAN,IN,Midwest,East North Central,Probably not,9,N/A,N/A
+Is the U.S. ready to elect a woman president?,READYWOMAN,IN,Midwest,East North Central,Definitely,4,N/A,N/A
+Is the U.S. ready to elect a woman president?,READYWOMAN2,IN,Midwest,East North Central,Yes,86,51,49
+Is the U.S. ready to elect a woman president?,READYWOMAN2,IN,Midwest,East North Central,No,13,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,IN,Midwest,East North Central,Just today,11,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,IN,Midwest,East North Central,In the last few days,9,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,IN,Midwest,East North Central,Sometime last week,5,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,IN,Midwest,East North Central,In the last month,10,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,IN,Midwest,East North Central,Before that,64,46,54
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,IN,Midwest,East North Central,Last few days,20,43,57
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,IN,Midwest,East North Central,Earlier,80,48,52
+When did you decide whom to vote for?,TIMEPRIWK,IN,Midwest,East North Central,In the last week,25,48,52
+When did you decide whom to vote for?,TIMEPRIWK,IN,Midwest,East North Central,Earlier,74,47,53
+Area type,SIZEPLC3,IN,Midwest,East North Central,Urban area,42,42,58
+Area type,SIZEPLC3,IN,Midwest,East North Central,Suburban area,41,55,45
+Area type,SIZEPLC3,IN,Midwest,East North Central,Rural area,17,41,59
+Region,GEOCOD,IN,Midwest,East North Central,Northwest,23,51,49
+Region,GEOCOD,IN,Midwest,East North Central,North / Central,26,45,55
+Region,GEOCOD,IN,Midwest,East North Central,Marion County,17,49,51
+Region,GEOCOD,IN,Midwest,East North Central,Indianapolis Area,14,44,56
+Region,GEOCOD,IN,Midwest,East North Central,South,20,46,54

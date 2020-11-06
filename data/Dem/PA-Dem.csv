@@ -1,0 +1,145 @@
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
+Gender,SEX,PA,Northeast,Middle Atlantic,Men,40,49,50
+Gender,SEX,PA,Northeast,Middle Atlantic,Women,60,60,39
+Age,AGE,PA,Northeast,Middle Atlantic,18-29,12,17,83
+Age,AGE,PA,Northeast,Middle Atlantic,30-44,24,47,53
+Age,AGE,PA,Northeast,Middle Atlantic,45-64,41,65,34
+Age,AGE,PA,Northeast,Middle Atlantic,65 and older,23,67,31
+Age,AGE65,PA,Northeast,Middle Atlantic,18-24,6,N/A,N/A
+Age,AGE65,PA,Northeast,Middle Atlantic,25-29,6,N/A,N/A
+Age,AGE65,PA,Northeast,Middle Atlantic,30-39,16,43,57
+Age,AGE65,PA,Northeast,Middle Atlantic,40-49,17,59,40
+Age,AGE65,PA,Northeast,Middle Atlantic,50-64,31,66,33
+Age,AGE65,PA,Northeast,Middle Atlantic,65 and older,23,67,31
+Age,AGE45,PA,Northeast,Middle Atlantic,18-44,36,37,63
+Age,AGE45,PA,Northeast,Middle Atlantic,45 and older,64,66,33
+Race,RACE,PA,Northeast,Middle Atlantic,White,68,51,47
+Race,RACE,PA,Northeast,Middle Atlantic,Black,19,70,30
+Race,RACE,PA,Northeast,Middle Atlantic,Latino,10,N/A,N/A
+Race,RACE,PA,Northeast,Middle Atlantic,Asian,1,N/A,N/A
+Race,RACE,PA,Northeast,Middle Atlantic,Other race,2,N/A,N/A
+Race,RACE2B,PA,Northeast,Middle Atlantic,White,68,51,47
+Race,RACE2B,PA,Northeast,Middle Atlantic,Non-white,32,64,36
+Education,EDUC12R,PA,Northeast,Middle Atlantic,High school or less,23,58,41
+Education,EDUC12R,PA,Northeast,Middle Atlantic,Some college,32,52,47
+Education,EDUC12R,PA,Northeast,Middle Atlantic,College graduate,24,53,46
+Education,EDUC12R,PA,Northeast,Middle Atlantic,Postgraduate,21,61,39
+Are you a college graduate?,EDUCCOLL,PA,Northeast,Middle Atlantic,Yes,45,56,43
+Are you a college graduate?,EDUCCOLL,PA,Northeast,Middle Atlantic,No,55,55,45
+Education and race,EDUCWHITE,PA,Northeast,Middle Atlantic,White college graduates,35,53,46
+Education and race,EDUCWHITE,PA,Northeast,Middle Atlantic,Whites no degree,33,49,50
+Education and race,EDUCWHITE,PA,Northeast,Middle Atlantic,Non-whites college grads,10,68,32
+Education and race,EDUCWHITE,PA,Northeast,Middle Atlantic,Non-whites no degree,21,63,37
+Income,INCOME16,PA,Northeast,Middle Atlantic,Less than $30K,19,60,40
+Income,INCOME16,PA,Northeast,Middle Atlantic,$30K-50K,26,50,49
+Income,INCOME16,PA,Northeast,Middle Atlantic,$50K-100K,33,57,43
+Income,INCOME16,PA,Northeast,Middle Atlantic,$100K-200K,19,55,44
+Income,INCOME16,PA,Northeast,Middle Atlantic,$200K or more,3,N/A,N/A
+Income,INC50K,PA,Northeast,Middle Atlantic,Under $50K,45,54,45
+Income,INC50K,PA,Northeast,Middle Atlantic,$50K or more,55,56,43
+Income,INC100K,PA,Northeast,Middle Atlantic,Under $100K,78,55,44
+Income,INC100K,PA,Northeast,Middle Atlantic,$100K or more,22,56,43
+Income,INCOME3,PA,Northeast,Middle Atlantic,Under $50K,45,54,45
+Income,INCOME3,PA,Northeast,Middle Atlantic,$50K-$100K,33,57,43
+Income,INCOME3,PA,Northeast,Middle Atlantic,$100K or more,22,56,43
+Party ID,PARTY,PA,Northeast,Middle Atlantic,Democrats,82,62,38
+Party ID,PARTY,PA,Northeast,Middle Atlantic,Republicans,3,N/A,N/A
+Party ID,PARTY,PA,Northeast,Middle Atlantic,Independents,15,26,72
+Ideology,PHIL4,PA,Northeast,Middle Atlantic,Very liberal,26,51,49
+Ideology,PHIL4,PA,Northeast,Middle Atlantic,Somewhat liberal,40,60,40
+Ideology,PHIL4,PA,Northeast,Middle Atlantic,Moderate,29,57,42
+Ideology,PHIL4,PA,Northeast,Middle Atlantic,Conservative,5,N/A,N/A
+Ideology,PHIL3X,PA,Northeast,Middle Atlantic,Liberal,66,56,43
+Ideology,PHIL3X,PA,Northeast,Middle Atlantic,Moderate,29,57,42
+Ideology,PHIL3X,PA,Northeast,Middle Atlantic,Conservative,5,N/A,N/A
+Ideology ,PHIL2D,PA,Northeast,Middle Atlantic,Liberal,66,56,43
+Ideology ,PHIL2D,PA,Northeast,Middle Atlantic,Moderate/Conservative,34,53,45
+Union household?,UNIONHH12,PA,Northeast,Middle Atlantic,Yes,28,56,43
+Union household?,UNIONHH12,PA,Northeast,Middle Atlantic,No,72,56,44
+Marital status,MARRIED,PA,Northeast,Middle Atlantic,Married,56,59,40
+Marital status,MARRIED,PA,Northeast,Middle Atlantic,Unmarried,44,50,50
+Marital status and gender,SEXWED,PA,Northeast,Middle Atlantic,Married men,25,53,46
+Marital status and gender,SEXWED,PA,Northeast,Middle Atlantic,Married women,31,65,35
+Marital status and gender,SEXWED,PA,Northeast,Middle Atlantic,Unmarried men,15,40,60
+Marital status and gender,SEXWED,PA,Northeast,Middle Atlantic,Unmarried women,28,55,45
+Most important issue,ISSDEM16,PA,Northeast,Middle Atlantic,Health care,22,61,39
+Most important issue,ISSDEM16,PA,Northeast,Middle Atlantic,Economy/Jobs,42,57,42
+Most important issue,ISSDEM16,PA,Northeast,Middle Atlantic,Terrorism,13,66,32
+Most important issue,ISSDEM16,PA,Northeast,Middle Atlantic,Income inequality,20,38,61
+Top candidate quality,QLT16DEMPRI,PA,Northeast,Middle Atlantic,Electability,11,83,16
+Top candidate quality,QLT16DEMPRI,PA,Northeast,Middle Atlantic,Cares,29,41,57
+Top candidate quality,QLT16DEMPRI,PA,Northeast,Middle Atlantic,Honest,26,24,75
+Top candidate quality,QLT16DEMPRI,PA,Northeast,Middle Atlantic,Experience,31,85,15
+Who would better handle gun policy?,GUNPLCYDEM16NY,PA,Northeast,Middle Atlantic,Clinton,55,90,10
+Who would better handle gun policy?,GUNPLCYDEM16NY,PA,Northeast,Middle Atlantic,Sanders,40,8,90
+The next president should:,OBAMAPLCY,PA,Northeast,Middle Atlantic,Continue Obama's policies,52,68,32
+The next president should:,OBAMAPLCY,PA,Northeast,Middle Atlantic,Be more liberal,31,40,59
+The next president should:,OBAMAPLCY,PA,Northeast,Middle Atlantic,Be less liberal,11,N/A,N/A
+Who ran the more unfair campaign?,UNFAIRDEM16NY,PA,Northeast,Middle Atlantic,Clinton,44,28,71
+Who ran the more unfair campaign?,UNFAIRDEM16NY,PA,Northeast,Middle Atlantic,Sanders,35,81,19
+Trade with other countries:,TRADE16,PA,Northeast,Middle Atlantic,Creates U.S. jobs,44,61,39
+Trade with other countries:,TRADE16,PA,Northeast,Middle Atlantic,Takes away U.S. jobs,42,50,48
+Trade with other countries:,TRADE16,PA,Northeast,Middle Atlantic,Does not affect jobs,9,N/A,N/A
+Does Wall Street do more to:,WALLST16,PA,Northeast,Middle Atlantic,Help the economy,29,74,25
+Does Wall Street do more to:,WALLST16,PA,Northeast,Middle Atlantic,Hurt the economy,64,46,53
+How do you feel about fracking?,FRACKING,PA,Northeast,Middle Atlantic,Favor,29,66,33
+How do you feel about fracking?,FRACKING,PA,Northeast,Middle Atlantic,Oppose,63,50,50
+Worried about U.S. economy?,ECONWORR,PA,Northeast,Middle Atlantic,Very worried,43,47,52
+Worried about U.S. economy?,ECONWORR,PA,Northeast,Middle Atlantic,Somewhat worried,43,57,43
+Worried about U.S. economy?,ECONWORR,PA,Northeast,Middle Atlantic,Not too worried,12,N/A,N/A
+Worried about U.S. economy?,ECONWORR,PA,Northeast,Middle Atlantic,Not at all worried,1,N/A,N/A
+Worried about U.S. economy?,ECOWORR2,PA,Northeast,Middle Atlantic,Yes,85,52,47
+Worried about U.S. economy?,ECOWORR2,PA,Northeast,Middle Atlantic,No,13,72,28
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,PA,Northeast,Middle Atlantic,Yes,58,81,18
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,PA,Northeast,Middle Atlantic,No,38,17,82
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,PA,Northeast,Middle Atlantic,Yes,76,47,52
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,PA,Northeast,Middle Atlantic,No,19,81,16
+Hillary Clinton's policies are:,CLINREALISTIC,PA,Northeast,Middle Atlantic,Realistic,73,72,28
+Hillary Clinton's policies are:,CLINREALISTIC,PA,Northeast,Middle Atlantic,Not realistic,23,8,90
+Bernie Sanders' policies are:,SANDREALISTIC,PA,Northeast,Middle Atlantic,Realistic,51,30,69
+Bernie Sanders' policies are:,SANDREALISTIC,PA,Northeast,Middle Atlantic,Not realistic,44,84,15
+Feelings if Clinton is elected president:,CLINTONWIN,PA,Northeast,Middle Atlantic,Excited,22,95,5
+Feelings if Clinton is elected president:,CLINTONWIN,PA,Northeast,Middle Atlantic,Optimistic,46,65,35
+Feelings if Clinton is elected president:,CLINTONWIN,PA,Northeast,Middle Atlantic,Concerned,19,13,85
+Feelings if Clinton is elected president:,CLINTONWIN,PA,Northeast,Middle Atlantic,Scared,11,N/A,N/A
+Feelings if Clinton is elected president:,CLINTONWIN2,PA,Northeast,Middle Atlantic,Excited/Optimistic,69,75,25
+Feelings if Clinton is elected president:,CLINTONWIN2,PA,Northeast,Middle Atlantic,Concerned/Scared,30,10,88
+Feelings if Sanders is elected president:,SANDERSWIN,PA,Northeast,Middle Atlantic,Excited,28,11,89
+Feelings if Sanders is elected president:,SANDERSWIN,PA,Northeast,Middle Atlantic,Optimistic,37,56,43
+Feelings if Sanders is elected president:,SANDERSWIN,PA,Northeast,Middle Atlantic,Concerned,23,89,11
+Feelings if Sanders is elected president:,SANDERSWIN,PA,Northeast,Middle Atlantic,Scared,8,N/A,N/A
+Feelings if Sanders is elected president:,SANDERSWIN2,PA,Northeast,Middle Atlantic,Excited/Optimistic,65,37,63
+Feelings if Sanders is elected president:,SANDERSWIN2,PA,Northeast,Middle Atlantic,Concerned/Scared,32,90,9
+"If Clinton is the Democratic nominee, would you:",VOTENOVCLINTON,PA,Northeast,Middle Atlantic,Not vote for her,15,8,89
+"If Clinton is the Democratic nominee, would you:",VOTENOVCLINTON,PA,Northeast,Middle Atlantic,Probably vote for her,23,37,62
+"If Clinton is the Democratic nominee, would you:",VOTENOVCLINTON,PA,Northeast,Middle Atlantic,Definitely vote for her,61,73,27
+"If Sanders is the Democratic nominee, would you:",VOTENOVSANDERS,PA,Northeast,Middle Atlantic,Not vote for him,19,84,12
+"If Sanders is the Democratic nominee, would you:",VOTENOVSANDERS,PA,Northeast,Middle Atlantic,Probably vote for him,24,71,29
+"If Sanders is the Democratic nominee, would you:",VOTENOVSANDERS,PA,Northeast,Middle Atlantic,Definitely vote for him,54,38,62
+Who is more inspiring about the country's future?,INSPIRES16D,PA,Northeast,Middle Atlantic,Clinton,50,97,2
+Who is more inspiring about the country's future?,INSPIRES16D,PA,Northeast,Middle Atlantic,Sanders,47,11,88
+Better chance to defeat Trump in November?,BEATTRUMP16,PA,Northeast,Middle Atlantic,Clinton,65,82,18
+Better chance to defeat Trump in November?,BEATTRUMP16,PA,Northeast,Middle Atlantic,Sanders,31,3,97
+Who do you think will be the Democratic nominee?,WINNOMDEM16,PA,Northeast,Middle Atlantic,Clinton,76,70,29
+Who do you think will be the Democratic nominee?,WINNOMDEM16,PA,Northeast,Middle Atlantic,Sanders,21,4,94
+Who would make the best commander in chief?,CICDEM16,PA,Northeast,Middle Atlantic,Clinton,57,93,7
+Who would make the best commander in chief?,CICDEM16,PA,Northeast,Middle Atlantic,Sanders,39,2,97
+Has the Democratic campaign mostly:,PARTYUNITYDEM,PA,Northeast,Middle Atlantic,Energized the Party,69,63,37
+Has the Democratic campaign mostly:,PARTYUNITYDEM,PA,Northeast,Middle Atlantic,Divided the Party,26,35,62
+When did you decide whom to vote for?,TIMENH16,PA,Northeast,Middle Atlantic,Just today,10,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,PA,Northeast,Middle Atlantic,In the last few days,10,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,PA,Northeast,Middle Atlantic,Sometime last week,3,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,PA,Northeast,Middle Atlantic,In the last month,16,46,52
+When did you decide whom to vote for?,TIMENH16,PA,Northeast,Middle Atlantic,Before that,60,58,42
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,PA,Northeast,Middle Atlantic,Last few days,20,56,42
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,PA,Northeast,Middle Atlantic,Earlier,79,55,44
+When did you decide whom to vote for?,TIMEPRIWK,PA,Northeast,Middle Atlantic,In the last week,24,55,44
+When did you decide whom to vote for?,TIMEPRIWK,PA,Northeast,Middle Atlantic,Earlier,76,55,44
+Area type,SIZEPLC3,PA,Northeast,Middle Atlantic,Urban area,48,57,43
+Area type,SIZEPLC3,PA,Northeast,Middle Atlantic,Suburban area,31,59,41
+Area type,SIZEPLC3,PA,Northeast,Middle Atlantic,Rural area,21,48,50
+Region,GEOCOD,PA,Northeast,Middle Atlantic,Philadelphia,21,63,37
+Region,GEOCOD,PA,Northeast,Middle Atlantic,Philadelphia suburbs,20,58,42
+Region,GEOCOD,PA,Northeast,Middle Atlantic,Northeast,15,51,48
+Region,GEOCOD,PA,Northeast,Middle Atlantic,Central,15,49,50
+Region,GEOCOD,PA,Northeast,Middle Atlantic,West,28,54,45

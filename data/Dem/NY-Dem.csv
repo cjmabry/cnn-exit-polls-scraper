@@ -1,0 +1,154 @@
+question,pollname,state,region,subregion,answer,percent,clinton,sanders
+Gender,SEX,NY,Northeast,Middle Atlantic,Men,41,50,50
+Gender,SEX,NY,Northeast,Middle Atlantic,Women,59,63,37
+Age,AGE,NY,Northeast,Middle Atlantic,18-29,18,35,65
+Age,AGE,NY,Northeast,Middle Atlantic,30-44,24,53,47
+Age,AGE,NY,Northeast,Middle Atlantic,45-64,39,63,37
+Age,AGE,NY,Northeast,Middle Atlantic,65 and older,19,73,27
+Age,AGE65,NY,Northeast,Middle Atlantic,18-24,7,19,81
+Age,AGE65,NY,Northeast,Middle Atlantic,25-29,10,47,53
+Age,AGE65,NY,Northeast,Middle Atlantic,30-39,18,52,48
+Age,AGE65,NY,Northeast,Middle Atlantic,40-49,13,59,41
+Age,AGE65,NY,Northeast,Middle Atlantic,50-64,32,63,37
+Age,AGE65,NY,Northeast,Middle Atlantic,65 and older,19,73,27
+Age,AGE45,NY,Northeast,Middle Atlantic,18-44,41,45,55
+Age,AGE45,NY,Northeast,Middle Atlantic,45 and older,59,66,34
+Race,RACE,NY,Northeast,Middle Atlantic,White,59,50,50
+Race,RACE,NY,Northeast,Middle Atlantic,Black,22,75,25
+Race,RACE,NY,Northeast,Middle Atlantic,Latino,14,64,36
+Race,RACE,NY,Northeast,Middle Atlantic,Asian,2,N/A,N/A
+Race,RACE,NY,Northeast,Middle Atlantic,Other race,3,N/A,N/A
+Race,RACE2B,NY,Northeast,Middle Atlantic,White,59,50,50
+Race,RACE2B,NY,Northeast,Middle Atlantic,Non-white,41,68,32
+Race by gender,SEXBYRACE,NY,Northeast,Middle Atlantic,White men,25,43,57
+Race by gender,SEXBYRACE,NY,Northeast,Middle Atlantic,White women,34,56,44
+Race by gender,SEXBYRACE,NY,Northeast,Middle Atlantic,Black men,8,67,33
+Race by gender,SEXBYRACE,NY,Northeast,Middle Atlantic,Black women,14,79,21
+Race by gender,SEXBYRACE,NY,Northeast,Middle Atlantic,Latino men,6,N/A,N/A
+Race by gender,SEXBYRACE,NY,Northeast,Middle Atlantic,Latino women,8,67,33
+Race by gender,SEXBYRACE,NY,Northeast,Middle Atlantic,Others,5,N/A,N/A
+Education,EDUC12R,NY,Northeast,Middle Atlantic,High school or less,15,71,29
+Education,EDUC12R,NY,Northeast,Middle Atlantic,Some college,27,52,48
+Education,EDUC12R,NY,Northeast,Middle Atlantic,College graduate,32,55,45
+Education,EDUC12R,NY,Northeast,Middle Atlantic,Postgraduate,26,58,42
+Are you a college graduate?,EDUCCOLL,NY,Northeast,Middle Atlantic,Yes,58,56,44
+Are you a college graduate?,EDUCCOLL,NY,Northeast,Middle Atlantic,No,42,58,42
+Education and race,EDUCWHITE,NY,Northeast,Middle Atlantic,White college graduates,40,53,47
+Education and race,EDUCWHITE,NY,Northeast,Middle Atlantic,Whites no degree,20,45,55
+Education and race,EDUCWHITE,NY,Northeast,Middle Atlantic,Non-whites college grads,18,64,36
+Education and race,EDUCWHITE,NY,Northeast,Middle Atlantic,Non-whites no degree,22,71,29
+Income,INCOME16,NY,Northeast,Middle Atlantic,Less than $30K,19,60,40
+Income,INCOME16,NY,Northeast,Middle Atlantic,$30K-50K,20,57,43
+Income,INCOME16,NY,Northeast,Middle Atlantic,$50K-100K,31,54,46
+Income,INCOME16,NY,Northeast,Middle Atlantic,$100K-200K,23,55,45
+Income,INCOME16,NY,Northeast,Middle Atlantic,$200K or more,7,N/A,N/A
+Income,INC50K,NY,Northeast,Middle Atlantic,Under $50K,39,58,42
+Income,INC50K,NY,Northeast,Middle Atlantic,$50K or more,61,57,43
+Income,INC100K,NY,Northeast,Middle Atlantic,Under $100K,70,57,43
+Income,INC100K,NY,Northeast,Middle Atlantic,$100K or more,30,59,41
+Income,INCOME3,NY,Northeast,Middle Atlantic,Under $50K,39,58,42
+Income,INCOME3,NY,Northeast,Middle Atlantic,$50K-$100K,31,54,46
+Income,INCOME3,NY,Northeast,Middle Atlantic,$100K or more,30,59,41
+Party ID,PARTY,NY,Northeast,Middle Atlantic,Democrats,83,62,38
+Party ID,PARTY,NY,Northeast,Middle Atlantic,Republicans,3,N/A,N/A
+Party ID,PARTY,NY,Northeast,Middle Atlantic,Independents,14,28,72
+Ideology,PHIL4,NY,Northeast,Middle Atlantic,Very liberal,29,44,56
+Ideology,PHIL4,NY,Northeast,Middle Atlantic,Somewhat liberal,37,59,41
+Ideology,PHIL4,NY,Northeast,Middle Atlantic,Moderate,29,67,33
+Ideology,PHIL4,NY,Northeast,Middle Atlantic,Conservative,5,N/A,N/A
+Ideology,PHIL3X,NY,Northeast,Middle Atlantic,Liberal,66,52,48
+Ideology,PHIL3X,NY,Northeast,Middle Atlantic,Moderate,29,67,33
+Ideology,PHIL3X,NY,Northeast,Middle Atlantic,Conservative,5,N/A,N/A
+Ideology ,PHIL2D,NY,Northeast,Middle Atlantic,Liberal,66,52,48
+Ideology ,PHIL2D,NY,Northeast,Middle Atlantic,Moderate/Conservative,34,66,34
+Union household?,UNIONHH12,NY,Northeast,Middle Atlantic,Yes,35,58,42
+Union household?,UNIONHH12,NY,Northeast,Middle Atlantic,No,65,57,43
+Marital status,MARRIED,NY,Northeast,Middle Atlantic,Married,52,63,37
+Marital status,MARRIED,NY,Northeast,Middle Atlantic,Unmarried,48,51,49
+Marital status and gender,SEXWED,NY,Northeast,Middle Atlantic,Married men,23,55,45
+Marital status and gender,SEXWED,NY,Northeast,Middle Atlantic,Married women,28,69,31
+Marital status and gender,SEXWED,NY,Northeast,Middle Atlantic,Unmarried men,18,36,64
+Marital status and gender,SEXWED,NY,Northeast,Middle Atlantic,Unmarried women,31,59,41
+"Religion, combined Protestant and other Christian",REL5,NY,Northeast,Middle Atlantic,Protestant,29,65,35
+"Religion, combined Protestant and other Christian",REL5,NY,Northeast,Middle Atlantic,Catholic,26,62,38
+"Religion, combined Protestant and other Christian",REL5,NY,Northeast,Middle Atlantic,Jewish,12,N/A,N/A
+"Religion, combined Protestant and other Christian",REL5,NY,Northeast,Middle Atlantic,Another religion,9,N/A,N/A
+"Religion, combined Protestant and other Christian",REL5,NY,Northeast,Middle Atlantic,No religion,25,43,57
+Most important issue,ISSDEM16,NY,Northeast,Middle Atlantic,Health care,18,62,38
+Most important issue,ISSDEM16,NY,Northeast,Middle Atlantic,Economy/Jobs,38,61,39
+Most important issue,ISSDEM16,NY,Northeast,Middle Atlantic,Terrorism,15,68,32
+Most important issue,ISSDEM16,NY,Northeast,Middle Atlantic,Income inequality,26,44,56
+Top candidate quality,QLT16DEMPRI,NY,Northeast,Middle Atlantic,Electability,12,85,15
+Top candidate quality,QLT16DEMPRI,NY,Northeast,Middle Atlantic,Cares,25,37,63
+Top candidate quality,QLT16DEMPRI,NY,Northeast,Middle Atlantic,Honest,26,20,80
+Top candidate quality,QLT16DEMPRI,NY,Northeast,Middle Atlantic,Experience,34,91,9
+Who would better handle gun policy?,GUNPLCYDEM16NY,NY,Northeast,Middle Atlantic,Clinton,60,90,10
+Who would better handle gun policy?,GUNPLCYDEM16NY,NY,Northeast,Middle Atlantic,Sanders,36,7,93
+The next president should:,OBAMAPLCY,NY,Northeast,Middle Atlantic,Continue Obama's policies,52,75,25
+The next president should:,OBAMAPLCY,NY,Northeast,Middle Atlantic,Be more liberal,32,33,67
+The next president should:,OBAMAPLCY,NY,Northeast,Middle Atlantic,Be less liberal,11,N/A,N/A
+Race relations in this country have:,RACEREL14,NY,Northeast,Middle Atlantic,Gotten better,13,N/A,N/A
+Race relations in this country have:,RACEREL14,NY,Northeast,Middle Atlantic,Stayed the same,37,62,38
+Race relations in this country have:,RACEREL14,NY,Northeast,Middle Atlantic,Gotten worse,48,52,48
+Who ran the more unfair campaign?,UNFAIRDEM16NY,NY,Northeast,Middle Atlantic,Clinton,46,25,75
+Who ran the more unfair campaign?,UNFAIRDEM16NY,NY,Northeast,Middle Atlantic,Sanders,34,93,7
+Trade with other countries:,TRADE16,NY,Northeast,Middle Atlantic,Creates U.S. jobs,43,61,39
+Trade with other countries:,TRADE16,NY,Northeast,Middle Atlantic,Takes away U.S. jobs,37,48,52
+Trade with other countries:,TRADE16,NY,Northeast,Middle Atlantic,Does not affect jobs,13,N/A,N/A
+Does Wall Street do more to:,WALLST16,NY,Northeast,Middle Atlantic,Help the economy,30,79,21
+Does Wall Street do more to:,WALLST16,NY,Northeast,Middle Atlantic,Hurt the economy,63,46,54
+Worried about U.S. economy?,ECONWORR,NY,Northeast,Middle Atlantic,Very worried,47,46,54
+Worried about U.S. economy?,ECONWORR,NY,Northeast,Middle Atlantic,Somewhat worried,40,64,36
+Worried about U.S. economy?,ECONWORR,NY,Northeast,Middle Atlantic,Not too worried,10,N/A,N/A
+Worried about U.S. economy?,ECONWORR,NY,Northeast,Middle Atlantic,Not at all worried,2,N/A,N/A
+Worried about U.S. economy?,ECOWORR2,NY,Northeast,Middle Atlantic,Yes,87,55,45
+Worried about U.S. economy?,ECOWORR2,NY,Northeast,Middle Atlantic,No,13,N/A,N/A
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,NY,Northeast,Middle Atlantic,Yes,60,82,18
+Is Hillary Clinton honest and trustworthy?,CLINHONEST,NY,Northeast,Middle Atlantic,No,36,16,84
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,NY,Northeast,Middle Atlantic,Yes,81,50,50
+Is Bernie Sanders honest and trustworthy?,SANDHONEST,NY,Northeast,Middle Atlantic,No,14,N/A,N/A
+Feelings if Clinton is elected president:,CLINTONWIN,NY,Northeast,Middle Atlantic,Excited,23,94,6
+Feelings if Clinton is elected president:,CLINTONWIN,NY,Northeast,Middle Atlantic,Optimistic,43,70,30
+Feelings if Clinton is elected president:,CLINTONWIN,NY,Northeast,Middle Atlantic,Concerned,25,19,81
+Feelings if Clinton is elected president:,CLINTONWIN,NY,Northeast,Middle Atlantic,Scared,8,N/A,N/A
+Feelings if Clinton is elected president:,CLINTONWIN2,NY,Northeast,Middle Atlantic,Excited/Optimistic,66,78,22
+Feelings if Clinton is elected president:,CLINTONWIN2,NY,Northeast,Middle Atlantic,Concerned/Scared,32,15,85
+Feelings if Sanders is elected president:,SANDERSWIN,NY,Northeast,Middle Atlantic,Excited,23,16,84
+Feelings if Sanders is elected president:,SANDERSWIN,NY,Northeast,Middle Atlantic,Optimistic,35,45,55
+Feelings if Sanders is elected president:,SANDERSWIN,NY,Northeast,Middle Atlantic,Concerned,28,91,9
+Feelings if Sanders is elected president:,SANDERSWIN,NY,Northeast,Middle Atlantic,Scared,11,N/A,N/A
+Feelings if Sanders is elected president:,SANDERSWIN2,NY,Northeast,Middle Atlantic,Excited/Optimistic,58,34,66
+Feelings if Sanders is elected president:,SANDERSWIN2,NY,Northeast,Middle Atlantic,Concerned/Scared,39,91,9
+"If Clinton is the Democratic nominee, would you:",VOTENOVCLINTON,NY,Northeast,Middle Atlantic,Not vote for her,14,13,87
+"If Clinton is the Democratic nominee, would you:",VOTENOVCLINTON,NY,Northeast,Middle Atlantic,Probably vote for her,20,32,68
+"If Clinton is the Democratic nominee, would you:",VOTENOVCLINTON,NY,Northeast,Middle Atlantic,Definitely vote for her,65,76,24
+"If Sanders is the Democratic nominee, would you:",VOTENOVSANDERS,NY,Northeast,Middle Atlantic,Not vote for him,19,92,8
+"If Sanders is the Democratic nominee, would you:",VOTENOVSANDERS,NY,Northeast,Middle Atlantic,Probably vote for him,22,77,23
+"If Sanders is the Democratic nominee, would you:",VOTENOVSANDERS,NY,Northeast,Middle Atlantic,Definitely vote for him,57,38,62
+Who is more inspiring about the country's future?,INSPIRES16D,NY,Northeast,Middle Atlantic,Clinton,53,98,2
+Who is more inspiring about the country's future?,INSPIRES16D,NY,Northeast,Middle Atlantic,Sanders,45,9,91
+Better chance to defeat Trump in November?,BEATTRUMP16,NY,Northeast,Middle Atlantic,Clinton,65,83,17
+Better chance to defeat Trump in November?,BEATTRUMP16,NY,Northeast,Middle Atlantic,Sanders,31,5,95
+Who do you think will be the Democratic nominee?,WINNOMDEM16,NY,Northeast,Middle Atlantic,Clinton,73,76,24
+Who do you think will be the Democratic nominee?,WINNOMDEM16,NY,Northeast,Middle Atlantic,Sanders,25,6,94
+Who would make the best commander in chief?,CICDEM16,NY,Northeast,Middle Atlantic,Clinton,59,93,7
+Who would make the best commander in chief?,CICDEM16,NY,Northeast,Middle Atlantic,Sanders,38,3,97
+Has the Democratic campaign mostly:,PARTYUNITYDEM,NY,Northeast,Middle Atlantic,Energized the Party,66,61,39
+Has the Democratic campaign mostly:,PARTYUNITYDEM,NY,Northeast,Middle Atlantic,Divided the Party,30,49,51
+When did you decide whom to vote for?,TIMENH16,NY,Northeast,Middle Atlantic,Just today,10,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,NY,Northeast,Middle Atlantic,In the last few days,8,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,NY,Northeast,Middle Atlantic,Sometime last week,5,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,NY,Northeast,Middle Atlantic,In the last month,12,N/A,N/A
+When did you decide whom to vote for?,TIMENH16,NY,Northeast,Middle Atlantic,Before that,64,58,42
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,NY,Northeast,Middle Atlantic,Last few days,18,56,44
+When did you decide whom to vote for?,TIMEPRIFEWDAYS,NY,Northeast,Middle Atlantic,Earlier,82,58,42
+When did you decide whom to vote for?,TIMEPRIWK,NY,Northeast,Middle Atlantic,In the last week,23,57,43
+When did you decide whom to vote for?,TIMEPRIWK,NY,Northeast,Middle Atlantic,Earlier,76,58,42
+Area type,SIZEPLC3,NY,Northeast,Middle Atlantic,Urban area,64,62,38
+Area type,SIZEPLC3,NY,Northeast,Middle Atlantic,Suburban area,31,51,49
+Area type,SIZEPLC3,NY,Northeast,Middle Atlantic,Rural area,6,N/A,N/A
+Region,GEOCOD,NY,Northeast,Middle Atlantic,New York City,52,63,37
+Region,GEOCOD,NY,Northeast,Middle Atlantic,Long Island,9,58,42
+Region,GEOCOD,NY,Northeast,Middle Atlantic,Hudson Valley,16,56,44
+Region,GEOCOD,NY,Northeast,Middle Atlantic,Urban Upstate,14,50,50
+Region,GEOCOD,NY,Northeast,Middle Atlantic,Rural Upstate,9,42,58

@@ -38,7 +38,7 @@ Income,INCOME16,NH,Northeast,New England,$50K-100K,33,35,64
 Income,INCOME16,NH,Northeast,New England,$100K-200K,27,44,55
 Income,INCOME16,NH,Northeast,New England,$200K or more,8,53,46
 Income,INC50K,NH,Northeast,New England,Under $50K,31,32,65
-Income,INC50K,NH,Northeast,New England,$50K or More,69,41,58
+Income,INC50K,NH,Northeast,New England,$50K or more,69,41,58
 Income,INC100K,NH,Northeast,New England,Under $100K,65,34,65
 Income,INC100K,NH,Northeast,New England,$100K or more,35,46,53
 Income,INCOME3,NH,Northeast,New England,Under $50K,31,32,65
